@@ -12,7 +12,18 @@ urls = [
           'https://www.unasus.gov.br/',
           'https://unbciencia.unb.br/',
           'https://pt.wikipedia.org/wiki/COVID-19',
-          'https://pt.wikipedia.org/wiki/Coronav%C3%ADrus'
+          'https://pt.wikipedia.org/wiki/Coronav%C3%ADrus',
+          # Links do Caio
+          'https://pt.wikipedia.org/wiki/Matrix',
+          'https://pt.wikipedia.org/wiki/Star_Wars',
+          'https://pt.wikipedia.org/wiki/Indiana_Jones',
+          'https://pt.wikipedia.org/wiki/Back_to_the_Future',
+          'https://pt.wikipedia.org/wiki/The_Terminator',
+          'https://pt.wikipedia.org/wiki/O_Senhor_dos_An%C3%A9is',
+          'https://pt.wikipedia.org/wiki/Harry_Potter',
+          'https://pt.wikipedia.org/wiki/The_Shining',
+          'https://pt.wikipedia.org/wiki/The_Dark_Knight',
+          'https://pt.wikipedia.org/wiki/It_(2017)'
        ]
 
 # Abrir arquivo
