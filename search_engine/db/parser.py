@@ -24,6 +24,17 @@ urls = [
           'https://pt.wikipedia.org/wiki/The_Shining',
           'https://pt.wikipedia.org/wiki/The_Dark_Knight',
           'https://pt.wikipedia.org/wiki/It_(2017)'
+					# Links da Bebé
+					'https://www.tencent.com/en-us',
+					'https://www.samsung.com/br/',
+					'https://www.cisco.com/c/pt_br/about.html',
+					'https://www.microsoft.com/pt-br/',
+					'https://corporate.delltechnologies.com/en-us/about-us/who-we-are.htm',
+					'https://www.apple.com/br/',
+					'https://www.intel.com/content/www/us/en/homepage.html',
+					'https://abc.xyz/',
+					'https://www.ibm.com/br-pt',
+					'https://www.oracle.com/br/index.html'
        ]
 
 # Abrir arquivo
