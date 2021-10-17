@@ -23,7 +23,7 @@ urls = [
           'https://pt.wikipedia.org/wiki/Harry_Potter',
           'https://pt.wikipedia.org/wiki/The_Shining',
           'https://pt.wikipedia.org/wiki/The_Dark_Knight',
-          'https://pt.wikipedia.org/wiki/It_(2017)'
+          'https://pt.wikipedia.org/wiki/It_(2017)',
 					# Links da Bebé
 					'https://www.tencent.com/en-us',
 					'https://www.samsung.com/br/',
@@ -34,7 +34,18 @@ urls = [
 					'https://www.intel.com/content/www/us/en/homepage.html',
 					'https://abc.xyz/',
 					'https://www.ibm.com/br-pt',
-					'https://www.oracle.com/br/index.html'
+					'https://www.oracle.com/br/index.html',
+          # Links da Alice
+          'https://pt.wikipedia.org/wiki/Bororos',
+          'https://pt.wikipedia.org/wiki/Tupiniquins',
+          'https://pt.wikipedia.org/wiki/Caingangues',
+          'https://pt.wikipedia.org/wiki/Ianom%C3%A2mis',
+          'https://pt.wikipedia.org/wiki/Guaranis',
+          'https://pt.wikipedia.org/wiki/Charruas',
+          'https://pt.wikipedia.org/wiki/Tupinamb%C3%A1s',
+          'https://pt.wikipedia.org/wiki/Caiap%C3%B3s',
+          'https://pt.wikipedia.org/wiki/Guat%C3%B3s',
+          'https://pt.wikipedia.org/wiki/Ticunas',
        ]
 
 # Abrir arquivo
