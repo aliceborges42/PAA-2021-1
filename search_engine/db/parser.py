@@ -46,6 +46,17 @@ urls = [
           'https://pt.wikipedia.org/wiki/Caiap%C3%B3s',
           'https://pt.wikipedia.org/wiki/Guat%C3%B3s',
           'https://pt.wikipedia.org/wiki/Ticunas',
+          # Links do Bruno
+          'https://pt.wikipedia.org/wiki/Esporte_no_Brasil',
+          'https://pt.wikipedia.org/wiki/Voleibol',
+          'https://pt.wikipedia.org/wiki/Basquetebol',
+          'https://pt.wikipedia.org/wiki/Voleibol_de_praia',
+          'https://pt.wikipedia.org/wiki/Basquetebol_em_cadeira_de_rodas',
+          'https://pt.wikipedia.org/wiki/Voleibol_do_Brasil',
+          'https://pt.wikipedia.org/wiki/Futebol',
+          'https://pt.wikipedia.org/wiki/Futebol_feminino',
+          'https://pt.wikipedia.org/wiki/Futebol_nos_Jogos_Ol%C3%ADmpicos',
+          'https://pt.wikipedia.org/wiki/Federa%C3%A7%C3%A3o_Internacional_de_Futebol'
        ]
 
 # Abrir arquivo
