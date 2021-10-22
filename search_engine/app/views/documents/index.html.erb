@@ -10,6 +10,9 @@
 
 <ul>
   <% @documents.each do |document| %>
-      <li><%= link_to document.title, document.url, target: :_blank %></li><br>
+      <li><%= link_to document.title, document.url, target: :_blank %></li>
+      <% if document.body.index(params[:q][:title_or_body_cont]) != nil %>
+        <p><%= document.body[document.body.index(params[:q][:title_or_body_cont]), 100] %></p>
+      <% end %>
   <% end %>
 <ul>

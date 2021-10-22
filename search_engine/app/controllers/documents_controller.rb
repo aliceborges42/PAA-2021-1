@@ -3,7 +3,7 @@ class DocumentsController < ApplicationController
 
   # GET /documents or /documents.json
   def index
-    @q = Document.ransack(params[:q].try(:merge, m: 'or'))
+    @q = Document.ransack(params[:q])
     @documents = @q.result(distinct: true)
   end
 
