@@ -3,7 +3,7 @@ class DocumentsController < ApplicationController
 
   # GET /documents or /documents.json
   def index
-    @q = Document.ransack(params[:q])
+    @q = Document.ransack(params[:q].try(:merge, m: 'or'))
     @documents = @q.result(distinct: true)
   end
 
@@ -65,6 +65,6 @@ class DocumentsController < ApplicationController
 
     # Only allow a list of trusted parameters through.
     def document_params
-      params.require(:document).permit(:url, :title, :body, :search)
+      params.require(:document).permit(:url, :title, :body, :search, :q, :title_or_body_cont, :m)
     end
 end

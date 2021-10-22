@@ -29,7 +29,7 @@ Maria Eduarda Angeli*
 21/10/2021
 Veículo contribui para a democratização do acesso ao conhecimento científico e está disponível para leitura ou download gratuitamente pela internet
 QUALIDADE
-UnB ocupa 7ª posição entre federais, aponta ranking THE
+UnB ocupa sétima posição entre federais, aponta ranking THE
 Palavras-chave
 excelência
 ranking
@@ -168,12 +168,12 @@ Pedidos LAI Covid-19 ⯈
 2020
 x
 Casos Registrados no DF
-atualizado em 20/10/2021 às 19h08
-512.089
+atualizado em 21/10/2021 às 19h09
+512510
 CONFIRMADOS
-495.826
+496.627
 RECUPERADOS
-10.745
+10.756
 ÓBITOS
 PAINEL COVID-19 DF
 RESUMO EXECUTIVO COVID-19
@@ -390,8 +390,8 @@ Avaliações positivas
 Mais Indicadores
 Infraestrutura
 Governo Federal entrega duplicação da rodovia BR-050
-Exportação
-Governo avança na digitalização de serviços para impulsionar exportações de pequenos negócios
+PREVENÇÃO
+Governo Federal lança Plano Nacional Pelo Fim da Tuberculose
 NOVO ENSINO MÉDIO
 Programa Itinerários Formativos do MEC teve adesão de todos os 27 estados brasileiros
 DEFESA CIVIL
@@ -399,9 +399,9 @@ Governo Federal vai repassar R$ 20 milhões para combate a incêndios florestais
 CÂNCER
 Governo zera Imposto de Importação de medicamentos
 CAPACITAÇÃO
-MJ e Interpol oferece 90 cursos para os profissionais da área
-AGRICULTURA
-Campanha Brasileiros pelo Brasil leva alimentos a quem precisa
+Parceria oferece 90 cursos para os profissionais da área
+Ciência, Tecnologia e Inovações
+Programa para empreendimentos inovadores no país
 Últimas Notícias
 Você já conhece os APPs do Governo Federal?
 Conecte SUS
@@ -1014,10 +1014,10 @@ PLATAFORMA AROUCA
 Profissionais de Saúde do Brasil.
 ARES
 Acervo de Recursos Educacionais em Saúde.
-1.682.016
+1.682.233
 Usuários cadastrados
 Acesso Único UNA-SUS
-1.682.016
+1.682.233
 Usuários cadastrados
 Acesso Único UNA-SUS
 18.776
@@ -1186,6 +1186,9 @@ Estudo conduzido em parceria da UnB mostra que 125 milhões de pessoas no país 
 Página 1 de 57
 1234...678910
 Artigos
+Adrián Albala
+22/10/2021
+Pela organização de primárias no Brasil
 Yara Helena de Carvalho Paiva
 21/10/2021
 Terapia ocupacional e o câncer de mama
@@ -1213,9 +1216,6 @@ A pandemia da covid-19 no Brasil: 600 mil vidas perdidas e milhões de pessoas a
 Aldo Paviani
 08/10/2021
 Quando a chuva chegar
-Pio Penna Filho
-06/10/2021
-O mundo pós-pandemia
 +
 Institucional
 História da UnBUnB em NúmerosConheça os campiComo chegarEstatuto e Regimento
@@ -4169,7 +4169,7 @@ Busca
 Links do usuário
 Criar uma conta
 Ferramentas pessoais
-expanded
+expandido
 collapsed
 Criar uma conta
 Entrar
@@ -4188,15 +4188,15 @@ Wikimedia CommonsWikiquote
 Espaços nominais
 ArtigoDiscussão
 Variantes
-expanded
+expandido
 collapsed
 Vistas
 LerEditarEditar código-fonteVer histórico
 Mais
-expanded
+expandido
 collapsed
 107 idiomas
-expanded
+expandido
 collapsed
 AfrikaansAlemannischAragonésÆngliscالعربيةAsturianuअवधीAzərbaycancaБеларускаяБеларуская (тарашкевіца)БългарскиবাংলাBrezhonegBosanskiCatalàکوردیČeštinaCymraegDanskDeutschZazakiΕλληνικάEnglishEsperantoEspañolEestiEuskaraفارسیSuomiFøroysktFrançaisNordfriiskFryskGaeilgeGàidhligGalego客家語/Hak-kâ-ngîעבריתहिन्दीHrvatskiMagyarՀայերենInterlinguaBahasa IndonesiaÍslenskaItaliano日本語JawaქართულიҚазақшаಕನ್ನಡ한국어RipoarischKurdîKernowekКыргызчаLatinaLëtzebuergeschLingua Franca NovaLadinLombardLietuviųLatviešuमैथिलीМакедонскиമലയാളംМонголमराठीBahasa Melayuမြန်မာဘာသာЭрзяньनेपालीNederlandsNorsk nynorskNorsk bokmålOccitanਪੰਜਾਬੀPolskiپنجابیRuna SimiRomânăРусскийSarduScotsSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaShqipСрпски / srpskiSvenskaKiswahiliதமிழ்తెలుగుไทยTürkmençeTürkçeУкраїнськаاردوOʻzbekcha/ўзбекчаTiếng ViệtWinaray吴语中文Bân-lâm-gú粵語
 Editar hiperligações
@@ -6133,3 +6133,10243 @@ Welcome to Tencent.com!
 We would like to use analytics cookies and other similar tracking technologies (“Cookies”) to help us improve our website. The Cookies collect information in a way that does not directly identify anyone. For more information about the Cookies we use and your options (including how to change your preferences), see our cookies policy here.
 Accept all analytics cookies
 Reject all analytics cookies');
+Document.create!(url: 'https://pt.wikipedia.org/wiki/Samsung', title: 'Samsung – Wikipédia, a enciclopédia livre', body: 'Samsung – Wikipédia, a enciclopédia livre
+Saltar para o conteúdo
+Alternar barra lateral
+Busca
+Links do usuário
+Criar uma conta
+Ferramentas pessoais
+expanded
+collapsed
+Criar uma conta
+Entrar
+Páginas para editores conectados saiba mais
+DiscussãoContribuições
+Navegação
+Página principalConteúdo destacadoEventos atuaisEsplanadaPágina aleatóriaPortaisInformar um erro
+Colaboração
+Boas-vindasAjudaPágina de testesPortal comunitárioMudanças recentesManutençãoCriar páginaPáginas novasContatoDonativos
+Ferramentas
+Páginas afluentesAlterações relacionadasCarregar ficheiroPáginas especiaisHiperligação permanenteInformações da páginaCitar esta páginaElemento Wikidata
+Imprimir/exportar
+Criar um livroDescarregar como PDFVersão para impressão
+Noutros projetos
+Wikimedia Commons
+Espaços nominais
+ArtigoDiscussão
+Variantes
+expanded
+collapsed
+Vistas
+LerEditarEditar código-fonteVer histórico
+Mais
+expanded
+collapsed
+43 idiomas
+expanded
+collapsed
+العربيةAsturianuAzərbaycancaتۆرکجهБеларуская (тарашкевіца)БългарскиDanskDeutschΕλληνικάEnglishEspañolEestiفارسیSuomiFrançaisעבריתहिन्दीHrvatskiMagyarBahasa IndonesiaItaliano日本語Қазақша한국어Bahasa Melayuမြန်မာဘာသာNederlandsPolskiRomânăРусскийSlovenčinaShqipதமிழ்TürkçeУкраїнськаاردوVènetoTiếng Việt吴语中文文言Bân-lâm-gú粵語
+Editar hiperligações
+Samsung
+Origem: Wikipédia, a enciclopédia livre.
+Nota: Este artigo é sobre a Samsung Electronics. Para o conglomerado de empresas da Samsung, veja Samsung Group.
+Esta página cita fontes, mas estas não cobrem todo o conteúdo. Ajude a inserir referências. Conteúdo não verificável poderá ser removido.—Encontre fontes: Google (notícias, livros e acadêmico)
+Samsung (삼성)
+Samsung Town na área Estação de Gangnam em Seul
+Razão social
+Samsung Electronics Company Limited
+Tipo
+Empresa de capital aberto
+Slogan
+Do What You Cant (em Inglês)
+Atividade
+Telefonia, Tecnologia
+Fundação
+1 de março de 1938 (83 anos)
+Fundador(es)
+Lee Byung-chul
+Sede
+Seul, Coreia do Sul Daegu
+Pessoas-chave
+Lee Byung-chul: Fundador Vago: Presidente e CEO
+Empregados
+308.745 (2019)[1]
+Produtos
+smartphones, TVs, câmeras fotográficas, CDs, DVDs, discos rígidos, drives óticas, Home Theaters, Impressoras, entre outros.
+Valor de mercado
+US$1,4 trilhão (2020)[1]
+Website oficial
+samsung.com
+Samsung Electronics Co., Ltd. (em coreano, 삼성전자 - Samsung Jeonja), ou simplesmente Samsung é uma corporação transnacional sul-coreana que atua em diversos ramos da área de tecnologia da informação com sede em Seul, Coreia do Sul.[2] Em 2020, o faturamento da Samsung foi de USD 1,4 trilhão,[3] correspondente a 20,7% do PIB da Coreia do Sul.[4]
+Foi a empresa que mais vendeu smartphones em 2018, com 292 milhões. Cerca de 8% a menos que o ano anterior.[5]
+Índice
+1 Samsung Entertainment
+2 Nome e logotipo
+2.1 Logotipo
+2.2 Logotipo em áudio
+3 Prêmios
+4 Controvérsia
+5 Ver também
+6 Referências
+7 Ligações externas
+Samsung Entertainment[editar | editar código-fonte]
+Faz parte também do conglomerado a Samsung Entertainment que se dedica a produzir filmes no seu país de origem, como Shiri - Missão Impossível [en], em 1999, dirigido por Kang Je-gyu [en], que marcou a virada do cinema sul-coreano. Este viria a tornar-se um dos únicos três lucrativos do mundo. Shiri chegou a ter as maiores bilheterias no Japão e Hong Kong.[6]
+Nome e logotipo[editar | editar código-fonte]
+O nome da empresa significa três estrelas no idioma coreano. Isto porque o seu fundador desejava que os produtos fossem duradouros quanto as estrelas.[7]
+Logotipo[editar | editar código-fonte]
+Logotipo da Samsung Electronics, utilizado de 1969 a 1979
+Logotipo da Samsung Electronics, utilizado de 1980 a 1992
+Logotipo da Samsung Electronics, utilizado de 1993 a 2015
+Logotipo atual da Samsung Electronics desde 2015
+O design do logotipo atual da Samsung pretende enfatizar flexibilidade e simplicidade enquanto transmite uma imagem dinâmica e inovadora através da elipse, o símbolo do universo. As aberturas nas duas fronteiras da elipse onde as letras S e G se encontram pretendem ilustrar a mente aberta da empresa e o desejo de se comunicar com o mundo. A cor principal do logotipo é azul, cor que a companhia adotou por anos, simbolizando estabilidade, confiança e responsabilidade social corporativa.[8]
+Logotipo em áudio[editar | editar código-fonte]
+A Samsung tem um logotipo em áudio, que consiste das notas E♭, A♭, D♭, E♭. Esse logotipo foi produzido por Musikvergnuegen e composto por Walter Werzowa.[9]
+Prêmios[editar | editar código-fonte]
+Prêmio iBest 2020 - Top 3 pelo Júri Oficial e Vencedor pelo Júri Popular na categoria Informatica e Telefonia [10]
+Controvérsia[editar | editar código-fonte]
+Em 2016, o relatório da organização de direitos humanos, a Anistia Internacional, acusou a Sony, Apple, Samsung e outras empresas de trabalho escravo infantil. Mark Dummett, o pesquisador nas áreas de negócios e direitos humanos da Anistia declarou: Companhias cujo lucro global é de US$ 125 bilhões não podem realmente alegar incapacidade de verificar de onde vêm suas matérias-primas essenciais.[11]
+Ver também[editar | editar código-fonte]
+Samsung Group
+Multinacionais
+Transnacionais
+Samsung Galaxy
+Referências
+↑ a b «Samsung Electronics on the Forbes Top Regarded Companies List». Forbes. Consultado em 24 de setembro de 2019
+↑ «Samsung Electronics comemora seu 50º aniversário». Samsung Newsroom Brasil. 1 de novembro de 2019. Consultado em 16 de janeiro de 2020
+↑ «Samsung Consolidated statements of income» (PDF) (em inglês). Samsung. Março de 2020. Consultado em 01 de agosto de 2020  Verifique data em: |acessodata= (ajuda)
+↑ «South Korea GDP as of December 2019» (em inglês). Forbes. Consultado em 01 de agosto de 2020  Verifique data em: |acessodata= (ajuda)
+↑ «Samsung, Apple, Huawei e Xiaomi lideram venda de celulares em 2018». Tecnoblog. 1 de fevereiro de 2019. Consultado em 15 de agosto de 2019. Cópia arquivada em 22 de abril de 2019
+↑ Rafael Mirada (28 de julho de 2015). «7 coisas que a Samsung fabrica e você não sabia». Ultracurioso. Consultado em 10 de março de 2016
+↑ Veja a origem dos nomes de empresas - Samsung Portal BOL de Notícias
+(acessado em junho/2017)
+↑ «한국 10대 그룹 이름과 로고의 의미». Koreadaily. Consultado em 10 de julho de 2006
+↑ «Speaker». Audio Branding Academy
+↑ www.premioibest.com
+↑ «Relatório acusa Apple, Samsung e Sony de conivência com trabalho infantil». BBC. 19 de janeiro de 2016. Consultado em 13 de maio de 2017
+Ligações externas[editar | editar código-fonte]
+O Commons possui uma categoria com imagens e outros ficheiros sobre
+Samsung
+Página oficial da Samsung no Brasil
+Página oficial da Samsung em Portugal
+«Site oficial» (em coreano)
+vdeSamsungEletrônicos etecnologia da informação
+Samsung Electronics
+Samsung Electro-Mechanics
+Samsung SDI
+Samsung SDS
+Samsung Networks
+Samsung Techwin
+Samsung Display
+Samsung Digital Imaging
+Samsung Corning Precision Glass
+Serviços financeiros
+Samsung Life Insurance
+Samsung Fire & Marine Insurance
+Samsung Card
+Samsung Securities
+Samsung Investment Trust Management
+Samsung Venture Investment
+Máquinas, indústria pesadae químicos
+Samsung Heavy Industries
+Samsung Total
+Samsung Petrochemicals
+Samsung Fine Chemicals
+Samsung BP Chemicals
+Esportes
+Samsung Sports
+Suwon Samsung Bluewings
+Samsung Lions
+Seoul Samsung Thunders
+Yongin Samsung Life Blueminx
+Daejeon Samsung Fire Bluefangs
+Samsung Khan
+Samsung Training Center
+Outras
+Samsung C&T Corporation
+Samsung Engineering
+Samsung Economic Research Institute
+Cheil Industries
+Cheil Worldwide
+Everland
+Hotel Shilla
+S1 Corporation
+Samsung Medical Center
+Samsung Hub
+Samsung Town
+Categoria •
+Commons
+Navecaixas relacionadas à Samsung
+vdeMaiores empresas de computadores, servidores e mainframesReceita anual acima de US$ 3 bilhõesComputadorespessoais e servidores
+Acer
+Apple
+Asus
+Dell
+Fujitsu
+Huawei
+HP
+Lenovo
+LG Electronics
+Microsoft
+NEC
+Panasonic
+Razer
+Samsung
+Toshiba
+VAIO
+Apenas servidores
+Cisco Systems
+Hewlett Packard Enterprise
+IBM
+Inspur
+Oracle
+Mainframes
+Fujitsu
+Hewlett Packard Enterprise
+IBM
+Categoria
+vdeMaiores empresas de dispositivos móveisReceita anual acima de US$ 3 bilhões
+Acer
+Amazon
+Fire
+Apple
+Asus
+BBK Electronics
+Vivo
+Realme
+Google
+Pixel
+HTC
+HP
+Huawei
+Lenovo
+Motorola Mobility
+LG Electronics
+Microsoft Mobile
+HMD Global
+Nokia
+Panasonic
+Samsung
+Sony Mobile
+TCL
+Alcatel
+VAIO
+Xiaomi
+POCO
+Redmi
+ZTE
+Categoria
+vdeMaiores empresas de fotografia e imagensReceita anual acima de US$ 3 bilhões
+Apple
+Canon
+HP
+Fujifilm
+Hikvision
+Kodak
+Konica Minolta
+Kyocera
+Lexmark
+Nikon
+Olympus
+Oki
+Panasonic
+Ricoh
+Samsung
+Epson
+Sharp
+Sony
+Toshiba
+Xerox
+Categoria
+vdeMaiores empresas de armazenamento de dadosReceita anual acima de US$ 3 bilhões
+ADATA
+Amazon
+Apple
+Dell Technologies
+Dell EMC
+Fujitsu
+Google
+Hitachi Data Systems
+Hewlett Packard Enterprise
+IBM
+Kingston
+Kioxia
+LenovoEMC
+Microsoft
+NetApp
+Oracle
+Plextor
+Samsung
+Seagate Technology
+Silicon Power
+Sony
+Transcend Information
+Western Digital
+vdeMaiores empresas de pontos de vendaReceita anual acima de US$ 3 bilhões
+Casio
+NCR
+Panasonic
+Samsung
+Epson
+Sharp
+Star Micronics
+Toshiba
+Wincor Nixdorf
+vdeMaiores empresas de semicondutoresReceita anual acima de US$ 3 bilhões
+ASE Group
+Fujitsu
+Infineon Technologies
+Integrated Micro-Electronics
+Intel
+NXP Semiconductors
+Freescale Semiconductor
+ON Semiconductor
+Panasonic
+Renesas Electronics
+Samsung
+Sony
+STMicroelectronics
+Texas Instruments
+Sem fábrica
+Advanced Micro Devices
+Ampere Computing
+Apple
+Broadcom
+HiSilicon
+Marvell Technology Group
+MediaTek
+Nvidia
+Qualcomm
+VIA Technologies
+Memória
+Micron Technology
+Samsung
+SanDisk
+SK Hynix
+Toshiba
+Fundições
+GlobalFoundries
+TSMC
+United Microelectronics
+Samsung
+SMIC
+Equipamentos
+ASML
+Applied Materials
+KLA
+Lam Research
+Tokyo Electron
+Categoria
+vdeChaebolTop 10
+Samsung Group
+Hyundai Motor Group
+LG Group
+SK Group
+Lotte
+GS Group
+Hyundai Heavy Industries Group
+Kumho Asiana Group
+Hanjin
+Hanwha
+Outros
+Aju Group
+Amorepacific Group
+Netmarble
+CJ Group
+Daelim Group
+Daesang Group
+DB Group
+Dongkuk
+Doosan Group
+E-Land
+Eugene Group
+Halla Group
+Hankook Tire
+Hansol
+HiteJinro
+Hyosung
+Isu Group
+KCC Corporation
+Kiswel Group
+Kolon Group
+Booyoung
+Jungheung
+Kyobo Life Insurance Company
+LS Group
+Nexen
+Nongshim
+Orion
+Shinsegae
+SM Group
+KD Transporation Group
+Taekwang Group
+Hoban Group
+Extinto
+Saehan
+Hwashin
+Daewoo
+Controle de autoridade
+: Q20718
+WorldCat
+VIAF: 161005681
+GND: 4356504-9
+ISNI: ID
+LCCN: n85022222
+LEI: 9884007ER46L6N7EI764
+MusicBrainz: ID
+NLA: 35773549
+NLI: 002133503
+Portal da Coreia do Sul
+Portal de economia e negócios
+Portal da eletrônica
+Portal das empresas
+Obtida de https://pt.wikipedia.org/w/index.php?title=Samsung&oldid=62237587
+Categorias: SamsungMultinacionais da Coreia do SulTelefonia móvelEmpresas de eletroeletrônicos da Coreia do SulEmpresas de tecnologia da informação da Coreia do SulEmpresas fabricantes de telefones celularesEmpresas fundadas em 1936Categorias ocultas: !Páginas com erros CS1: datas!CS1 inglês-fontes em língua (en)!Artigos que carecem de notas de rodapé!Artigos que carecem de notas de rodapé sem indicação de tema!CS1 coreano-fontes em língua (ko)
+Esta página foi editada pela última vez às 11h32min de 14 de outubro de 2021.
+Este texto é disponibilizado nos termos da licença Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as condições de utilização.
+Política de privacidade
+Sobre a Wikipédia
+Avisos gerais
+Versão móvel
+Programadores
+Estatísticas
+Declaração sobre cookies');
+Document.create!(url: 'https://www.cisco.com/c/pt_br/about.html', title: 'Selecionar idioma', body: 'Sobre a Cisco - Cisco
+Pular Conteúdo Principal
+Seguir para a busca
+Pular Rodapé
+Cisco.com Brasil
+MENU
+FECHAR
+Produtos
+Suporte
+Parceiros
+Mais
+Busca
+Login
+Desconectar
+Selecionar idioma
+br
+pt
+Mais
+Login
+Desconectar
+Login
+Já tem uma conta?
+Conteúdo personalizado
+Produtos e suporte
+Login
+Esqueceu a sua senha?
+Sobre as contas da Cisco
+Ainda não tem uma conta?
+Criar conta
+Ajuda
+Selecionar idioma
+br
+pt
+Selecionar idioma
+Produtos
+Suporte
+Treinamentos e Eventos
+Comprar
+Parceiros
+Sobre a Cisco
+Entre a esperança e o possível, existe uma ponte.
+A tecnologia da Cisco está criando um novo universo em potencial.
+Saiba como
+Fatos e informações
+Nossos funcionários
+Equipe executiva
+Visão geral da empresa
+Assistir ao vídeo sobre a história da Cisco (2:40)
+Prêmios recebidos pela Cisco
+Negócios com o governo
+Relações com analistas do setor
+Centros de experiência do cliente
+Sedes da Cisco
+Solicitar uma chamada de Vendas
+Suporte técnico
+0800 891 4972
+08:00 - 17:00 horário local
+Entre em contato com a Cisco
+Carreiras
+Pronto para inciar sua carreira sendo parte da nossa transformação digital?
+Carreiras
+Buscar vagas de emprego
+Razões para escolher a Cisco
+Abordagem de qualidade
+Estudos de caso/histórias de clientes
+Opinião do especialista
+Central de pesquisas da Cisco
+O Gateway (rede do cliente)
+Relações com investidores
+Relatórios anuais
+Governança corporativa
+Serviços financeiros
+Informações sobre ações
+Tudo sobre relação com investidores
+Responsabilidade social corporativa (CSR)
+Nossas prioridades
+Acessibilidade
+Relatório anual de CSR
+Tudo sobre responsabilidade social corporativa (CSR)
+Fazendo negócios com a Cisco
+Aquisições
+Resiliência de negócios
+Brand Center
+Economia circular
+Desenvolvimento corporativo
+Country Digital Acceleration
+Jurídico
+Código aberto na Cisco
+Relatar comportamento antiético
+Centro de segurança
+Informações dos fornecedores
+Sustentabilidade da cadeia de fornecimento
+Devolução e reutilização
+Links relacionados
+Cisco Merchandise Store
+Cisco Press
+Comunidades de funcionários
+Inclusão e colaboração
+Aplicativos móveis
+Siga-nos
+Novidades e eventosSala de imprensaEventosBlogsComunidade
+Sobre a Cisco
+Sobre a Cisco
+Histórias de clientes
+Sobre a Cisco
+Histórias de clientes
+Relacionamento com investidores
+Responsabilidade social
+Sustentabilidade
+Central de confiança
+Voz do Cliente
+Fale Conosco
+Fale Conosco
+Entre em contato com a Cisco
+Conheça os nossos parceiros
+Localize um revendedor
+Trabalhe Conosco
+Carreiras
+We are Cisco
+Torne-se parceiro da Cisco
+Sites da Cisco
+Meraki
+O novo Webex
+Cisco Umbrella
+Contatos
+Feedback
+Ajuda
+Mapa do site
+Termos e condições
+Privacidade
+Declaração de privacidade
+Cookies
+Cookies
+Marcas comerciais');
+Document.create!(url: 'https://pt.wikipedia.org/wiki/Microsoft', title: 'Microsoft – Wikipédia, a enciclopédia livre', body: 'Microsoft – Wikipédia, a enciclopédia livre
+Saltar para o conteúdo
+Alternar barra lateral
+Busca
+Links do usuário
+Criar uma conta
+Ferramentas pessoais
+expanded
+collapsed
+Criar uma conta
+Entrar
+Páginas para editores conectados saiba mais
+DiscussãoContribuições
+Navegação
+Página principalConteúdo destacadoEventos atuaisEsplanadaPágina aleatóriaPortaisInformar um erro
+Colaboração
+Boas-vindasAjudaPágina de testesPortal comunitárioMudanças recentesManutençãoCriar páginaPáginas novasContatoDonativos
+Ferramentas
+Páginas afluentesAlterações relacionadasCarregar ficheiroPáginas especiaisHiperligação permanenteInformações da páginaCitar esta páginaElemento Wikidata
+Imprimir/exportar
+Criar um livroDescarregar como PDFVersão para impressão
+Noutros projetos
+Wikimedia CommonsWikinotíciasWikiquote
+Espaços nominais
+ArtigoDiscussão
+Variantes
+expanded
+collapsed
+Vistas
+LerEditarEditar código-fonteVer histórico
+Mais
+expanded
+collapsed
+149 idiomas
+expanded
+collapsed
+AfrikaansAlemannischአማርኛAragonésÆngliscالعربيةمصرىAsturianuAzərbaycancaتۆرکجهБашҡортсаBoarischБеларускаяБеларуская (тарашкевіца)БългарскиभोजपुरीবাংলাBrezhonegBosanskiCatalàMìng-dĕ̤ng-ngṳ̄کوردیČeštinaCymraegDanskDeutschZazakiދިވެހިބަސްΕλληνικάEnglishEsperantoEspañolEestiEuskaraEstremeñuفارسیSuomiVõroFrançaisFryskGaeilge贛語GalegoગુજરાતીHausa客家語/Hak-kâ-ngîעבריתहिन्दीHrvatskiKreyòl ayisyenMagyarՀայերենInterlinguaBahasa IndonesiaIlokanoIdoÍslenskaItaliano日本語La .lojban.JawaქართულიQaraqalpaqshaTaqbaylitGĩkũyũҚазақшаភាសាខ្មែរಕನ್ನಡ한국어KurdîКыргызчаLatinaLigureLombardLingálaລາວLietuviųLatviešuमैथिलीBasa BanyumasanМакедонскиമലയാളംМонголဘာသာ မန်मराठीBahasa MelayuMaltiမြန်မာဘာသာDorerin NaoeroPlattdüütschनेपालीनेपाल भाषाNederlandsNorsk nynorskNorsk bokmålߒߞߏOccitanଓଡ଼ିଆਪੰਜਾਬੀPolskiPiemontèisپنجابیپښتوRuna SimiRomânăРусскийРусиньскыйसंस्कृतम्Саха тылаᱥᱟᱱᱛᱟᱲᱤSicilianuScotsسنڌيSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaSoomaaligaShqipСрпски / srpskiSundaSvenskaKiswahiliŚlůnskiதமிழ்తెలుగుТоҷикӣไทยTürkmençeTagalogTürkçeТатарча/tatarçaئۇيغۇرچە / UyghurcheУкраїнськаاردوOʻzbekcha/ўзбекчаVènetoTiếng ViệtWalonWinaray吴语მარგალურიייִדישYorùbá中文文言Bân-lâm-gú粵語
+Editar hiperligações
+Microsoft
+Origem: Wikipédia, a enciclopédia livre.
+Coordenadas: 47° 38′ 19″ N, 122° 7′ 43″ W
+Microsoft
+Logotipo oficial
+Fotografia aérea da sede da empresa em Redmond, Washington, Estados Unidos.
+Razão social
+Microsoft Corporation
+Tipo
+Empresa de capital aberto
+Slogan
+We Innovate, You Turn[1]
+“A gente inova, você transforma”
+[2]
+Cotação
+NASDAQ: MSFTNASDAQ-100 ComponentDJIA ComponentS&P 100 ComponentS&P 500 Component
+Atividade
+Distribuição digital
+Eletrônicos de consumo
+Hardware
+Software
+Fundação
+4 de abril de 1975 (46 anos)
+Albuquerque, Novo México, Estados Unidos
+Fundador(es)
+Bill Gates e Paul Allen
+Sede
+One Microsoft Way
+Redmond, Washington, Estados Unidos
+Área(s) servida(s)
+Mundo
+Locais
+Centro Empresarial Nações Unidas
+Itaim Bibi, São Paulo, Brasil
+Presidente
+Brad Smith[3]
+Pessoas-chave
+Satya Nadella
+(diretor executivo)
+John W. Thompson
+(chairman)
+Ray Ozzie
+(arquiteto de software)
+Empregados
++ 166 000 (2020)
+Produtos
+Windows
+Office
+Servers
+Skype
+Visual Studio
+Dynamics
+Azure
+Xbox
+GitHub
+Surface
+Mobile
+mais...
+Certificação
+ISO/IEC 20000
+Valor de mercado
+US$ 412,5 bilhões (2014)[4]2016
+Lucro
+US$ 18,760 bilhões (2010)}[5]
+LAJIR
+US$ 24,098 bilhões (2010)[5]
+Faturamento
+US$ 62,484 bilhões (2010)[5]
+Renda líquida
+US$ 46.175 bilhões (2010)[6]
+Website oficial
+microsoft.com
+Microsoft Corporation (NASDAQ: MSFT)[7] é uma empresa transnacional dos Estados Unidos com sede em Redmond, Washington, que desenvolve, fabrica, licencia, apoia e vende softwares de computador, produtos eletrônicos, computadores e serviços pessoais. Entre seus produtos de software mais conhecidos estão as linhas de sistemas operacionais Windows, a rede social LinkedIn e Skype, a linha de aplicativos para escritório Office e o navegador Internet Explorer. Entre seus principais produtos de hardware estão os consoles de videogame Xbox, a série de tablets Surface e os Smartphones Microsoft Lumia, antiga Nokia.[8] É a maior produtora de softwares do mundo por faturamento,[9] e uma das empresas mais valiosas do mundo.[10]
+A Microsoft foi fundada por Bill Gates e Paul Allen em 4 de abril de 1975 para desenvolver e vender interpretadores BASIC para o Altair 8800. A empresa posteriormente iria dominar o mercado de sistemas operacionais de computadores pessoais com o MS-DOS, em meados da década de 1980, seguido pelo Microsoft Windows. A oferta pública inicial da empresa, em 1986, e o subsequente aumento no preço de suas ações, tornou bilionários e milionários cerca de um terço dos 12 mil funcionários da Microsoft. É considerada a terceira empresa startup de maior sucesso de todos os tempos em termos de capitalização de mercado, receita, crescimento e impacto cultural.[11] Desde os anos 1990, tem diversificado cada vez mais o mercado de sistemas operacionais e tem feito uma série de aquisições de empresas. Em maio de 2011, a Microsoft adquiriu a Skype Technologies por 8,5 bilhões de dólares em sua maior aquisição até aquela data,[12] em 2014 finalizou a compra da fabricante de celulares Nokia por 7,2 bilhões de dólares[13] e no mesmo ano anunciou também a aquisição da Mojang Studios por 2,5 bilhões de dólares,[14] em 2016 anunciou a sua maior aquisição adquirindo a LinkedIn por 26,2 bilhões de dólares,[15] em 2018 anunciou a compra da GitHub por 7,5 bilhões de dólares,[16] em 2020 anunciou a compra da ZeniMax Media por 7,5 bilhões de dólares para fortalecer os estúdios da Xbox[17] e em 2021 anunciou a compra da Nuance Communications por 19,7 bilhões de dólares com previsão para ser finalizado no último semestre de 2021 sendo a segunda maior aquisição da Microsoft atrás apenas da compra do LinkedIn.[18]
+Em 2014, a Microsoft é dominante tanto em sistemas operacionais IBM PCs compatíveis quanto em programas para escritório (este último com o Office). A empresa também produz uma grande variedade de outros softwares para desktops e servidores e é ativa em áreas como pesquisa na internet (com o Bing), indústria de videogames (com os consoles Xbox), mercado de serviços digitais (através do MSN e Skype), de telefones celulares (através da Nokia e do Windows Phone), de redes sociais (através do LinkedIn e Skype), de hospedagem de códigos (através do Github) e de softwares de reconhecimento de fala (através da Nuance Communications). Em junho de 2012, a Microsoft entrou pela primeira vez no mercado de produção de computadores pessoais, com o lançamento do Surface, uma linha de computadores e tablets.
+Índice
+1 História
+1.1 Fundação e primeiros anos
+1.2 Década de 1990
+1.3 Século XXI
+2 Concorrência
+3 Produtos
+3.1 Microsoft Mobile
+4 Países lusófonos
+4.1 Portugal
+5 Ver também
+6 Referências
+7 Ligações externas
+História[editar | editar código-fonte]
+Fundação e primeiros anos[editar | editar código-fonte]
+Bill Gates em 1977
+A Microsoft foi fundada em 1975 por Bill Gates e Paul Allen. O primeiro produto desenvolvido pela empresa foi uma versão do interpretador BASIC, para o computador Altair 8800 da MITS. Em 1976 é lançado o Microsoft FORTRAN, para computadores baseados em CP/M.[19]
+Em 1980, a IBM planejava lançar seu computador pessoal com o sistema CP/M, mas as negociações com a Digital Research falham e a IBM procura a Microsoft para desenvolver o seu sistema operacional. Sem ter um sistema para entregar, a Microsoft acerta um contrato não exclusivo de licenciamento com a IBM e procura a Seattle Computers para comprar o seu sistema Q-DOS. Em 1982 a Microsoft começa a desenvolver aplicações para o Macintosh da Apple, lança o Microsoft COBOL e a planilha eletrônica Multiplan para MS-DOS.[19] No ano seguinte anuncia o Microsoft Word e o Microsoft Windows. Em 1985 a Microsoft e a IBM assinam acordo para desenvolvimento conjunto de um futuro sistema operacional, no mesmo ano lança o Microsoft Windows 1.0 por 99 dólares. Em 1987 a Microsoft compra o programa de apresentações PowerPoint e lança a planilha eletrônica Excel. Em 1988 a Apple acusa a Microsoft de plágio sobre o seu Macintosh OS (contudo este se baseia no sistema gráfico do Xerox Alto) com o Windows 2.0,[20] mas no ano seguinte formam uma aliança para desenvolver o padrão de fontes TrueType.[21][22]
+Década de 1990[editar | editar código-fonte]
+Em 1990 a Microsoft apresenta o Windows 3.0 para computadores pessoais e o OS/2, desenvolvido com a IBM, para estações de trabalho. Nos anos seguintes anuncia, em conjunto com outras empresas, os padrões Multimídia PC, Advanced Power Management e o Plug and Play. Em 1992 a Microsoft e a IBM encerram o acordo de cooperação e dividem o sistema desenvolvido. A IBM passa a desenvolver o OS/2 4.0 e a Microsoft anuncia o Windows NT 3.0, no mesmo ano lança o Microsoft Access para Windows.[carece de fontes?]
+Em 1995 é lançado o Windows 95, um sistema operacional completo para computadores pessoais que elimina a necessidade do MS-DOS. No mesmo ano lança o Internet Explorer, parte do pacote Windows 95 Plus!, vendido separadamente. No ano seguinte lança o Windows NT 4.0, com o visual do Windows 95 e a segurança do Windows NT. Em 1994, antes do lançamento do Windows 95, a empresa já havia sido processada por pressionar fabricantes de equipamentos a lançar seu produto apenas para sua plataforma operacional. Por tal ato, a empresa foi multada em um milhão de dólares norte-americanos por dia até que cessasse as perseguições de que se referiram os pressionados.
+Em 1997, a Microsoft anuncia a compra de 150 milhões de dólares em ações preferenciais, sem direito a voto da concorrente Apple, que estava sofrendo dificuldades financeiras.[23] Essa compra foi necessária para manter sua principal concorrente funcionando, afastando acusações de monopólio e para ampliar seu mercado, com a disponibilização do Microsoft Office e Internet Explorer para computadores da Apple.[24] No mesmo ano, a Microsoft compra a WebTV e no ano seguinte lança o Windows 98, incorporando o Internet Explorer, o que levou ao início de um processo de monopólio movido pelo governo dos Estados Unidos, processo que terminou em 2001 com a condenação da empresa. Em 1999 lança a segunda versão do Windows 98, chamada SE, uma forma de contornar o erro cometido com o IE, alegando que o SO não poderia funcionar sem o IE incorporado. Esta versão trouxe algumas melhorias e aprimoramentos, mas manteve-se o mesmo núcleo problemático e instável do Windows 95. Em 1998, a empresa envolveu-se numa disputa legal com o governo federal dos Estados Unidos a respeito do objetivo de criação e manutenção de um monopólio na área de software. Este processo terminou com o veredito de condenação da empresa, e a imposição de novas normas de conduta para o mercado de tecnologia. As evidências levantadas durante o julgamento contribuíram para aumentar junto ao público a percepção de que a empresa se utilizou de práticas anticompetitivas para alcançar a posição dominante que desfruta até hoje no mercado. Muitos dos processos foram movidos por consumidores de 69 estados americanos, e não apenas por empresas, que a acusaram de desrespeitar os direitos do consumidor. E após o pagamento de mais de 300 milhões de dólares em indenizações a empresa pôde continuar com seus negócios.[carece de fontes?]
+Tradicionalmente, o movimento de software livre abriga os maiores críticos dos produtos Microsoft, em especial o Windows, considerado por muitos um produto instável e inseguro, e o crescimento de soluções livres como o sistema operacional GNU/Linux, que cresceu muito em número de usuários, o navegador Firefox, o servidor Apache e o conjunto de programas de escritório OpenOffice.org, sendo as maiores ameaças ao futuro dos negócios de empresa, juntando a Google e a Apple Inc., que têm crescido muito nos últimos anos.[carece de fontes?]
+Século XXI[editar | editar código-fonte]
+Entrada do edifício 17 no campus principal de Microsoft em Redmond, Washington.
+A Comissão Europeia, que aplicou multas à Microsoft em 2004, 2008 e 2013
+Em fevereiro de 2000 lança o Windows 2000, uma melhoria do Windows NT com interface mais parecida com o Windows 98, mais segurança e mais robustez. Inicialmente voltado para a corporação, existiram várias versões como a Professional, Server, Advanced Server, Data Center Server, entre outras mais específicas como o Enterprise Server para sistemas de Grande Porte. Com a carência de uma atualização do ambiente doméstico, em meados de outubro deste mesmo ano, entrega ao público o Windows Me, uma versão mais aprimorada do Windows 98 com diversos recursos, mas que, devido aos muitos erros e bugs, foi praticamente ignorada pelo mercado. Curiosamente, em meados de 1999, a Microsoft estava desenvolvendo uma versão do Windows 2000 para usuários domésticos que se chamaria Home Edition. Mas este projeto ficou engavetado e somente dois anos depois foi apresentando para o público como Windows XP Home Edition.[carece de fontes?]
+O Windows XP foi lançado em 2001 juntando as linhas de sistemas operacionais Windows 95/98/Me para computadores pessoais, com o Windows NT/2000 para estações de trabalho, e introduzindo uma nova interface gráfica. No mesmo ano lança a Xbox, a seu primeiro console de videogame que ia competir com o Sony PlayStation 2 e o Nintendo GameCube.
+Em 2004, União Europeia multou a empresa em 357 milhões de dólares por descumprir uma determinação antitruste da Comissão Europeia. A determinação da comissão exigia que a empresa partilhasse a documentação completa de interfaces de forma a permitir assegurar a interoperabilidade entre servidores que utilizavam Windows e grupos de trabalho com outros sistemas que não fossem da Microsoft.[25]
+Em 30 de janeiro de 2007 lança oficialmente (com atraso), o Windows Vista com uma interface gráfica avançada, mais estável e com uma versão mais segura do Internet Explorer. Sendo mais lento e pesado para os computadores da época, o que o levou muito rápido do topo ao solo e gerou diversas insatisfações e críticas do público em geral.
+Em 2007, é lançado o Office 2007 com nova interface, maior produtividade e segurança. Em 2008, a Microsoft realizou uma proposta para comprar a Yahoo! por 44,6 bilhões de dólares como parte da sua estratégia para tentar superar o Google, porém a Yahoo! rejeitou oficialmente a oferta, dizendo que esta subestima o valor da empresa no mercado. Devido ao fracasso do acordo de publicidade entre Google e Yahoo!, Jerry Yang, então CEO da Yahoo!, chegou afirmar que a melhor decisão que a Microsoft podia tomar seria a de comprar a sua companhia durante o evento WEB 2.0 Summit. Steve Ballmer, ex-CEO da Microsoft, desconsiderou a hipótese de voltar com a oferta.[carece de fontes?]
+Satya Nadella, o CEO da empresa.
+Mais tarde, no dia 10 de janeiro de 2009, é lançada a versão de testes do Windows 7 (Seven), a nova versão do sistema operacional para PC mais popular do mundo. As falhas e críticas que foram registadas no Windows Vista foram corrigidas, como alto consumo de memória e sobrecarga excessiva em processadores, além de falta de agilidade e segurança, haja vista que na nova versão os usuários não enfrentam mais tais problemas. A versão beta já disponibilizava de atualizações da própria Microsoft, além de fabricantes de hardware como nVidia, AMD, Intel, entre outras lançarem controladores compatíveis com a versão de teste do OS. No dia 22 de outubro de 2009, a Microsoft lançou o Microsoft Windows 7, sendo bem mais leve do que o seu antecessor, o Microsoft Windows Vista. A Microsoft introduziu no Windows 7 uma nova barra de tarefas (SuperTaskbar), com novas funções de compartilhamento doméstico (grupo doméstico), Interface AERO mais leve, menor consumo de memória RAM, nova Central de Ações, Windows Defender, mais segurança, controle de alertas do UAC, gravador de imagens ISO e novas ferramentas para janelas como (Aero Peek, Aero Shake).
+No dia 26 de outubro de 2012, a Microsoft apresentou, e disponibilizou para vendas o Windows 8, a nova versão do seu sistema operacional. Com uma mudança drástica no visual, o SO adquire a interface metro, e acaba com o menu iniciar, surgido no Windows 95. É clara a intenção da Microsoft de inserir no mercado um SO dedicado mais a tablets e smartphones. Em 20 de julho de 2012, a Microsoft publicou as primeiras perdas trimestrais da sua história de 492 milhões de dólares, entre abril e junho, tendo registado uma quebra de 27 por cento nos lucros anuais de 16.980 milhões de dólares.[26]
+Em setembro de 2013, foi anunciado na imprensa que a área de telemóveis da Nokia foi vendida para a Microsoft por 5,44 bilhões de euros.[27] Em 4 de fevereiro de 2014, a Microsoft nomeou o indiano Satya Nadella como seu novo CEO, sucedendo Steve Ballmer.[28]
+Logo Pac-Man da Microsoft, projetado por Scoot Baker em 1987 e usado como slogan entre 1994 a 2002Where do you want to go today?.[29][30]
+Logo da Microsoft de 2006 a 2011, com slogan Your potential. Our passion.[30]
+Logo da Microsoft com o slogan Be Whats Next.
+Logo atual da Microsoft baseado na Interface Metro a partir do ano de 2012.
+Concorrência[editar | editar código-fonte]
+Bill Gates era um estudante fascinado por computadores e se dedicava a estudar lógica e linguagens de programação. Desenvolveu um sistema operacional juntamente com seu amigo Paul Allen para o computador Altair baseado em Fortran, este foi o início do sucesso de Bill.
+Steve Jobs também era fascinado por computadores, mas ao contrário de Bill, Steve se aprimorou na área de hardware, ou seja, no desenvolvimento de computadores. A sua ideia era criar computadores pessoais (PCs), pois até então somente as grandes corporações tinham acesso aos computadores.
+Após várias tentativas fracassadas finalmente Steve ganha o reconhecimento de sua ideia, então surge a Apple Inc.. Com o passar do tempo, novos projetos são criados e comprados; com estas uniões surge o Macintosh, uma inovação para a época, um computador pessoal com sistema operacional totalmente gráfico e com inúmeras novidades, entre elas o mouse. Bill Gates, com o passar do tempo, percebe que o seu sistema desenvolvido em Fortran para o Altair era inútil para o novo conceito de PCs, então compra o sistema da Companhia Seattle e o denomina de DOS, este novo sistema fazia a comunicação entre usuário e máquina via linha de comando e era distribuído na nova linha de computadores da IBM. Mas ao saber da existência de um sistema gráfico no Macintosh, Bill determina a seus programadores que criem um sistema semelhante, então foi criado o Windows.[carece de fontes?]
+Produtos[editar | editar código-fonte]
+Design da página inicial do Windows 10
+Xbox Series S
+A Microsoft produz hoje uma grande variedade de programas de computador, incluindo sistemas operacionais — Microsoft Windows, na versão atual, o Windows 10, e outras versões anteriores, como o Windows Server 2008, Windows Vista, Server 2003, Microsoft Windows XP, Windows 7, Windows 8, Windows 10, Windows Mobile — atualmente o Windows 10 Mobile, entre outros). Também desenvolve programas para escritório (pacote Office que contém Word, Excel, Outlook, PowerPoint, InfoPath, Project, OneNote, Visio, Access, Publisher).
+Na área para desenvolvimento multimídia tanto para desktop como para internet, a suite Microsoft Expression Studio, atualmente na versão 4, na qual são produzidos aplicativos a serem utilizados com o plug-in Silverlight, ou em navegadores web como o Internet Explorer (substituído no Windows 10 pelo Microsoft Edge); ambientes de desenvolvimento de programas (Visual Studio, Web Matrix, Microsoft Plataform Builder e Microsoft Target Designer) e servidores como o SGBD SQL Server e o servidor de correio eletrônico Exchange, entre outros. A Microsoft também produz o navegador Internet Explorer e um conjunto de programas e serviços online (Windows Live), o conhecido Windows Live Messenger, o também conhecido Hotmail, o Onedrive, e o portal MSN, entre muitos outros serviços.
+Além de produzir programas, a Microsoft atua no mercado de equipamentos, produzindo periféricos (como Mouse, teclados e Joysticks), o console de jogos eletrônicos Xbox, logo depois sendo substituído pelo Xbox 360, o player de mídia Zune e o revolucionário Kinect.
+A empresa criou a partir de 2001, uma nova tecnologia chamada Microsoft .NET. Tal tecnologia é um framework para isolar os programas dos sistemas operacionais.
+A empresa tem um departamento dedicado ao desenvolvimento de jogos, a Xbox Game Studios, onde são feitos os jogos das séries Age of Empires, Fable, Ori, Halo, State Of Decay, Forza Motorsport, Forza Horizon, Microsoft Flight Simulator, entre outros.
+No dia 10 de maio, adquire pelo valor de US$ 8,5 bilhões a Skype Technologies; ampliando assim sua participação no crescente e bilionário mercado on-line.[31]
+Microsoft Mobile[editar | editar código-fonte]
+Ver artigos principais: Microsoft Mobile e Windows Phone
+Sede da Microsoft Mobile em Espoo, Finlândia
+A Microsoft comprou a divisão mobile da Nokia por cerca de US$ 7,2 bilhões (R$ 17 bilhões) e nomeou a divisão Microsoft Lumia.[carece de fontes?]
+O sistema que roda nos mais recentes smartphones da linha é o Windows 10 mobile.
+Países lusófonos[editar | editar código-fonte]
+Portugal[editar | editar código-fonte]
+Em 1990, a Microsoft abriu a sua subsidiária portuguesa. A empresa tem apostado em desenvolver diversas atividades destinadas a promover a indústria de software portuguesa e a maior utilização e conhecimento dos produtos de software.[32] Em 2014, a Microsoft Portugal contava com 289 colaboradores.[33] A Microsoft foi considerada a Melhor Empresa para Trabalhar em Portugal pelo Great Place to Work® Institute Portugal em 2005,[34] 2008,[35] 2009[36] e 2010.[37]
+Ver também[editar | editar código-fonte]
+Lista de ferramentas e serviços da Microsoft
+Microsoft Most Valuable Professional
+Referências
+↑ «We innovate you turn - Microsoft Innovation Video». Consultado em 25 de novembro de 2010. Arquivado do original em 29 de janeiro de 2011
+↑ «Microsoft cria novo slogan - Baixaki». Consultado em 17 de fevereiro de 2010
+↑ «Leadership: Brad Smith». Microsoft News. Consultado em 30 de janeiro de 2020
+↑ Notícias.com, ed. (4 de fevereiro de 2016). «Apple volta a ser a empresa mais valiosa do mundo». Consultado em 28 de fevereiro de 2016
+↑ a b c «MSFT Declaração de rendimentos - Yahoo! Finanças». Consultado em 17 de fevereiro de 2011
+↑ «MSFT Folha de balanço - Yahoo! Finanças». Consultado em 17 de fevereiro de 2011
+↑ «Microsoft Corporation - Company profile from Hoovers». Consultado em 17 de fevereiro de 2011
+↑ «Adeus, Nokia: novos smartphones usarão marca Microsoft Lumia | Tecnoblog». Tecnoblog (em inglês). Consultado em 19 de março de 2016
+↑ «Global Software Top 100 - Edition 2011». Softwaretop100.Org. 23 de agosto de 2011
+↑ «Market Cap Rankings». Ycharts. Zacks Investment Research. 8 de abril de 2012. Consultado em 9 de abril de 2012
+↑ Hunckler, Matt. «Top 20 Startups of All Time». Verge Startups. Consultado em 2 de fevereiro de 2014
+↑ G1, Do; Internacionais, Com Agências (10 de maio de 2011). «Microsoft adquire a Skype por US$ 8,5 bilhões». Tecnologia e Games. Consultado em 3 de janeiro de 2021
+↑ «Microsoft compra a Nokia: entenda o que pode mudar nos próximos anos | Notícias | TechTudo». www-techtudo-com-br.cdn.ampproject.org. Consultado em 3 de janeiro de 2021
+↑ G1, Do; Paulo, em São (15 de setembro de 2014). «Microsoft compra criadora de Minecraft por US$ 2,5 bilhões». Games. Consultado em 3 de janeiro de 2021
+↑ «Microsoft compra a rede social LinkedIn por US$ 26,2 bilhões | Tecnologia e Games | G1». g1-globo-com.cdn.ampproject.org. Consultado em 3 de janeiro de 2021
+↑ «Microsoft compra GitHub por US$ 7,5 bilhões e anuncia mudanças». G1. Consultado em 3 de janeiro de 2021
+↑ «Microsoft compra ZeniMax Media, de videogames, por US$ 7,5 bilhões». Valor Econômico. Consultado em 3 de janeiro de 2021
+↑ «Microsoft anuncia compra da empresa de softwares Nuance Communication». Terra. Consultado em 12 de abril de 2021
+↑ a b Marluce Peron. «A história da Microsoft». TecMundo
+↑ Mariana Demartini. «Bill Gates responde acusação de ter copiado Steve Jobs». Revista EXAME
+↑ Priscilla Kinast. «Quais as diferenças entre fontes OTF e TTF?». Oficina da Net
+↑ «Breve resenha histórica dos Sistemas Operativos». Sutori
+↑ Redação (30 de agosto de 2017). «O dia em que Bill Gates salvou a Apple»
+↑ «What ever became of Microsofts $150 million investment in Apple?» (em inglês)
+↑ «União Européia multa Microsoft em US$ 357 milhões por monopólio». O Globo. 12 de julho de 2006. Consultado em 25 de agosto de 2021
+↑ «Microsoft regista primeira perda trimestral da história enquanto lucros da Google disparam 11%»
+↑ «Microsoft compra negócio de telemóveis da Nokia por 5440 milhões»
+↑ Indiano Satya Nadella é o novo presidente executivo da Microsoft
+↑ «The Rise and Rise of the Redmond Empire». Wired. Dezembro de 1998. Consultado em 18 de agosto de 2008
+↑ a b Schmelzer, Randi (9 de janeiro de 2006). «McCann Thinks Local for Global Microsoft». Adweek. Consultado em 18 de agosto de 2008
+↑ Adquire Skype G1[ligação inativa]
+↑ «Sobre a Microsoft Portugal». página oficial da Microsoft Portugal. Consultado em 29 de julho de 2015
+↑ «Best Workplaces Portugal 2015». Great Place to Work Portugal. Consultado em 29 de julho de 2015
+↑ «2005 Melhores Empresas para Trabalhar em Portugal». Great Place to Work. Consultado em 29 de julho de 2015. Arquivado do original em 10 de setembro de 2015
+↑ «2008 Melhores Empresas para Trabalhar em Portugal». Great Place to Work. Consultado em 29 de julho de 2015. Arquivado do original em 10 de setembro de 2015
+↑ «2009 Melhores Empresas para Trabalhar em Portugal». Great Place to Work. Consultado em 29 de julho de 2015. Arquivado do original em 10 de setembro de 2015
+↑ «2010 Melhores Empresas para Trabalhar em Portugal». Great Place to Work. Consultado em 29 de julho de 2015. Arquivado do original em 10 de setembro de 2015
+Ligações externas[editar | editar código-fonte]
+Outros projetos Wikimedia também contêm material sobre este tema:
+Citações no Wikiquote
+Imagens e media no Commons
+Categoria no Wikinotícias
+Base de dados no Wikidata
+Commons
+Wikiquote
+Wikinotícias
+Sítio oficial
+vdeMicrosoftCompanhiaDiretores
+Satya Nadella
+Steve Ballmer
+Bill Gates
+Paul Allen
+Divisões
+Mobile
+Skype unit
+Garage
+Research
+.NET Foundation
+Xbox Game Studios
+ProdutosHardwares
+LifeCam
+Surface
+Xbox
+Clássico
+360
+One
+Series X
+Kinect
+Sistemas operacionais
+Windows
+Windows Mobile
+Windows Server
+Softwares
+Cortana
+Dynamics
+Edge
+Exchange
+Launcher
+Office
+Access
+Excel
+OneNote
+Outlook
+PowerPoint
+Publisher
+Word
+Power BI
+Project
+SharePoint
+Yammer
+SQL Server
+Visual Studio
+Visual Studio Code
+Propriedades web
+Azure
+Bing
+Channel 9
+Conta da Microsoft
+Developer Network
+GitHub
+LinkedIn
+Yammer
+Mixer
+MSN
+Office Online
+OneDrive
+Outlook.com
+Store
+Teams
+TechNet
+Translator
+Xbox network
+Arcade
+Marketplace
+Indie Games
+Tecnologias
+Active Directory
+App-V
+DirectX
+Hyper-V
+Live
+Metro UI
+.NET
+Silverlight
+XNA
+Categoria
+Portal
+Navecaixas relacionadas à Microsoft
+vdeAs 50 maiores empresas do mundo pela Financial Times Global 500 de 2011ExxonMobil · Petrochina · Apple Inc. · ICBC · Petrobras · BHP Billiton · China Construction Bank · Royal Dutch Shell · Chevron · Microsoft · General Electric · Berkshire Hathaway · Nestlé · IBM · Gazprom · China Mobile · JP Morgan Chase · HSBC · Wal-Mart · AT&T · Procter & Gamble · Oracle · Vale · Wells Fargo · Johnson & Johnson · Pfizer · Coca Cola · Google · Bank of China · Vodafone · Rio Tinto · Novartis · Total · Banco Agrícola da China · Toyota · Samsung · BP · Bank of America · Citigroup · Roche · Schlumberger · Siemens · Philip Morris International · Telefónica · ConocoPhillips · CNOOC · Intel Corporation · Verizon Communications · Sinopec · PepsiCo · Merck · Itaú Unibanco
+vdeMaiores empresas de computadores, servidores e mainframesReceita anual acima de US$ 3 bilhõesComputadorespessoais e servidores
+Acer
+Apple
+Asus
+Dell
+Fujitsu
+Huawei
+HP
+Lenovo
+LG Electronics
+Microsoft
+NEC
+Panasonic
+Razer
+Samsung
+Toshiba
+VAIO
+Apenas servidores
+Cisco Systems
+Hewlett Packard Enterprise
+IBM
+Inspur
+Oracle
+Mainframes
+Fujitsu
+Hewlett Packard Enterprise
+IBM
+Categoria
+vdeMaiores empresas de internetReceita anual acima de US$ 2 bilhões
+Alphabet
+Google
+Amazon
+Apple
+Baidu
+Facebook
+IAC
+Microsoft
+Naver
+NetEase
+Netflix
+Tencent
+Twitter
+Verizon Media
+Yandex
+Computação em nuvem
+Akamai Technologies
+Alibaba Cloud
+Amazon Web Services
+Google Cloud Platform
+IBM
+iCloud
+Microsoft Azure
+Oracle
+Rackspace
+Salesforce
+ServiceNow
+Comércio online
+Alibaba Group
+Amazon
+Apple
+eBay
+Flipkart
+Groupon
+JD.com
+Shopify
+Rakuten
+Categoria
+vdeMaiores empresas de armazenamento de dadosReceita anual acima de US$ 3 bilhões
+ADATA
+Amazon
+Apple
+Dell Technologies
+Dell EMC
+Fujitsu
+Google
+Hitachi Data Systems
+Hewlett Packard Enterprise
+IBM
+Kingston
+Kioxia
+LenovoEMC
+Microsoft
+NetApp
+Oracle
+Plextor
+Samsung
+Seagate Technology
+Silicon Power
+Sony
+Transcend Information
+Western Digital
+vdeMaiores empresas de softwareReceita anual acima de US$ 3 bilhões
+Adobe
+Amadeus IT Group
+Apple
+Autodesk
+FIS
+Google
+Hewlett Packard Enterprise
+IBM
+Intuit
+Infor
+Microsoft
+Oracle Corporation
+Quest Software
+Sage Group
+SAP SE
+Categoria
+vdeEmpresas no Índice Dow Jones da Bolsa de Valores de Nova IorqueAções atuais3M · American Express · Apple · Boeing · Caterpillar · Chevron · Cisco Systems · The Coca-Cola Company · DuPont · ExxonMobil · General Electric · Goldman Sachs · Home Depot · Intel · IBM · Johnson & Johnson · JPMorgan Chase  · McDonalds · Merck & Co. · Microsoft · Nike · Pfizer · Procter & Gamble · The Travelers Companies · UnitedHealth Group · United Technologies · Verizon · Visa · Wal-Mart · The Walt Disney CompanyAções passadasAlcoa · Altria Group · American International Group  · American Tobacco Company · AT&T · Bank of America · Bethlehem Steel · Citigroup · Colorado Fuel and Iron · Eastman Kodak · General Foods · General Motors · Goodyear Tire and Rubber Company · Hewlett-Packard · Honeywell · International Paper · Johns-Manville · Kraft Foods · Nash Motors · Navistar International · North American Company · Owens-Illinois · Sears, Roebuck and Company · Union Carbide · United States Rubber Company · F. W. Woolworth Company
+vdeEmpresas de indústrias eletrônicas nos Estados Unidos
+Advanced Micro Devices
+Agilent
+Altera
+Amazon
+Analog Devices
+Apple
+Applied Materials
+Atmel
+Bell Labs
+Blu
+Broadcom
+Cypress
+Cray
+Dell
+Diodes Incorporated
+Dolby
+Electronic Arts
+EMC Corporation
+Fairchild
+Flextronics
+Freescale
+GE
+Harman International
+HP
+HGST
+IBM
+Intel
+Jabil Circuit
+JBL
+Juniper Networks
+Kimball International
+Kemet
+Kingston
+Kodak
+Lenovo
+Lexmark
+Logitech
+Marvell Technologies
+Maxtor
+Micron
+Motorola Mobility
+Microsoft
+National Semiconductor
+NetApp
+Nvidia
+Oracle
+Plexus
+Qualcomm
+SanDisk
+Sanmina-SCI
+Seagate
+Signetics
+Silicon Graphics
+Silicon Image
+Solectron
+Texas Instruments
+Western Digital
+Palm
+Verizon
+Xerox
+Xilinx
+Zebra Technologies
+Zilog
+vdeEmpresas no NASDAQ-100
+21st Century Fox
+Activision Blizzard
+Adobe
+Akamai Technologies
+Alexion Pharmaceuticals
+Altera
+Amazon
+American Airlines Group
+Amgen
+Analog Devices
+Apple
+Applied Materials
+Autodesk
+ADP
+Avago Technologies
+Baidu
+Bed Bath & Beyond
+Biogen
+BioMarin Pharmaceutical
+Broadcom
+C. H. Robinson Worldwide
+Computer Associates
+Catamaran
+Celgene
+Cerner
+Charter Communications
+Check Point
+Cisco Systems
+Citrix Systems
+Cognizant
+Comcast
+Costco
+Discovery
+Dish Network
+Dollar Tree
+eBay
+Electronic Arts
+Equinix
+Expeditors International
+Express Scripts
+Facebook
+Fastenal
+Fiserv
+Garmin
+Gilead Sciences
+Google
+Green Mountain Coffee Roasters
+Henry Schein
+Illumina
+Intel
+Intuit
+Intuitive Surgical
+KLA
+Kraft Heinz
+Lam Research
+Liberty Global
+Liberty Interactive
+Liberty Media
+Linear Technology
+Marriott Internacional
+Mattel
+Micron Technology
+Microsoft
+Mondelēz International
+Monster Beverage
+Mylan
+NetApp
+Netflix
+Nvidia
+NXP Semiconductors
+OReilly Automotive
+Paccar
+Paychex
+Qualcomm
+Regeneron Pharmaceuticals
+Ross Stores
+SanDisk
+SBA Communications
+Seagate Technology
+Sigma-Aldrich
+Sirius XM Radio
+Staples
+Starbucks
+Stericycle
+Symantec
+Synopsys
+Tesla Motors
+Texas Instruments
+The Priceline Group
+Tractor Supply Company
+TripAdvisor
+Verisk Analytics
+Vertex Pharmaceuticals
+Viacom
+VimpelCom
+Vodafone
+Western Digital
+Whole Foods Market
+Wynn Resorts
+Xilinx
+Yahoo!
+vdeVale do Silício, CalifórniaCidades
+Campbell
+Cupertino
+East Palo Alto
+Fremont
+Los Altos
+Los Altos Hills
+Los Gatos
+Menlo Park
+Milpitas
+Mountain View
+Newark
+Palo Alto
+San Jose
+Santa Clara
+Saratoga
+Sunnyvale
+Redwood City
+San Mateo
+Universidades
+Northwestern Polytechnic University
+Carnegie Mellon University - West Coast Campus
+San José State University
+Universidade de Santa Clara
+Universidade Stanford
+Universidade da Califórnia em Berkeley
+Universidade da Califórnia em Santa Cruz
+Companhias de tecnologia
+Adobe
+AMD
+Agilent Technologies
+Apple
+Applied Materials
+Business Objects
+Capcom
+Cisco Systems
+eBay
+Electronic Arts
+Google
+Hewlett-Packard
+Intel
+Intuit
+LSI Logic
+Maxtor
+National Semiconductor
+Network Appliance
+NVIDIA
+Oracle Corporation
+SanDisk
+Solectron
+Symantec
+Sun Microsystems
+Yahoo!
+3Com
+Actuate
+Adaptec
+Amdahl
+Aricent
+Asus
+Atari
+Atmel
+BEA Systems
+Cypress Semiconductor
+Computer Literacy Bookstore
+Foundry Networks
+Fujitsu
+Gaia Online
+Hitachi Global Storage Technologies
+Juniper Networks
+Knight Ridder
+Logitech
+McAfee
+Memorex
+Microsoft
+Netscape
+NeXT
+Nintendo of America
+Nvidia
+Opera Software
+OPPO Digital
+Palm, Inc.
+PalmSource
+PayPal
+Phoenix Technologies
+Playdom
+Rambus
+Redback Networks
+SAP AG
+Seagate Technology
+Silicon Graphics
+Silicon Image
+Sony
+SRI International
+Tesla Motors
+Tellme Networks
+Theranos
+TiVo
+VA Software
+WebEx
+VeriSign
+Veritas Software
+VMware
+Xilinx
+Controle de autoridade
+: Q2283
+WorldCat
+VIAF: 148809628
+BNE: XX121178
+BNF: 120673486
+BRE: 2164159
+CANTIC: a11919863
+EBID: ID
+GEC: 0244351
+GND: 5003949-0
+GRID: grid.419815.0
+ISNI: ID
+LCCN: n86810571
+LEI: INR2EJN1ERAN0W5ZP974
+NDL: 00322150
+NKC: kn20020321575
+NLA: 35928074
+NUKAT: n97048261
+OpenCorporates: 600413485
+openMLOL: 159320
+PTBNP: 135822
+ResearchGate: Microsoft
+SELIBR: 347184
+SUDOC: 030109434
+Treccani: microsoft
+ULAN: 500333090
+OL: OL4943148A
+NLI: 000093139
+Portal de economia e negócios
+Portal das empresas
+Portal dos Estados Unidos
+Portal da Microsoft
+Portal da tecnologia
+Portal das tecnologias de informação
+Obtida de https://pt.wikipedia.org/w/index.php?title=Microsoft&oldid=62183355
+Categorias: Empresas no Dow Jones Industrial AverageEmpresas de eletrônicos dos Estados UnidosEmpresas listadas no NASDAQ-100MicrosoftEmpresas fundadas em 1975TecnologiaTecnologia da informaçãoProvedores de computação em nuvemCategorias ocultas: !CS1 inglês-fontes em língua (en)!Artigos com ligações inativas!Páginas que usam predefinições de coordenadas obsoletas!Artigos destacados na Wikipédia em suaíli!Artigos destacados na Wikipédia em baskir!Artigos destacados na Wikipédia em bósnio!Artigos que carecem de notas de rodapé desde novembro de 2016!Artigos que carecem de notas de rodapé sem indicação de tema
+Esta página foi editada pela última vez às 15h55min de 5 de outubro de 2021.
+Este texto é disponibilizado nos termos da licença Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as condições de utilização.
+Política de privacidade
+Sobre a Wikipédia
+Avisos gerais
+Versão móvel
+Programadores
+Estatísticas
+Declaração sobre cookies');
+Document.create!(url: 'https://pt.wikipedia.org/wiki/Dell', title: 'Dell – Wikipédia, a enciclopédia livre', body: 'Dell – Wikipédia, a enciclopédia livre
+Saltar para o conteúdo
+Alternar barra lateral
+Busca
+Links do usuário
+Criar uma conta
+Ferramentas pessoais
+expandido
+collapsed
+Criar uma conta
+Entrar
+Páginas para editores conectados saiba mais
+DiscussãoContribuições
+Navegação
+Página principalConteúdo destacadoEventos atuaisEsplanadaPágina aleatóriaPortaisInformar um erro
+Colaboração
+Boas-vindasAjudaPágina de testesPortal comunitárioMudanças recentesManutençãoCriar páginaPáginas novasContatoDonativos
+Ferramentas
+Páginas afluentesAlterações relacionadasCarregar ficheiroPáginas especiaisHiperligação permanenteInformações da páginaCitar esta páginaElemento Wikidata
+Imprimir/exportar
+Criar um livroDescarregar como PDFVersão para impressão
+Noutros projetos
+Wikimedia Commons
+Espaços nominais
+ArtigoDiscussão
+Variantes
+expandido
+collapsed
+Vistas
+LerEditarEditar código-fonteVer histórico
+Mais
+expandido
+collapsed
+73 idiomas
+expandido
+collapsed
+العربيةAsturianuAzərbaycancaتۆرکجهБеларускаяБългарскиবাংলাBosanskiCatalàکوردیČeštinaDanskDeutschΕλληνικάEnglishEsperantoEspañolEestiEuskaraفارسیSuomiFrançais客家語/Hak-kâ-ngîעבריתहिन्दीHrvatskiMagyarՀայերենBahasa IndonesiaItaliano日本語Қазақшаಕನ್ನಡ한국어KurdîLatinaLëtzebuergeschLietuviųLatviešuमैथिलीമലയാളംमराठीBahasa MelayuनेपालीNederlandsNorsk bokmålਪੰਜਾਬੀPolskiپنجابیپښتوRomânăРусскийСаха тылаSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaShqipСрпски / srpskiSvenskaKiswahiliதமிழ்ไทยTürkçeئۇيغۇرچە / UyghurcheУкраїнськаOʻzbekcha/ўзбекчаTiếng Việt吴语中文Bân-lâm-gú粵語
+Editar hiperligações
+Dell
+Origem: Wikipédia, a enciclopédia livre.
+Por favor, melhore este artigo ou secção, expandindo-o. Mais informações podem ser encontradas nos artigos correspondentes noutras línguas e também na página de discussão.
+Esta página cita fontes, mas estas não cobrem todo o conteúdo. Ajude a inserir referências. Conteúdo não verificável poderá ser removido.—Encontre fontes: Google (notícias, livros e acadêmico) (Abril de 2010)
+Dell
+Sede da Dell em Round Rock, Texas
+Razão social
+Dell, Inc.
+Tipo
+Privada
+Slogan
+The power to do more (o poder de fazer mais)
+Atividade
+Hardware do computadorSoftware do computador
+Gênero
+Tecnologia, Informática
+Fundação
+Austin, Texas (1984) (como PCs Limited), Estados Unidos da América
+Sede
+Round Rock, Condado de Travis e Condado de Williamson, Texas, EUA
+Área(s) servida(s)
+Mundo
+Proprietário(s)
+Dell Technologies
+Pessoas-chave
+Michael Dell(Fundador, Presidente & CEO)Jeff Clarke(Vice-Presidente, Operações (Dell Technologies) & Presidente, Client Solutions, Dell)
+Empregados
+101.815 (2016)[1]
+Produtos
+DesktopsServidoresNotebooksPeriféricosImpressorasArmazenamentoServiçosSmartphonesTelevisões
+Subsidiárias
+AlienwareDell BoomiForce10
+Valor de mercado
+$30,5 bilhões USD (2011)
+Receita
+54,9 bilhões USD (2016)[1]
+Lucro
+$14 bilhões USD (2015)
+Faturamento
+$54,9 bilhões USD (2015)
+Website oficial
+[1]
+Dell, Inc. (NASDAQ: DELL), ou simplesmente Dell, é uma empresa de hardware de computador dos Estados Unidos, empregando mais de 106.700 pessoas no mundo inteiro.
+Dell desenvolve, produz, dá suporte e vende uma grande variedade de computadores pessoais, servidores, notebooks, dispositivos de armazenamento, switches de rede, PDAs, software, periféricos e mais. De acordo com a lista Fortune 500 de 2005, a Dell é a 28ª maior empresa nos Estados Unidos (em vendas). Em 2005, a Fortune Magazine classificou a Dell como a número 1 na sua lista anual das empresas mais admiradas nos Estados Unidos, tomando o lugar do Wal-Mart, que mantinha o lugar por dois anos. Sua sede fica em Round Rock, Texas nos Estados Unidos.
+A empresa abriu sua fábrica em solo brasileiro na cidade de Eldorado do Sul no Rio Grande do Sul em novembro de 1999. Conta também com um centro de desenvolvimento de software sediado no pólo Tecnopuc, da PUC-RS. No ano de 2006 foi anunciada a construção de uma nova fábrica na cidade de Hortolândia, interior de São Paulo. A partir de Agosto de 2007, Eldorado do Sul passou a sediar apenas a administração e toda a produção de (desktops, notebooks e servidores) foi transferida para Hortolândia.
+A Dell é a maior empresa de distribuição de computadores nos Estados Unidos. Ela desenvolve, fabrica, vende e presta assistência a uma série de computadores pessoais, servidores, data storages, softwares, periféricos, PDA´s e muito mais. Em 2006, a Dell mantinha 63.700 pessoas trabalhando ao redor do mundo e foi a empresa que mais fabricou computadores no planeta. Seu modelo de negócios se diferencia de outras companhias devido ao baixo custo de operação e seu sistema de vendas diretas.
+Michael Dell fundou a empresa em 1984, aos 19 anos, quando estudava na Universidade do Texas, Estados Unidos.
+Índice
+1 História
+2 Instalações
+3 Organização
+3.1 Programa de parceiros
+4 Controvérsia
+5 Referências
+6 Ligações externas
+História[editar | editar código-fonte]
+Michael Dell.
+Michael Dell fundou a companhia em 1984, enquanto ainda estudava na Universidade do Texas, nos Estados Unidos. Com somente mil dólares, a empresa foi fundada com o nome de PC´s Limited. Desde o seu dormitório, Dell começou a montar computadores construídos a partir de componentes em estoque.
+Em 1985, a empresa fabrica seu primeiro computador com design próprio, o Turbo PC, que continha processadores Intel 8088 com a velocidade de 8 MHz. A Dell então colocou anúncios em revistas de informática americanas para venda direta ao consumidores, além da possibilidade de personalização das configurações para o consumidor. Com isso, o preço final dos computadores era mais competitivo e o modo de compra mais conveniente. Com o sucesso da companhia, Michael Dell largou a faculdade para administrar seu negócio em tempo integral. Somente no primeiro ano, a companhia teve US$ 6 milhões brutos de entrada.
+Em 1986, apresentaram o PC mais rápido do setor (um sistema baseado em 286, de 12 MHz) na feira de negócios Spring Comdex.
+Em 1987, a PC´s Limited começou a operar também no Reino Unido. Nos quatro anos seguintes, 11 outros países também foram alcançados. Em 1988, a empresa adota o nome de Dell e suas entradas aumentam de US$ 130 milhões para US$ 180 milhões no primeiro dia de oferta pública de suas ações.
+No ano de 1990, a Dell tentou vender seus produtos indiretamente através de supermercados e lojas de computadores, porém o sucesso foi muito tímido e a empresa voltou o foco no seu bem sucedido modelo de vendas diretas ao consumidor. Em 1992, a revista Fortune incluiu a Dell Computer Corporations na sua lista das 500 de maiores companhias do mundo. Em 1999, a empresa ultrapassou a Compaq e se tornou a maior vendedora de PC´s nos Estados Unidos. A partir de 2004 a companhia expandiu seus produtos para multimídia e entretenimento com o lançamento de televisores, handhelds e jukeboxes digitais. No fim de 2004, a companhia anunciou a construção de uma nova fábrica no estado americano da Carolina do Norte.
+Em fevereiro de 2005, a Dell apareceu em primeiro lugar no ranking das Empresas mais admiradas, publicado pela revista Fortune.
+Instalações[editar | editar código-fonte]
+A sede da Dell está localizada em Round Rock, Texas.[2] Em 2013, a empresa empregava cerca de 14.000 pessoas no centro do Texas e era o maior empregador privado da região,[3] que tem 2 100 000 pés quadrados (200 000 m2) de espaço.[4] Em 1999, quase a metade do fundo geral da cidade de Round Rock se originava de impostos sobre vendas gerados a partir da sede da Dell.[5]
+Dell já tinha sua sede no complexo Arboreto no norte de Austin, Texas.[6][7] Em 1989, Dell ocupou 127 000 pés quadrados (12 000 m2) no complexo Arboreto .[8] Em 1990, Dell tinha 1.200 funcionários em sua sede.[6] Em 1993, a Dell enviou um documento aos funcionários da Round Rock, intitulado Sede corporativa da Dell Computer, Round Rock, Texas, maio de 1993, Schematic Design. Apesar do arquivamento, durante esse ano a empresa disse que não iria mudar sua sede.[9] Em 1994, a Dell anunciou que retiraria a maioria de seus funcionários de Arboreto, mas que continuaria a ocupar o último andar de Arboreto e que o endereço oficial da sede da empresa continuaria sendo no Arboreto. O último andar continuou a manter a sala da diretoria da Dell, o centro de demonstração e a sala de reuniões dos visitantes. Menos de um mês antes de 29 de agosto de 1994, a Dell transferiu 1.100 funcionários de suporte ao cliente e de vendas por telefone para Round Rock.[10] O contrato de arrendamento da Dell em Arboreto estava previsto para expirar em 1994.[11]
+A empresa patrocina a Dell Diamond, o estádio casa do Round Rock Express, a AAA liga menor de beisebol afiliado dos Texas Rangers time de beisebol da liga principal
+Em 1996, Dell transferia sua sede para a Round Rock.[12] Em janeiro de 1996, 3.500 pessoas ainda trabalhavam na atual sede da Dell. Um edifício da sede em Round Rock, Round Rock 3, tinha espaço para 6.400 funcionários e estava programado para ser concluído em novembro de 1996.[13] Em 1998, Dell anunciou que iria adicionar dois edifícios ao seu complexo Round Rock, adicionando 1.600.000 pés quadrados (150.000 m2) de espaço para escritórios no complexo.[14]
+Em 2000, Dell anunciou que alugaria 80.000 (7.400 m2) de espaço no complexo de escritórios de Las Cimas, no Condado de Travis, Texas, entre Austin e West Lake Hills, para abrigar os escritórios executivos e a sede corporativa da empresa. 100 executivos seniores foram escalados para trabalhar no edifício até o final de 2000.[15] Em janeiro de 2001, a empresa alugou o espaço em Las Cimas 2, localizado ao longo da Loop 360. Las Cimas 2 abrigou executivos da Dell, as operações de investimento e algumas funções corporativas. Dell também tinha uma opção para 138.000 pés quadrados (13.000 m2) de espaço em Las Cimas 3.[16] Após uma desaceleração nos negócios exigindo a redução de funcionários e capacidade de produção, Dell decidiu sublocar seus escritórios em dois edifícios no complexo de escritórios de Las Cimas.[17] Em 2002, Dell anunciou que planejava sublocar seu espaço para outro inquilino; a empresa planejava transferir sua sede de volta para Round Rock assim que um inquilino estivesse garantido.[16] Em 2003, Dell mudou sua sede de volta para Round Rock. Alugou todas as Las Cimas I e II, com um total de 312.000 pés quadrados (29 000 m2), durante cerca de um período de sete anos após 2003. Por esse ano, cerca de 100.000 pés quadrados (9.300 m2) desse espaço foi absorvido por novos subinquilinos.[18]
+Em 2008, Dell transferiu as fontes de energia da sede da Round Rock para outras mais ecológicas, com 60% da energia total proveniente dos parques eólicos TXU Energy e 40% provenientes da usina do aterro comunitário de gás-energia de Austin, operada pela Waste Management, Inc.[4]
+As instalações da Dell nos Estados Unidos estão localizadas em Austin, Texas; Nashua, New Hampshire; Nashville, Tennessee; Oklahoma City, Oklahoma; Peoria, Illinois; Hillsboro, Oregon (Área de Portland); Winston-Salem, Carolina do Norte; Eden Prairie, Minnesota (Dell Compellent); Bowling Green, Kentucky; Lincoln, Nebraska; E Miami, Flórida. Instalações localizadas no exterior incluem Penang, Malásia; Xiamen, China; Bracknell, UK; Manila, Filipinas[19] Chennai, Índia;[20] Hyderabad, Índia; Noida, Índia; Hortolandia e Porto Alegre, Brasil; Bratislava, Eslováquia; Łódź, Polônia;[21] Cidade do Panamá, Panamá; Dublin e
+Limerick, Irlanda; Casablanca, Marrocos e Montpellier, França.
+Os EUA e a Índia são os únicos países que têm todas as funções de negócios da Dell e fornecem suporte globalmente: pesquisa e desenvolvimento, fabricação, finanças, análise e atendimento ao cliente.[22]
+Organização[editar | editar código-fonte]
+Laptop da Dell.
+O conselho é composto por nove diretores. Michael Dell, o fundador da empresa, atua como presidente do conselho e diretor executivo. Outros membros do conselho incluem Don Carty, Judy Lewent, Klaus Luft, Alex Mandl e Sam Nunn. Os acionistas elegem os nove membros do conselho nas reuniões, e os membros do conselho que não obtiverem a maioria dos votos devem apresentar uma renúncia ao conselho, que posteriormente escolherá se aceita ou não a renúncia. O conselho de administração geralmente cria cinco comitês que supervisionam assuntos específicos. Esses comitês incluem o Comitê de Auditoria, que lida com questões contábeis, incluindo auditoria e relatórios; o Comitê de Remuneração, que aprova remuneração para o CEO e demais funcionários da empresa; o Comitê de Finanças, que lida com assuntos financeiros, como fusões e aquisições propostas; o Comitê de Governança e Nomeação, que lida com vários assuntos corporativos (incluindo nomeação do conselho); e o Comitê de Conformidade Antitruste, que tenta impedir que as práticas da empresa violem as leis antitruste.[carece de fontes?]
+As operações do dia-a-dia da empresa são executadas pelo Comitê Executivo Global de Gestão, que define a direção estratégica. Dell tem vice-presidentes seniores regionais para países que não os Estados Unidos, incluindo David Marmonti para EMEA e Stephen J. Felice para Ásia/Japão. Em 2007, outros oficiais incluíram Martin Garvin (vice-presidente sênior de compras mundiais) e Susan Sheskey. (vice-presidente e Chief Information Officer).[carece de fontes?]
+Programa de parceiros[editar | editar código-fonte]
+No final de 2007, Dell Inc. anunciou que planejava expandir seu programa para revendedores de valor agregado (RVAs; Em inglês: VARs), dando a ele o nome oficial de Dell Partner Direct e um novo site.[23]
+Dell India iniciou o website Online Ecommerce[24] com seu parceiro da Dell www.compuindia.com GNG Electronics Pvt Ltd[25] denominado como Dell Express Ship Affiliate(DESA). O objetivo principal era reduzir o tempo de entrega. Clientes que visitam o site oficial da Dell india têm a opção de comprar online, que será redirecionada para o website afiliado da Dell, compuindia.com.[22]
+Controvérsia[editar | editar código-fonte]
+Smartphone Dell Venue Pro.
+O Instituto de Física da Universidade Federal Fluminense, sediado na cidade de Niterói, RJ, exibiu, no dia 13 de setembro de 2007, um documento em que a Dell faz exigências políticas para vender PCs.[26] A empresa proibia, no documento, que os pesquisadores produzissem conhecimentos que pudessem ser utilizados por pessoas ligadas a países definidos como hostis aos Estados Unidos. Os países citados no documento foram: Cuba, Irã, Coreia do Norte, Sudão e Síria. Naquele contexto, o doutor em física Paulo Gomes, pesquisador do instituto ligado à Universidade Federal Fluminense, afirmou:
+“
+Não posso assinar um termo como esses. Aqui no Instituto, colaboramos com pesquisadores de diversos países. Eu mesmo tenho contato direto com cientistas de Cuba. Se a Dell me proibir de pesquisar livremente, simplesmente vou comprar PCs de outro integrador.[26]
+”
+Embora cause estranheza[27], os termos mencionados no artigo referenciado são termos-padrão de exportação que empresas norte-americanas são obrigadas a cumprir pelo governo de seu país-sede
+a fazer negócios em todos os países do mundo. Os mesmos podem ser encontrados em diversas páginas da web de multinacionais baseadas nos Estados Unidos tanto em termos de exportação de tecnologia em países embargados dentro [28] [29] e fora da indústria de alta-tecnologia[30] como em termos de utilização para a prática de estudos de física nuclear [31], prática inclusive mencionada e comentada em páginas de advocacia comercial em português.[32]
+Referências
+↑ a b «2015 annual results». Forbes
+↑ Contact Us – Dell Mailing Address. Dell. Recuperado 8 de Fevereiro de 2012.
+↑ Austin American-Statesman: The Dell deal: what would be different if... Arquivado em 4 de março de
+2016, no Wayback Machine., 19 de janeiro de 2013. Visitado: 23 de janeiro de 2013
+↑ a b Staff. Dell headquarters now carbon-free. New Mexico Business Weekly. Quarta-feira April 2 de abril de 2008.
+↑ Jacobs, Janet. Cash flow from Dell lets Round Rock boost budget. Austin American-Statesman. 9 de setembro de 1999. A1. . Almost half the citys general fund comes from sales tax at Dells headquarters,
+↑ a b Pope, Kyle. Dell chief disbands project. Austin American-Statesman. 25 de fevereiro de 1990. A1. Dell is headquartered at the Arboretum complex in North Austin and employs about 1200 people.
+↑ PC Magazine. Volume 12, 1993. 175. Dell Computer Corp., 9505 Arboretum Blvd., Austin, TX 78759.
+↑ Pope, Kyle. Dell plans expansion and move High-tech firm inks Braker Center deal. Austin American-Statesman. 24 de janeiro de 1989. B7. Dell occupies 127000 square feet of office space at the Arboretum.
+↑ Ladendorf, Kirk and R. Michelle Breyer. Despite document, Dell says no headquarters move planned. Austin American-Statesman. 22 de maio de 1993. E1.
+↑ Dell to keep top floor at Arboretum offices. Austin American-Statesman. August 29 de agosto de 1994. C1.
+↑ Ladendorf, Kirk and Mike Todd. Dell seeks space for expansion Firm makes proposal for tax abatements. Austin American-Statesman. 5 de novembro de 1992. B4. The lease on the companys headquarters building at the Arboretum expires in 1994.
+↑ Ladendorf, Kirk. Dell expanding in Central Texas. Austin American-Statesman. October 1, 1996. A1. Retrieved May 4, 2010.
+↑ Mahoney, Jerry. Dells success is Round Rocks gain. Austin American-Statesman. January 9, 1996. A1. Retrieved May 4, 2010. Dell will have room for 6400 employees when it finishes Round Rock 3 in November . The company, which still employs about 3500 people at its headquarters.
+↑ Mahoney, Jerry. Dell to expand its office complex. Austin American-Statesman. May 30, 1998. D1. Retrieved May 4, 2010.
+↑ Pletz, John. Dell moving executives closer to Austin. (Alternate link Arquivado em 4 de novembro de
+2012, no Wayback Machine.) Austin American-Statesman. May 9, 2000. A1. Retrieved May 4, 2010.
+↑ a b Dell seeks to sublease Las Cimas offices. Austin Business Journal. Friday March 8, 2002. Retrieved May 4, 2010.
+↑ Pletz, John. Article: Dell Leaders to Return to Round Rock, Texas, Campus. Arquivado em 4 de novembro de
+2012, no Wayback Machine. Austin American-Statesman. March 8, 2002. Retrieved May 4, 2010.
+↑ Hudgins, Matt. Dell space taken. Austin Business Journal. Friday May 9, 2003. Retrieved May 4, 2010.
+↑ «Dell Locations Corporate Web Site». .ap.dell.com. Consultado em 7 de maio de 2018. Arquivado do original em 21 de agosto de 2008
+↑ «EET India article on Dell». Eetindia.co.in. Consultado em 7 de maio de 2018. Arquivado do original em 15 de agosto de 2009
+↑ «#25 Michael Dell». The Worlds Billionaires 2009. 11 de março de 2009. Consultado em 21 de outubro de 2009. [Michael Dell] causou revolta na Irlanda depois de mudar a fábrica para a mais barata Polônia.
+↑ a b «How Dell conquered India». CNN. 10 de fevereiro de 2011
+↑ «Partner Direct». Dell. Consultado em 7 de maio de 2018
+↑ «Dell enables online purchases through DESA platform». The Times of India. 3 de junho de 2013
+↑ Dell launches online e-store Dell Express Ship Affiliate. The Hindu. 3 de junho de 2013
+↑ a b «Físico pede boicote a PCs da Dell». Consultado em 14 de Setembro de 2007. Arquivado do original em 15 de Setembro de 2007
+↑ «Manjaro Brasil • Exibir tópico - Manifesto contra o Fedora pela atitude xenofóbica». manjaro-linux.com.br. Consultado em 19 de agosto de 2018
+↑ «Cumprimento das leis de exportação dos EUA | McAfee». www.mcafee.com. Consultado em 19 de agosto de 2018
+↑ «Conformidade para a exportação». www.veritas.com. Consultado em 19 de agosto de 2018
+↑ «Controlo de exportação | Conformidade global | TNT Portugal». Envio de encomendas/documentos/paletes | Como enviar. Consultado em 19 de agosto de 2018
+↑ «Conformidade Comercial Normativa da AMD». www.amd.com. Consultado em 19 de agosto de 2018
+↑ Digitais, Web e Ponto - Soluçães. «OFAC - o alcance da legislação norte-americana sobre empresas no Brasil». ICI-BR. Consultado em 19 de agosto de 2018
+Ligações externas[editar | editar código-fonte]
+O Wikcionário tem o verbete dell.
+Media relacionados com Dell no Wikimedia Commons
+«Página oficial da Dell no Brasil»
+«Página oficial da Dell em Portugal»
+«Ministério do Brasil pede explicações à Dell sobre exigências a físicos»
+vdeDell Technologies
+Dell Inc.
+Dell EMC
+Pivotal Software
+VMware
+Computadores
+Alienware
+Inspiron
+Latitude
+OptiPlex
+XPS
+Precision
+Computadores descontinuados
+Adamo
+Dimension
+Inspiron Mini
+Studio
+Vostro
+Servidores
+PowerEdge
+M1000e blade-system
+PowerVault
+PowerEdge VRTX
+Clientes afiliados
+FX100
+Wyse
+Smartphones
+Streak
+Venue Pro
+Venue
+Aquisições
+Alienware
+EqualLogic
+EMC Corporation
+Perot Systems
+Quest KACE
+Dell Boomi
+Ocarina Networks
+Dell Compellent
+Force10
+SecureWorks
+Quest AppAssure
+Wyse
+SonicWall
+Outros
+PowerConnect switches
+Axim
+Digital Jukebox (DJ)
+Monitors
+Dell Support Center
+Dell Diamond
+vdeEmpresas de indústrias eletrônicas nos Estados Unidos
+Advanced Micro Devices
+Agilent
+Altera
+Amazon
+Analog Devices
+Apple
+Applied Materials
+Atmel
+Bell Labs
+Blu
+Broadcom
+Cypress
+Cray
+Dell
+Diodes Incorporated
+Dolby
+Electronic Arts
+EMC Corporation
+Fairchild
+Flextronics
+Freescale
+GE
+Harman International
+HP
+HGST
+IBM
+Intel
+Jabil Circuit
+JBL
+Juniper Networks
+Kimball International
+Kemet
+Kingston
+Kodak
+Lenovo
+Lexmark
+Logitech
+Marvell Technologies
+Maxtor
+Micron
+Motorola Mobility
+Microsoft
+National Semiconductor
+NetApp
+Nvidia
+Oracle
+Plexus
+Qualcomm
+SanDisk
+Sanmina-SCI
+Seagate
+Signetics
+Silicon Graphics
+Silicon Image
+Solectron
+Texas Instruments
+Western Digital
+Palm
+Verizon
+Xerox
+Xilinx
+Zebra Technologies
+Zilog
+vdeAs 50 maiores empresas do mundo pela Financial Times Global 500 de 2011ExxonMobil · Petrochina · Apple Inc. · ICBC · Petrobras · BHP Billiton · China Construction Bank · Royal Dutch Shell · Chevron · Microsoft · General Electric · Berkshire Hathaway · Nestlé · IBM · Gazprom · China Mobile · JP Morgan Chase · HSBC · Wal-Mart · AT&T · Procter & Gamble · Oracle · Vale · Wells Fargo · Johnson & Johnson · Pfizer · Coca Cola · Google · Bank of China · Vodafone · Rio Tinto · Novartis · Total · Banco Agrícola da China · Toyota · Samsung · BP · Bank of America · Citigroup · Roche · Schlumberger · Siemens · Philip Morris International · Telefónica · ConocoPhillips · CNOOC · Intel Corporation · Verizon Communications · Sinopec · PepsiCo · Merck · Itaú Unibanco
+vdeMaiores empresas de computadores, servidores e mainframesReceita anual acima de US$ 3 bilhõesComputadorespessoais e servidores
+Acer
+Apple
+Asus
+Dell
+Fujitsu
+Huawei
+HP
+Lenovo
+LG Electronics
+Microsoft
+NEC
+Panasonic
+Razer
+Samsung
+Toshiba
+VAIO
+Apenas servidores
+Cisco Systems
+Hewlett Packard Enterprise
+IBM
+Inspur
+Oracle
+Mainframes
+Fujitsu
+Hewlett Packard Enterprise
+IBM
+Categoria
+Obtida de https://pt.wikipedia.org/w/index.php?title=Dell&oldid=61603842
+Categorias: Empresas de eletrônicos dos Estados UnidosDellEmpresas fundadas em 1984Empresas ex-listadas na NASDAQProvedores de computação em nuvemCategorias ocultas: !Páginas com argumentos formatnum não numéricos!Predefinição Webarchive wayback links!Artigos a expandir!Artigos que carecem de notas de rodapé desde Abril de 2010!Artigos que carecem de notas de rodapé sem indicação de tema!Artigos que carecem de notas de rodapé desde maio de 2018
+Esta página foi editada pela última vez às 10h00min de 13 de julho de 2021.
+Este texto é disponibilizado nos termos da licença Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as condições de utilização.
+Política de privacidade
+Sobre a Wikipédia
+Avisos gerais
+Versão móvel
+Programadores
+Estatísticas
+Declaração sobre cookies');
+Document.create!(url: 'https://www.apple.com/br/', title: 'Apple (Brasil)', body: 'Apple (Brasil)
+Apple
+Global Nav Abrir Menu
+Global Nav Fechar Menu
+Apple
+Sacola
++
+Buscar em apple.com
+Cancelar
+Apple
+Loja
+Mac
+iPad
+iPhone
+Watch
+AirPods
+TV & Casa
+Exclusivo Apple
+Acessórios
+Suporte
+Sacola
++
+Cancelar
+iPhone 13 Pro
+Saiba mais
+Comprar
+iPhone 13
+Saiba mais
+Comprar
+Rodapé da Apple
+Descobrir e Comprar
+Abrir Menu
+Fechar Menu
+Loja
+Mac
+iPad
+iPhone
+Watch
+AirPods
+TV e Casa
+iPod touch
+AirTag
+Acessórios
+Serviços
+Abrir Menu
+Fechar Menu
+Apple Music
+Apple TV+
+Apple Fitness+
+Apple Arcade
+iCloud
+Apple One
+Apple Pay
+Livros
+Apple Podcasts
+App Store
+Sua conta
+Abrir Menu
+Fechar Menu
+Gerenciar seu ID Apple
+Conta da Apple Store
+iCloud.com
+Apple Store
+Abrir Menu
+Fechar Menu
+Encontre uma loja
+Genius Bar
+Today at Apple
+Apple Camp
+App Apple Store
+Financiamento
+Programa de Reciclagem da Apple
+Status do seu pedido
+Ajuda para comprar
+Para Empresas
+Abrir Menu
+Fechar Menu
+Apple e os negócios
+Comprar para a sua empresa
+Para a Educação
+Abrir Menu
+Fechar Menu
+Apple e a Educação
+Comprar para Educação Básica
+Comprar para a faculdade
+Para a Saúde
+Abrir Menu
+Fechar Menu
+Apple e a Saúde
+Saúde no Apple Watch
+Valores da Apple
+Abrir Menu
+Fechar Menu
+Acessibilidade
+Meio ambiente
+Privacidade
+Responsabilidade dos fornecedores
+Sobre a Apple
+Abrir Menu
+Fechar Menu
+Newsroom
+Liderança da Apple
+Oportunidades de Carreira
+Investidores
+Ética e Compliance
+Eventos
+Contato
+Outras formas de comprar: encontre uma Apple Store ou revendedor Apple na sua região. Ou ligue para 0800-761-0867. Rua Leopoldo Couto de Magalhães Jr., 700, 7º andar, Itaim Bibi. São Paulo, SP. CEP: 04542-000.
+Os Serviços de Mídia da Apple são fornecidos pela Apple Services LATAM LLC.
+Brasil
+Copyright ©
+2021
+Apple Inc. Todos os direitos reservados. Apple Computer Brasil Ltda. CNPJ: 00.623.904/0003-35
+Política de Privacidade
+Política de vendas
+Avisos legais
+Mapa do site');
+Document.create!(url: 'https://www.intel.com/content/www/us/en/homepage.html', title: 'Intel | Data Center Solutions, IoT, and PC Innovation', body: 'Intel | Data Center Solutions, IoT, and PC Innovation
+Skip To Main Content
+Intel Home
+Toggle Navigation
+Sign In
+Sign In
+Username
+Your username is missing
+Password
+Your password is missing
+By signing in, you agree to our Terms of Service.
+Remember me
+Forgot your Intel
+username
+or
+password?
+Frequently Asked Questions
+Do you work for Intel?
+Sign in here.
+Don’t have an Intel account?
+Sign up here
+for a basic account.
+My Intel
+My Tools
+?
+Sign Out
+USA (English)
+Select Your Region
+Asia Pacific
+Asia Pacific (English)
+Australia (English)
+India (English)
+Indonesia (Bahasa Indonesia)
+Japan (日本語)
+Korea (한국어)
+Mainland China (简体中文)
+Taiwan (繁體中文)
+Thailand (ไทย)
+Vietnam (Tiếng Việt)
+Europe
+France (Français)
+Germany (Deutsch)
+Ireland (English)
+Italy (Italiano)
+Poland (Polski)
+Russia (Русский)
+Spain (Español)
+Turkey (Türkçe)
+United Kingdom (English)
+Latin America
+Argentina (Español)
+Brazil (Português)
+Chile (Español)
+Colombia (Español)
+Latin America (Español)
+Mexico (Español)
+Peru (Español)
+Middle East/Africa
+Israel (עברית)
+North America
+United States (English)
+Canada (English)
+Canada (Français)
+Toggle Search
+Search
+<
+Top Results
+Sign In to access restricted content
+Using Intel.com Search
+You can easily search the entire Intel.com site in several ways.
+Brand Name:
+Core i9
+Document Number:
+123456
+Code Name:
+Kaby Lake
+Special Operators:
+“Ice Lake”, Ice AND Lake, Ice OR Lake, Ice*
+Quick Links
+You can also try the quick links below to see results for most popular searches.
+Download Center
+Product Specifications
+Products
+Support
+Recent Searches
+Sign In to access restricted content
+The browser version you are using is not recommended for this site.Please consider upgrading to the latest version of your browser by clicking one of the following links.
+Safari
+Chrome
+Edge
+Firefox
+Innovation Starts Here
+Immerse yourself in the latest technologies and trends at our exciting, new educational tech event for developers and industry insiders.
+Learn more
+Get Support
+Product Specs
+See Products
+Community
+Download Center
+Innovation
+Processors in the Intel vPro® Platform
+Intel® Core™ vPro® processors are at the heart of the Intel vPro® platform. They’re designed to deliver the responsive performance and reliable connectivity business users need to stay in the flow—and be productive all day long.
+The Intel vPro® Platform: Built for Business
+Powering the unrivaled Intel vPro® platform.
+11th Gen Intel® Core™ vPro® Mobile Processors & Intel® Xeon® W-11000 Processors for Mobile Workstations
+The Intel vPro® platform gives your business what it needs to thrive and goes to work right out of the box.
+11th Gen Intel® Core™ vPro® Processors
+Today, more businesses and outsourced IT service providers are discovering how the built-in benefits of the Intel vPro® platform can support today’s needs and scale to provide a reliable foundation for growth and business continuity.
+Innovation
+Welcome to Developer Zone
+A new Developer Experience that has been designed to deliver content, tools, and training in one, easy to access place.
+Innovation
+Intel Breaks Apples Spell #goPC
+Mac users may unknowingly make trade-offs when it comes to their computers. Once we show them what theyre missing, the choice becomes clear.
+Innovation
+Laptops. Evolved.
+Welcome to the Era of Intel® Evo™ Laptops. Thin, light, and fast premium laptops that go everywhere and have everything so you can do it all.
+Innovation
+It All Started in the Intel Cafeteria: How Darryl Adams Is Championing Inclusive PC Design
+Intel’s accessible computing innovation program is driving inclusive technology in PC design.
+Get Help
+Company Information
+Our Commitment
+Diversity & Inclusion
+Communities
+Investor Relations
+Contact Us
+Newsroom
+Jobs
+© Intel Corporation
+Terms of Use
+*Trademarks
+Cookies
+Privacy
+Supply Chain Transparency
+Site Map
+Intel technologies may require enabled hardware, software or service activation. // No product or component can be absolutely secure. // Your costs and results may vary. // Performance varies by use, configuration and other factors. // See our complete legal Notices and Disclaimers. // Intel is committed to respecting human rights and avoiding complicity in human rights abuses. See Intel’s Global Human Rights Principles. Intel’s products and software are intended only to be used in applications that do not cause or contribute to a violation of an internationally recognized human right.');
+Document.create!(url: 'https://abc.xyz/', title: 'Alphabet', body: 'Alphabet
+Alphabet
+Investors
+is for Google
+As Sergey and I wrote in the original founders letter 11 years ago, “Google is not a conventional company. We do not intend to become one.” As part of that, we also said that you could expect us to make “smaller bets in areas that might seem very speculative or even strange when compared to our current businesses.” From the start, we’ve always strived to do more, and to do important and meaningful things with the resources we have. more
+We did a lot of things that seemed crazy at the time. Many of those crazy things now have over a billion users, like Google Maps, YouTube, Chrome, and Android. And we haven’t stopped there. We are still trying to do things other people think are crazy but we are super excited about.
+We’ve long believed that over time companies tend to get comfortable doing the same thing, just making incremental changes. But in the technology industry, where revolutionary ideas drive the next big growth areas, you need to be a bit uncomfortable to stay relevant.
+Our company is operating well today, but we think we can make it cleaner and more accountable. So we are creating a new company, called Alphabet. I am really excited to be running Alphabet as CEO with help from my capable partner, Sergey, as President.
+What is Alphabet? Alphabet is mostly a collection of companies. The largest of which, of course, is Google. This newer Google is a bit slimmed down, with the companies that are pretty far afield of our main internet products contained in Alphabet instead. What do we mean by far afield? Good examples are our health efforts: Life Sciences (that works on the glucose-sensing contact lens), and Calico (focused on longevity). Fundamentally, we believe this allows us more management scale, as we can run things independently that aren’t very related.
+Alphabet is about businesses prospering through strong leaders and independence. In general, our model is to have a strong CEO who runs each business, with Sergey and me in service to them as needed. We will rigorously handle capital allocation and work to make sure each business is executing well. We’ll also make sure we have a great CEO for each business, and we’ll determine their compensation. In addition, with this new structure we plan to implement segment reporting for our Q4 results, where Google financials will be provided separately than those for the rest of Alphabet businesses as a whole.
+This new structure will allow us to keep tremendous focus on the extraordinary opportunities we have inside of Google. A key part of this is Sundar Pichai. Sundar has been saying the things I would have said (and sometimes better!) for quite some time now, and I’ve been tremendously enjoying our work together. He has really stepped up since October of last year, when he took on product and engineering responsibility for our internet businesses. Sergey and I have been super excited about his progress and dedication to the company. And it is clear to us and our board that it is time for Sundar to be CEO of Google. I feel very fortunate to have someone as talented as he is to run the slightly slimmed down Google and this frees up time for me to continue to scale our aspirations. I have been spending quite a bit of time with Sundar, helping him and the company in any way I can, and I will of course continue to do that. Google itself is also making all sorts of new products, and I know Sundar will always be focused on innovation—continuing to stretch boundaries. I know he deeply cares that we can continue to make big strides on our core mission to organize the world’s information. Recent launches like Google Photos and Google Now using machine learning are amazing progress. Google also has some services that are run with their own identity, like YouTube. Susan is doing a great job as CEO, running a strong brand and driving incredible growth.
+Sergey and I are seriously in the business of starting new things. Alphabet will also include our X lab, which incubates new efforts like Wing, our drone delivery effort. We are also stoked about growing our investment arms, Ventures and Capital, as part of this new structure.
+Alphabet Inc. will replace Google Inc. as the publicly-traded entity and all shares of Google will automatically convert into the same number of shares of Alphabet, with all of the same rights. Google will become a wholly-owned subsidiary of Alphabet. Our two classes of shares will continue to trade on Nasdaq as GOOGL and GOOG.
+For Sergey and me this is a very exciting new chapter in the life of Google—the birth of Alphabet. We liked the name Alphabet because it means a collection of letters that represent language, one of humanity’s most important innovations, and is the core of how we index with Google search! We also like that it means alpha‑bet (Alpha is investment return above benchmark), which we strive for! I should add that we are not intending for this to be a big consumer brand with related products—the whole point is that Alphabet companies should have independence and develop their own brands.
+We are excited about…
+Getting more ambitious things done.
+Taking the long-term view.
+Empowering great entrepreneurs and companies to flourish.
+Investing at the scale of the opportunities and resources we see.
+Improving the transparency and oversight of what we’re doing.
+Making Google even better through greater focus.
+And hopefully… as a result of all this, improving the lives of as many people as we can.
+What could be better? No wonder we are excited to get to work with everyone in the Alphabet family. Don’t worry, we’re still getting used to the name too!');
+Document.create!(url: 'https://www.ibm.com/br-pt', title: 'IBM - Brasil | IBM', body: 'IBM - Brasil | IBM
+IBM®
+Mapa do sítio
+IBM
+Apresentando: Data & AI Hub
+O portal da IBM com conteúdos exclusivos sobre dados e inteligência artificial feito especialmente para você. Junte-se a nossa comunidade de data lovers.
+Quero conhecer
+Maratona Behind the Code 2021: As inscrições já estão abertas! Não perca!
+Inscreva-se aqui
+Conheça a IBM
+Sustentabilidade e IT reacondicionados
+Reduza o impacto ambiental da sua empresa com soluções de armazenamento e servidores Seminovos Certificados IBM.
+Explore nosso inventário disponível
+Data and AI Virtual Forum
+Um forum para bancos, seguradoras, e mercados financeiros.
+Descubra como usar a IA com confiabilidade para acelerar a transformação digital.
+Inscreva-se aqui
+Conheça o IBM Play!
+O IBM Play é um hub de conteúdo técnico.
+Acesse conteúdo gratuito e aprimore seu diferencial técnico.
+Saiba mais
+Blog Transformação Digital
+Cultura do encantamento: como o Magalu humaniza seus bots.
+Leia agora
+ChangeCast
+Podcasts sobre Transformação Digital.
+Um bate-papo entre especialistas do mercado e da IBM.
+Ouça agora
+Conheça as versões de teste e as ofertas do produto
+IBM Cloud
+Veja o verdadeiro valor da cloud e da IA para os seus negócios
+Comece a usar com um plano Lite gratuito
+IBM Cloud Pak for Data
+Acelere a sua jornada para IA com uma plataforma de dados nativa da cloud
+Experimente grátis
+IBM Watson Assistant
+Ajude os seus clientes em qualquer canal com bate-papo e voz desenvolvidos com IA
+Comece a usar gratuitamente
+IBM Security Verify
+Gerencie acesso ao aplicativo híbrido com uma solução IDaaS
+Obtenha acesso gratuito por 90 dias
+Conheça as tecnologias populares e de tendência
+Ferramentas para desenvolvedores
+Recursos de Cloud Computing
+Recursos de Inteligência Artificial
+Demos
+IBM Developer
+Documentação
+Redbooks
+Suporte
+Treinamento e habilidades
+Ferramentas para negócios
+Cloud
+Cloud Híbrida
+IBM Watson
+IBM Garage
+Data & Analytics
+Segurança
+Financiamento
+Institute for Business Value
+Tendência em tecnologia
+Saiba o que é Cloud Computing
+Saiba o que é a Cloud Híbrida
+Saiba o que é Kubernetes
+Red Hat
+Inteligência artificial
+Computação quântica
+SPSS
+Blockchain
+Carreiras
+Uma organização, um ponto de controle
+O IBM Multicloud Management mostra sistemas existentes e diferentes clouds em um único painel de controle
+Veja como funciona para a Coca-Cola European Partners
+Mais casos de sucesso do cliente
+Em todas as indústrias e em todo o mundo, a IBM ajuda as empresas a cumprirem seus objetivos
+Veja como a tecnologia da IBM está impulsionando soluções do mundo real
+Preferências de cookies');
+Document.create!(url: 'https://www.oracle.com/br/index.html', title: 'Oracle Brasil | Integrated Cloud Applications and Platform Services', body: 'Oracle Brasil | Integrated Cloud Applications and Platform Services
+página inicial
+nav
+Oracle
+Fechar
+Pesquisar
+Pesquisar
+Produtos
+Indústrias
+Recursos
+Suporte
+Eventos
+Desenvolvedor
+Exibir ContasFazer Login
+Voltar
+Conta da Oracle
+Conta na Nuvem
+Faça login na Nuvem
+Inscreva-se no Modo Gratuito na Nuvem
+Fazer Login
+Criar uma Conta
+Ajuda
+Sair da Conta
+Fale com um consultor Oracle
+Nenhum resultado encontrado
+Sua pesquisa não corresponde a nenhum resultado.
+Sugerimos que você tente o seguinte para ajudar a encontrar o que procura:
+Verifique a ortografia da sua pesquisa por palavra-chave.
+Use sinônimos para a palavra-chave digitada; por exemplo, tente “aplicativo” em vez de “software.”
+Tente uma das pesquisas populares mostradas abaixo.
+Inicie uma nova pesquisa.
+Perguntas Frequentes
+Fechar
+Oracle CloudInfrastructure
+Taxas baixas de rede de dados e migração automatizada
+A plataforma Oracle Cloud Infrastructure foi criada para empresas que buscam computação de alto desempenho com fácil migração de seus aplicativos on-premise para a nuvem.
+Cloud Infrastructure overview
+Faça login na Nuvem
+Experimente o Modo Gratuito
+Em Destaque
+Banco de Dados Autônomo
+Elimine a complexidade e os erros humanos com nosso banco de dados autônomo,com autorreparo e autoproteção.
+Oracle Cloud - Nível Gratuito
+Crie, teste e implemente aplicativos no Oracle Cloud - gratuitamente.
+Cloud@Customer
+Aproveite a inovação na nuvem pública, garanta a proteção do data center privado.
+Análise Avançada
+Capacite analistas e usuários da linha de negócios com informações baseadas em IA.
+Segurança na nuvem
+Descubra como a segurança em várias camadas bloqueia seus dados no Oracle Cloud.
+Aplicativos em Nuvem
+Pacote completo de aplicativos integrados
+Simplifique o processo de negócios da sua empresa. Com ERP Financials, Procurement, Project Portfolio Management e muito mais, você pode aumentar a produtividade, reduzir os custos e melhorar os controles.
+Visão geral de Aplicativos em Nuvem
+Em Destaque
+Com o Estresse dos Funcionários Aumentando, a Tecnologia Vai Dar Apoio à Saúde Mental?
+Estima-se que 78% dos funcionários estejam sendo afetados negativamente no trabalho neste ano por causa da saúde mental; saiba como eles estão recorrendo à IA para receber apoio.
+ERP (Enterprise Resource Planning, Planejamento de recursos empresariais)
+O Oracle ERP Cloud aproveita as tecnologias emergentes para fornecer informações em tempo real
+HCM (Human Capital Management, Gerenciamento de capital humano)
+O Oracle HCM Cloud oferece experiência humana no local de trabalho para apoiar a agilidade dos negócios.
+Experiência do Cliente (CX)
+O Oracle CX Cloud oferece experiências lendárias aos clientes em vendas, serviços, comércio e marketing.
+Acelere a transformação digital da sua empresa com soluções na nuvem
+Já pensou em ter todas as áreas e pessoas da sua empresa integradas com agilidade e inteligência de dados? A Oracle pode ajudar.
+Descubra como
+Apresentação do Java 17
+O mais recente lançamento de suporte de longo prazo desta plataforma popular e linguagem de programação já está disponível.
+Saiba mais
+Obtenha o Java agora
+Treinamento e Certificação gratuitos da Oracle Cloud Infrastructure
+Aprimore suas habilidades técnicas e aumente seu potencial de ganhos aproveitando o treinamento OCI gratuito e, por um tempo limitado, a certificação gratuita.
+Comece a aprender
+Experimente o Oracle Cloud - Modo Gratuito
+O Oracle Cloud - Modo Gratuito permite que qualquer pessoa crie, teste e implemente aplicativos na Oracle Cloud - gratuitamente. Inscreva-se uma vez e tenha acesso a duas ofertas gratuitas.
+Comece seu teste hoje
+Recursos para
+Carreiras
+Desenvolvedores
+Investidores
+Parceiros
+Startups
+Estudantes e Educadores
+Por que Oracle
+Relatórios de Analistas
+Gartner MQ para ERP Cloud
+Responsabilidade Corporativa
+Diversidade e Inclusão
+Práticas de Segurança
+Aprenda
+O que é computação em nuvem?
+O que é CRM?
+O que é Docker?
+O que é Kubernetes?
+O que é Python?
+O que é SaaS?
+Novidades
+Experimente o Oracle Cloud - Modo Gratuito (Free Tier)
+Oracle Arm Processors
+Oracle e Premier League
+Oracle e Red Bull Racing Honda
+Plataforma de Experiência do Funcionário
+Oracle Support Rewards
+Entre em Contato
+Vendas: 0800-891-4433
+Como podemos ajudar?
+Inscreva-se para receber e-mails
+Eventos
+Notícias
+Blogs
+País/Região
+© 2021 Oracle
+Mapa do Site
+Termos de Uso e Privacidade
+Opções de Anúncios
+Carreiras
+Facebook
+Twitter
+LinkedIn
+YouTube');
+Document.create!(url: 'https://pt.wikipedia.org/wiki/Bororos', title: 'Bororos – Wikipédia, a enciclopédia livre', body: 'Bororos – Wikipédia, a enciclopédia livre
+Saltar para o conteúdo
+Alternar barra lateral
+Busca
+Links do usuário
+Criar uma conta
+Ferramentas pessoais
+expandido
+collapsed
+Criar uma conta
+Entrar
+Páginas para editores conectados saiba mais
+DiscussãoContribuições
+Navegação
+Página principalConteúdo destacadoEventos atuaisEsplanadaPágina aleatóriaPortaisInformar um erro
+Colaboração
+Boas-vindasAjudaPágina de testesPortal comunitárioMudanças recentesManutençãoCriar páginaPáginas novasContatoDonativos
+Ferramentas
+Páginas afluentesAlterações relacionadasCarregar ficheiroPáginas especiaisHiperligação permanenteInformações da páginaCitar esta páginaElemento Wikidata
+Imprimir/exportar
+Criar um livroDescarregar como PDFVersão para impressão
+Noutros projetos
+Wikimedia Commons
+Espaços nominais
+ArtigoDiscussão
+Variantes
+expandido
+collapsed
+Vistas
+LerEditarEditar código-fonteVer histórico
+Mais
+expandido
+collapsed
+23 idiomas
+expandido
+collapsed
+مصرىCatalàČeštinaDeutschEnglishEsperantoEspañolEuskaraFrançaisGalegoHrvatskiՀայերենItalianoქართულიLietuviųNederlandsPolskiRomânăРусскийSrpskohrvatski / српскохрватскиСрпски / srpskiSvenskaУкраїнська
+Editar hiperligações
+Bororos
+Origem: Wikipédia, a enciclopédia livre.
+Nota: Bororó redireciona a este artigo. Para o músico conhecido como Bororó, veja Alberto de Castro Simões da Silva.
+Bororos(Coxiponé, Araripoconé, Araés, Cuiabá, Coroados, Porrudos, Boe)
+Índio Bororo, por Hercules Florence, pintor francês, durante a Expedição Langsdorff à Amazônia (1825 - 1829).
+População total
+1.817 (Siasi/Sesai, 2012)[1]
+Regiões com população significativa
+Brasil (MT)
+1.817
+Siasi/Sesai, 2014[2]
+Línguas
+Bororo, português
+Religiões
+Índia bororo, 1946.
+Os bororos, otuques, bororós ou boe (autodenominação) são um povo indígena que habita o estado de Mato Grosso, no Brasil.[1][3] Falam a língua bororo, autodenominada boe wadáru, que pode pertencer aos troncos linguístico macro-jê.[4]
+Índice
+1 Etimologia
+2 Características gerais
+2.1 História e distribuição dos povos
+2.2 Organização social
+3 Referências
+4 Ligações externas
+Etimologia[editar | editar código-fonte]
+O nome bororo é um nome dado pelos não índios, surgido quando os exploradores perguntaram qual o nome do povo, e o indígena teria entendido qual era o nome do local onde estavam: eles estavam no bororó, que, para a língua bororo, significa pátio da aldeia.[1]
+Características gerais[editar | editar código-fonte]
+Os bororos habitam a região do planalto central de Mato Grosso. Falam a língua portuguesa. Estão distribuídos em cinco terras indígenas demarcadas: Jarudore, Meruri, Tadarimana, Tereza Cristina e Perigara. Sua população atualmente é de cerca de 2 000 indivíduos. São tradicionalmente caçadores e coletores, porém adaptaram-se à agricultura, da qual extraem sua subsistência. Destacam-se pela confecção de seu artesanato de plumagem (conjunto de penas que reveste uma ave) e também pela pintura corporal em argila.
+História e distribuição dos povos[editar | editar código-fonte]
+Os antigos bororos distribuíam-se por extensa região compreendida entre a Bolívia, a oeste; o rio Araguaia, o rio das Mortes, ao norte; e o rio Taquari, ao sul.
+Os bororos ocidentais, viviam na margem leste do rio Paraguai, onde os jesuítas espanhóis fundaram missões. Muito amigáveis, serviam de guia aos não índios, trabalhavam nas fazendas da região e eram aliados dos bandeirantes. Desapareceram como povo tanto pelas moléstias contraídas quanto pelos casamentos com não índios.
+Banquete funeral de índios bororos em gravura de Friedrich Wilhelm Kuhnert (1865-1926)
+Os bororós orientais habitavam, tradicionalmente, vasto território que ia da Bolívia, a oeste, ao rio Araguaia, a leste e do rio das Mortes, ao norte, ao rio Taquari, ao sul. Ao contrário dos bororos ocidentais, eram citados nos relatórios dos presidentes da província de Cuiabá como nômades bravios e indomáveis, que dificultavam a colonização. Foram organizadas várias expedições de extermínio. Estimados na época em dez mil índios, os bororos sofreram várias guerras e epidemias, com uma história de muita resistência ao avanço das frentes e expansão de territórios, até sua pacificação, no fim do século XIX, quando foram reunidos nas colônias militares de Teresa Cristina e Isabel e estimados pelas autoridades em cinco mil pessoas. Entregues aos salesianos para catequese, em 1910, os bororos somavam dois mil índios. Em 1990, com uma população de aproximadamente 930 pessoas, viviam no estado de Mato Grosso.
+Organização social[editar | editar código-fonte]
+Bororo durante a nona edição dos Jogos dos Povos Indígenas em 2006
+O povo obedece a uma organização social rígida. A aldeia é dividida em duas partes – eceráe e tugarége – que, por sua vez, se subdividem em clãs com deveres muito bem definidos. Eles reconhecem a liderança de dois chefes hereditários que sempre pertencem à metade eceráe, conforme determinam seus mitos. Dentro de cada clã, há uma comunhão de bens culturais (nomes, cantos, pinturas, adornos, enfeites, seres da natureza) que só podem ser usados pelos membros desse determinado clã, a não ser que este direito seja participado a outras pessoas em pagamento por favores recebidos.
+Praticam diversos rituais, como:
+a Festa do Milho, para celebrar a colheita do cereal, que é um alimento importante na nutrição dos índios;
+a Perfuração de Orelha e Lábios;
+o Ritual do Funeral, uma celebração sagrada para todos que se consideram índios.
+O funeral dos bororos é o que mais chama atenção pela complexidade, podendo durar até dois meses. A morte de alguém pode provocar mudanças ou reforçar as alianças.
+Referências
+↑ a b c Instituto Socioambiental. Povos Indígenas no Brasil.
+Bororo - Introdução. Por Paulo Serpa, janeiro de 2001.
+↑ Instituto Socioambiental. «Quadro Geral dos Povos». Enciclopédia dos Povos Indígenas no Brasil. Consultado em 17 de setembro de 2017
+↑ FERREIRA, A. B. H. Novo dicionário da língua portuguesa. 2ª edição. Rio de Janeiro. Nova Fronteira. 1986. p. 276.
+↑ Instituto Socioambiental. Povos Indígenas no Brasil. Bororo- Língua. Por Paulo Serpa, janeiro de 2001.
+Ligações externas[editar | editar código-fonte]
+Outros projetos Wikimedia também contêm material sobre este tema:
+Categoria no Commons
+Commons
+«Povos Indígenas no Brasil - Bororo»
+Acervo Etnográfico Museu do Índio - Bororos
+vdePovos indígenas do BrasilGrupos étnicosMacro-tupi
+Mondés
+Aruás
+Cintas-largas/Matetamãe
+Ikolen
+Tupi-guaranis
+Amanaiés/Araradeuas
+Anambés
+Apiacás
+Akwáwa (Suruís-aiqueuaras - Assurinis do Tocantins)
+Arauetés/Bïde
+Assurinis do Xingu/Awaetes
+Avás-canoeiros/Carijós
+Awá-Guajá
+Carijós*
+Cauaíbes (Uru-eu-wau-waus)
+Guaranis (Kaiowás/Paí-tavyterã - Mbiás - Nhandevas)
+Guajajaras/Tenetearas
+Tupis* (Tupinambás* - Tupiniquins - Caetés* - Tamoios* - Potiguaras - Temiminós* - Tabajaras*?)
+Outros
+Curuaias
+Mundurucus
+Tapajós*
+Macro-jê
+Jês
+Aquém (Xavantes - Xerentes)
+Caingangues
+Tapaiúnas
+Timbiras (Apinajés - Apaniecras-Canelas/Timbiras - Paracatejê-gavião - Pucobié-gavião - Kyikatejê-gavião - Rancocamecras-canelas/Timbiras)
+Povo iny
+Carajás
+Javaés
+Xambioás
+Tapuias*
+Aimorés*
+Botocudos*
+Cariris*
+Geréns*
+Tarairiús*
+Outros
+Coropós*
+Crenaques
+Goitacases*
+Maxacalis
+Puris*
+Ricbactas
+Outros grupos
+Arauás
+Banauás
+Jamamadis
+Aruaques
+Apurinãs/Popukares
+Ashaninca
+Baníuas/Walimanais
+Barés/Haneras
+Enawenê-nawê
+Guanás
+Exoaladis* - Exoaladis* - Quiniquinaus - Terenas
+Manaós*
+Uapixanas
+Caribes
+Aparaís
+Bacairis/Kurâs
+Galibis do Oiapoque/Calinãs
+Cariris?*
+Aconãs
+Aticuns-umãs
+Caimbés
+Calabaças
+Carapotós
+Cariris-xocós
+Jucás
+Pancarás
+Pataxós-hã-hã-hães
+Quiriris
+Tingui-botós
+Trucás
+Tumbalalás
+Uassus/Wassus
+Xucurus-cariris
+Charruas*
+Guenoas*
+Minuanos*
+Embaiás
+Cadiuéus
+Guatiedéos*
+Beaquéos*
+Cataguéos*
+Macus
+Dous
+Hupdás
+Camãs
+Nadobs
+Iuhupdes)
+Panos
+Shawadauas
+Kuntanawa
+Tucanos
+Arapaços
+Barás/Waípinõmakãs
+Barasanas/Panenoás
+Desanos
+Tuparis
+Acuntsu
+Ajurus
+Outros
+Aicanãs
+Aranãs
+Araras/Ukarãngmãs
+Araras do Aripuanã
+Araras do Maia
+Aricapus
+Auetis/Enumaniás
+Bororos/Boes
+Bugres
+Caiapós
+Canoeiros
+Catuquinas
+Chiquitanos/Chiquitos
+Coroados
+Crateús*
+Fulniôs
+Galibis-maruornos/Aruás
+Guaianás*
+Guaicurus*
+Guatós
+Ianomâmis
+Djeoromitxí/Jabutis
+Javaés
+Kwazá
+Kuripakos
+Kujubim
+Muras
+Paiaguás
+Pancararus
+Ticunas
+Tremembés
+Tuxás
+Xocós
+Xucurus
+Culturas
+arqueológicas
+Humaitá
+Polícroma da Amazônia/Marajoara
+Umbu
+Vieira
+Organizações
+Indígenas: APIB
+COIAB
+Comitê Intertribal
+De apoio: CIMI
+ISA
+Governamentais: SPI
+FUNAI
+FUNASA
+Tópicos relacionados
+Línguas indígenas do Brasil
+Lista de terras indígenas do Brasil
+História pré-cabralina do Brasil
+Dia do Índio
+Estatuto do Índio
+Jogos dos Povos Indígenas
+Medicina ameríndia
+*: extintos; ?*: reivindicados; Aspas: grupos heterogêneos
+Portal dos povos nativos do Brasil
+Portal da antropologia
+Portal do Brasil
+Obtida de https://pt.wikipedia.org/w/index.php?title=Bororos&oldid=61756411
+Categoria: Bororos
+Esta página foi editada pela última vez às 21h17min de 1 de agosto de 2021.
+Este texto é disponibilizado nos termos da licença Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as condições de utilização.
+Política de privacidade
+Sobre a Wikipédia
+Avisos gerais
+Versão móvel
+Programadores
+Estatísticas
+Declaração sobre cookies');
+Document.create!(url: 'https://pt.wikipedia.org/wiki/Tupiniquins', title: 'Tupiniquins – Wikipédia, a enciclopédia livre', body: 'Tupiniquins – Wikipédia, a enciclopédia livre
+Saltar para o conteúdo
+Alternar barra lateral
+Busca
+Links do usuário
+Criar uma conta
+Ferramentas pessoais
+expanded
+collapsed
+Criar uma conta
+Entrar
+Páginas para editores conectados saiba mais
+DiscussãoContribuições
+Navegação
+Página principalConteúdo destacadoEventos atuaisEsplanadaPágina aleatóriaPortaisInformar um erro
+Colaboração
+Boas-vindasAjudaPágina de testesPortal comunitárioMudanças recentesManutençãoCriar páginaPáginas novasContatoDonativos
+Ferramentas
+Páginas afluentesAlterações relacionadasCarregar ficheiroPáginas especiaisHiperligação permanenteInformações da páginaCitar esta páginaElemento Wikidata
+Imprimir/exportar
+Criar um livroDescarregar como PDFVersão para impressão
+Espaços nominais
+ArtigoDiscussão
+Variantes
+expanded
+collapsed
+Vistas
+LerEditarEditar código-fonteVer histórico
+Mais
+expanded
+collapsed
+10 idiomas
+expanded
+collapsed
+БеларускаяБългарскиEnglishEsperantoFrançaisHrvatskiBahasa IndonesiaItalianoქართულიSrpskohrvatski / српскохрватски
+Editar hiperligações
+Tupiniquins
+Origem: Wikipédia, a enciclopédia livre.
+Tupiniquins
+Jovens tupiniquins dançam, festejando a demarcação de suas terras, em 2007 (Valter Campanato/ABr)
+População total
+2 630 (Funasa, 2010)[1]
+Regiões com população significativa
+Aracruz, no Espírito Santo, no Brasil
+Línguas
+português
+Religiões
+Os tupiniquins, também chamados tupinaquis, topinaquis e tupinanquins,[2] são um grupo indígena brasileiro que pertencem à nação tupi.[3] Eles habitavam, por volta do século XVI, duas regiões do litoral do Brasil: o sul do atual estado da Bahia e o litoral do atual estado de São Paulo entre Cananéia e Bertioga, além da zona de campos no topo da serra ao lado desta última região.[4] Foram o grupo indígena com o qual se deparou a esquadra portuguesa de Pedro Álvares Cabral, em 23 de abril de 1500.[5] Atualmente, habitam terras indígenas no município de Aracruz, no norte do estado do Espírito Santo, no Brasil.
+Índice
+1 Etimologia
+2 História
+3 Situação atual
+4 Notas e referências
+5 Ligações externas
+Etimologia[editar | editar código-fonte]
+Segundo Antenor Nascentes, o termo tupiniquim
+da expressão tupin-i-ki, significando tupi ao lado, vizinho lateral (in: Dicionário Etimológico Brasileiro[6]). Silveira Bueno dá sua raiz na expressão tupinã-ki, ou tribo colateral, o galho dos tupi (in: Dicionário Etimológico-Prosódico da Língua Portuguesa[6]). Eduardo de Almeida Navarro sugere a etimologia os que invocam Tupi, pela junção de Tupi (nome de um personagem mítico ancestral das tribos tupis) e ekyîa ou ikyîa (invocar).[7]
+História[editar | editar código-fonte]
+Os tupiniquins tiveram importante participação na colonização portuguesa da região de Santos e Bertioga no século XVI e na fundação da cidade de São Paulo, em 1554, pelo padre jesuíta Manuel da Nóbrega. Eram aliados dos colonizadores portugueses.[8] O pesquisador Carlos Augusto da Rocha Freire consignou que os tupiniquins ocupassem, no século XVI, terras situadas entre o atual município baiano de Camamu e o Rio São Mateus (ou Rio Cricarê), no atual estado do Espírito Santo. Foram catequizados por jesuítas em Aldeia Nova, sofrendo com pragas endógenas (como a varíola) e exógenas (como as formigas, que lhes destruíram as plantações). Serafim Leite consignara, em História da Companhia de Jesus no Brasil, que o Acampamento dos Reis Magos era, quase todo, composto por tupiniquins.[6]
+Em 1610, o padre João Martins obteve, para os nativos, uma sesmaria, mensurada somente em 1760. O principal centro desse território era a vila de Nova Almeida, que, na data de sua demarcação, contava com 3 000 habitantes. Auguste de Saint-Hilaire registra, no início do século XIX, sua existência.[6] Em meados do século XIX, o pintor François-Auguste Biard anotou sua presença em famílias dispersas, junto a imigrantes italianos.[6]
+No século XX, o Serviço de Proteção aos Índios instalou, no Espírito Santo meridional, uma de suas zonas de atuação, sendo encontrados, em 1924, alguns tupiniquins.[6]
+Situação atual[editar | editar código-fonte]
+Sua população, em 1997, estava por volta de 1.386 indivíduos. Em 2010, por volta de 2.360. No passado, falavam a língua tupi litorânea, da família Tupi-Guarani, mas, atualmente, usam apenas o português.[6] Foram tolhidos de suas terras, o que resultou no acampamento em protesto, junto a índios guaranis do Espírito Santo, defronte ao Ministério da Justiça, reivindicando a efetivação da reserva indígena.[9]
+Em 28 de agosto de 2007, o governo demarcou as terras reivindicadas pelos tupiniquins, que ficaram acampados em área usada para a plantação de eucaliptos da empresa Aracruz Celulose.[10]
+Em média, o material genético dos tupiniquins do Espírito Santo é composto por 51% de DNA de origem nativa americana, 26% de origem europeia e 23% de origem africana. O primeiro grande pulso de miscigenação teve início no século XVIII, condizendo com o ciclo da mineração, a segunda aconteceu a partir de 1808, com a Transferência da corte portuguesa para o Brasil e a intensificação do tráfico de escravos. O terceiro e último pulso começou em fins do século XIX, com a Abolição da escravatura no Brasil e a crescente imigração e chegada de imigrantes europeus.[11]
+Localização original dos povos tupiniquins, no século XVI
+Distribuição dos grupos de língua tupi na costa brasileira, no século XVI
+Etnias indígenas mais populosas no Leste-Nordeste brasileiro, atualmente
+onfrontação entre o território tupiniquim demarcado e as áreas ocupadas pela Aracruz Celulose (em cinza)
+O cacique Jaguaretê, em Brasília, em 2007
+Índios repovoam sua terra tradicional após acordo com a Aracruz Celulose no Espírito Santo - Foto: Valter Campanato/Abr
+Notas e referências
+↑ Povos indígenas no Brasil. Disponível em http://pib.socioambiental.org/pt/povo/tupiniquim/1096. Acesso em 23 de janeiro de 2015.
+↑ Povos indígenas no Brasil. Disponível em http://pib.socioambiental.org/pt/povo/tupiniquim/1095. Acesso em 23 de janeiro de 2015.
+↑ SILVA, Valdemir de Almeida. Etnologia indígena: revitalização da identidade cultural e linguística Tupinikim do Espírito Santo. 2016. 145 f., il. Dissertação (Mestrado em Linguística)—Universidade de Brasília, Brasília, 2016.
+↑ BUENO, E. Capitães do Brasil: a saga dos primeiros colonizadores. Rio de Janeiro. Objetiva. 1999. p. p. 60.
+↑ BUENO, E. A viagem do descobrimento: a verdadeira história da expedição de Cabral. Rio de Janeiro. Objetiva. 1998. p. 91.
+↑ a b c d e f g Enciclopédia de povos indígenas, acessada em 27 de janeiro de 2008
+↑ NAVARRO, E. A. Dicionário de tupi antigo: a língua indígena clássica do Brasil. São Paulo. Global. 2013. p. 484.
+↑ BUENO, E. A coroa, a cruz e a espada. Rio de Janeiro. Objetiva. 2006. p. 186.
+↑ Notícial, Agência Brasil, consultada em 27 de janeiro de 2008.
+↑ Notícia, Agéncia Brasil, consultada em 27 de janeiro de 2008.
+↑ «Os últimos Tupiniquim | Revista Pesquisa Fapesp». revistapesquisa.fapesp.br. Consultado em 31 de janeiro de 2020
+Ligações externas[editar | editar código-fonte]
+Acervo Etnográfico Museu do Índio - Tupiniquins
+vdePovos indígenas do BrasilGrupos étnicosMacro-tupi
+Mondés
+Aruás
+Cintas-largas/Matetamãe
+Ikolen
+Tupi-guaranis
+Amanaiés/Araradeuas
+Anambés
+Apiacás
+Akwáwa (Suruís-aiqueuaras - Assurinis do Tocantins)
+Arauetés/Bïde
+Assurinis do Xingu/Awaetes
+Avás-canoeiros/Carijós
+Awá-Guajá
+Carijós*
+Cauaíbes (Uru-eu-wau-waus)
+Guaranis (Kaiowás/Paí-tavyterã - Mbiás - Nhandevas)
+Guajajaras/Tenetearas
+Tupis* (Tupinambás* - Tupiniquins - Caetés* - Tamoios* - Potiguaras - Temiminós* - Tabajaras*?)
+Outros
+Curuaias
+Mundurucus
+Tapajós*
+Macro-jê
+Jês
+Aquém (Xavantes - Xerentes)
+Caingangues
+Tapaiúnas
+Timbiras (Apinajés - Apaniecras-Canelas/Timbiras - Paracatejê-gavião - Pucobié-gavião - Kyikatejê-gavião - Rancocamecras-canelas/Timbiras)
+Povo iny
+Carajás
+Javaés
+Xambioás
+Tapuias*
+Aimorés*
+Botocudos*
+Cariris*
+Geréns*
+Tarairiús*
+Outros
+Coropós*
+Crenaques
+Goitacases*
+Maxacalis
+Puris*
+Ricbactas
+Outros grupos
+Arauás
+Banauás
+Jamamadis
+Aruaques
+Apurinãs/Popukares
+Ashaninca
+Baníuas/Walimanais
+Barés/Haneras
+Enawenê-nawê
+Guanás
+Exoaladis* - Exoaladis* - Quiniquinaus - Terenas
+Manaós*
+Uapixanas
+Caribes
+Aparaís
+Bacairis/Kurâs
+Galibis do Oiapoque/Calinãs
+Cariris?*
+Aconãs
+Aticuns-umãs
+Caimbés
+Calabaças
+Carapotós
+Cariris-xocós
+Jucás
+Pancarás
+Pataxós-hã-hã-hães
+Quiriris
+Tingui-botós
+Trucás
+Tumbalalás
+Uassus/Wassus
+Xucurus-cariris
+Charruas*
+Guenoas*
+Minuanos*
+Embaiás
+Cadiuéus
+Guatiedéos*
+Beaquéos*
+Cataguéos*
+Macus
+Dous
+Hupdás
+Camãs
+Nadobs
+Iuhupdes)
+Panos
+Shawadauas
+Kuntanawa
+Tucanos
+Arapaços
+Barás/Waípinõmakãs
+Barasanas/Panenoás
+Desanos
+Tuparis
+Acuntsu
+Ajurus
+Outros
+Aicanãs
+Aranãs
+Araras/Ukarãngmãs
+Araras do Aripuanã
+Araras do Maia
+Aricapus
+Auetis/Enumaniás
+Bororos/Boes
+Bugres
+Caiapós
+Canoeiros
+Catuquinas
+Chiquitanos/Chiquitos
+Coroados
+Crateús*
+Fulniôs
+Galibis-maruornos/Aruás
+Guaianás*
+Guaicurus*
+Guatós
+Ianomâmis
+Djeoromitxí/Jabutis
+Javaés
+Kwazá
+Kuripakos
+Kujubim
+Muras
+Paiaguás
+Pancararus
+Ticunas
+Tremembés
+Tuxás
+Xocós
+Xucurus
+Culturas
+arqueológicas
+Humaitá
+Polícroma da Amazônia/Marajoara
+Umbu
+Vieira
+Organizações
+Indígenas: APIB
+COIAB
+Comitê Intertribal
+De apoio: CIMI
+ISA
+Governamentais: SPI
+FUNAI
+FUNASA
+Tópicos relacionados
+Línguas indígenas do Brasil
+Lista de terras indígenas do Brasil
+História pré-cabralina do Brasil
+Dia do Índio
+Estatuto do Índio
+Jogos dos Povos Indígenas
+Medicina ameríndia
+*: extintos; ?*: reivindicados; Aspas: grupos heterogêneos
+Portal dos povos nativos do Brasil
+Portal da antropologia
+Portal do Brasil
+Obtida de https://pt.wikipedia.org/w/index.php?title=Tupiniquins&oldid=62142248
+Categorias: Povos tupisPovos indígenas do BrasilGrupos étnicos do Brasil
+Esta página foi editada pela última vez às 07h26min de 29 de setembro de 2021.
+Este texto é disponibilizado nos termos da licença Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as condições de utilização.
+Política de privacidade
+Sobre a Wikipédia
+Avisos gerais
+Versão móvel
+Programadores
+Estatísticas
+Declaração sobre cookies');
+Document.create!(url: 'https://pt.wikipedia.org/wiki/Caingangues', title: 'Caingangues – Wikipédia, a enciclopédia livre', body: 'Caingangues – Wikipédia, a enciclopédia livre
+Saltar para o conteúdo
+Alternar barra lateral
+Busca
+Links do usuário
+Criar uma conta
+Ferramentas pessoais
+expandido
+collapsed
+Criar uma conta
+Entrar
+Páginas para editores conectados saiba mais
+DiscussãoContribuições
+Navegação
+Página principalConteúdo destacadoEventos atuaisEsplanadaPágina aleatóriaPortaisInformar um erro
+Colaboração
+Boas-vindasAjudaPágina de testesPortal comunitárioMudanças recentesManutençãoCriar páginaPáginas novasContatoDonativos
+Ferramentas
+Páginas afluentesAlterações relacionadasCarregar ficheiroPáginas especiaisHiperligação permanenteInformações da páginaCitar esta páginaElemento Wikidata
+Imprimir/exportar
+Criar um livroDescarregar como PDFVersão para impressão
+Noutros projetos
+Wikimedia Commons
+Espaços nominais
+ArtigoDiscussão
+Variantes
+expandido
+collapsed
+Vistas
+LerEditarEditar código-fonteVer histórico
+Mais
+expandido
+collapsed
+12 idiomas
+expandido
+collapsed
+DeutschEnglishEsperantoEspañolFrançaisHrvatskiItaliano한국어LietuviųPolskiРусскийSrpskohrvatski / српскохрватски
+Editar hiperligações
+Caingangues
+Origem: Wikipédia, a enciclopédia livre.
+Nota: Se procura outros significados, veja Caingangue.
+CainganguesKaingangKanhgág
+Azelene Kaingang, caingangue integrante da Comissão Nacional de Articulação da 1ª Conferência Nacional dos Povos Indígenas
+População total
+33.064 (FUNASA - 2009)
+Regiões com população significativa
+Sudeste e Sul do Brasil
+Línguas
+caingangueportuguês
+Religiões
+xamanismo cainganguecatolicismo popularprotestantismo
+Os caingangues, Kainguangs, kaingang, kanhgág, guainás,[1] bugres, coroados,
+botocudos,[2] camés ou xoclengues[3] são um povo jê (um grupo linguístico de povos indígenas do Brasil). Sua língua, a língua caingangue, pertence à família linguística jê, a qual, por sua vez, pertence ao tronco linguístico macro-jê. Sua cultura desenvolveu-se à sombra dos pinheirais (Araucaria brasiliensis). Há pelo menos dois séculos, sua extensão territorial compreende a zona entre o Rio Tietê (São Paulo) e o rio Ijuí (nordeste do Rio Grande do Sul). No século XIX, seus domínios se estendiam para oeste, até San Pedro, na província argentina de Misiones.
+Atualmente, os caingangues tem suas terras distribuídas em cerca de 300 áreas reduzidas, distribuídas sobre seu antigo território, nos estados de São Paulo, Paraná, Santa Catarina e Rio Grande do Sul, no Brasil. Sua população é de aproximadamente 34 mil pessoas.[4] Os caingangues estão entre os cinco povos indígenas mais numerosos no Brasil atualmente.[5]
+Na literatura internacional, o termo caingangues tem designado o povo que, na literatura de língua portuguesa, é chamado xoclengue (que hoje se autodenominam laklãnõ). Os xoclengues foram descritos por Jules Henry (1941: Jungle People: A Kaingáng Tribe of the Highlands of Brazil), pesquisador que esteve entre eles no início da década de 1930, no leste de Santa Catarina. Por isso, o que se costuma referir na literatura internacional como característica da cultura caingangue é, na verdade, característica da cultura xoclengue, segundo a descrição de Jules Henry.
+As formas aportuguesadas caingangue e xoklengue são menos comuns nas publicações antropológicas e etnográficas. Especialmente a partir de uma convenção elaborada pela 1a Reunião Brasileira de Antropologia, em 1953, os usos mais correntes são Kaingang, Xokleng, caigangues e kanhgág.
+Índice
+1 Panorama histórico
+1.1 Geografia
+1.2 Século XX
+2 Cultura
+3 Pessoas notáveis
+4 Ver também
+5 Referências
+6 Ligações externas
+Panorama histórico[editar | editar código-fonte]
+Geografia[editar | editar código-fonte]
+Foto histórica de índios Caingangue (1910) Documento sob guarda do Arquivo Nacional
+Os caingangues ocuparam, historicamente, um vastíssimo território, não completamente contíguo, mais ou menos correspondendo à expansão maior das florestas de pinheirais, o que significa: vastas regiões do Paraná e Santa Catarina, a região do sul-sudoeste paulista, o planalto rio-grandense e parte de Misiones, na Argentina. Seus parentes próximos, os xoclengues, parecem ter preferido os campos entremeados dos pinheirais, mas também ocuparam regiões quase marginais à zona das araucárias. Os únicos grupos caingangues fora daquele ecossistema são os caingangues paulistas, cujo estabelecimento na região entre o rio Tietê e o rio do Peixe já foi apontado, por alguns autores, como posterior à do Paraná, e feita por grupos que transpuseram o rio Paranapanema.
+Ocupando região tão ampla, em incontáveis grupos ou aldeias de população média em torno de 150 a duzentas pessoas (se são válidos os dados que temos para meados do século XIX), embora às vezes articulados por uma lideranças regionais, os caingangues seriam alvo de diferentes momentos de expansão das fronteiras econômicas brasileiras. Alguns grupos caingangues e xoclengues teriam sido convertidos por missões jesuítas no oeste do Paraná e no norte rio-grandense nas primeiras décadas do século XVII, mas não por muito tempo. Depois desse período, apenas no final do século XVIII foram atingidos por frentes de exploração militar, na região de Guarapuava, no atual estado brasileiro do Paraná, onde, em 1812, se iniciaram os primeiros contatos permanentes de um grupo caingangue com uma comunidade de língua portuguesa.
+À mesma época, os territórios xoclengues dos campos de Lages eram alvo de ocupação e, também ali, moveu-se guerra aos índios. A economia pastoril, que levou à ocupação militar de Guarapuava, avançaria, no final da década de 1830, para a região dos Campos de Palmas e, pouco depois, o Campo Erê, os Campos de São João e os Campos Novos; finalmente, a partir dos meados da década de 1840, para a região norte do Rio Grande do Sul (Campos de Nonoai e, na sequência, Campos de Guarita e Campos do Erechim). A região norte do Paraná foi ocupada, também militarmente, apenas na segunda metade do século XIX. Nessa época, começou a ser utilizado o termo kaingang para se referir ao grupo: o termo foi cunhado em 1882 pelo coronel Telêmaco Borba, que expulsou esses índios das terras deles. O termo significava morador do mato, de caa (mato) e ingang (morador).[2]
+Século XX[editar | editar código-fonte]
+O início do século XX assistiu à demarcação de boa parte das terras indígenas dos caingangues. Isso não impediu, no entanto, que elas rapidamente começassem a ser cobiçadas, invadidas, dilapidadas e griladas. O oeste do estado de São Paulo, com o avanço do cultivo do café, foi alvo da penetração da Estrada de Ferro Noroeste do Brasil na primeira década do século XX, quando o recém-criado Serviço de Proteção ao Índio foi responsável pela chamada pacificação dos caingangues. Ainda nos anos 1920, o Serviço de Proteção ao Índio mantinha, no norte paranaense, um posto de atração para os caingangues ditos arredios. No Paraná, o primeiro conflito aconteceu já nos anos 1920, obrigando a uma mudança em delimitações originalmente feitas pelo estado e também criando uma demanda judicial que terminou desfavorável aos índios no caso das terras que possuíam em São Jerônimo.[6]
+Ao centro, índio caingangue realizando manifestação na sede do Ministério da Saúde, em Brasília, junto com índios de outras etnias
+No final dos anos 1940, o governador Moisés Lupion, em acordo com burocratas do Serviço de Proteção ao Índio, roubou diversas áreas indígenas.[7] Em Santa Catarina, os maiores esbulhos deram-se também nos anos 1940. Não por acaso, no Paraná e em Santa Catarina estiveram envolvidas terras ricas em pinheirais, no imediato pós-Segunda Guerra Mundial - o que gerou um surto madeireiro e, igualmente, um surto de expansão agrícola. No Rio Grande do Sul, o próprio estado começou a tomar terras antes demarcadas aos índios, já nos anos 1940, mas principalmente nos anos 1960.
+Essa história de esbulho é acompanhada pela ocupação, também, de toda a cercania das terras indígenas por imigrantes e descendentes de imigrantes, pequenos proprietários e fazendeiros. A presença cada vez mais maciça de brancos nas proximidades de suas terras e - a partir das invasões e de arrendamentos promovidos pelo Serviço de Proteção ao Índio - dentro das próprias áreas foi fator importante de compulsão contra a permanência de tradições e práticas culturais indígenas, incluída a língua, além de casamentos interétnicos.
+No caso específico do estado de São Paulo, além da depopulação violenta, verdadeiramente genocida, sofrida pelos caingangues (de algo em torno de 1 200 na primeira década do século, eram menos de duzentos, já aldeados pelo governo, antes do final da década seguinte), a partir dos anos 1940 suas áreas sofreram a introdução de indivíduos e famílias das mais diferentes etnias, por conta da política do Serviço de Proteção ao Índio de fazer, naquelas áreas indígenas, algo como colônias penais. Índios do nordeste, do leste, do Mato Grosso do Sul e do norte do Brasil eram para lá levados e, lá, contraíam casamento. O resultado das uniões interétnicas foram famílias em que se usava sempre o português como língua franca e em que os filhos se tornavam falantes nativos dessa língua.
+Cultura[editar | editar código-fonte]
+Cada aldeia caingangue se divide em duas metades chamadas kaiurukré e kamé (ou, usando a escrita da própria língua: Kanhru e Kamẽ). Os membros de cada metade só podem se casar com os membros da outra metade.[8] Os filhos ou filhas sempre pertencerão à metade (ou à marca) do pai.[9]
+Pessoas notáveis[editar | editar código-fonte]
+Vãngri Kaingáng
+Ver também[editar | editar código-fonte]
+Guarita (terra indígena)
+Ângelo Kretã
+Referências
+↑ Museu do Índio recebe líder da Terra Indígena de Mangueirinha(PR). SERCE/MI. Disponível em http://www.museudoindio.org.br/template_01/default.asp?ID_S=29&ID_M=668. Acesso em 11 de agosto de 2012.
+↑ a b In Ti Fym Sym. BALLIVIÁN, J. M. P. et al.. Revista Agriculturas, vol. 4, núm. 3. Outubro de 2007. Disponível em https://docs.google.com/viewer?a=v&q=cache:krllPBwUJMcJ:www.agriculturesnetwork.org/magazines/brazil/3-sementes-da-biodiversidade/in-ti-fy-si-casa-das-sementes-antigas-uma/at_download/article_pdf+caingangues+campinas&hl=pt-BR&gl=br&pid=bl&srcid=ADGEEShTiNJT5KdMAP5yW_qeswU4q-goUlJ0akBMUir0hsGH-GG9CLLin9oupa98ZoRZJsoONt6whsCSHY5r_uSPCsM6vVfRaYufgHgDioJzos-jXWMTi9bijUDGGKL3NLfN8tspewAM&sig=AHIEtbTNm2gisoccNV80R0KZO5sf4h8iQA. Acesso em 19 de setembro de 2012.
+↑ FERREIRA, A. B. H. Novo dicionário da língua portuguesa. Segunda edição. Rio de Janeiro. Nova Fronteira. 1986. p. 314.
+↑ «Portal Kaingang»
+↑ «Instituto Socioambiental»
+↑ CIMI REGIONAL SUL. (1979). Em defesa dos índios e posseiros no norte do Paraná. Luta Indígena, n. 11, p. 1-13. Xanxerê, SC: CIMI Regional Sul.
+↑ Luta Indígena, n. 9, maio 1979, p. 1-19. Xanxerê, SC: CIMI Regional Sul.
+↑ MUNDURUKU, D. Contos indígenas brasileiros. Ilustrações de Rogério Borges. Segunda edição. São Paulo. Global. 2005. p. 49.
+↑ VEIGA, Juracilda (2006). Aspectos fundamentais da cultura Kaingang. Campinas: Ed. Curt Nimuendajú.
+Ligações externas[editar | editar código-fonte]
+Outros projetos Wikimedia também contêm material sobre este tema:
+Categoria no Commons
+Commons
+«Reportagem no jornal da UNICAMP»
+«Página dos caingangues na própria língua (Kanhgág Jógo)»
+«Página mais atualizada sobre o povo Kaingang (Portal Kaingang)»
+Acervo Etnográfico Museu do Índio - Caingangues
+vdePovos indígenas do BrasilGrupos étnicosMacro-tupi
+Mondés
+Aruás
+Cintas-largas/Matetamãe
+Ikolen
+Tupi-guaranis
+Amanaiés/Araradeuas
+Anambés
+Apiacás
+Akwáwa (Suruís-aiqueuaras - Assurinis do Tocantins)
+Arauetés/Bïde
+Assurinis do Xingu/Awaetes
+Avás-canoeiros/Carijós
+Awá-Guajá
+Carijós*
+Cauaíbes (Uru-eu-wau-waus)
+Guaranis (Kaiowás/Paí-tavyterã - Mbiás - Nhandevas)
+Guajajaras/Tenetearas
+Tupis* (Tupinambás* - Tupiniquins - Caetés* - Tamoios* - Potiguaras - Temiminós* - Tabajaras*?)
+Outros
+Curuaias
+Mundurucus
+Tapajós*
+Macro-jê
+Jês
+Aquém (Xavantes - Xerentes)
+Caingangues
+Tapaiúnas
+Timbiras (Apinajés - Apaniecras-Canelas/Timbiras - Paracatejê-gavião - Pucobié-gavião - Kyikatejê-gavião - Rancocamecras-canelas/Timbiras)
+Povo iny
+Carajás
+Javaés
+Xambioás
+Tapuias*
+Aimorés*
+Botocudos*
+Cariris*
+Geréns*
+Tarairiús*
+Outros
+Coropós*
+Crenaques
+Goitacases*
+Maxacalis
+Puris*
+Ricbactas
+Outros grupos
+Arauás
+Banauás
+Jamamadis
+Aruaques
+Apurinãs/Popukares
+Ashaninca
+Baníuas/Walimanais
+Barés/Haneras
+Enawenê-nawê
+Guanás
+Exoaladis* - Exoaladis* - Quiniquinaus - Terenas
+Manaós*
+Uapixanas
+Caribes
+Aparaís
+Bacairis/Kurâs
+Galibis do Oiapoque/Calinãs
+Cariris?*
+Aconãs
+Aticuns-umãs
+Caimbés
+Calabaças
+Carapotós
+Cariris-xocós
+Jucás
+Pancarás
+Pataxós-hã-hã-hães
+Quiriris
+Tingui-botós
+Trucás
+Tumbalalás
+Uassus/Wassus
+Xucurus-cariris
+Charruas*
+Guenoas*
+Minuanos*
+Embaiás
+Cadiuéus
+Guatiedéos*
+Beaquéos*
+Cataguéos*
+Macus
+Dous
+Hupdás
+Camãs
+Nadobs
+Iuhupdes)
+Panos
+Shawadauas
+Kuntanawa
+Tucanos
+Arapaços
+Barás/Waípinõmakãs
+Barasanas/Panenoás
+Desanos
+Tuparis
+Acuntsu
+Ajurus
+Outros
+Aicanãs
+Aranãs
+Araras/Ukarãngmãs
+Araras do Aripuanã
+Araras do Maia
+Aricapus
+Auetis/Enumaniás
+Bororos/Boes
+Bugres
+Caiapós
+Canoeiros
+Catuquinas
+Chiquitanos/Chiquitos
+Coroados
+Crateús*
+Fulniôs
+Galibis-maruornos/Aruás
+Guaianás*
+Guaicurus*
+Guatós
+Ianomâmis
+Djeoromitxí/Jabutis
+Javaés
+Kwazá
+Kuripakos
+Kujubim
+Muras
+Paiaguás
+Pancararus
+Ticunas
+Tremembés
+Tuxás
+Xocós
+Xucurus
+Culturas
+arqueológicas
+Humaitá
+Polícroma da Amazônia/Marajoara
+Umbu
+Vieira
+Organizações
+Indígenas: APIB
+COIAB
+Comitê Intertribal
+De apoio: CIMI
+ISA
+Governamentais: SPI
+FUNAI
+FUNASA
+Tópicos relacionados
+Línguas indígenas do Brasil
+Lista de terras indígenas do Brasil
+História pré-cabralina do Brasil
+Dia do Índio
+Estatuto do Índio
+Jogos dos Povos Indígenas
+Medicina ameríndia
+*: extintos; ?*: reivindicados; Aspas: grupos heterogêneos
+Obtida de https://pt.wikipedia.org/w/index.php?title=Caingangues&oldid=61462341
+Categorias: Povos macro-jêsPovos indígenas do Paraná
+Esta página foi editada pela última vez às 22h23min de 24 de junho de 2021.
+Este texto é disponibilizado nos termos da licença Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as condições de utilização.
+Política de privacidade
+Sobre a Wikipédia
+Avisos gerais
+Versão móvel
+Programadores
+Estatísticas
+Declaração sobre cookies');
+Document.create!(url: 'https://pt.wikipedia.org/wiki/Ianom%C3%A2mis', title: 'Ianomâmis – Wikipédia, a enciclopédia livre', body: 'Ianomâmis – Wikipédia, a enciclopédia livre
+Saltar para o conteúdo
+Alternar barra lateral
+Busca
+Links do usuário
+Criar uma conta
+Ferramentas pessoais
+expanded
+collapsed
+Criar uma conta
+Entrar
+Páginas para editores conectados saiba mais
+DiscussãoContribuições
+Navegação
+Página principalConteúdo destacadoEventos atuaisEsplanadaPágina aleatóriaPortaisInformar um erro
+Colaboração
+Boas-vindasAjudaPágina de testesPortal comunitárioMudanças recentesManutençãoCriar páginaPáginas novasContatoDonativos
+Ferramentas
+Páginas afluentesAlterações relacionadasCarregar ficheiroPáginas especiaisHiperligação permanenteInformações da páginaCitar esta páginaElemento Wikidata
+Imprimir/exportar
+Criar um livroDescarregar como PDFVersão para impressão
+Noutros projetos
+Wikimedia Commons
+Espaços nominais
+ArtigoDiscussão
+Variantes
+expanded
+collapsed
+Vistas
+LerEditarEditar código-fonteVer histórico
+Mais
+expanded
+collapsed
+36 idiomas
+expanded
+collapsed
+العربيةمصرىBrezhonegCatalàČeštinaDeutschEnglishEspañolEuskaraSuomiFrançaisGalegoHrvatskiՀայերենBahasa IndonesiaItaliano日本語한국어LietuviųമലയാളംBahasa MelayuNederlandsNorsk nynorskNorsk bokmålPolskiRuna SimiРусскийSrpskohrvatski / српскохрватскиSimple EnglishСрпски / srpskiSvenskaதமிழ்Татарча/tatarçaУкраїнськаTiếng Việt中文
+Editar hiperligações
+Ianomâmis
+Origem: Wikipédia, a enciclopédia livre.
+Nota: se procura pela família linguística constituída pelas línguas yanam, yanomam, yanomamo e sanumá, veja família linguística ianomâmi.
+Nota: se procura pela língua falada pelo subgrupo yanomam, veja Língua ianomam.
+Esta página cita fontes, mas estas não cobrem todo o conteúdo. Ajude a inserir referências. Conteúdo não verificável poderá ser removido.—Encontre fontes: Google (notícias, livros e acadêmico) (Dezembro de 2020)
+As referências deste artigo necessitam de formatação. Por favor, utilize fontes apropriadas contendo referência ao título, autor, data e fonte de publicação do trabalho para que o artigo permaneça verificável no futuro. (Abril de 2016)
+Ianomâmis
+Yanomami e seu filho, junho de 1997
+População total
+16 000 - 35 000[1][2][2][3]
+Regiões com população significativa
+Amazonas e Roraima, no BrasilBolívar e Amazonas, na Venezuela
+Línguas
+família linguística ianomâmi
+Religiões
+Os ianomâmis,[2] Yanomami, Yanoama, Yanomani ou Ianomami,[4] são um grupo de aproximadamente 35.000 indígenas que vivem em cerca de 200 a 250 aldeias na floresta amazônica, na fronteira entre Venezuela e Brasil. Compõe-se de quatro subgrupos: Yanomae, Yanõmami, Sanima e Ninam. Cada subgrupo fala uma língua própria: juntas, elas compõem a família linguística ianomâmi.[5] A etnia Ianomâmi é a sétima maior etnia indígena brasileira, com 15 mil pessoas distribuídas em 255 aldeias relacionadas entre si em maior ou menor grau. A noroeste de Roraima, estão situadas 197 aldeias que somam 9 506 pessoas e, a norte do Amazonas, estão situadas 58 aldeias que somam 6 510 pessoas.
+Índice
+1 Etimologia
+2 Localização
+3 Sociedade
+4 Religião
+5 História
+5.1 Ameaças: rodovia, garimpo,
+doenças, violência
+6 Ver também
+7 Referências
+8 Bibliografia
+9 Filmografia
+10 Ligações externas
+Etimologia[editar | editar código-fonte]
+Yanomami é uma palavra criada pelos antropólogos a partir da expressão ianomâmi yanõmami thëpë, que significa ser humano, por oposição a yaro (animal de caça), yai (ser invisível ou sem nome) e napë (inimigo, estrangeiro, branco, não yanomâmi).[5]
+Indígena ianomâmi
+Localização[editar | editar código-fonte]
+No Brasil, as aldeias Yanomâmi ocupam a grande região montanhosa da fronteira com a Venezuela, numa área contínua de 9 419 108 hectares, pouco mais de 2 vezes a área do Estado do Rio de Janeiro: a Terra Indígena Yanomami. Na Venezuela, os ianomâmis ocupam a Reserva da Biosfera Alto Orinoco-Casiquiare, com 8,2 milhões de hectares.[6] A área total ocupada pelos ianomâmis no Brasil e na Venezuela é de 192 000 quilômetros quadrados. Abrange a região entre as bacias dos rios Orinoco e Amazonas.[7]
+Em sua maior parte, o território está coberto por densa floresta tropical úmida. O território é bastante acidentado, principalmente nas áreas próximas às serras Parima e Pacaraíma, onde se tem a maior concentração da população Yanomâmi no Brasil. Os solos são, em sua grande maioria, extremamente pobres e inadequados à agricultura intensiva. O Pico da Neblina, o ponto culminante do Brasil, está localizado dentro da Terra Indígena Ianomâmi e do Parque Nacional do Pico da Neblina, na fronteira do Brasil com a Venezuela.
+Sociedade[editar | editar código-fonte]
+As aldeias, que podem ser constituídas por uma ou várias casas (malocas), mantêm, entre si, vários níveis de comunicação, desenvolvendo-se relações econômicas, matrimoniais, rituais ou de rivalidade. As suas malocas são casas comunitárias circulares chamadas yano ou shabono que podem acomodar até 4.000 pessoas. As áreas centrais das casas são o espaço para festas e rituais. Os homens se ocupam principalmente da caça, enquanto as mulheres se dedicam à agricultura (banana, milho, mandioca, batata, frutas, tabaco, algodão)[8] e à coleta de castanhas, larvas, mariscos e mel. A pesca é exercida tanto pelos homens como pelas mulheres. Não existem chefes nas aldeias ianomâmis: todas as decisões são tomadas por consenso.[6]
+Religião[editar | editar código-fonte]
+A religião ianomâmi baseia-se na visão pelos pajés de espíritos chamados xapiripë, através da ingestão de um rapé alucinógeno chamado yakoana ou yãkõana (Virola sp.).[9] Festas também costumam ser celebradas para marcar acontecimentos como a coleta da pupunha e os funerais (festa do reahu).[6]
+História[editar | editar código-fonte]
+Por volta do ano 1000, os ancestrais dos atuais yanomâmis ocuparam as cabeceiras do rio Orinoco e a serra Parima. Por volta de 1300, começou o processo de diferenciação das atuais quatro línguas da família ianomâmi. Até o fim do século XIX, os ianomâmis só mantinham contato com os grupos indígenas vizinhos. A partir do início do século XX, começaram a entrar em contato com não indígenas: extrativistas, missionários, soldados, funcionários do Serviço de Proteção ao Índio etc.[10]
+Ameaças: rodovia, garimpo,
+doenças, violência[editar | editar código-fonte]
+A década de 1970 foi marcada por grandes projetos do governo do Brasil que tiveram grande impacto sobre os ianomâmis: a construção da rodovia BR-210, programas de colonização pública e o projeto Radambrasil, que detectou importantes jazidas minerais no território ianomâmi.
+A descoberta dessas jazidas levou a uma grande invasão garimpeira no período de 1987 a 1992, atraída pelas reservas de ouro, cassiterita e tantalita, com a ocorrência estimada de 1 500
+a 1800 mortes entre a população ianomâmi,
+em função de doenças e de atos de violência causados por 45 mil garimpeiros que invadiram suas terras. Visando a proteger a população ianomâmi dos garimpeiros, em 25 de maio de 1992, a terra indígena ianomâmi foi homologada pelo presidente Fernando Collor.[11][12][13]
+Mas, em julho de 1993, garimpeiros invadiram uma aldeia Yanomami e assassinaram a tiros e golpes de facão 16 indígenas, entre eles idosos, mulheres e crianças. O episódio ficou conhecido como o Massacre de Haximu e foi o primeiro caso julgado pela Justiça brasileira no qual os réus foram condenados por genocídio.[13]
+Jovem mulher Yanomami confeccionando uma cesta na maloca (junho de 1999)
+Em 2004, os ianomâmis brasileiros fundaram a associação Hutukara (termo que significa a parte do céu do qual nasceu a terra) para defender seus direitos. Em 2011, foi a vez de os ianomâmis venezuelanos criarem sua própria associação, a Horonami.[6][14]
+Em novembro de 2014, a pedido da Hutukara Associação Yanomami (HAY) e da Associação do Povo Ye’kwana do Brasil (Apyb), uma equipe de pesquisadores visitou 19 aldeias e coletou 239 amostras de cabelo dos indígenas, priorizando os grupos mais vulneráveis à contaminação por mercúrio: crianças, mulheres em idade reprodutiva e adultos com algum histórico de contato direto com a atividade garimpeira. Também foram coletadas 35 amostras de peixes, que são a base da alimentação desse grupos. O estudo foi realizado nas regiões de Papiú e Waikás, onde residem as etnias Yanomami e Ye’kwana. Na comunidade Yanomami de Aracaçá, na região de Waikás, 92% do total das amostras apresentaram alto índice de contaminação. Essa comunidade, entre todas as pesquisadas, é a que tem o garimpo mais próximo. Na região do Papiú, onde foram registrados os menores índices de contaminação — 6,7% das amostras analisadas — , há menor presença de garimpeiros.
+Índio ianomâmi.
+Crianças indígenas ianomâmis.
+Mãe ianomâmi com seu filho.
+Ver também[editar | editar código-fonte]
+Davi Kopenawa Yanomami
+Massacre de Haximu
+Referências
+↑ Survival. Os Yanomami. Acesso em 20 de dezembro de 2015.
+↑ a b c Dicionário Escolar da Língua Portuguesa/Academia Brasileira de Letras. 2ª edição. São Paulo. Companhia Editora Nacional. 2008. 676.
+↑ Britannica escola. Disponível em http://escola.britannica.com.br/article/483290/ianom%C3%A2mi. Acesso em 21 de dezembro de 2015.
+↑ Povos Indígenas no Brasil. Disponível em http://pib.socioambiental.org/pt/povo/yanomami. Acesso em 20 de dezembro de 2015.
+↑ a b Povos Indígenas no Brasil. Disponível em http://pib.socioambiental.org/pt/povo/yanomami/570. Acesso em 21 de dezembro de 2015.
+↑ a b c d Survival. Disponível em http://www.survivalinternational.org/povos/yanomami. Acesso em 21 de dezembro de 2015.
+↑ Povos Indígenas no Brasil. Disponível em http://pib.socioambiental.org/pt/povo/yanomami/569. Acesso em 21 de dezembro de 2015.
+↑ Britannica Escola. Disponível em http://escola.britannica.com.br/article/483290/ianom%C3%A2mi. Acesso em 21 de dezembro de 2015.
+↑ Povos Indígenas no Brasil. Disponível em http://pib.socioambiental.org/pt/povo/yanomami/582. Acesso em 21 de dezembro de 2015.
+↑ Povos Indígenas no Brasil. Disponível em http://pib.socioambiental.org/pt/povo/yanomami/573. Acesso em 21 de dezembro de 2015.
+↑ Povos Indígenas no Brasil. Disponível em http://pib.socioambiental.org/pt/povo/yanomami/575. Acesso em 21 de dezembro de 2015.
+↑ MACMILLAN, G. At the End of the Rainbow? Gold, People, and Land in the Brazilian Amazon. New York : Columbia University Press, 1995.
+↑ a b O povo Yanomami está contaminado por mercúrio do garimpo. Instituto Socioambiental
+↑ Povos Indígenas no Brasil. Disponível em http://pib.socioambiental.org/pt/povo/yanomami/572. Acesso em 21 de dezembro de 2015.
+Bibliografia[editar | editar código-fonte]
+BARAZAL, N. R. Yanomami: Um povo em Luta pelos Direitos Humanos. São Paulo: Editora da Universidade de São Paulo, 2001.
+Filmografia[editar | editar código-fonte]
+Segredos da Tribo (2010), filme de José Padilha
+A Última Floresta (2021), premiado filme sobre os ianomâmis com direção de Luiz Bolognesi e roteiro de Bolognesi e Davi Kopenawa
+Ligações externas[editar | editar código-fonte]
+Outros projetos Wikimedia também contêm material sobre este tema:
+Categoria no Commons
+Commons
+Vídeo -
+ÕKÃPOMAƗ
+A defesa da Terra Indígena Yanomami
+Padilha expõe guerra entre antropólogos por causa dos ianomâmi
+Povos Indígenas no Brasil: Ianomâmis
+Acervo Etnográfico Museu do Índio - Ianomâmis
+vdePovos indígenas do BrasilGrupos étnicosMacro-tupi
+Mondés
+Aruás
+Cintas-largas/Matetamãe
+Ikolen
+Tupi-guaranis
+Amanaiés/Araradeuas
+Anambés
+Apiacás
+Akwáwa (Suruís-aiqueuaras - Assurinis do Tocantins)
+Arauetés/Bïde
+Assurinis do Xingu/Awaetes
+Avás-canoeiros/Carijós
+Awá-Guajá
+Carijós*
+Cauaíbes (Uru-eu-wau-waus)
+Guaranis (Kaiowás/Paí-tavyterã - Mbiás - Nhandevas)
+Guajajaras/Tenetearas
+Tupis* (Tupinambás* - Tupiniquins - Caetés* - Tamoios* - Potiguaras - Temiminós* - Tabajaras*?)
+Outros
+Curuaias
+Mundurucus
+Tapajós*
+Macro-jê
+Jês
+Aquém (Xavantes - Xerentes)
+Caingangues
+Tapaiúnas
+Timbiras (Apinajés - Apaniecras-Canelas/Timbiras - Paracatejê-gavião - Pucobié-gavião - Kyikatejê-gavião - Rancocamecras-canelas/Timbiras)
+Povo iny
+Carajás
+Javaés
+Xambioás
+Tapuias*
+Aimorés*
+Botocudos*
+Cariris*
+Geréns*
+Tarairiús*
+Outros
+Coropós*
+Crenaques
+Goitacases*
+Maxacalis
+Puris*
+Ricbactas
+Outros grupos
+Arauás
+Banauás
+Jamamadis
+Aruaques
+Apurinãs/Popukares
+Ashaninca
+Baníuas/Walimanais
+Barés/Haneras
+Enawenê-nawê
+Guanás
+Exoaladis* - Exoaladis* - Quiniquinaus - Terenas
+Manaós*
+Uapixanas
+Caribes
+Aparaís
+Bacairis/Kurâs
+Galibis do Oiapoque/Calinãs
+Cariris?*
+Aconãs
+Aticuns-umãs
+Caimbés
+Calabaças
+Carapotós
+Cariris-xocós
+Jucás
+Pancarás
+Pataxós-hã-hã-hães
+Quiriris
+Tingui-botós
+Trucás
+Tumbalalás
+Uassus/Wassus
+Xucurus-cariris
+Charruas*
+Guenoas*
+Minuanos*
+Embaiás
+Cadiuéus
+Guatiedéos*
+Beaquéos*
+Cataguéos*
+Macus
+Dous
+Hupdás
+Camãs
+Nadobs
+Iuhupdes)
+Panos
+Shawadauas
+Kuntanawa
+Tucanos
+Arapaços
+Barás/Waípinõmakãs
+Barasanas/Panenoás
+Desanos
+Tuparis
+Acuntsu
+Ajurus
+Outros
+Aicanãs
+Aranãs
+Araras/Ukarãngmãs
+Araras do Aripuanã
+Araras do Maia
+Aricapus
+Auetis/Enumaniás
+Bororos/Boes
+Bugres
+Caiapós
+Canoeiros
+Catuquinas
+Chiquitanos/Chiquitos
+Coroados
+Crateús*
+Fulniôs
+Galibis-maruornos/Aruás
+Guaianás*
+Guaicurus*
+Guatós
+Ianomâmis
+Djeoromitxí/Jabutis
+Javaés
+Kwazá
+Kuripakos
+Kujubim
+Muras
+Paiaguás
+Pancararus
+Ticunas
+Tremembés
+Tuxás
+Xocós
+Xucurus
+Culturas
+arqueológicas
+Humaitá
+Polícroma da Amazônia/Marajoara
+Umbu
+Vieira
+Organizações
+Indígenas: APIB
+COIAB
+Comitê Intertribal
+De apoio: CIMI
+ISA
+Governamentais: SPI
+FUNAI
+FUNASA
+Tópicos relacionados
+Línguas indígenas do Brasil
+Lista de terras indígenas do Brasil
+História pré-cabralina do Brasil
+Dia do Índio
+Estatuto do Índio
+Jogos dos Povos Indígenas
+Medicina ameríndia
+*: extintos; ?*: reivindicados; Aspas: grupos heterogêneos
+Portal dos povos nativos do Brasil
+Portal da antropologia
+Portal do Brasil
+Obtida de https://pt.wikipedia.org/w/index.php?title=Ianomâmis&oldid=61498094
+Categoria: IanomâmisCategorias ocultas: !Artigos que carecem de notas de rodapé desde dezembro de 2020!Artigos que carecem de notas de rodapé sem indicação de tema!Artigos que carecem de formatação de referências desde abril de 2016!Artigos que carecem de formatação de referências sem indicação de tema
+Esta página foi editada pela última vez às 03h13min de 29 de junho de 2021.
+Este texto é disponibilizado nos termos da licença Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as condições de utilização.
+Política de privacidade
+Sobre a Wikipédia
+Avisos gerais
+Versão móvel
+Programadores
+Estatísticas
+Declaração sobre cookies');
+Document.create!(url: 'https://pt.wikipedia.org/wiki/Guaranis', title: 'Guaranis – Wikipédia, a enciclopédia livre', body: 'Guaranis – Wikipédia, a enciclopédia livre
+Saltar para o conteúdo
+Alternar barra lateral
+Busca
+Links do usuário
+Criar uma conta
+Ferramentas pessoais
+expandido
+collapsed
+Criar uma conta
+Entrar
+Páginas para editores conectados saiba mais
+DiscussãoContribuições
+Navegação
+Página principalConteúdo destacadoEventos atuaisEsplanadaPágina aleatóriaPortaisInformar um erro
+Colaboração
+Boas-vindasAjudaPágina de testesPortal comunitárioMudanças recentesManutençãoCriar páginaPáginas novasContatoDonativos
+Ferramentas
+Páginas afluentesAlterações relacionadasCarregar ficheiroPáginas especiaisHiperligação permanenteInformações da páginaCitar esta páginaElemento Wikidata
+Imprimir/exportar
+Criar um livroDescarregar como PDFVersão para impressão
+Noutros projetos
+Wikimedia Commons
+Espaços nominais
+ArtigoDiscussão
+Variantes
+expandido
+collapsed
+Vistas
+LerEditarEditar código-fonteVer histórico
+Mais
+expandido
+collapsed
+46 idiomas
+expandido
+collapsed
+AfrikaansالعربيةAzərbaycancaБеларускаяБългарскиCatalàČeštinaCymraegDanskDeutschΕλληνικάEnglishEsperantoEspañolEuskaraفارسیSuomiFrançaisGaeilgeGalegoAvañeẽעבריתHrvatskiMagyarItaliano日本語ქართული한국어LietuviųМакедонскиBahasa MelayuNederlandsNorsk bokmålOccitanPolskiRuna SimiРусскийSrpskohrvatski / српскохрватскиSimple EnglishSlovenčinaSlovenščinaTürkçeУкраїнськаOʻzbekcha/ўзбекчаმარგალური中文
+Editar hiperligações
+Guaranis
+Origem: Wikipédia, a enciclopédia livre.
+Nota: se procura pela língua da família linguística tupi-guarani, falada pelos guaranis, veja Língua guarani.
+Este artigo ou secção contém uma lista de referências no fim do texto, mas as suas fontes não são claras porque não são
+citadas no corpo do artigo, o que compromete a confiabilidade das informações. Ajude a melhorar este artigo inserindo citações no corpo do artigo. (Abril de 2017)
+Guaranis
+Karai guarani na campanha Povo Guarani, Grande Povo! na aldeia Tey Kue, em Caarapó, no Mato Grosso do Sul, no Brasil
+População total
+Regiões com população significativa
+Bolívia
+Brasil
+Paraguai
+Argentina
+Línguas
+Língua guarani, língua castelhana, língua portuguesa
+Religiões
+Catolicismo sincretizado com Xamanismo
+O termo guaranis refere-se a uma das mais representativas etnias indígenas das Américas, tendo, como territórios tradicionais, uma ampla região da América do Sul que abrange os territórios nacionais da Bolívia, Paraguai, Argentina, Uruguai e a porção centro-meridional do território brasileiro.[1]
+São chamados povos (do espanhol pueblo), pois sua ampla população encontra-se dividida em diversos subgrupos étnicos, dos quais os mais significativos, em termos populacionais, são os caiouás, os mbiás, os nhandevas, os ava-xiriguanos, os guaraios, os izozeños e os tapietés. Cada um destes subgrupos possui especificidades dialetais, culturais e cosmológicas, diferenciando, assim, sua forma de ser guarani das demais.
+A palavra guarani, na língua guarani significa guerreiro.[2]
+Reproduzir conteúdo Falante da língua guarani.
+Índice
+1 História
+1.1 Os primeiros contatos com os europeus
+1.2 Nominações primevas
+1.3 Xamãs profetas entre bandeirantes e encomenderos
+1.3.1 Os guaranis das Missões e os Kaayguá
+2 Atualidade
+2.1 Lei 11 645/2008
+3 Referências
+4 Bibliografia
+5 Ver também
+6 Ligações externas
+História[editar | editar código-fonte]
+Existe uma relativa abundância de registros históricos que tratam da trajetória dos povos guaranis a partir da época de seus primeiros contatos com os povos de origem europeia. Antes desse contato, os guaranis não possuíam uma linguagem escrita: toda a sua história estava vinculada a uma complexa forma de transmissão do conhecimento através da tradição oral. O “ser” Guarani se resume no valor da “palavra”. Não no sentido da palavra escrita, mas na honra da palavra como ensinamento divino, como parte de um “caráter” a ser cumprido.[3]
+Do período anterior ao contato com a cultura europeia, sabe-se que eram sociedades descentralizadas de caçadores e agricultores seminômades. Sua alimentação era baseada na caça e coleta, bem como no plantio de diversas variedades de vegetais, como mandioca, batata, amendoim, feijão e milho.
+Habitavam casas comunais de dez a dezenove famílias. Como os guaranis modernos, se uniam e organizavam-se em redes de parentesco que compartilhavam perspectivas cosmológicas comuns. A construção familiar é extensa e quanto mais gente o patriarca da família abrigar (agregados de sangue ou não), mais prestígio ele terá. O desmembramento para a formação de novas famílias extensas se dá a partir de um grande aumento populacional não acompanhado pela estrutura, já que para abrigar uma grande família extensa o patriarca precisa estar bem em suas colocações sociais, econômicas e territoriais.
+De acordo com o missionário jesuíta Martin Dobrizhoffer, alguns destes grupos praticavam antropofagia.
+Nas primeiras décadas do século XVI, quando o processo colonizador mercantilista ainda não havia compreendido com maior clareza a geografia humana nativa no continente sul-americano, os indígenas, que, posteriormente, seriam chamados genericamente de guaranis, eram conhecidos como carijós no Brasil e cariós no Paraguai colonial. O termo guarani, que significa guerreiro (e que, segundo o tupinólogo Eduardo Navarro, deve provir do proto-tupi-guarani), passou a ser empregado a partir do século XVII, quando a ordem tribal já estava bastante esfacelada por mais de cem anos de exploração colonial, para designar um grande número de índios que viviam em aldeamentos pertencentes a grupos falantes de idiomas da família linguística tupi-guarani.[4]
+Os primeiros contatos com os europeus[editar | editar código-fonte]
+Em boa parte das regiões litorâneas do sul e do sudeste do Brasil, assim como na bacia dos rios Paraná e Prata, foram as populações guaranis as primeiras populações ameríndias a ser contatadas pelos europeus.[5]
+No início do século XVI, época dos primeiros contatos com os conquistadores europeus, a população guarani provavelmente chegava ao número de 1 500 000 a 2 000 000 de pessoas.
+Em 1511, o navegador espanhol Juan de Solis comandou a primeira expedição europeia a entrar no Rio da Prata, o estuário do rio Paraná ou do rio Paraguai, seguido pela expedição de Sebastião Caboto em 1526 . Em 1537, Gonzalo de Mendoza chegou ao Paraguai pelo atual território do sul do Brasil e, em seu retorno, fez contato com um grupo guarani, fundando Assunção, que, séculos depois, se tornaria a capital do Paraguai.
+Na medida em que avançavam continente adentro, as expedições de conquista espanholas encontraram diferentes populações guaranis em territórios aos quais os espanhóis passaram a chamar de províncias. Os espanhóis foram nomeando-as segundo os nomes das populações indígenas que encontravam: Karió, Tobatin, Guarambaré, Itatin, Mbaracayú, gente do Guairá, do Paraná, do Uruguai, os Tape etc. Essas províncias abarcavam um vasto território, que ia da costa ao sul da cidade de São Vicente, no Brasil, até a margem direita do Rio Paraguai e desde o sul do Rio Paranapanema e do grande Pantanal, ou Lagoa dos Xaraiés, até as Ilhas do Delta junto da atual cidade de Buenos Aires.[6]
+Gonzalo de Mendoza tornou-se o primeiro governador do território espanhol do Guayrá, iniciando uma política de casamentos entre seus subordinados europeus e mulheres guaranis dos grupos locais, o que deu início ao que, mais tarde, seria denominada a nação paraguaia. Ao mesmo tempo, foi acelerado o processo de escravização dos grupos indígenas autóctones para o fornecimento de mão de obra para os mais diversos fins.
+Nominações primevas[editar | editar código-fonte]
+Os cronistas dos prelúdios do período colonial denominaram guaranis todas as populações que partilhavam de uma mesma língua, semelhante à língua falada pelos índios tupis do litoral ocidental sul-americano. Cada agrupamento humano, por sua vez, foi denominado separadamente a partir do nome de xamãs, líderes guerreiros e figuras locais de prestígio. Também era comum a denominação dos grupos de acordo com os nomes dos rios e dos lagos em cujas margens habitavam.
+Durante mais de quatrocentos anos de referências escritas sobre os guaranis, muitos nomes alternativos têm sido empregados para identificar estes vários povos, bem como para indicar suas visíveis diferenças.
+Em grande medida influenciados pelas referências dos índios tupis, os colonizadores da América Portuguesa chamaram os guaranis de araxás, araxanes, cainguás, carijós e ouitatins. Na América Espanhola, estes mesmos grupos eram chamados de Carios, Chandules, chandrís e landules. A despeito das denominações exógenas, cada subgrupo possui sua própria forma de autodenominação, sendo que todos eles se reconhecem no termo avá ou avaeté kuery que significam, respectivamente, homem e homens verdadeiros.
+Xamãs profetas entre bandeirantes e encomenderos[editar | editar código-fonte]
+Combate entre bandeirantes e índios em Mogi das Cruzes, tela de Jean Baptiste Debret de 1834
+Neste primeiro período da colonização, movimentos de insurreição em massa foram registrados por diversos administradores coloniais. De profundo caráter religioso, estes levantes eram, em grande parte, consequência da presença de grandes xamãs-profetas, os karaí, que, com a força de suas palavras, convenciam multidões a abandonarem as vilas de colonização espanhola e seguirem dançando e cantando com o intuito de alcançar a liberdade na Terra Sem Males (Yvy marã eỹ).[7]
+Em 1579, o levante liderado pelo karaí chamado Oberá (também grafado Overá), termo que significa aquele que brilha, pôs, em grandes riscos, o projeto de colonização espanhola na região de Arambaré. Por onde quer que passasse, Oberá era seguido por uma multidão cada vez maior de indígenas, que, após sua presença, recusavam-se terminantemente a servir aos espanhóis. Karaí Oberá, prometendo, a todos, a liberdade, realizava grandes rituais de desbatismo, onde os chamados guaranis civilizados renunciavam aos votos e aos nomes da cristandade, recebendo outro nome guarani. Seguindo o conselho dos poderosos karaí, multidões dançavam e cantavam ininterruptamente durante dias.
+Família guarani capturada por caçadores de índios, tela de Jean Baptiste Debret de 1830
+Partindo das colônias do litoral do atual estado de São Paulo, no Brasil, o movimento luso-brasileiro das Bandeiras, de caráter expansionista e escravocrata, caiu como um flagelo sobre as populações guaranis. Primeiramente, sobre aquelas que habitavam os territórios próximos ao Rio Paranapanema. Depois, adentrando mais e mais no continente. Aos grupos sobreviventes, restavam poucas opções: rebelar-se contra uma ou mesmo contra as duas nações europeias (Portugal e Espanha) que invadiam seus territórios, iniciar longas peregrinações buscando a proteção de distantes florestas e pântanos de difícil acesso ou, ainda, se submeterem à pacificação, tornando-se escravos dos bandeirantes luso-paulistas ou servos dos espanhóis encomenderos.[8]
+Com o avanço da empresa colonial, diferentes grupos autóctones se tornaram peças das disputas e joguetes por recursos e territórios de Portugal e Espanha. Cada um dos lados buscava, de todas as formas, incitar os grupos que eram seus aliados a fazer guerra contra seu adversário europeu e aos indígenas a este coligados. Ao mesmo tempo, uma série de epidemias trazidas da Europa se alastraram rapidamente pelo continente, eliminando as populações autóctones e devastando províncias inteiras.
+Os guaranis das Missões e os Kaayguá[editar | editar código-fonte]
+Ruínas da Catedral de São Miguel, uma das cidades fundadas pelos jesuítas para abrigar os guaranis cristianizados.
+Em 1640, a região do Paranapanema já se encontrava despovoada. A maioria dos seus habitantes havia sido capturada pelos bandeirantes e levada para a vila de São Paulo de Piratininga ou para a vila de São Vicente, enquanto outra parte buscou refúgio nos territórios e nas florestas ao sul.[9]
+Agindo como soldados, os jesuítas tinham um único objetivo - converter o maior número de selvagens possível, obrigá-los a mudar seu estilo de vida e aceitar a religião católica como única forma de salvação. No ano de 1743, mais da metade da população da Bacia do Prata, aproximadamente 142 000 índios, viviam nos povoados jesuítas. Uma vez mais, inúmeros xamãs-profetas karaí surgiram das matas até as cidades dos jesuítas, cercados por inúmeros seguidores, rivalizando em retórica e poder com os padres jesuítas e se tornando um obstáculo para a conquista espiritual cristã. Não tardou para que os jesuítas ultrajados incitassem os índios reduzidos contra os karaí, aos quais chamavam de demônios e feiticeiros.
+Das diferentes trajetórias vividas pelos grupos guaranis, surgiram novas distinções culturais entre os mesmos. Com o crescimento das Reduções Jesuíticas, surgiria a figura dos guaranis missioneiros, que, a partir do sincretismo com elementos jesuíticos, dariam forma e cor à utopia cristã-ameríndia das Missões. Já as populações guaranis que se refugiaram em florestas, montes e pântanos, escapando do alcance dos bandeirantes, bem como da submissão aos encomenderos espanhóis ou às missões jesuíticas, ficaram conhecidas pela exonominação genérica de kainguá, kaaiguá, cainguá ou kaayguá - todos esses termos, derivados da palavra guarani kaaguyguá, habitantes das matas. Esta provavelmente é também a origem do nome de um dos atuais subgrupos guaranis, os caiouás, apesar de estes provavelmente não serem os únicos grupos da atualidade descendentes daquelas populações não submissas.
+No entanto, é grande a probabilidade de que os chamados habitantes das matas nunca tenham perdido totalmente o contato com os guaranis missioneiros, mantendo, de alguma forma, intercâmbios de bens, informações e até mesmo de pessoas através do parentesco com estes. Esta é uma das explicações encontradas para a apropriação de instrumentos como o violão (mbaraká) e a rabeca (ravé), não só utilizados até hoje pelos guaranis embiás, como também considerados pelos próprios índios
+como parte de sua tradição e até mesmo originados em sua cultura.
+Atualidade[editar | editar código-fonte]
+As populações desta etnia ainda mantêm fortes indícios de unidade linguística e cultural, desenvolvendo, sempre, formas estratégicas relacionais diante das realidades nacionais com as quais são obrigadas a conviver.
+As populações guaranis contemporâneas vivem em pequenas reservas, acampamentos à beira de rodovias ou habitam, ainda, espaços geograficamente isolados. Suas principais atividades econômicas são a confecção e a venda de artesanato—cestaria com taquara e cipó, estátuas em madeira e colares com sementes nativas—a coleta de raízes, ervas e frutos silvestres e o plantio de suas sementes tradicionais.[10]
+Apesar da baixa populacional (em comparação com o momento dos primeiros contatos com os europeus), com exceção das áreas localizadas no Uruguai e no centro da Argentina, onde não existem mais, os guaranis seguem mantendo a configuração de seus territórios no período colonial. A despeito do processo de aculturação que sofreram, estas populações vêm se recuperando demograficamente, constituindo uma das minorias que, invisibilizadas nos diversos contextos em que se encontram, têm de lidar com o problema do aumento demográfico nos regimes de confinamento impostos pelos estados nacionais.[11][12]
+Três aspectos da vida guarani expressam uma identidade que dá especificidade, forma e cria um modo de ser guarani: a) o ava ñeë (ava: homem, pessoa guarani; ñeë: palavra que se confunde com alma) ou fala, linguagem, que define identidade na comunicação verbal; b) o tamõi (avô) ou ancestrais míticos comuns e c) o ava reko (teko: ser, estado de vida, condição, estar, costume, lei, hábito) ou comportamento em sociedade, sustentado em arsenal mítico e ideológico. Estes aspectos informam ao ava (homem guarani) como entender as situações vividas e o mundo que o cerca, fornecendo pautas e referências para sua conduta social.[13]
+Lei 11 645/2008[editar | editar código-fonte]
+A Lei 11 645/2008 (altera a 9 394/1996 e modifica a Lei 10 639/2003) traz a obrigatoriedade da temática ‘História e Cultura Afro-Brasileira e Indígena’ para as escolas de ensino público e privado, desde o ensino fundamental ao ensino médio.[14] Diante disso, alguns autores defendem que a temática indígena proposta pela Lei surge como uma medida de renovação de conhecimentos sobre as diferentes culturas que se apresentam, genericamente, representadas por uma única visão de mundo e identidade. Ou seja, a Lei vem para quebrar os estereótipos que foram criados ao longo da história ao redor dos povos indígenas.[15]
+Referências
+↑ EMGC 2016, p. 6.
+↑ OS ÍNDIOS ITATIM E A ESCOLA, Acesso em 15 de outubro de 2017.
+↑ BRIGHENTI 2010, p. 46.
+↑ NAVARRO 2013, p. 135.
+↑ EMGC 2016, p. 33.
+↑ MELIÀ 1991.
+↑ MONTEIRO 1992, p. 492.
+↑ MONTEIRO 1992.
+↑ MONTEIRO 1992, p. 493.
+↑ NHE’ERY 2016, p. 10.
+↑ BRIGHENTI 2010, pp. 15-16.
+↑ BRIGHENTI 2016, p. 236.
+↑ SUSNIK 1980, p. 12.
+↑ BRASIL 2008.
+↑ SILVEIRA 2016, p. 12.
+Bibliografia[editar | editar código-fonte]
+BRASIL, Decreto nº 11645, de 10 de março de 2008, Inclui no currículo oficial da rede de ensino a obrigatoriedade da temática História e Cultura Afro-Brasileira e Indígena..
+BRIGHENTI, Clovis Antonio (2010). Estrangeiros na própria terra: presença Guarani e Estados Nacionais. Chapecó/Florianópolis: Edufsc, Argos
+BRIGHENTI, Clovis Antonio (2016). Colonialidade e decolonialidade no ensino da História e Cultura Indígena. SOUZA, Fábio Feltrin de; WITTMANN, Luisa Tombini. Protagonismo indígena na história. Tubarão: Copiart. p. 231-254
+CADOGAN, Leon (1959). Ayvu rapyta: textos míticos de los Mbyá-Guaraní del Guairá. São Paulo: USP. p. 218
+CLASTRES, Hélène (1978). Terra sem mal: o profetismo Tupi-Guarani. São Paulo: Brasiliense
+CLASTRES, Pierre (1977). O grão-falar. Mitos e cantos sagrados dos índios guarani. Lisboa: Arcádia
+CLASTRES, Pierre (1978). A sociedade contra o Estado (pesquisas de Antropologia Política). Rio de Janeiro: Francisco Alves
+EMGC, Equipe Mapa Guarani Continental (2016). Caderno Mapa Guarani Continental: povos Guarani na Argentina, Bolívia, Brasil e Paraguai. Campo Grande: Cimi. p. 52. ISBN 978-85-87433-09-1. Consultado em 4 de julho de 2018. Arquivado do original em 5 de julho de 2018
+LADEIRA, Maria Inês; AZANHA, Gilberto (1988). Os índios da Serra do Mar. São Paulo: Centro de Trabalho Indigenista
+MELIÁ, Bartomeu (1991). El guaraní: experiência religiosa. Assunção: Ceaduc/Cepag. p. 128
+MONTEIRO, John Manuel (1992). Os Guarani e a História do Brasil Meridional: Séculos XVI-XXII. História dos Índios no Brasil. São Paulo: Companhia das Letras
+NAVARRO, E.A. (2013). Dicionário de Tupi Antigo: a Língua Indígena Clássica do Brasil. São Paulo: Global. p. 135
+NHE’ERY, Darci da Silva (2016). Território Guarani (PDF) (Projeto Coletivo). Expediente: Universidade Federal de Santa Catarina
+NIMUENDAJÚ, Curt (1987). As lendas da criação e destruição do mundo como fundamentos da religião dos Apapocúva-Guaraní. São Paulo: Hucitec; Edusp. p. 156
+SCHADEN, Egon (1974). Aspectos fundamentais da cultura Guaraní. São Paulo: EPU ; Edusp. p. 208
+SILVEIRA, Thais Elisa Silva da (2016). Identidades (in)visíveis: indígenas em contexto urbano e o ensino de história na região metropolitana do Rio de Janeiro. (Dissertação). Expediente: Universidade do Estado do Rio de Janeiro
+SUSNIK, Branislava (1982). os aborigenes del Paraguay. Etnohistoria de los Guaranies. Assunção: Museo Etnográfico Andres Barbeiro
+Ver também[editar | editar código-fonte]
+O Commons possui uma categoria com imagens e outros ficheiros sobre
+Guaranis
+Lista dos Tekoá Guarani
+Mitologia Guarani
+Missões Jesuíticas
+Guerra Guaranitica
+Ligações externas[editar | editar código-fonte]
+Instituto Socioambiental/Guarani
+Hábitos alimentares dos guaranis
+A sombra do Passado, por Leonardo Sakamoto
+A etno-história de uma resistência, por Marco Antônio Gonçalves
+El modo de ser guaraní en la primera documentación jesuítica (1594-1639), por Bartolomeu Melià
+Mborayu, O Espírito que nos une: um conceito da espiritualidade Guarani, Tese de Doutorado por João José de Félix Pereira
+vdePovos indígenas do BrasilGrupos étnicosMacro-tupi
+Mondés
+Aruás
+Cintas-largas/Matetamãe
+Ikolen
+Tupi-guaranis
+Amanaiés/Araradeuas
+Anambés
+Apiacás
+Akwáwa (Suruís-aiqueuaras - Assurinis do Tocantins)
+Arauetés/Bïde
+Assurinis do Xingu/Awaetes
+Avás-canoeiros/Carijós
+Awá-Guajá
+Carijós*
+Cauaíbes (Uru-eu-wau-waus)
+Guaranis (Kaiowás/Paí-tavyterã - Mbiás - Nhandevas)
+Guajajaras/Tenetearas
+Tupis* (Tupinambás* - Tupiniquins - Caetés* - Tamoios* - Potiguaras - Temiminós* - Tabajaras*?)
+Outros
+Curuaias
+Mundurucus
+Tapajós*
+Macro-jê
+Jês
+Aquém (Xavantes - Xerentes)
+Caingangues
+Tapaiúnas
+Timbiras (Apinajés - Apaniecras-Canelas/Timbiras - Paracatejê-gavião - Pucobié-gavião - Kyikatejê-gavião - Rancocamecras-canelas/Timbiras)
+Povo iny
+Carajás
+Javaés
+Xambioás
+Tapuias*
+Aimorés*
+Botocudos*
+Cariris*
+Geréns*
+Tarairiús*
+Outros
+Coropós*
+Crenaques
+Goitacases*
+Maxacalis
+Puris*
+Ricbactas
+Outros grupos
+Arauás
+Banauás
+Jamamadis
+Aruaques
+Apurinãs/Popukares
+Ashaninca
+Baníuas/Walimanais
+Barés/Haneras
+Enawenê-nawê
+Guanás
+Exoaladis* - Exoaladis* - Quiniquinaus - Terenas
+Manaós*
+Uapixanas
+Caribes
+Aparaís
+Bacairis/Kurâs
+Galibis do Oiapoque/Calinãs
+Cariris?*
+Aconãs
+Aticuns-umãs
+Caimbés
+Calabaças
+Carapotós
+Cariris-xocós
+Jucás
+Pancarás
+Pataxós-hã-hã-hães
+Quiriris
+Tingui-botós
+Trucás
+Tumbalalás
+Uassus/Wassus
+Xucurus-cariris
+Charruas*
+Guenoas*
+Minuanos*
+Embaiás
+Cadiuéus
+Guatiedéos*
+Beaquéos*
+Cataguéos*
+Macus
+Dous
+Hupdás
+Camãs
+Nadobs
+Iuhupdes)
+Panos
+Shawadauas
+Kuntanawa
+Tucanos
+Arapaços
+Barás/Waípinõmakãs
+Barasanas/Panenoás
+Desanos
+Tuparis
+Acuntsu
+Ajurus
+Outros
+Aicanãs
+Aranãs
+Araras/Ukarãngmãs
+Araras do Aripuanã
+Araras do Maia
+Aricapus
+Auetis/Enumaniás
+Bororos/Boes
+Bugres
+Caiapós
+Canoeiros
+Catuquinas
+Chiquitanos/Chiquitos
+Coroados
+Crateús*
+Fulniôs
+Galibis-maruornos/Aruás
+Guaianás*
+Guaicurus*
+Guatós
+Ianomâmis
+Djeoromitxí/Jabutis
+Javaés
+Kwazá
+Kuripakos
+Kujubim
+Muras
+Paiaguás
+Pancararus
+Ticunas
+Tremembés
+Tuxás
+Xocós
+Xucurus
+Culturas
+arqueológicas
+Humaitá
+Polícroma da Amazônia/Marajoara
+Umbu
+Vieira
+Organizações
+Indígenas: APIB
+COIAB
+Comitê Intertribal
+De apoio: CIMI
+ISA
+Governamentais: SPI
+FUNAI
+FUNASA
+Tópicos relacionados
+Línguas indígenas do Brasil
+Lista de terras indígenas do Brasil
+História pré-cabralina do Brasil
+Dia do Índio
+Estatuto do Índio
+Jogos dos Povos Indígenas
+Medicina ameríndia
+*: extintos; ?*: reivindicados; Aspas: grupos heterogêneos
+Portal dos povos nativos do Brasil
+Portal da antropologia
+Portal do Brasil
+vdeTópicos em AntropologiaEscolas teóricasEvolucionista · Difusionista · Estrutural-funcionalista · Estrutural · Física · Funcionalista · Histórica · Multiculturalista · Pós-colonialista · Pós-estruturalistaExpoentesArnold Van Gennep · Bartomeu Melià · Bronisław Malinowski · Bruno Latour · Claude Lévi-Strauss · Clifford Geertz · Darcy Ribeiro · David Graeber · Edmund Leach · Edward B. Tylor · Edward Said · Franz Boas · Frazer · Fredrik Barth · Gilberto Freyre  · Gilberto Velho · James Clifford · João Pacheco de Oliveira · León Cadogan · Louis Dumont · Marcel Mauss · Mary Douglas · Margaret Mead · Marilyn Strathern · Marshall Sahlins · Maurice Godelier · Melville Herkovits · Morgan  · Néstor Perlongher  · Norbert Elias · Peter Fry · Philippe Descola · Pierre Clastres · Radcliffe-Brown · Raymond Firth · Roberto Cardoso de Oliveira · Ruth Benedict · Vincent Crapanzano · Viveiros de CastroEspecialidadesda Alimentação · do Ciberespaço · do Corpo · Jurídica · Econômica · das Emoções · Filosófica · Etnologia · Etnoarqueologia · Etnobotânica · Etnomatemática · Etnomusicologia · do Mal · Linguística · do Parentesco · Política · das Religiões · da Saúde · Visual · UrbanaConceitosAculturação · Afinidade · Alteridade · Campo · Cosmologia · Corporificação · Cosmogonia · Cultura · Dádiva · Economia simbólica da alteridade · Economia bélica da alteridade · Eficácia simbólica · Estrutura · Esquizogênese · Etnicidade · Etnocentrismo · Etnogênese · Etnografia · Fronteira étnica · Mitema · Mito · Mitopráxis · Observação participante · Parentesco · Perspectivismo · Raça · Racismo · Rito · Símbolo · Sistema · Territorialização Portal da AntropologiaPortal da Filosofia · Portal da História
+Obtida de https://pt.wikipedia.org/w/index.php?title=Guaranis&oldid=62014384
+Categorias: Povos indígenas da ArgentinaPovos indígenas da BolíviaPovos indígenas do BrasilPovos indígenas do ParaguaiPovos indígenas do UruguaiPovos guaranisGrupos étnicos do ParaguaiGuaranisCategorias ocultas: !Artigos que carecem de notas de rodapé desde abril de 2017!Artigos que carecem de notas de rodapé sem indicação de tema
+Esta página foi editada pela última vez às 11h55min de 9 de setembro de 2021.
+Este texto é disponibilizado nos termos da licença Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as condições de utilização.
+Política de privacidade
+Sobre a Wikipédia
+Avisos gerais
+Versão móvel
+Programadores
+Estatísticas
+Declaração sobre cookies');
+Document.create!(url: 'https://pt.wikipedia.org/wiki/Charruas', title: 'Charruas – Wikipédia, a enciclopédia livre', body: 'Charruas – Wikipédia, a enciclopédia livre
+Saltar para o conteúdo
+Alternar barra lateral
+Busca
+Links do usuário
+Criar uma conta
+Ferramentas pessoais
+expandido
+collapsed
+Criar uma conta
+Entrar
+Páginas para editores conectados saiba mais
+DiscussãoContribuições
+Navegação
+Página principalConteúdo destacadoEventos atuaisEsplanadaPágina aleatóriaPortaisInformar um erro
+Colaboração
+Boas-vindasAjudaPágina de testesPortal comunitárioMudanças recentesManutençãoCriar páginaPáginas novasContatoDonativos
+Ferramentas
+Páginas afluentesAlterações relacionadasCarregar ficheiroPáginas especiaisHiperligação permanenteInformações da páginaCitar esta páginaElemento Wikidata
+Imprimir/exportar
+Criar um livroDescarregar como PDFVersão para impressão
+Noutros projetos
+Wikimedia Commons
+Espaços nominais
+ArtigoDiscussão
+Variantes
+expandido
+collapsed
+Vistas
+LerEditarEditar código-fonteVer histórico
+Mais
+expandido
+collapsed
+23 idiomas
+expandido
+collapsed
+العربيةمصرىAsturianuCatalàCymraegDeutschEnglishEsperantoEspañolEuskaraFrançaisHrvatskiItaliano日本語LietuviųNederlandsPolskiРусскийSrpskohrvatski / српскохрватскиСрпски / srpskiSvenskaУкраїнська中文
+Editar hiperligações
+Charruas
+Origem: Wikipédia, a enciclopédia livre.
+Charruas
+Pintura de Jean-Baptiste Debret (1768-1848) retratando um charrua
+População total
+6.439
+Regiões com população significativa
+Argentina, Uruguai e Brasil
+Argentina
+6.397
+INDEC, 2010[1]
+Brasil (RS)
+42 (segundo os próprios)
+Siasi/Sesai, 2014[1]
+Línguas
+Línguas charruanas
+Religiões
+Animismo
+Os charruas ou charrúas[2] eram índigenas ou originários que habitavam os campos dos atuais territórios do Uruguai, do nordeste da Argentina (especialmente na Província de Entre Ríos) e do sul do Rio Grande do Sul, no Brasil.[3]
+Índice
+1 Etimologia
+2 Economia
+3 Território ocupado
+4 Tipo físico
+5 Armas
+6 Construções
+7 Hábitos
+8 Religião
+9 Os últimos charruas
+10 Os descendentes dos charruas
+11 Representações na cultura
+12 Ver também
+13 Referências
+14 Bibliografia
+15 Ligações externas
+Etimologia[editar | editar código-fonte]
+Os povos charrua eram chamados de vários nomes no Uruguai, Argentina e Brasil (Rio Grande do Sul): guayantiranes, yaros, balomares, negueguianes, manchados, martidanes, mepenes, tocagues, bohanes, minuanos, charrúas etc. Os historiadores passaram a chamar todos esses povos de charrúas.
+Desconhece-se a origem e o significado da palavra charrua.[4]
+Economia[editar | editar código-fonte]
+No momento da conquista espanhola seu modo de produção era caçador-coletor, ainda que conseguissem, após o contato com os espanhóis, desenvolver um complexo equestre, e com este, uma rudimentar pecuária composta de equinos e bovinos. Dados ao sistema de produção caçador-coletor, eram nômades (pessoas que não têm habitação fixa, e vivem mudando de lugar o tempo todo), como também o eram quase todos os outros indígenas do pampa. Por isto, os únicos vestígios materiais de sua civilização são pequenas vasilhas de barro, assim como parte de suas armas típicas, lanças, flechas, boleadeiras.[carece de fontes?]
+Território ocupado[editar | editar código-fonte]
+Mapa da ocupação dos povos Charrúa no Uruguai, Argentina e Brasil
+Inicialmente, ocupavam as duas margens do rio Uruguai, desde Itapeiu até o seu delta, mas, já em época colonial europeia, estenderam seus domínios até as costas do Rio Paraná e ocuparam o Rio Grande do Sul. Localizaram-se na coxilha de Haedo, localizada ao sudoeste do Rio Grande do Sul, seguindo até o Rio Negro.[carece de fontes?]
+Em 1730, se aliaram aos minuanos, que vinham de além do Rio Uruguai e se estabeleceram nas terras próximas à Lagoa Mirim e à Lagoa dos Patos. Os guenoas ou guanoas eram charruas setentrionais. Os três povos têm suas origens na região da Patagônia, na Argentina (a região dos índios patagões ou patagones).[carece de fontes?]
+Tipo físico[editar | editar código-fonte]
+Eram altos, com uma média de 1,70 metros para os homens e 1,67 metros para as mulheres, de aspecto sério e taciturno, porte duro e feroz. Os homens apresentavam barba como distintivo varonil, na qual os caciques usavam engastadas como adorno pedras e - após o contato com produtos da civilização europeia - latas e vidros. A tatuagem no rosto consistia em três linhas que iam da raiz dos cabelos até a ponta do nariz e duas linhas transversais que iam de zigoma a zigoma. Para a guerra e festas, pintavam a mandíbula superior de branco.[carece de fontes?]
+Armas[editar | editar código-fonte]
+Como armas usavam o arco e flecha com carcases, boleadeiras, dardo, funda e lança. As flechas tinham as pontas feitas de pedra lascada. Após o contato com os espanhóis, as boleadeiras, que eram atadas com corda de tucum, passaram a ser ligadas com tiras de couro.[carece de fontes?]
+Construções[editar | editar código-fonte]
+As tendas charruas, primitivamente, eram feitas com quatro estacas e esteiras de palha no teto e nas paredes. Após o contato com os espanhóis, passaram a usar largos pedaços de couro e armas dos espanhóis e dos portugueses, como armas de fogo.[carece de fontes?]
+Hábitos[editar | editar código-fonte]
+Não eram agricultores. A alimentação era caça e frutos e também foi modificada em contato com os espanhóis, passando os charruas a preferir a carne de cavalo. Também após o contato, passaram a cobrir o corpo com uma camisa curta, sem mangas de pele curtida. No inverno, o pelo era aplicado pelo lado de dentro e no verão, ao contrário. As mulheres usavam uma saia de algodão até os joelhos. Não sabiam fiar nem tecer. Os panos de algodão que passaram a usar foram adquiridos em contato com os guaranis.[carece de fontes?]
+Eram polígamos. As mulheres cuidavam das tarefas domésticas e dos cavalos. O homem se dedicava à guerra e à caça. Faziam conselhos de família para decidir sobre assuntos de guerra ou outros interesses. Aprenderam a montar com os espanhóis, tornando-se exímios cavaleiros, hábeis na guerra e na caça. Em domínio espanhol, atacavam fazendas, raptavam as mulheres, castravam os meninos e os levavam como escravos, e matavam os homens adultos. Não praticavam o canibalismo, ao contrário dos tupis e guaranis não reduzidos. Os diversos grupos charruas falavam o que se convenciona chamar línguas charruanas.[carece de fontes?]
+Religião[editar | editar código-fonte]
+Pouca informação se tem sobre sua religiosidade, mas, durante fartas libações, invocavam um ser superior que, algumas vezes, poderia se tornar visível. Aos médicos-feiticeiros, atribuíam o poder de curar doenças, transbordar os rios, parar as feras; também havia velhas que curavam chupando a pele nos lugares doloridos. O funeral era entregue a uma velha que se encarregava de descarnar os ossos e sepultar. As mulheres de parentesco mais próximo (esposas e filhas), na perda do familiar, amputavam-se uma falange, além de cravarem, em si mesmas, flechas que tinham pertencido ao morto. O costume de amputação de falange também é encontrado em povos indígenas da Indonésia.[carece de fontes?]
+O filho, quando havia a morte do pai, ocultava-se por dois dias em sua cabana; após isto, à noite, dirigia-se a outro índio que lhe trespassava com pedaços de taquara a pele do braço do punho até o ombro; após isto, saía nu no bosque; cavava um buraco no chão onde coubesse até o peito e ali passava a noite; pela manhã, voltava à cabana, onde lhe tiravam as taquaras e passava dois dias sem comer e beber; nos dez dias seguintes, os meninos da tribo lhe levavam água e aves de caça; ao final deste tempo, voltava ao convívio da tribo. O marido não aparentava dor pela morte da mulher nem o pai pela morte do filho.[carece de fontes?]
+Os últimos charruas[editar | editar código-fonte]
+Vaimaca e os últimos charruas em 1833.
+Foram assim chamados os quatro indígenas enviados a Paris para estudos científicos, remanescentes da Batalha de Salsipuedes. Eram uma mulher e três homens. Seus nomes eram Senaqué, Tacuavé, Vaimaca e Guyunusa. Sabe-se que alguns percorreram a Europa em circos, em apresentação falaciosa, como antropófagos do novo continente. Entretanto, acredita-se que a etnia charrua pura não adentrara ao século XIX. As tribos ditas charruas vitimadas pela perseguição do recém-formado Uruguai eram compostas por indivíduos já com diferentes influências raciais e culturais.[carece de fontes?]
+Os descendentes dos charruas[editar | editar código-fonte]
+São considerados desaparecidos como povo, sem nunca terem sido catequizados. A etnia misturou-se às demais da região. Os uruguaios de hoje orgulham-se da suposta ascendência charrua, que lhes teria fornecido seu caráter indômito e indomável. Na Argentina encontram-se traços de sua descendência na Província de Entre Ríos.[carece de fontes?]
+Mas, em 9 de novembro de 2007, após uma luta que já durava 172 anos, sob a liderança da cacique Acuab, os charruas conseguiram o reconhecimento, quando a Câmara Municipal de Porto Alegre realizou ato que reconhecia a comunidade charrua como povo indígena brasileiro.[5] Considerada extinta pela Fundação Nacional do Índio (Funai), a tribo charrua voltou a ser reconhecida em ato oficial da fundação em setembro de 2007. O evento foi organizado em conjunto pelas comissões de Direitos Humanos da Câmara Municipal, da Assembleia Legislativa e do Senado Federal.[carece de fontes?]
+Existem, hoje, cerca de seis mil pessoas autodeterminadas charruas nos países que compõem o Mercosul. Só no Rio Grande do Sul, são mais de quatrocentos descendentes do charruas presentes nas localidades de Santo Ângelo, São Miguel das Missões e Porto Alegre que querem ser considerados indígenas.[carece de fontes?]
+Representações na cultura[editar | editar código-fonte]
+Tabaré - poema épico escrito por Juan Zorrilla de San Martín exaltando as origens étnicas uruguaias (a exemplo do romance Iracema, no Brasil)
+Abayubá - novela indigenista que exalta um legendário chefe desta tribo que ficou conhecido pela bravura na luta contra os conquistadores europeus em 1574.
+Les derniers Charruas ou quand le regard emprisonne, filme de 26 minutos de Dario Arce Asenjo, produtora Chromatiques - TLM, 2003
+Ver também[editar | editar código-fonte]
+Guenoas
+Minuanos
+Tradição Vieira
+Referências
+↑ a b Instituto Socioambiental. «Quadro Geral dos Povos». Enciclopédia dos Povos Indígenas no Brasil. Consultado em 17 de setembro de 2017
+↑ FERREIRA, A. B. H. Novo dicionário da língua portuguesa. 2ª edição. Rio de Janeiro. Nova Fronteira. 1986. p. 392.
+↑ Mariela Eva Rodríguez; Ana Maria Magalhães de Carvalho; Mónica Michelena; Martín Delgado Cultelli (2020), «Silencios, etnografía colaborativa y reemergencia Charrúa en Uruguay» (PDF), ISBN 978-65-87065-06-9, Memórias, violências e investigação colaborativa com povos indígenas: contribuições teóricas, metodológicas, éticas e políticas ao fazer etnográfico (em espanhol): 177-216, Wikidata Q104531540
+↑ Juan José Rossi. Los Charruas, p. 83.
+↑ Câmara municipal de Porto Alegre. Disponível em http://www2.camarapoa.rs.gov.br/default.php?reg=2522&p_secao=56&di=2007-03-06. Acesso em 16 de agosto de 2014.
+Bibliografia[editar | editar código-fonte]
+Enciclopédia Rio Grandense - Volume I . 1968. Ed Sulina (Porto Alegre)
+CORDEIRO, Serafin .
+Los Charrúas
+. Editorial Mentor. (Montevideo), 1960.
+Revista Pesquisa
+FAPESP, O DNA dos pampas, edição eletronica
+KENT, Michel & VENTURA , Ricardo S. ;
+Horiz. Antropol. vol. 18 n. 37 Porto Alegre Jan./June 2012 :
+Os Charruas vivem nos Gaúchos : a vida social de uma pesquisa de resgate genético de uma etnia indígena extinta no Sul do Brasil
+BORTOLINI, M.C. ; Horiz. antropol. vol.18 no.37 Porto Alegre Jan./June 2012; Resposta ao trabalho de Kent e Santos: Os charruas vivem nos Gaúchos (...)
+Los Charruas - Costumbres y uso de la piel
+Víctora, Ceres Gomes; Ruas-Neto, Antonio Leite (31 de agosto de 2012). «Querem matar os últimos Charruas: Sofrimento social e luta dos indígenas que vivem nas cidades». Revista ANTHROPOLÓGICAS. 22 (1). ISSN 2525-5223. Consultado em 6 de maio de 2019
+Rodríguez, Mariela Eva (2018). «DEVENIR CHARRÚA EN EL URUGUAY:». Abya-yala: Revista sobre Acesso à Justiça e Direitos nas Américas. 2 (2): 408–420. ISSN 2526-6675. Consultado em 6 de maio de 2019
+Pedroso, Anayara Fantinel; Brito, Antonio José Guimarães (31 de dezembro de 2016). «Vidas do sul: Identidade, Direito e Resistência na América Latina». RELACult - Revista Latino-Americana de Estudos em Cultura e Sociedade. 2 (4): 556–575. ISSN 2525-7870. doi:10.23899/relacult.v2i4.352. Consultado em 6 de maio de 2019
+Ely, Lara. «Uruguai. Espiritualmente ligados à Terra, Charruas querem reconhecimento». Consultado em 6 de maio de 2019
+Arn, Iván (2009). Más allá de la relación entre Identidad-Alteridad. La particularidad latinoamericana y la función del Estado. V Jornadas de Jóvenes Investigadores. Instituto de Investigaciones Gino Germani, Facultad de Ciencias Sociales, Universidad de Buenos Aires. Consultado em 6 de maio de 2019
+Lucas, Lara Ely. «O país sem índios. Entrevista com Nicolás Soto e Leonardo Rodríguez». Consultado em 6 de maio de 2019
+Corte, Gomez; Gomeza, Jose Ignacio (2016). «EM BUSCA DA MEMÓRIA E DA IDENTIDADE: A RESISTÊNCIA DO POVO CHARRUA NO URUGUAI». XXX Reunião da Associação Brasileira de Antropologia. 21 páginas
+Olivera, Andrea (2014). «Etnografía decolonial con colectivos charrúas: reflexionando sobre interconocimientos» (PDF). Anuario de Antropología Social y Cultural en Uruguay (em espanhol). 12: 139-153
+Repetto, Francesca (2019). «El indio inoportuno: un aporte sobre las trayectorias indígenas en el Uruguay». Hemisferio Izquierdo. Cópia arquivada em 23 de maio de 2019
+Ligações externas[editar | editar código-fonte]
+Outros projetos Wikimedia também contêm material sobre este tema:
+Categoria no Commons
+Commons
+«Povos Indígenas no Brasil - Charrua»
+vdePovos indígenas do BrasilGrupos étnicosMacro-tupi
+Mondés
+Aruás
+Cintas-largas/Matetamãe
+Ikolen
+Tupi-guaranis
+Amanaiés/Araradeuas
+Anambés
+Apiacás
+Akwáwa (Suruís-aiqueuaras - Assurinis do Tocantins)
+Arauetés/Bïde
+Assurinis do Xingu/Awaetes
+Avás-canoeiros/Carijós
+Awá-Guajá
+Carijós*
+Cauaíbes (Uru-eu-wau-waus)
+Guaranis (Kaiowás/Paí-tavyterã - Mbiás - Nhandevas)
+Guajajaras/Tenetearas
+Tupis* (Tupinambás* - Tupiniquins - Caetés* - Tamoios* - Potiguaras - Temiminós* - Tabajaras*?)
+Outros
+Curuaias
+Mundurucus
+Tapajós*
+Macro-jê
+Jês
+Aquém (Xavantes - Xerentes)
+Caingangues
+Tapaiúnas
+Timbiras (Apinajés - Apaniecras-Canelas/Timbiras - Paracatejê-gavião - Pucobié-gavião - Kyikatejê-gavião - Rancocamecras-canelas/Timbiras)
+Povo iny
+Carajás
+Javaés
+Xambioás
+Tapuias*
+Aimorés*
+Botocudos*
+Cariris*
+Geréns*
+Tarairiús*
+Outros
+Coropós*
+Crenaques
+Goitacases*
+Maxacalis
+Puris*
+Ricbactas
+Outros grupos
+Arauás
+Banauás
+Jamamadis
+Aruaques
+Apurinãs/Popukares
+Ashaninca
+Baníuas/Walimanais
+Barés/Haneras
+Enawenê-nawê
+Guanás
+Exoaladis* - Exoaladis* - Quiniquinaus - Terenas
+Manaós*
+Uapixanas
+Caribes
+Aparaís
+Bacairis/Kurâs
+Galibis do Oiapoque/Calinãs
+Cariris?*
+Aconãs
+Aticuns-umãs
+Caimbés
+Calabaças
+Carapotós
+Cariris-xocós
+Jucás
+Pancarás
+Pataxós-hã-hã-hães
+Quiriris
+Tingui-botós
+Trucás
+Tumbalalás
+Uassus/Wassus
+Xucurus-cariris
+Charruas*
+Guenoas*
+Minuanos*
+Embaiás
+Cadiuéus
+Guatiedéos*
+Beaquéos*
+Cataguéos*
+Macus
+Dous
+Hupdás
+Camãs
+Nadobs
+Iuhupdes)
+Panos
+Shawadauas
+Kuntanawa
+Tucanos
+Arapaços
+Barás/Waípinõmakãs
+Barasanas/Panenoás
+Desanos
+Tuparis
+Acuntsu
+Ajurus
+Outros
+Aicanãs
+Aranãs
+Araras/Ukarãngmãs
+Araras do Aripuanã
+Araras do Maia
+Aricapus
+Auetis/Enumaniás
+Bororos/Boes
+Bugres
+Caiapós
+Canoeiros
+Catuquinas
+Chiquitanos/Chiquitos
+Coroados
+Crateús*
+Fulniôs
+Galibis-maruornos/Aruás
+Guaianás*
+Guaicurus*
+Guatós
+Ianomâmis
+Djeoromitxí/Jabutis
+Javaés
+Kwazá
+Kuripakos
+Kujubim
+Muras
+Paiaguás
+Pancararus
+Ticunas
+Tremembés
+Tuxás
+Xocós
+Xucurus
+Culturas
+arqueológicas
+Humaitá
+Polícroma da Amazônia/Marajoara
+Umbu
+Vieira
+Organizações
+Indígenas: APIB
+COIAB
+Comitê Intertribal
+De apoio: CIMI
+ISA
+Governamentais: SPI
+FUNAI
+FUNASA
+Tópicos relacionados
+Línguas indígenas do Brasil
+Lista de terras indígenas do Brasil
+História pré-cabralina do Brasil
+Dia do Índio
+Estatuto do Índio
+Jogos dos Povos Indígenas
+Medicina ameríndia
+*: extintos; ?*: reivindicados; Aspas: grupos heterogêneos
+Portal dos povos nativos do Brasil
+Portal da antropologia
+Portal do Brasil
+Portal da Argentina
+Portal do Uruguai Controle de autoridade
+: Q527478
+AAT: 300018021
+BNF: 11963264m
+EBID: ID
+LCCN: sh85022714
+Obtida de https://pt.wikipedia.org/w/index.php?title=Charruas&oldid=62120675
+Categorias: CharruasPovos ameríndiosPovos indígenas da ArgentinaPovos indígenas do BrasilPovos indígenas do UruguaiPovos indígenasCategorias ocultas: !CS1 espanhol-fontes em língua (es)!Artigos que carecem de notas de rodapé desde dezembro de 2020!Artigos que carecem de notas de rodapé sem indicação de tema
+Esta página foi editada pela última vez às 23h50min de 25 de setembro de 2021.
+Este texto é disponibilizado nos termos da licença Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as condições de utilização.
+Política de privacidade
+Sobre a Wikipédia
+Avisos gerais
+Versão móvel
+Programadores
+Estatísticas
+Declaração sobre cookies');
+Document.create!(url: 'https://pt.wikipedia.org/wiki/Tupinamb%C3%A1s', title: 'Tupinambás – Wikipédia, a enciclopédia livre', body: 'Tupinambás – Wikipédia, a enciclopédia livre
+Saltar para o conteúdo
+Alternar barra lateral
+Busca
+Links do usuário
+Criar uma conta
+Ferramentas pessoais
+expandido
+collapsed
+Criar uma conta
+Entrar
+Páginas para editores conectados saiba mais
+DiscussãoContribuições
+Navegação
+Página principalConteúdo destacadoEventos atuaisEsplanadaPágina aleatóriaPortaisInformar um erro
+Colaboração
+Boas-vindasAjudaPágina de testesPortal comunitárioMudanças recentesManutençãoCriar páginaPáginas novasContatoDonativos
+Ferramentas
+Páginas afluentesAlterações relacionadasCarregar ficheiroPáginas especiaisHiperligação permanenteInformações da páginaCitar esta páginaElemento Wikidata
+Imprimir/exportar
+Criar um livroDescarregar como PDFVersão para impressão
+Noutros projetos
+Wikimedia Commons
+Espaços nominais
+ArtigoDiscussão
+Variantes
+expandido
+collapsed
+Vistas
+LerEditarEditar código-fonteVer histórico
+Mais
+expandido
+collapsed
+14 idiomas
+expandido
+collapsed
+CatalàČeštinaDeutschEnglishEsperantoEspañolفارسیSuomiFrançaisGalegoHrvatskiBahasa IndonesiaItalianoLietuvių
+Editar hiperligações
+Tupinambás
+Origem: Wikipédia, a enciclopédia livre.
+Nota: Para outros significados, veja Tupinambás (desambiguação).
+Esta página cita fontes, mas estas não cobrem todo o conteúdo. Ajude a inserir referências. Conteúdo não verificável poderá ser removido.—Encontre fontes: Google (notícias, livros e acadêmico) (Julho de 2020)
+Tupinambá
+Cerimônia religiosa de índios tupinambás em gravura de Theodor de Bry
+População total
+4.669[carece de fontes?]
+Regiões com população significativa
+Municípios de Ilhéus, Buerarema e Una, no estado da Bahia, Baixo Tapajós no estado do Pará no Brasil
+Línguas
+Tupi antigo, Nheengatu,Português
+Religiões
+Religião étnica Tupinambá, Catolicismo
+Etnia
+Tupi-guarani
+O termo Tupinambá pode ser usado de duas formas. Pode ser designativo dos povos indígenas brasileiros que, por volta do século XVI, habitavam duas regiões da costa brasileira: a primeira ia desde a margem direita do rio São Francisco até o Recôncavo Baiano;[1] a segunda ia do cabo de São Tomé, no atual estado do Rio de Janeiro, até São Sebastião, hoje o estado de São Paulo. Esse segundo grupo também era denominado de tamoio.[2][3] Ao todo, ambos os grupos compunham-se de 100.000 indivíduos e eram a nação indígena mais conhecida de toda a costa brasileira pelos navegadores europeus do século XVI.[1] Mas Tupinambá também pode se referir a todos os povos que, durante o início do contato colonial português, falavam alguma variante do idioma tupi antigo, desde o Pará até o sul do país, aproximadamente até o paralelo de 27 graus (segundo informações do cronista Pero de Magalhães Gândavo). Entre esses povos estavam os
+tupiniquins, potiguaras, tupinambás, temiminós, caetés, tabajaras, tamoios, tupinaés etc.[4]
+Atualmente povos Tupinambá ainda vivem na vila de Olivença no estado da Bahia[5] e no Baixo rio Tapajós no estado do Pará.[6]
+Índice
+1 Etimologia
+2 Origens
+3 Organização social
+4 Habitação
+5 Economia
+6 Costumes
+7 Confederação dos Tamoios
+8 Ver também
+9 Referências
+Etimologia[editar | editar código-fonte]
+O escritor Eduardo Bueno, baseado nos escritos de Teodoro Sampaio, afirma que o termo Tupinambá é oriundo do tupi tubüb-abá, que significa descendentes dos primeiros pais,[7] através da junção dos termos tuba (pai),[8] ypy (primeiro)[8] e abá (homem).[9]
+Em sentido diverso, o tupinólogo Eduardo de Almeida Navarro sugere a etimologia todos da família dos tupis, através da junção de tupi (tupi), anama (família) e mbá (todos).[10]
+Origens[editar | editar código-fonte]
+Quando os europeus chegaram ao que viria a ser o Brasil, encontraram uma população ameríndia bastante homogênea em termos culturais e linguísticos, distribuída grosso modo ao longo de toda a costa e na bacia Paraná-Paraguai. A despeito dessa homogeneidade,divisaram-se dois grandes blocos subdividindo essa população: ao sul, os Guarani, que ocupavam a bacia supracitada e o litoral, desde a Lagoa dos Patos até Cananeia, no atual estado de São Paulo; e os Tupi que dominavam a faixa litorânea desde Iguape até, pelo menos,a costa do Ceará. Este continuum tupi-guarani só era interrompido em alguns pontos do litoral: próximo ao estuário do Prata pelos Charrua, na foz do rio Paraíba pelos Goitacá, pelos Aimoré no sul da Bahia e norte do Espírito Santo, e pelos Tremembé na faixa entre Ceará e Maranhão.[11]
+Essas populações eram chamadas tapuia, um termo genérico para índios não Tupi, e dominavam originalmente o litoral, tendo sido daí expulsas — com as poucas exceções citadas acima — no bojo da conquista Tupi.
+Possíveis rotas migratórias Tupinambá.[11]
+Existem dois grandes modelos desse processo de expansão tupi-guarani na costa brasileira. A ideia dominante é a de um movimento migratório de sul para norte, a partir da bacia Paraná-Paraguai, onde Tupinambá e Guarani teriam se separado. Métraux sugere que a dispersão litorânea era um fato recente na época da Conquista, dada a identidade cultural entre os vários grupos que ocupavam a costa.[12] O segundo modelo,mais recente e baseado na interpretação de dados arqueológicos, inverte o sentido do deslocamento Tupinambá. Brochado acredita que,a partir de um nicho originário amazônico, teríamos dois movimentos migratórios de orientações diversas: os proto-Guarani teriam rumado para o sul via Madeira-Guaporé e atingido o rio Paraguai, espalhando-se ao longo de sua bacia desde o início da era cristã (ou, em estimativas mais conservadoras, a partir do século V); já os proto-Tupinambá teriam descido o Amazonas até sua foz, expandindo-se, em seguida, pela estreita faixa costeira em sentido oeste-leste, e depois norte-sul. A ocupação total do litoral teria ocorrido entre 700-900 d.C. e 1000-1200 d.C, quando os grupos Tupi mais ao sul teriam sua expansão barrada pelos Guarani.[13][11]
+Esse segundo modelo baseia-se numa hipótese forte — a de uma longa separação (mais de 1500 anos) entre Tupinambá e Guarani — que se choca com um certo consenso estabelecido, baseado na proximidade linguística e cultural dessas populações. Cabe, pois, a Brochado o ônus da prova, e, apesar de sua alimentação convincente, suas evidências são frágeis: são poucas as datações por radiocarbono de cerâmica atribuída aos Tupi; não há uma diferença substantiva entre as datações mais antigas no Rio de Janeiro (980 ± 100 d.C),e as do extremo nordeste da costa (SOO ±65 d.C); não há nenhum sítio datado atribuído aos Tupinambá, entre a foz do Amazonas e o Rio Grande do Norte (os cronistas falam de uma ocupação Tupi tardia do Pará e do Maranhão, por indígenas do nordeste que fugiam da opressão colonial).[14][15] Resta-nos aguardar, assim, o prosseguimento dos trabalhos arqueológicos.[11]
+Organização social[editar | editar código-fonte]
+Pouco se sabe a respeito· da composição e do funcionamento da tribo como unidade inclusiva. A ·única coisa evidente é que ela abrangia certo número de unidades menores, as aldeias (ou grupos locais), distanciadas no espaço mas unidas entre si por laços de parentesco e pelos interesses comuns que eles pressupunham, nas relações com a natureza, na preservação da integração tribal e na comunicação com o sagrado. Na vida quotidiana os indivíduos podiam agir, largamente, como membros da ordem existencial criada pelo grupo local. Mas, em assuntos relacionados com o deslocamento da tribo de uma região para outra, a circulação das mulheres entre as parentelas, a realização de uma expedição guerreira, o sacrifício de inimigos etc., as ações eram reguladas pela teia de interesses comuns.[16]
+Habitação[editar | editar código-fonte]
+Conselho dos chefes sob o luar em Ubatuba, para decidir sobre a morte de Hans Staden.[17]
+Os Tupinambá, no início do contato com os portugueses, moravam em malocas. Cada grupo local ou tribo Tupinambá se compunha de cerca de 6 a 8 malocas. A população dessas tribos girava em torno de 200 indivíduos, mas podia atingir até 600.[18] As malocas teriam uma largura constante, variando seu comprimento de acordo com o número de moradores agrupados nas subdivisões internas reservadas aos lares políginos, de vinte a quarenta em cada maloca, conforme as estimativas mais baixas. O acesso e a saída dos indivíduos eram feitas por três aberturas, duas localizadas nas extremidades e, outra, no centro da maloca. Enquanto duravam os materiais de que eram construídas, proporcionavam boa renovação do ar e abrigo confortável contra a inclemência do sol ou os excessos da chuva.[16]
+Os grupos locais compunham-se, em média, de quatro a sete malocas ou habitações coletivas. Estas eram dispostas no solo de modo a deixar uma área quadrangular livre, o terreiro,bastante ampla para a realização de ·Cerimônias como as reuniões do conselho de chefes, o massacre e a ingestão das vítimas, as atividades religiosas lideradas pelos pajés, as festas tribais etc., as quais, muitas vezes, também envolviam a participação dos membros dos grupos locais vizinhos. Em zonas sujeitas ao ataque de grupos tribais hostis, as malocas eram circundadas por uma estacada ou caiçara, feita com troncos de palmeiras rachados, ou por um duplo sistema de paliçadas, entre os quais colocavam estrepes agudos e cortantes.[16]
+Economia[editar | editar código-fonte]
+No início do período colonial a sociedade Tupinambá vivia da caça, coleta, pesca, além de praticar a agricultura, sobretudo de tubérculos, como a mandioca e a horticultura, possuindo o equipamento material que permitia a realização dessas atividades econômicas.[16]
+A divisão de trabalho era por sexo, cabendo aos homens as primeiras atividades e às mulheres o trabalho agrícola, exceto a abertura das clareiras para plantar, feita à base da queimada, tarefa essencialmente masculina. O plantio e a colheita, o preparo das comidas e o artesanato (confecção de vasos de argila, redes, etc) eram trabalhos femininos. Instrumentos de guerra - arcos e flechas, maças, lanças - eram feitos pelos homens. Os artefatos de guerra ou de trabalho eram de madeira e pedra, e desta última eram inclusive os machados com que cortavam madeira para vários fins.[18]
+Os Tupinambá ignoravam a exploração econômica do trabalho escravo. Seus cativos eram tratados como membros do nosso grupo até a data do sacrifício. Comumente podiam fazer mutirões onde os vizinhos eram convocados a trabalhar em grandes trabalhos como preparação de roças ou malocas, onde trabalhavam até dez horas e depois bebiam cauim em comemoração. Isso podia se repetir por quantos dias fosse necessário. Esse tipo de trabalho era pago da mesma forma, conforme a necessidade de cada um dos que ajudaram anteriormente.[16]
+Costumes[editar | editar código-fonte]
+Apesar de terem raízes comuns, as diversas tribos que compunham a nação tupinambá lutavam constantemente entre si, movidas por um intenso desejo de vingança, que resultava sempre em guerras sangrentas em que os prisioneiros eram capturados para serem devorados em rituais antropofágicos. Autores como o alemão Hans Staden (História verdadeira e descrição de uma terra de selvagens...)[19] e os franceses Jean de Léry (História de uma viagem feita à terra do Brasil) e André Thevet (As singularidades da França Antártica...), todos do século XVI, além das cartas jesuíticas da época, nos dão notícias muito precisas acerca de quem eram e de como viviam os tais índios.
+No livro As incríveis aventuras e estranhos infortúnios de Anthony Knivet há a seguinte narrativa:
+(...) [os franceses] deixavam entre os gentios [tupinambás] alguns mancebos para aprenderem a língua e poderem servir na terra (...) os quais se amancebaram na terra (...) e viveram como gentios com muitas mulheres, dos quais inçou a terra de mamelucos, que nasceram, viveram e morreram como gentios, e há hoje muitos de seus descendentes, que são louros, alvos e sardos e, havidos por índios tupinambás, e são mais bárbaros do que eles.[20]
+Em todas os povos tupis, eram comuns as referências a heróis civilizadores, como chama Alfred Métraux em seu livro A Religião dos Tupinambás e suas relações com a de outras tribos tupi-guaranis. Esses heróis eram divindades que haviam criado ou dado início à civilização indígena (Meire Humane e Pae Zomé — mito ameríndio comum em toda a América Meridional). Também era comum a intercessão dos pajés junto aos espíritos através do uso dos marocás, chocalhos místicos cujo uso era obrigatório em qualquer cerimônia.
+Os tupinambás da Região Sudeste do Brasil tinham um vasto território, que se estendia desde o rio Juqueriquerê, em São Sebastião/Caraguatatuba, no estado de São Paulo, até o cabo de São Tomé, no estado do Rio de Janeiro. Contudo, o grosso da nação tupinambá assentava-se ao redor da Baía da Guanabara e em Cabo Frio, onde fabricavam o gecay, que era a mistura de sal e pimenta que os índios vendiam aos franceses (chamados pelos tupis de maíra, nome originário de Meire Humane), com os quais se aliaram quando estes estabeleceram a colônia da França Antártica na Baía de Guanabara.
+Confederação dos Tamoios[editar | editar código-fonte]
+Distribuição dos grupos de língua tupi na costa brasileira no século XVI
+Ver artigo principal: Confederação dos Tamoios
+As tentativas de escravização dos índios para servirem nos engenhos de açúcar no núcleo vicentino levaram à união das tribos numa confederação sob o comando de Cunhambebe chamada de Confederação dos Tamoios, englobando todas as aldeias tupis desde o Vale do Paraíba Paulista até o Cabo de São Tomé, com invejável poderio de guerra.
+É nesse ínterim que Nóbrega e Anchieta teriam sido levados por José Adorno de barco até Iperoig (atual Ubatuba), para tentar fazer as pazes com os índios. Segundo a tradição, Nóbrega voltou até São Vicente com Cunhambebe e o padre José de Anchieta ficou cativo dos tupis em Ubatuba. Nesse período, ele teria escrito o Poema da Virgem. Supostamente, fatos lendários e fantásticos teriam ocorrido nesta época do cativeiro, como o milagre de Anchieta, como o levitar entre os índios, que horrorizados, queriam que ele dali se retirasse pois pensavam tratar-se de um feiticeiro.
+Seja como for, os padres, com muita diplomacia, conseguiram desmantelar a Confederação dos Tamoios, promovendo a Paz de Iperoig, o primeiro tratado de paz das Américas. Diz-se que, depois de feitas as pazes, Nóbrega advertiu os índios de que, se voltassem atrás na palavra empenhada, seriam todos destruídos, profecia que, de fato, se concretizou. Quando os portugueses atacaram os franceses do Rio de Janeiro, estes últimos pediram ajuda aos índios, que acudiram seus aliados. Isso levou ao extermínio dos tupinambás que moravam em aldeias em torno da Baía da Guanabara, na segunda metade do século XVI. Os que conseguiram se salvar foram os que se embrenharam nos matos com alguns franceses e os índios tupis de Ubatuba que, para não ajudarem os irmãos do Rio e não correrem riscos, ou fugiram pelas matas ou foram assimilados pelos colonos em Ubatuba, gerando a atual população caiçara daquela região, assim como a população cabocla do Vale do Paraíba.
+Contudo, o golpe fatal nos tupis foi o ataque ao último reduto francês em Cabo Frio, com a destruição de todas as aldeias. Tudo destruído com fogo e passado ao fio da espada. Por esses motivos e por algumas declarações que denotariam, em tese, a conivência com o extermínio indígena, é que o padre José de Anchieta tem sido considerado muito polêmico até os dias atuais, embora, noutras oportunidades, tenha declarado que se entendia melhor com os índios do que com os portugueses.
+Ver também[editar | editar código-fonte]
+Tupinambá de Olivença
+Referências
+↑ a b BUENO, E. Capitães do Brasil: a saga dos primeiros colonizadores. Rio de Janeiro. Objetiva. 1999. p. 43.
+↑ BUENO, E. Brasil: uma história. Segunda edição revista. São Paulo. Ática. 2003.
+↑ STADEN, H. Duas viagens ao Brasil: primeiros registros sobre o Brasil. Tradução de Angel Bojadsen. Introdução de Eduardo Bueno. Porto Alegre, RS. L&PM. 2010. p. 56.
+↑ Navarro, Eduardo de Almeida. (1998). Método moderno de tupi antigo : a língua do Brasil dos primeiros séculos. Petrópolis: Editora Vozes. ISBN 85-326-1953-3. OCLC 40480983
+↑ «Tupinambá de Olivença - Povos Indígenas no Brasil». pib.socioambiental.org. Consultado em 31 de dezembro de 2019
+↑ «Mulheres indígenas do Baixo Tapajós divulgam carta contra o acelerado desmonte da política indigenista – Amazônia.org». Consultado em 31 de dezembro de 2019
+↑ BUENO, E. Capitães do Brasil: a saga dos primeiros colonizadores. Rio de Janeiro. Objetiva. 1999. p. 123.
+↑ a b NAVARRO, E. A. Método moderno de tupi antigo: a língua do Brasil dos primeiros séculos. Terceira edição revista e aperfeiçoada. São Paulo. Global. 2005. p. 96.
+↑ NAVARRO, E. A. Método moderno de tupi antigo: a língua do Brasil dos primeiros séculos. Terceira edição revista e aperfeiçoada. São Paulo. Global. 2005. p. 22.
+↑ NAVARRO, E. A. Dicionário de tupi antigo: a língua indígena clássica do Brasil. São Paulo. Global. 2010. p. 484.
+↑ a b c d Cunha, Manuela Carneiro da,. Índios no Brasil : história, direitos e cidadania. São Paulo, SP: [s.n.] ISBN 978-85-8166-022-6. OCLC 842730558  !CS1 manut: Nomes múltiplos: lista de autores (link)
+↑ Métraux, Alfred (1927). «Migrations historiques des Tupi-Guarani». Journal de la Société des Américanistes de Paris (29): 1-45
+↑ Brochado, J.P. (1984). An ecological model of the spread of pottery and agriculture into Eastern South America. Illinois: Urbana
+↑ DAbbeville, Claude (1975 [1614]). História da missão dos padres capuchinhos na ilha do Maranhão e suas circunvizinhanças. [S.l.: s.n.]  Verifique data em: |ano= (ajuda)
+↑ Sousa, Gabriel Soares de (2001). Tratado descritivo do Brasil em 1587. [S.l.]: Editora Itatiaia. ISBN 978-85-319-0401-1
+↑ a b c d e Fernandes, Florestan. A investigação etnológica no Brasil e outros ensaios 2a edição, revista ed. São Paulo: [s.n.] ISBN 978-85-260-0138-1. OCLC 962853360
+↑ STANDEN, Hans. Duas viagens ao Brasil.
+↑ a b «IBGE | Brasil: 500 anos de povoamento | território brasileiro e povoamento | história indígena | modos de vida dos Tupinambá ou Tupis». brasil500anos.ibge.gov.br. Consultado em 6 de janeiro de 2020
+↑ «Verdadeira História e Descrição de um País na América, cujos habitantes são Canibais Selvagens, Nus e Sem Deus». World Digital Library. Consultado em 26 de abril de 2013
+↑ Anthony Knivet, Sheila Moura Hue, Samuel Purchas (2008). As incríveis aventuras e estranhos infortúnios de Anthony Knivet. [S.l.]: Zahar. 255 páginas. ISBN 9788537800157  !CS1 manut: Nomes múltiplos: lista de autores (link)
+vdePovos indígenas do BrasilGrupos étnicosMacro-tupi
+Mondés
+Aruás
+Cintas-largas/Matetamãe
+Ikolen
+Tupi-guaranis
+Amanaiés/Araradeuas
+Anambés
+Apiacás
+Akwáwa (Suruís-aiqueuaras - Assurinis do Tocantins)
+Arauetés/Bïde
+Assurinis do Xingu/Awaetes
+Avás-canoeiros/Carijós
+Awá-Guajá
+Carijós*
+Cauaíbes (Uru-eu-wau-waus)
+Guaranis (Kaiowás/Paí-tavyterã - Mbiás - Nhandevas)
+Guajajaras/Tenetearas
+Tupis* (Tupinambás* - Tupiniquins - Caetés* - Tamoios* - Potiguaras - Temiminós* - Tabajaras*?)
+Outros
+Curuaias
+Mundurucus
+Tapajós*
+Macro-jê
+Jês
+Aquém (Xavantes - Xerentes)
+Caingangues
+Tapaiúnas
+Timbiras (Apinajés - Apaniecras-Canelas/Timbiras - Paracatejê-gavião - Pucobié-gavião - Kyikatejê-gavião - Rancocamecras-canelas/Timbiras)
+Povo iny
+Carajás
+Javaés
+Xambioás
+Tapuias*
+Aimorés*
+Botocudos*
+Cariris*
+Geréns*
+Tarairiús*
+Outros
+Coropós*
+Crenaques
+Goitacases*
+Maxacalis
+Puris*
+Ricbactas
+Outros grupos
+Arauás
+Banauás
+Jamamadis
+Aruaques
+Apurinãs/Popukares
+Ashaninca
+Baníuas/Walimanais
+Barés/Haneras
+Enawenê-nawê
+Guanás
+Exoaladis* - Exoaladis* - Quiniquinaus - Terenas
+Manaós*
+Uapixanas
+Caribes
+Aparaís
+Bacairis/Kurâs
+Galibis do Oiapoque/Calinãs
+Cariris?*
+Aconãs
+Aticuns-umãs
+Caimbés
+Calabaças
+Carapotós
+Cariris-xocós
+Jucás
+Pancarás
+Pataxós-hã-hã-hães
+Quiriris
+Tingui-botós
+Trucás
+Tumbalalás
+Uassus/Wassus
+Xucurus-cariris
+Charruas*
+Guenoas*
+Minuanos*
+Embaiás
+Cadiuéus
+Guatiedéos*
+Beaquéos*
+Cataguéos*
+Macus
+Dous
+Hupdás
+Camãs
+Nadobs
+Iuhupdes)
+Panos
+Shawadauas
+Kuntanawa
+Tucanos
+Arapaços
+Barás/Waípinõmakãs
+Barasanas/Panenoás
+Desanos
+Tuparis
+Acuntsu
+Ajurus
+Outros
+Aicanãs
+Aranãs
+Araras/Ukarãngmãs
+Araras do Aripuanã
+Araras do Maia
+Aricapus
+Auetis/Enumaniás
+Bororos/Boes
+Bugres
+Caiapós
+Canoeiros
+Catuquinas
+Chiquitanos/Chiquitos
+Coroados
+Crateús*
+Fulniôs
+Galibis-maruornos/Aruás
+Guaianás*
+Guaicurus*
+Guatós
+Ianomâmis
+Djeoromitxí/Jabutis
+Javaés
+Kwazá
+Kuripakos
+Kujubim
+Muras
+Paiaguás
+Pancararus
+Ticunas
+Tremembés
+Tuxás
+Xocós
+Xucurus
+Culturas
+arqueológicas
+Humaitá
+Polícroma da Amazônia/Marajoara
+Umbu
+Vieira
+Organizações
+Indígenas: APIB
+COIAB
+Comitê Intertribal
+De apoio: CIMI
+ISA
+Governamentais: SPI
+FUNAI
+FUNASA
+Tópicos relacionados
+Línguas indígenas do Brasil
+Lista de terras indígenas do Brasil
+História pré-cabralina do Brasil
+Dia do Índio
+Estatuto do Índio
+Jogos dos Povos Indígenas
+Medicina ameríndia
+*: extintos; ?*: reivindicados; Aspas: grupos heterogêneos
+Obtida de https://pt.wikipedia.org/w/index.php?title=Tupinambás&oldid=62148628
+Categoria: Povos tupis-guaranisCategorias ocultas: !CS1 manut: Nomes múltiplos: lista de autores!Páginas com erros CS1: datas!Artigos que carecem de notas de rodapé desde julho de 2020!Artigos que carecem de notas de rodapé sem indicação de tema!Artigos que carecem de notas de rodapé
+Esta página foi editada pela última vez às 06h44min de 30 de setembro de 2021.
+Este texto é disponibilizado nos termos da licença Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as condições de utilização.
+Política de privacidade
+Sobre a Wikipédia
+Avisos gerais
+Versão móvel
+Programadores
+Estatísticas
+Declaração sobre cookies');
+Document.create!(url: 'https://pt.wikipedia.org/wiki/Caiap%C3%B3s', title: 'Caiapós – Wikipédia, a enciclopédia livre', body: 'Caiapós – Wikipédia, a enciclopédia livre
+Saltar para o conteúdo
+Alternar barra lateral
+Busca
+Links do usuário
+Criar uma conta
+Ferramentas pessoais
+expandido
+collapsed
+Criar uma conta
+Entrar
+Páginas para editores conectados saiba mais
+DiscussãoContribuições
+Navegação
+Página principalConteúdo destacadoEventos atuaisEsplanadaPágina aleatóriaPortaisInformar um erro
+Colaboração
+Boas-vindasAjudaPágina de testesPortal comunitárioMudanças recentesManutençãoCriar páginaPáginas novasContatoDonativos
+Ferramentas
+Páginas afluentesAlterações relacionadasCarregar ficheiroPáginas especiaisHiperligação permanenteInformações da páginaCitar esta páginaElemento Wikidata
+Imprimir/exportar
+Criar um livroDescarregar como PDFVersão para impressão
+Noutros projetos
+Wikimedia Commons
+Espaços nominais
+ArtigoDiscussão
+Variantes
+expandido
+collapsed
+Vistas
+LerEditarEditar código-fonteVer histórico
+Mais
+expandido
+collapsed
+23 idiomas
+expandido
+collapsed
+العربيةمصرىKotavaབོད་ཡིགCatalàDeutschEnglishEsperantoEspañolFrançaisGalegoHrvatskiBahasa IndonesiaÍslenskaItalianoLietuviųNederlandsپنجابیRuna SimiРусскийSrpskohrvatski / српскохрватскиSimple EnglishУкраїнська
+Editar hiperligações
+Caiapós
+Origem: Wikipédia, a enciclopédia livre.
+Nota: Não confundir com Caapores. Para a língua falada pelos cayapós, veja Língua caiapó.
+Caiapó Kayapó Mebêngôkre
+População total
+11 675 (Sistema de Informação da Atenção à Saúde Indígena/Secretaria Especial de Saúde Indígena, 2014)[1]
+Regiões com população significativa
+Pará
+Mato Grosso
+região nordeste do Estado de São Paulo
+https://www.al.sp.gov.br/noticia/?id=332308
+Línguas
+língua caiapó
+Religiões
+cultos animistas
+Os caiapós,[2] também conhecidos como kayapó, kaiapó,
+mẽbêngôkre[3] ou mebêngôkre (endônimos),[4] são um grupo étnico jê (um grupo linguístico de povos indígenas do Brasil), habitantes da Amazônia brasileira.
+Índice
+1 História
+2 Língua
+3 Denominação
+4 Subgrupos
+5 Economia
+6 Organização social
+7 Cosmologia
+8 Ver também
+9 Referências
+10 Ligações externas
+História[editar | editar código-fonte]
+Ocupantes desde tempos imemoriais de àreas no interior do Brasil, os caiapós habitavam pequenas aldeias em que viviam de caça, pesca, milho, mandioca, mel, e frutas. No século XVIII, na região nordeste do atual Estado de São Paulo, o grupo etnico teve seu primeiro contato com as populações de origem europeia, bandeirantes que eram liderados por Bartolomeu Bueno da Silva - o Anhanguera - buscavam por ouro, pedras preciosas e indios para serem comercializados com escravos. [5]
+Já na região da bacia inferior do rio Tocantins, no começo do século XIX os caiapós começaram a sofrer ataques dos homens brancos, que mataram e escravizaram muitos caiapós. Ainda que mais numerosos que os invasores, as bordunas dos caiapós nada podiam fazer diante dos mosquetes dos invasores. Como resultado, os caiapós migraram para o oeste. Trinta anos depois, porém, os homens brancos voltaram a atacar os caiapós. Desta vez, houve uma cisão entre os caiapósː uma parte deles queria estabelecer a paz com os homens brancos, e outra parte queria continuar a fuga para o oeste. Os caiapós que optaram pela relação amistosa com os brancos desapareceram, em grande parte vitimados por pestes trazidas pelos brancos.
+Nas décadas de 1950 e 1960, houve uma tentativa de aproximação por parte de agentes do governo brasileiro com a intenção de pacificar os caiapós. Como resultado, hoje, a maior parte dos caiapós está em contato permanente com a sociedade brasileira.[6]
+Nos anos 1980, dois caiapós se tornaram conhecidos do grande públicoː Tutu Pombo e Raoni. O primeiro, como o primeiro líder indígena brasileiro a explorar comercialmente as reservas indígenas, ao permitir a extração de ouro e mogno em troca de dinheiro. O segundo, como um defensor do meio ambiente e do modo de vida tradicional indígena.
+Língua[editar | editar código-fonte]
+A língua caiapó pertence ao tronco linguístico macrojê. O conhecimento da língua portuguesa varia de grupo para grupo, dependendo de seu grau de interação social com a sociedade não índigena.[7]
+Denominação[editar | editar código-fonte]
+O termo Kayapó é um exônimo que data do início do século XIX, tendo sido criado por grupos indígenas vizinhos desta etnia. Significa homens semelhantes aos macacos e está, provavelmente, ligado a certos rituais do grupo, nos quais os homens dançam usando máscaras de macaco. O endônimo dos chamados kayapó é mebengokre, que significa, literalmente, homens do buraco (ou poço) dágua.[8][9]
+Subgrupos[editar | editar código-fonte]
+Os caiapós são um grupo indígena brasileiro que se divide nos subgrupos:kayapó-aucre, kayapó-cararaô, caiapó-cocraimoro, caiapó-cubem-cram-quem, caiapó-gorotire, caiapó-mecranoti, caiapó-metuctire, caiapó-pau-darco, caiapó-quicretum e caiapó-xicrim. No passado, eram também chamados de coroados, e os de Mato Grosso, coroás.
+Economia[editar | editar código-fonte]
+Sua principal atividade econômica é a agricultura itinerante praticada por homens, mulheres e meninos. Através do método de desbravar e queimar (queimada), cada par limpa um local na floresta de cerca de cinquenta por trinta metros onde estabelecem suas hortas, nas quais semeiam batata, cará, mandioca, algodão, milho e, ao lado das árvores, plantam cupá, uma videira com gavinhas comestíveis. Alguns grupos introduziram, em suas hortas, arroz, feijão, mamão e tabaco. Usam fertilizantes e pesticidas.
+Recolhem mel e frutos de palmeiras silvestres como o babaçu. A castanha-do-pará, que anteriormente era recolhida pelas mulheres para seu autoconsumo, hoje é recolhida pelos homens e vendida a compradores estatais ou privados. O óleo certificado de castanha, feito pelos caiapós da Terra Indígena Baú, de Novo Progresso, recebeu o selo verde, uma certificação que atesta práticas legais e impulsiona a venda para as indústrias de cosméticos. No entanto, a sua substituição por outras matérias-primas tem feito os caiapós venderem o óleo para a indústria de biocombustível a um preço dez vezes menor.[10]
+Espécies de árvores plantadas pelos Kayapó[11]
+Nome Kayapó
+Nome em português
+Nome científico
+alimento
+usos
+motu
+marmelada
+Alibertia edulis
+Sim
+isca/caça
+roi-krãti
+marmelada-do-campo
+Alibertia sp.
+isca/caça
+ongrê
+araticum
+Annona crassiflora
+Sim
+jacá
+jaca
+Artocarpus intergrifoliam
+Sim
+roi-ti-(mrã)
+tucumã
+Astrocaryum tucuma
+Sim
+sal
+woti
+tucum ou cumari
+Astrocaryum vulgare
+Sim
+óleo
+piỳ
+castanha-do-pará
+Bertholletia excelsa
+Sim
+pỳ kumrenx
+urucu (1 de 3 variedades)
+Bixa orellana
+pintura corporal
+pỳ poi ti
+urucu (1 de 3 variedades)
+Bixa orellana
+pỳ krã re
+urucu (1 de 3 variedades)
+Bixa orellana
+kutenk
+murici
+Byrsonima crassifolia
+Sim
+pri kà ti
+piqui (1 de 3 variedades)
+Caryocar villosum
+Sim
+pri krã ti
+piqui (1 de 3 variedades)
+Caryocar villosum
+isca/caça
+pri kumrenx
+piqui (1 de 3 variedades)
+Caryocar villosum
+Sim
+pdigô ngrã ngrã
+lima
+Citrus aurantiifolia
+Sim
+pidgô ti
+laranja-da-terra
+Citrus aurantium
+Sim
+pidgô poi re
+limão
+Citrus × limonia
+Sim
+kapê
+café
+Coffea arabica
+Sim
+kudjá redjô
+cereja Kayapó
+Cordia sp.
+Sim
+isca/caça
+kremp
+uxi
+Endopleura uchi
+Sim
+pidjô nore
+jambo
+Syzygium jambos
+Sim
+isca/caça
+kamere kàk
+açaí
+Euterpe oleracea
+Sim
+isca/caça
+mroti, mrotire
+jenipapo
+Genipa americana
+Sim
+pintura corporal
+pi-ô-tire
+mangaba
+Hancornia speciosa
+Sim
+moi (motx)
+jatobá
+Hymenaea courbaril
+Sim
+isca/caça
+kohnjô-kô, jaka, kryre, poire, tire ngrãngrã, tyk
+ingá (6 variedades)
+Inga spp.
+Sim
+isca/caça
+kromu
+sapucaia
+Lecythis usitata
+Sim
+piỳ tê krê ti
+sapucaia
+Lecythis usitata var. paraensis
+Sim
+kuben poi re
+manga
+Mangifera indica
+Sim
+krwya no kamrek
+maçaranduba
+Manilkara huberi
+isca/caça, isca/pesca
+ngrwa ràre
+buritirana
+Mauritia martiana
+Sim
+ngrwa
+buriti
+Mauritia flexuosa
+Sim
+rikre
+inajá
+Attalea maripa
+Sim
+sal
+kamere
+bacaba
+Oenocarpus bacaba
+Sim
+isca/caça
+rò
+babaçu
+Attalea speciosa
+Sim
+sal/óleo
+ngra djàre
+piaçaba
+Attalea funifera
+Sim
+kamô
+pariri
+Parinari montana
+Sim
+isca/caça
+kaprã
+abacate
+Persea americana
+Sim
+pĩ panhê ka tire
+bacuri
+Platonia insignis
+Sim
+isca/caça
+atwyra krã krê
+imbaúba
+Pourouma cecropiifolia
+Sim
+isca/caça
+kamokô
+tuturuba
+Pouteria macrophylla
+Sim
+isca/caça
+pidjó kamrek
+goiaba
+Psidium guajava
+Sim
+tytyti diô
+banana-brava
+Ravenala guyanensis
+Sim
+biri
+biribá
+Rollinia mucosa
+Sim
+miêchet ti
+jurubeba
+Solanum paniculatum
+Sim
+?
+cajá
+Spondias lutea
+Sim
+bàrere-krã-kryre
+taperebá
+Spondias lutea
+Sim
+kuben krã ti
+cacau
+Theobroma cacao
+Sim
+isca/pesca
+bàri-djó
+cupuaçu
+Theobroma grandiflorum
+Sim
+São bons caçadores, mas, atualmente, a caça não é abundante. Entre as presas que conseguem obter, se destacam os da família Tayassuidae. Os homens tecem cestos, cintos e faixas para carregar e fabricam paus, lanças, arcos e flechas para a caça. As mulheres fabricam pulseiras, fitas e cordas.
+Atualmente, os caiapós do Pará são tidos como os índios mais ricos do Brasil. Sua riqueza vem da exploração de mogno, ouro e óleo de castanha-do-pará, além de dividendos de róialtis advindos da mineração industrial em suas terras.[12]
+Organização social[editar | editar código-fonte]
+Em 2 de junho de 2010, o cacique Akiaboro, líder geral de todas as aldeias Caiapó, fala à imprensa após participar da 13ª Reunião Ordinária da Comissão Nacional de Política Indigenista. Foto:Renato Araújo/ABr.
+Cada comunidade é independente das demais, mas todas apresentam a mesma estrutura. Se constrói uma aldeia com uma praça central para as festas e, ao redor, as casas de cada família. O ngobe é a casa dos homens, situada no extremo norte da praça, onde eles se reúnem, praticam trabalhos artesanais e pernoitam. Os homens se dividem em dois lados, cada um com um benadióro (chefe) e seus oopen (partidários).
+As casas das esposas do chefe estão uma no extremo leste da aldeia e outra a oeste. São seminômades. Várias vezes ao ano, correm pelas florestas para a caça, coleta e estabelecimento de novas colheitas; alguns desses períodos são curtos e breves e outros relativamente longos, durante os quais abandonam a aldeia. Como comunidades sobreviventes, se mencionam os kubenkrâkên, gorotire, xikrin, menkragnoti e metüktire.
+Uma forma organizativa fundamental através da qual cada pessoa se articula em sua comunidade é o grupo patronímico ou seguimento de nomes. As meninas e as mulheres formam o mesmo grupo das irmãs do pai, enquanto que os meninos e os homens são do grupo dos irmãos da mãe.
+Jovens índias caiapós do Pará participando de cerimônia
+O sistema de parentesco se assemelha ao tipo Omaha, o qual permitiria pensar em linhagens patrilineares, que, no entanto, não existem ou são substituídas pela adesão a segmentos determinados pela descendência em linha cruzada: cada pessoa pertence a uma categoria de acordo com sua idade, sexo e número de filhos. Os guerreiros (maiores de 17 anos) participam das assembleias no ngobe, onde se tomam as decisões políticas.
+O matrimônio se contrai em idade precoce, por vezes consentido pelas mães dos noivos, sendo proibida a união entre primos cruzados. Se trata de um evento público que está previsto após a menarca (primeira menstruação) das meninas (entre 10 e 12 anos). As mães e tias dos recém-casados preparam e interrompem sem prejuízos a noite de núpcias. O divórcio é possível, mas o segundo casamento é privado.
+A decoração do corpo é uma questão importante na sociedade. Dedica-se bastante tempo para raspar o cabelo e fazer desenhos coloridos na pele. Homens, mulheres e crianças ficam com a parte superior da cabeça completamente raspada. As mulheres deixam cair para trás o resto do cabelo, enquanto os homens fazem um rolo. Levam grinaldas de penas, brincos, colares e cintos e alguns homens usam um disco em seu lábio inferior. Anteriormente, todos os homens o portavam.
+Não usam bebidas fermentadas nem plantas alucinógenas.
+Cosmologia[editar | editar código-fonte]
+Há um mundo celeste do qual provém a humanidade. Os primeiros seres humanos que chegaram à Terra vieram de lá por uma longa corda, igual formigas por um tronco. Isto foi possível porque um homem viu um tatu e o seguiu até que entrou num buraco, que depois foi usado pelas pessoas para vir a este mundo. Também as plantas celestes baixaram do mundo celestial quando a filha da chuva brigou com a mãe, desceu a este mundo e foi acolhida por um homem, a quem entregou as plantas.
+Muitos relatos explicam os fatos culturais, desde a obtenção do fogo até a casa da onça-pintada. As danças são levadas muito a sério, pois explicam a relação com a natureza, a sociedade e a história.
+Ver também[editar | editar código-fonte]
+Usina Hidrelétrica de Belo Monte
+Lista de povos indígenas brasileiros
+Paulinho Paiakã
+Lista de abelhas sem ferrão do Brasil#Lista de espécies utilizadas pelos Kayapó
+Referências
+↑ Povos indígenas no Brasil. Disponível em https://pib.socioambiental.org/pt/Povo:Meb%C3%AAng%C3%B4kre_(Kayap%C3%B3). Acesso em 27 de janeiro de 2019.
+↑ FERREIRA, A. B. H. Novo Dicionário da Língua Portuguesa. 2ª edição. Rio de Janeiro. Nova Fronteira. 1986. p. 313.
+↑ Oliveira, Ester de Souza; Passos, João Lucas Moraes (7 de outubro de 2019). «Limites e lugares: entre caminhos mẽbêngôkre». Ilha Revista de Antropologia (1): 170–196. ISSN 2175-8034. doi:10.5007/2175-8034.2019v21n1p170. Consultado em 7 de fevereiro de 2021
+↑ Povos indígenas no Brasil. Disponível em https://pib.socioambiental.org/pt/povo/kayapo/177. Acesso em 13 de junho de 2016.
+↑ https://www.al.sp.gov.br/noticia/?id=332308
+↑ Povos indígenas no Brasil. Disponível em https://pib.socioambiental.org/pt/povo/kayapo/181. Acesso em 13 de junho de 2016.
+↑ Povos indígenas no Brasil. Disponível em https://pib.socioambiental.org/pt/Povo:Meb%C3%AAng%C3%B4kre_(Kayap%C3%B3)#L.C3.ADngua. Acesso em 29 de janeiro de 2019.
+↑ Povos indígenas no Brasil. Instituto Socioambiental. Nome
+↑ Kayapó / Mebêngôkre. Site do XII Encontro de Culturas Tradicionais da Chapada dos Veadeiros.
+↑ Caiapós têm dificuldade para vender óleo certificado de castanha - O Estado de S.Paulo, 26 de fevereiro de 2010 (visitado em 26-2-2010).
+↑ Posey, Darrell A. 1986. Manejo de floresta secundária, capoeira, campos e cerrados (Kayapó). In: Ribeiro, Darcy (editor); Ribeiro, Berta G. (coord.). Suma Etnológica Brasileira, Vol. 1: Etnobiologia, p. 172-186. Petrópolis: Vozes, Finep.
+↑ Caiapós. Disponível em http://www.portalamazonia.com.br/amazoniadeaz/interna.php?id=320. Acesso em 27 de janeiro de 2019.
+Ligações externas[editar | editar código-fonte]
+O Commons possui uma categoria com imagens e outros ficheiros sobre
+Caiapós
+Verbete Kayapó - Povos Indígenas no Brasil. Instituto Socioambiental
+Acervo Etnográfico Museu do Índio - Caiapós
+vdePovos indígenas do BrasilGrupos étnicosMacro-tupi
+Mondés
+Aruás
+Cintas-largas/Matetamãe
+Ikolen
+Tupi-guaranis
+Amanaiés/Araradeuas
+Anambés
+Apiacás
+Akwáwa (Suruís-aiqueuaras - Assurinis do Tocantins)
+Arauetés/Bïde
+Assurinis do Xingu/Awaetes
+Avás-canoeiros/Carijós
+Awá-Guajá
+Carijós*
+Cauaíbes (Uru-eu-wau-waus)
+Guaranis (Kaiowás/Paí-tavyterã - Mbiás - Nhandevas)
+Guajajaras/Tenetearas
+Tupis* (Tupinambás* - Tupiniquins - Caetés* - Tamoios* - Potiguaras - Temiminós* - Tabajaras*?)
+Outros
+Curuaias
+Mundurucus
+Tapajós*
+Macro-jê
+Jês
+Aquém (Xavantes - Xerentes)
+Caingangues
+Tapaiúnas
+Timbiras (Apinajés - Apaniecras-Canelas/Timbiras - Paracatejê-gavião - Pucobié-gavião - Kyikatejê-gavião - Rancocamecras-canelas/Timbiras)
+Povo iny
+Carajás
+Javaés
+Xambioás
+Tapuias*
+Aimorés*
+Botocudos*
+Cariris*
+Geréns*
+Tarairiús*
+Outros
+Coropós*
+Crenaques
+Goitacases*
+Maxacalis
+Puris*
+Ricbactas
+Outros grupos
+Arauás
+Banauás
+Jamamadis
+Aruaques
+Apurinãs/Popukares
+Ashaninca
+Baníuas/Walimanais
+Barés/Haneras
+Enawenê-nawê
+Guanás
+Exoaladis* - Exoaladis* - Quiniquinaus - Terenas
+Manaós*
+Uapixanas
+Caribes
+Aparaís
+Bacairis/Kurâs
+Galibis do Oiapoque/Calinãs
+Cariris?*
+Aconãs
+Aticuns-umãs
+Caimbés
+Calabaças
+Carapotós
+Cariris-xocós
+Jucás
+Pancarás
+Pataxós-hã-hã-hães
+Quiriris
+Tingui-botós
+Trucás
+Tumbalalás
+Uassus/Wassus
+Xucurus-cariris
+Charruas*
+Guenoas*
+Minuanos*
+Embaiás
+Cadiuéus
+Guatiedéos*
+Beaquéos*
+Cataguéos*
+Macus
+Dous
+Hupdás
+Camãs
+Nadobs
+Iuhupdes)
+Panos
+Shawadauas
+Kuntanawa
+Tucanos
+Arapaços
+Barás/Waípinõmakãs
+Barasanas/Panenoás
+Desanos
+Tuparis
+Acuntsu
+Ajurus
+Outros
+Aicanãs
+Aranãs
+Araras/Ukarãngmãs
+Araras do Aripuanã
+Araras do Maia
+Aricapus
+Auetis/Enumaniás
+Bororos/Boes
+Bugres
+Caiapós
+Canoeiros
+Catuquinas
+Chiquitanos/Chiquitos
+Coroados
+Crateús*
+Fulniôs
+Galibis-maruornos/Aruás
+Guaianás*
+Guaicurus*
+Guatós
+Ianomâmis
+Djeoromitxí/Jabutis
+Javaés
+Kwazá
+Kuripakos
+Kujubim
+Muras
+Paiaguás
+Pancararus
+Ticunas
+Tremembés
+Tuxás
+Xocós
+Xucurus
+Culturas
+arqueológicas
+Humaitá
+Polícroma da Amazônia/Marajoara
+Umbu
+Vieira
+Organizações
+Indígenas: APIB
+COIAB
+Comitê Intertribal
+De apoio: CIMI
+ISA
+Governamentais: SPI
+FUNAI
+FUNASA
+Tópicos relacionados
+Línguas indígenas do Brasil
+Lista de terras indígenas do Brasil
+História pré-cabralina do Brasil
+Dia do Índio
+Estatuto do Índio
+Jogos dos Povos Indígenas
+Medicina ameríndia
+*: extintos; ?*: reivindicados; Aspas: grupos heterogêneos
+Portal dos povos nativos do Brasil
+Portal da antropologia
+Obtida de https://pt.wikipedia.org/w/index.php?title=Caiapós&oldid=61344063
+Categorias: Povos caiapósPovos indígenas do Pará
+Esta página foi editada pela última vez às 15h19min de 8 de junho de 2021.
+Este texto é disponibilizado nos termos da licença Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as condições de utilização.
+Política de privacidade
+Sobre a Wikipédia
+Avisos gerais
+Versão móvel
+Programadores
+Estatísticas
+Declaração sobre cookies');
+Document.create!(url: 'https://pt.wikipedia.org/wiki/Guat%C3%B3s', title: 'Guatós – Wikipédia, a enciclopédia livre', body: 'Guatós – Wikipédia, a enciclopédia livre
+Saltar para o conteúdo
+Alternar barra lateral
+Busca
+Links do usuário
+Criar uma conta
+Ferramentas pessoais
+expandido
+collapsed
+Criar uma conta
+Entrar
+Páginas para editores conectados saiba mais
+DiscussãoContribuições
+Navegação
+Página principalConteúdo destacadoEventos atuaisEsplanadaPágina aleatóriaPortaisInformar um erro
+Colaboração
+Boas-vindasAjudaPágina de testesPortal comunitárioMudanças recentesManutençãoCriar páginaPáginas novasContatoDonativos
+Ferramentas
+Páginas afluentesAlterações relacionadasCarregar ficheiroPáginas especiaisHiperligação permanenteInformações da páginaCitar esta páginaElemento Wikidata
+Imprimir/exportar
+Criar um livroDescarregar como PDFVersão para impressão
+Espaços nominais
+ArtigoDiscussão
+Variantes
+expandido
+collapsed
+Vistas
+LerEditarEditar código-fonteVer histórico
+Mais
+expandido
+collapsed
+6 idiomas
+expandido
+collapsed
+EnglishEspañolHrvatskiItalianoLietuviųSrpskohrvatski / српскохрватски
+Editar hiperligações
+Guatós
+Origem: Wikipédia, a enciclopédia livre.
+Nota: Se procura pela língua da família linguística do tronco macro-jê, veja Língua guató.
+Esta página cita fontes, mas estas não cobrem todo o conteúdo. Ajude a inserir referências. Conteúdo não verificável poderá ser removido.—Encontre fontes: Google (notícias, livros e acadêmico) (Novembro de 2019)
+Guató
+População total
+198
+Regiões com população significativa
+Brasil (MT/MS)
+198
+Siasi/Sesai, 2014[1]
+Línguas
+guató
+Religiões
+Em laranja, a área provável de utilização da língua guató na época dos primeiros contatos com os não índios
+Os Guatós são um grupo indígena sul-americano do Alto Paraguai. Falam uma língua isolada.[2] Viviam praticamente em toda a região sudoeste do estado de Mato Grosso, no estado de Mato Grosso do Sul e na Bolívia. Se tornaram respeitados pelo manejo certeiro do arco. Eram grandes construtores de canoas de troncos de árvores e conseguiam sobreviver semanas sobre elas se fosse preciso. Os homens remavam e as mulheres governavam a canoa com uma pá. Uma curiosidade do grupo é que não se mantinham em grandes aldeias e sim em pequenos grupos familiares.
+Os homens andavam completamente nus e as mulheres cobriam sua parte íntima apenas com um rolo de cordas amarrado a uma linha presa à cintura. Os homens viviam com mais de uma mulher e possuíam grandes brincos feitos de penas coloridas.
+Pintura em nanquim de uma família da nação Guató. Obra elaborada por Hércules Florence do acervo do Instituto Hercule Florence.
+A expulsão dos Guatós de seu território ocorreu de modo intenso nas décadas de 1987 e 2000. O gado dos fazendeiros da região invadia e destruía as roças dos índios e os comerciantes de peles expulsavam os guatós da região da Ilha Ínsua. Com isso, se mudaram para outros pontos do Pantanal ou se dirigiram para as periferias de cidades como Corumbá, Ladário, Aquidauana, Poconé e Cáceres. Foram considerados extintos pela Fundação Nacional do Índio a partir de 1950 e, por isso, não receberam qualquer assistência do orgão até 1976, quando missionários encontraram uma aldeia do grupo próxima à periferia da cidade de Corumbá. Lentamente, passaram a lutar pelo seu reconhecimento étnico. São o último povo canoeiro das terras baixas do Pantanal.[3]
+Referências
+↑ Instituto Socioambiental. «Quadro Geral dos Povos». Enciclopédia dos Povos Indígenas no Brasil. Consultado em 17 de setembro de 2017
+↑ FERREIRA, A. B. H. Novo Dicionário da Língua Portuguesa. Segunda edição. Rio de Janeiro: Nova Fronteira, 1986. p.875
+↑ http://pib.socioambiental.org/pt/povo/guato/print
+Ligações externas[editar | editar código-fonte]
+Acervo Etnográfico Museu do Índio - Guatós
+Outros projetos Wikimedia também contêm material sobre este tema:
+Categoria no Commons
+Commons
+«Povos Indígenas no Brasil - Guató». Instituto Socioambiental
+Este artigo
+sobre povos indígenas é um esboço relacionado ao Projeto Ciências Sociais.
+Você pode ajudar a Wikipédia expandindo-o.
+vdePovos indígenas do BrasilGrupos étnicosMacro-tupi
+Mondés
+Aruás
+Cintas-largas/Matetamãe
+Ikolen
+Tupi-guaranis
+Amanaiés/Araradeuas
+Anambés
+Apiacás
+Akwáwa (Suruís-aiqueuaras - Assurinis do Tocantins)
+Arauetés/Bïde
+Assurinis do Xingu/Awaetes
+Avás-canoeiros/Carijós
+Awá-Guajá
+Carijós*
+Cauaíbes (Uru-eu-wau-waus)
+Guaranis (Kaiowás/Paí-tavyterã - Mbiás - Nhandevas)
+Guajajaras/Tenetearas
+Tupis* (Tupinambás* - Tupiniquins - Caetés* - Tamoios* - Potiguaras - Temiminós* - Tabajaras*?)
+Outros
+Curuaias
+Mundurucus
+Tapajós*
+Macro-jê
+Jês
+Aquém (Xavantes - Xerentes)
+Caingangues
+Tapaiúnas
+Timbiras (Apinajés - Apaniecras-Canelas/Timbiras - Paracatejê-gavião - Pucobié-gavião - Kyikatejê-gavião - Rancocamecras-canelas/Timbiras)
+Povo iny
+Carajás
+Javaés
+Xambioás
+Tapuias*
+Aimorés*
+Botocudos*
+Cariris*
+Geréns*
+Tarairiús*
+Outros
+Coropós*
+Crenaques
+Goitacases*
+Maxacalis
+Puris*
+Ricbactas
+Outros grupos
+Arauás
+Banauás
+Jamamadis
+Aruaques
+Apurinãs/Popukares
+Ashaninca
+Baníuas/Walimanais
+Barés/Haneras
+Enawenê-nawê
+Guanás
+Exoaladis* - Exoaladis* - Quiniquinaus - Terenas
+Manaós*
+Uapixanas
+Caribes
+Aparaís
+Bacairis/Kurâs
+Galibis do Oiapoque/Calinãs
+Cariris?*
+Aconãs
+Aticuns-umãs
+Caimbés
+Calabaças
+Carapotós
+Cariris-xocós
+Jucás
+Pancarás
+Pataxós-hã-hã-hães
+Quiriris
+Tingui-botós
+Trucás
+Tumbalalás
+Uassus/Wassus
+Xucurus-cariris
+Charruas*
+Guenoas*
+Minuanos*
+Embaiás
+Cadiuéus
+Guatiedéos*
+Beaquéos*
+Cataguéos*
+Macus
+Dous
+Hupdás
+Camãs
+Nadobs
+Iuhupdes)
+Panos
+Shawadauas
+Kuntanawa
+Tucanos
+Arapaços
+Barás/Waípinõmakãs
+Barasanas/Panenoás
+Desanos
+Tuparis
+Acuntsu
+Ajurus
+Outros
+Aicanãs
+Aranãs
+Araras/Ukarãngmãs
+Araras do Aripuanã
+Araras do Maia
+Aricapus
+Auetis/Enumaniás
+Bororos/Boes
+Bugres
+Caiapós
+Canoeiros
+Catuquinas
+Chiquitanos/Chiquitos
+Coroados
+Crateús*
+Fulniôs
+Galibis-maruornos/Aruás
+Guaianás*
+Guaicurus*
+Guatós
+Ianomâmis
+Djeoromitxí/Jabutis
+Javaés
+Kwazá
+Kuripakos
+Kujubim
+Muras
+Paiaguás
+Pancararus
+Ticunas
+Tremembés
+Tuxás
+Xocós
+Xucurus
+Culturas
+arqueológicas
+Humaitá
+Polícroma da Amazônia/Marajoara
+Umbu
+Vieira
+Organizações
+Indígenas: APIB
+COIAB
+Comitê Intertribal
+De apoio: CIMI
+ISA
+Governamentais: SPI
+FUNAI
+FUNASA
+Tópicos relacionados
+Línguas indígenas do Brasil
+Lista de terras indígenas do Brasil
+História pré-cabralina do Brasil
+Dia do Índio
+Estatuto do Índio
+Jogos dos Povos Indígenas
+Medicina ameríndia
+*: extintos; ?*: reivindicados; Aspas: grupos heterogêneos
+Portal dos povos nativos do Brasil
+Portal da antropologia
+Portal do Brasil
+Obtida de https://pt.wikipedia.org/w/index.php?title=Guatós&oldid=60531147
+Categoria: GuatósCategorias ocultas: !Artigos que carecem de notas de rodapé desde novembro de 2019!Artigos que carecem de notas de rodapé sem indicação de tema!Esboços maiores que 1000 bytes!Esboços sobre povos indígenas
+Esta página foi editada pela última vez às 18h58min de 26 de fevereiro de 2021.
+Este texto é disponibilizado nos termos da licença Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as condições de utilização.
+Política de privacidade
+Sobre a Wikipédia
+Avisos gerais
+Versão móvel
+Programadores
+Estatísticas
+Declaração sobre cookies');
+Document.create!(url: 'https://pt.wikipedia.org/wiki/Ticunas', title: 'Ticunas – Wikipédia, a enciclopédia livre', body: 'Ticunas – Wikipédia, a enciclopédia livre
+Saltar para o conteúdo
+Alternar barra lateral
+Busca
+Links do usuário
+Criar uma conta
+Ferramentas pessoais
+expandido
+collapsed
+Criar uma conta
+Entrar
+Páginas para editores conectados saiba mais
+DiscussãoContribuições
+Navegação
+Página principalConteúdo destacadoEventos atuaisEsplanadaPágina aleatóriaPortaisInformar um erro
+Colaboração
+Boas-vindasAjudaPágina de testesPortal comunitárioMudanças recentesManutençãoCriar páginaPáginas novasContatoDonativos
+Ferramentas
+Páginas afluentesAlterações relacionadasCarregar ficheiroPáginas especiaisHiperligação permanenteInformações da páginaCitar esta páginaElemento Wikidata
+Imprimir/exportar
+Criar um livroDescarregar como PDFVersão para impressão
+Noutros projetos
+Wikimedia Commons
+Espaços nominais
+ArtigoDiscussão
+Variantes
+expandido
+collapsed
+Vistas
+LerEditarEditar código-fonteVer histórico
+Mais
+expandido
+collapsed
+12 idiomas
+expandido
+collapsed
+مصرىCatalàDeutschEnglishEspañolGalegoHrvatskiItalianoLietuviųNorsk bokmålРусскийSrpskohrvatski / српскохрватски
+Editar hiperligações
+Ticunas
+Origem: Wikipédia, a enciclopédia livre.
+Nota: Se foi redirecionado(a) para esta página e não é a que procura, consulte: Ticuna (desambiguação).
+Ticuna
+Índios tikunas em 1865, retratados por Albert Frisch.
+População total
+51 359
+Regiões com população significativa
+Amazonas
+36 377
+FUNASA, 2009[1]
+Colômbia
+8 000
+J. P. Goulard, 2011[1]
+Peru
+6 982
+INEI, 2007[1]
+Línguas
+ticuna
+Religiões
+Xamanismo
+Os Ticuna (Tikuna, Tukuna ou Magüta) são um povo ameríndio que habita atualmente a fronteira entre o Peru e o Brasil e o Trapézio amazônico na Colômbia. Formam uma sociedade de mais de 50 000 indivíduos, divididos entre Brasil (36 mil), Colômbia (oito mil) e Peru (sete mil),[2] sendo o mais numeroso povo indígena da Amazônia brasileira.[3] A língua ticuna é geralmente classificada como uma língua isolada, entretanto pode estar relacionada à língua yuri, já extinta.
+Índice
+1 História
+2 Terra do alto
+2.1 Booms econômicos
+3 Cultura
+3.1 Língua
+4 Localização
+5 Referências
+6 Filmes
+7 Bibliografia
+8 Ligações externas
+História[editar | editar código-fonte]
+De acordo com a história oral relatada pelos próprios ticunas, eles eram índios que habitavam a terra firme e as cabeceiras dos igarapés. Viviam em constante guerra com outros povos e também entre si (guerras entre aldeias ticunas), sempre liderados por um tó-i (chefe militar).[4] Durante esse período, seu principal inimigo era o povo tupi omágua (awane na língua ticuna) que dominava boa parte da várzea e possuía uma supremacia militar em relação aos seus vizinhos. Os omáguas dificultavam seu trânsito nas margens dos grandes rios, limitando-os ao centro das matas e impedindo-os de buscar condições mais favoráveis de sobrevivência na região.[5]
+Sua história é marcada por contatos violentos com outros povos ameríndios, seringueiros, madeireiros e pescadores na região do rio Solimões.[3] Os primeiros contatos com os não índios datam do final do século XVII, quando jesuítas espanhóis vindos do Peru, liderados pelo padre Samuel Fritz, começaram a fundar diversos aldeamentos ao longo do rio Solimões, que correspondem aos atuais municípios de São Paulo de Olivença, Amaturá, Fonte Boa e Tefé. Tais aldeamentos eram voltados, principalmente, para os omáguas, que eram muito mais numerosos na época, porém outros povos acabaram sendo incorporados, como os ticunas, miranhas, xumanas, passés e juris (sendo esses três últimos extintos em meados do século XIX). Nesse momento dos aldeamentos, os ticunas puderam ocupar locais da várzea do rio Solimões antes ocupados pelos omáguas.[6] De acordo com registro do padre José de Morais, em 1860, foi somente com a exploração da borracha que os Tikuna, desalojados dos centros das matas pelos caucheiros, passaram a aparecer mais frequentemente nas beiras dos rios.[5]
+Na década de 1890, comerciantes vindos do interior do Ceará se estabeleceram na região e criaram diversos seringais, utilizando a mão de obra ticuna. A expropriação fundiária e o controle do trabalho indígena foram realizados por meios violentos, como a caçada aos índios, distribuição das famílias em vários seringais e destruição das malocas.[6] Até meados de 1940, os ticunas ficaram sob o poder dos patrões seringalistas, os quais controlavam todas as instituições político-administrativas e religiosas. Tanto os missionários capuchinhos italianos como os delegados do Serviço de Proteção ao Índio eram controlados pelos patrões e não tinham nenhum poder para ajudar os ticunas contra a escravização.[7]
+Em 1940, o Serviço de Proteção ao Índio começou a agilizar uma ação mais intensiva na região do alto rio Solimões, local onde os ticunas estavam habitando, não só para poder ajudar os grupos indígenas que ali habitavam, mas também para resolver problemas na fronteira com os países vizinhos (como a Questão de Letícia). Em 1942 foi construído um posto indígena em Tabatinga, coordenado pelo inspetor Carlos Pinto Correia, o que diminuiu parte do poder dos seringalistas sobre os indígenas.
+A partir da demarcação das terras ticunas, em 1992, vários grupos que viviam em outras terras indígenas se deslocaram para a terra ticuna, motivados pela aproximação com sua história, com os valores de seu povo, com a floresta e a Natureza. Os ticunas criaram aldeias em regiões de igarapés, e afastaram-se dos não-índios e seus bens mercantis. A volta aos igarapés, mais estreitos do que os rios, permitiu ao povo Tikuna fiscalizar melhor a pesca predatória, comum no Solimões e controlada pelos proprietários de grandes barcos pesqueiros.[5]
+Normalmente, as aldeias ribeirinhas se dividem em bairros clânicos sob comando moral de um ancião, um modelo adaptado do ambiente endogâmico tradicional do pai da casa. Os Ticuna realizam rituais xamânicos e praticam a residência uxorilocal, pela qual os novos casais habitam junto à família da esposa.[2]
+Terra do alto[editar | editar código-fonte]
+Políticas na terra do alto nos anos 1970 e 1980 estimularam a reunião de comunidades isoladas para obterem benefícios em saúde, educação e alimentação. A maior parte se reuniu em aldeias às margens dos grandes rios. Os Ticuna da terra do alto se distribuem em dois conjuntos territoriais. O primeiro fica às margens esquerda e direita do rio Amazonas, no Peru e na Colômbia. O segundo se situa nas bacias dos rios Cotuhué (Colômbia) e Putumayio (Colômbia e Peru). As vilas e comunidades Ticuna da terra do alto são garantidas por títulos coletivos e se agrupam em resguardos (Colômbia) e terras concedidas (Peru). Cada aldeia é dotada de um posto de saúde sob responsabilidade dos indígenas. Desde os anos 1960, no Peru, e 1980, na Colômbia, a educação é bilíngue e ministrada por professores ticuna formados.[2]
+Movimentos messiânicos
+Algumas aldeias foram constituídas sob promessas religiosas. A aldeia peruana de Cushillo Conca surgiu por influência de um missionário evangélico estadunidense, e as colombianas Macedonia (por um visionário indígena) e de Arara (por um padre católico) também seguiram o mesmo caminho. Práticas rituais, cultos religiosos e esportes coletivos foram condenados pelos líderes messiânicos e substituídos por hábitos brancos. No século XXI, observa-se uma tendência de reintrodução dos costumes tradicionais por demanda dos Ticuna e dos brancos em busca da autenticidade étnica daquele povo.[2]
+Booms econômicos[editar | editar código-fonte]
+As políticas sociais dos diferentes Estados, como a oferta de assistência técnica e auxílio material na Colômbia e a seguridade social brasileira aos maiores de 60 anos estimulam a mobilidade dos Ticuna, que conheceram numerosos booms econômicos: o corte de madeiras nobres, a coleta de peles de animais silvestres e o turismo comunitário foram algumas das atividades desenvolvidas. Inicialmente envolvidos através do aliciamento de grupos ilegais no transporte ou laboratórios clandestinos nas terras altas, na década de 2000 os ticunas do Peru começaram a cultivar a folha de coca, pois o cultivo é permitido naquele país para consumo medicinal e tribal. Tais atividades ilegais provocaram um clima de confronto com as autoridades nacionais e a prisão de alguns indivíduos, do lado brasileiro, sentindo-se isolados em relação ao aliciamento e à ausência de poderes legais no combate ao uso de narcóticos ilegais, algumas comunidades ticunas organizaram grupos e milícias para combater tais atividades, ações constantemente confrontadas pelos poderes do judiciário brasileiro.[2]
+Cultura[editar | editar código-fonte]
+Colar ticuna
+Os Ticuna acreditam que foram pescados por Yoi (um dos principais heróis culturais) das águas vermelhas do igarapé Eware. Por isso, se denominam Magüta, ou povo pescado com vara (de Magü, pescar com vara e o sufixo indicativo de coletivo -ta). Depois de pescados, o povo Magüta passou a residir na montanha Taiwegüne, nos arredores da casa de Yoi, lugar sagrado para os atuais Ticuna.[8]
+Língua[editar | editar código-fonte]
+Ver artigo principal: Língua ticuna
+Os Ticuna têm sua própria língua, de mesmo nome, classificada como língua tonal e geneticamente isolada, de fonologia e sintaxe complexas. Há mais de 30 mil falantes no Brasil, Colômbia e Peru. No lado brasileiro, o Ticuna é falado em mais de cem aldeias e nove municípios, inclusive em aldeias próximas às cidades[9] ou em que há falantes de outras línguas. Os Ticuna em trânsito nas cidades dos municípios onde se situam suas aldeias usam a língua Ticuna entre si e com os que ali se fixaram. Os filhos dos que se fixaram nas cidades usam com frequência a língua Ticuna com seus pais. Em casos raros, a língua cede lugar ao português. Já os que se deslocaram para Manaus sofrem uma imposição muito mais forte do português.[10]
+Localização[editar | editar código-fonte]
+Os Ticuna são encontrados em mais de vinte terras indígenas. Das 59 aldeias ticunas conhecidas em 2002, 42 delas se situam no trecho entre Tabatinga e São Paulo de Olivença, na região próxima à nascente do igarapé Eware, seu local de origem.[11]
+Referências
+↑ a b c Povos Indígenas no Brasil: 2006-2010 2011, p. 14.
+↑ a b c d e Povos Indígenas no Brasil: 2006-2010 2011, p. 356-357.
+↑ a b Instituto Socioambiental. «Ticuna». Povos Indígenas do Brasil. Consultado em 29 de março de 2014  A referência emprega parâmetros obsoletos |língua3= (ajuda)
+↑ Oliveira 1988, p. 119-121.
+↑ a b c Povos Indígenas no Brasil: 2006-2010 2011, p. 353-355.
+↑ a b Oliveira 2002.
+↑ Nimuendajú 1982.
+↑ Instituto Socioambiental. «Autodenominação». Povos Indígenas do Brasil. Consultado em 29 de março de 2014  A referência emprega parâmetros obsoletos |língua3= (ajuda)
+↑ Soares, Marília Facó. «Língua Ticuna (ou Tikuna)». Instituto Socioambiental. Consultado em 29 de março de 2014  A referência emprega parâmetros obsoletos |língua3= (ajuda)
+↑ Instituto Socioambiental. «Língua». Povos Indígenas do Brasil. Consultado em 29 de março de 2014  A referência emprega parâmetros obsoletos |língua3= (ajuda)
+↑ Instituto Socioambiental. «Localização». Povos Indígenas do Brasil. Consultado em 29 de março de 2014  A referência emprega parâmetros obsoletos |língua3= (ajuda)
+Filmes[editar | editar código-fonte]
+MATAREZIO FILHO, E. T.; SENLLE, M. Caminho de Mutum, 2018. LISA USP. https://vimeo.com/lisausp/caminhodemutum
+MATAREZIO FILHO, EDSON TOSTA. IBURI Trompete dos Ticuna, 2014. LISA USP. https://vimeo.com/108367090
+MATAREZIO FILHO, EDSON TOSTA. Mapana, 2019. LISA USP. https://vimeo.com/lisausp/mapana
+Bibliografia[editar | editar código-fonte]
+Acuña, Cristóbal de (1994). Novo Descobrimento do Rio Amazonas. Montevidéu: Oltaver  A referência emprega parâmetros obsoletos |língua3= (ajuda)
+Nimuendajú, Curt (1982). Textos Indigenistas. Dados fornecidos à inspetoria do SPI no Amazonas e Acre. São Paulo: Edições Loyola  A referência emprega parâmetros obsoletos |língua3= (ajuda)
+Oliveira, João Pacheco de (1988). O nosso governo: os ticunas e o regime tutelar. Rio de Janeiro: Marco Zero, CNPq  A referência emprega parâmetros obsoletos |língua3= (ajuda)
+Oliveira, João Pacheco de (2002).
+Bruce Albert e Alcida Rita Ramos (orgs.), eds. Pacificando o branco: Cosmologias do contato no norte-amazônico. São Paulo: UNESP  A referência emprega parâmetros obsoletos |língua3= (ajuda) !CS1 manut: Usa parâmetro editores (link)
+Beto Ricardo; Fany Ricardo, ed. (2011). Povos Indígenas no Brasil: 2006-2010. São Paulo: Instituto Socioambiental. 763 páginas. ISBN 9788585994853. Consultado em 29 de março de 2014  A referência emprega parâmetros obsoletos |língua3= (ajuda)
+MATAREZIO FILHO, Edson Tosta. A festa da moça nova: ritual de iniciação feminina dos índios Ticuna. São Paulo: Humanitas/FAPESP, 2019, v.1. p.462.
+MATAREZIO FILHO, Edson Tosta. Do ponto de vista das moças. A circulação de afetos na Festa da Moça Nova dos Ticuna. BOLETIM DO MUSEU PARAENSE EMÍLIO GOELDI. CIÊNCIASHUMANAS., v.15(1), p.1 - 21, 2020. Disponível em: https://doi.org/10.1590/2178-2547-bgoeldi-2019-0065
+MATAREZIO FILHO, EDSON TOSTA Uma passagem entre as duas Américas: mito e ritual ticuna. ETNOGRÁFICA(LISBOA. , v.23 (3), p.579 - 604, 2019. Disponível em:https://doi.org/10.4000/etnografica.7214
+MATAREZIO FILHO, EDSON TOSTA. Do resgate de almas à execução do feiticeiro: notas sobre o xamanismo Ticuna. Sociedade e Cultura. , v.22, p.218 - 239, 2019. Disponível em: https://doi.org/10.5216/sec.v22i1.49691
+MATAREZIO FILHO, EDSON TOSTA O amadurecimento dos corpos e do cosmos - mito, ritual e pessoa ticuna. REVISTA DE ANTROPOLOGIA. , v.60, p.193 - 215, 2017. Disponível em: https://doi.org/10.11606/2179-0892.ra.2017.132073
+MATAREZIO FILHO, EDSON TOSTA. Do corpo ao cosmos - condensações rituais dos Ticuna. PERIFERIA(BELLATERRA). , v.19, p.28 - 54, 2014. Disponível em: https://doi.org/10.5565/rev/periferia.426
+Ligações externas[editar | editar código-fonte]
+Acervo Etnográfico Museu do Índio - Ticunas
+Folha: Ibram e UFRJ assinam termo de cooperação para museu da etnia Ticuna
+Museu Magüta
+vdePovos indígenas do BrasilGrupos étnicosMacro-tupi
+Mondés
+Aruás
+Cintas-largas/Matetamãe
+Ikolen
+Tupi-guaranis
+Amanaiés/Araradeuas
+Anambés
+Apiacás
+Akwáwa (Suruís-aiqueuaras - Assurinis do Tocantins)
+Arauetés/Bïde
+Assurinis do Xingu/Awaetes
+Avás-canoeiros/Carijós
+Awá-Guajá
+Carijós*
+Cauaíbes (Uru-eu-wau-waus)
+Guaranis (Kaiowás/Paí-tavyterã - Mbiás - Nhandevas)
+Guajajaras/Tenetearas
+Tupis* (Tupinambás* - Tupiniquins - Caetés* - Tamoios* - Potiguaras - Temiminós* - Tabajaras*?)
+Outros
+Curuaias
+Mundurucus
+Tapajós*
+Macro-jê
+Jês
+Aquém (Xavantes - Xerentes)
+Caingangues
+Tapaiúnas
+Timbiras (Apinajés - Apaniecras-Canelas/Timbiras - Paracatejê-gavião - Pucobié-gavião - Kyikatejê-gavião - Rancocamecras-canelas/Timbiras)
+Povo iny
+Carajás
+Javaés
+Xambioás
+Tapuias*
+Aimorés*
+Botocudos*
+Cariris*
+Geréns*
+Tarairiús*
+Outros
+Coropós*
+Crenaques
+Goitacases*
+Maxacalis
+Puris*
+Ricbactas
+Outros grupos
+Arauás
+Banauás
+Jamamadis
+Aruaques
+Apurinãs/Popukares
+Ashaninca
+Baníuas/Walimanais
+Barés/Haneras
+Enawenê-nawê
+Guanás
+Exoaladis* - Exoaladis* - Quiniquinaus - Terenas
+Manaós*
+Uapixanas
+Caribes
+Aparaís
+Bacairis/Kurâs
+Galibis do Oiapoque/Calinãs
+Cariris?*
+Aconãs
+Aticuns-umãs
+Caimbés
+Calabaças
+Carapotós
+Cariris-xocós
+Jucás
+Pancarás
+Pataxós-hã-hã-hães
+Quiriris
+Tingui-botós
+Trucás
+Tumbalalás
+Uassus/Wassus
+Xucurus-cariris
+Charruas*
+Guenoas*
+Minuanos*
+Embaiás
+Cadiuéus
+Guatiedéos*
+Beaquéos*
+Cataguéos*
+Macus
+Dous
+Hupdás
+Camãs
+Nadobs
+Iuhupdes)
+Panos
+Shawadauas
+Kuntanawa
+Tucanos
+Arapaços
+Barás/Waípinõmakãs
+Barasanas/Panenoás
+Desanos
+Tuparis
+Acuntsu
+Ajurus
+Outros
+Aicanãs
+Aranãs
+Araras/Ukarãngmãs
+Araras do Aripuanã
+Araras do Maia
+Aricapus
+Auetis/Enumaniás
+Bororos/Boes
+Bugres
+Caiapós
+Canoeiros
+Catuquinas
+Chiquitanos/Chiquitos
+Coroados
+Crateús*
+Fulniôs
+Galibis-maruornos/Aruás
+Guaianás*
+Guaicurus*
+Guatós
+Ianomâmis
+Djeoromitxí/Jabutis
+Javaés
+Kwazá
+Kuripakos
+Kujubim
+Muras
+Paiaguás
+Pancararus
+Ticunas
+Tremembés
+Tuxás
+Xocós
+Xucurus
+Culturas
+arqueológicas
+Humaitá
+Polícroma da Amazônia/Marajoara
+Umbu
+Vieira
+Organizações
+Indígenas: APIB
+COIAB
+Comitê Intertribal
+De apoio: CIMI
+ISA
+Governamentais: SPI
+FUNAI
+FUNASA
+Tópicos relacionados
+Línguas indígenas do Brasil
+Lista de terras indígenas do Brasil
+História pré-cabralina do Brasil
+Dia do Índio
+Estatuto do Índio
+Jogos dos Povos Indígenas
+Medicina ameríndia
+*: extintos; ?*: reivindicados; Aspas: grupos heterogêneos
+Portal dos povos nativos do Brasil
+Portal do Brasil
+Portal do Amazonas
+Portal da antropologia
+Obtida de https://pt.wikipedia.org/w/index.php?title=Ticunas&oldid=62241479
+Categorias: Povos indígenas do BrasilSão Paulo de OlivençaAmaturáFonte Boa (Amazonas)TeféHistória do AmazonasCategorias ocultas: !Páginas que usam referências com parâmetros obsoletas!CS1 manut: Usa parâmetro editores
+Esta página foi editada pela última vez às 23h02min de 14 de outubro de 2021.
+Este texto é disponibilizado nos termos da licença Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as condições de utilização.
+Política de privacidade
+Sobre a Wikipédia
+Avisos gerais
+Versão móvel
+Programadores
+Estatísticas
+Declaração sobre cookies');
+Document.create!(url: 'https://pt.wikipedia.org/wiki/Esporte_no_Brasil', title: 'Esporte no Brasil – Wikipédia, a enciclopédia livre', body: 'Esporte no Brasil – Wikipédia, a enciclopédia livre
+Saltar para o conteúdo
+Alternar barra lateral
+Busca
+Links do usuário
+Criar uma conta
+Ferramentas pessoais
+expandido
+collapsed
+Criar uma conta
+Entrar
+Páginas para editores conectados saiba mais
+DiscussãoContribuições
+Navegação
+Página principalConteúdo destacadoEventos atuaisEsplanadaPágina aleatóriaPortaisInformar um erro
+Colaboração
+Boas-vindasAjudaPágina de testesPortal comunitárioMudanças recentesManutençãoCriar páginaPáginas novasContatoDonativos
+Ferramentas
+Páginas afluentesAlterações relacionadasCarregar ficheiroPáginas especiaisHiperligação permanenteInformações da páginaCitar esta páginaElemento Wikidata
+Imprimir/exportar
+Criar um livroDescarregar como PDFVersão para impressão
+Noutros projetos
+Wikimedia CommonsWikinotícias
+Espaços nominais
+ArtigoDiscussão
+Variantes
+expandido
+collapsed
+Vistas
+LerEditarEditar código-fonteVer histórico
+Mais
+expandido
+collapsed
+8 idiomas
+expandido
+collapsed
+العربيةEnglishEspañol日本語Norsk bokmålRomânăРусский中文
+Editar hiperligações
+Esporte no Brasil
+Origem: Wikipédia, a enciclopédia livre.
+Esta página cita fontes, mas estas não cobrem todo o conteúdo. Ajude a inserir referências. Conteúdo não verificável poderá ser removido.—Encontre fontes: Google (notícias, livros e acadêmico) (Dezembro de 2012)
+Esta página ou seção foi marcada para revisão devido a incoerências ou dados de confiabilidade duvidosa. Se tem algum conhecimento sobre o tema, por favor, verifique e melhore a coerência e o rigor deste artigo.Considere utilizar {{revisão-sobre}} e/ou colocar uma explicação mais detalhada na discussão. (Dezembro de 2012)
+Artigos relacionados com aCultura do Brasil
+História
+Pessoas
+Línguas
+Mitologia e folclore
+Folclore
+Culinária
+Festas
+Carnaval
+Feriados
+Turismo
+Religião
+Arte
+Pintura
+Escultura
+Arquitetura
+Literatura
+Música
+Mídia
+Televisão
+Cinema
+Teatro
+Imprensa
+Comunicações
+Rádio
+Internet
+Jogos eletrônicos
+Esporte
+Jogos Olímpicos
+Jogos Pan-Americanos
+Jogos Sul-Americanos
+Copa do Mundo FIFA
+Símbolos
+Bandeira
+Hino Nacional
+Brasão
+vde
+Estádio do Maracanã. O futebol é o esporte mais popular do Brasil [1]
+O esporte no Brasil é praticado em muitas modalidades e é organizado por confederações nacionais de esportes, sendo a principal o Comitê Olímpico Brasileiro. O futebol é o mais praticado no país.[2][3]
+Diversos esportes nasceram no país,[4] entre eles sorvebol, bete-ombro ou taco (modalidade simplista do críquete), peteca,[5] sandboard,[6] frescobol,.[7] Futebol de praia,[8] futsal (versão oficial do futebol indoor),[9] footsack,[10] biribol,[11] futetênis[12][13] acquaride,[14][15][16] e o futevôlei[17] Nas artes marciais, os brasileiros desenvolveram a capoeira,[18] o vale-tudo,[19] e o jiu-jitsu brasileiro.[20]
+Outros esportes de considerável popularidade são: basquete, vôlei, handebol, automobilismo, judô e tênis. A prática amadora de esportes é muito popular e os clubes são os maiores promotores. Além das organizações privadas, vários governos estaduais e municipais mantém estruturas esportivas tanto para a prática amadora, na forma de lazer, quanto na organização profissional em estádios e outras estruturas.
+Nos últimos anos, as delegações que representam o país em competições como os Jogos Pan-americanos e os Jogos Olímpicos vêm melhorando seu desempenho. Em 2007, o Rio de Janeiro sediou a competição continental. Esta foi a segunda vez que o país recebeu o torneio. Na primeira oportunidade, a competição fora organizada em São Paulo, no ano de 1963.
+Em 2 de outubro de 2009, o Rio de Janeiro foi escolhido para sediar os Jogos Olímpicos de Verão de 2016. É a primeira edição dos Jogos Olímpicos de Verão na América do Sul.
+Índice
+1 Participação em eventos multiesportivos
+1.1 Participação nos Jogos Olímpicos de Verão
+1.2 Participação nos Jogos Olímpicos de Inverno
+2 Esportes mais populares
+2.1 Futebol
+2.1.1 Futebol de areia
+2.1.2 Futsal, futebol de salão
+2.2 Vôlei
+2.3 Basquete
+2.4 Natação
+2.5 Atletismo
+2.6 Tênis
+2.7 Tênis de mesa
+2.8 Artes marciais
+2.8.1 Artes marciais mistas
+2.8.2 Boxe
+2.8.3 Capoeira
+2.8.4 Judô
+2.8.5 Jiu-jitsu brasileiro
+2.8.6 Taekwondo
+2.9 Automobilismo
+2.10 Skate
+2.11 Handebol
+2.12 Vela e hipismo
+2.13 Frescobol
+2.14 Surfe
+3 Esportes em crescimento
+3.1 Rugby
+3.2 Futebol americano
+3.3 Beisebol
+3.4 Críquete
+3.5 Hóquei sobre o gelo e em linha
+3.6 Golfe
+4 Mídia
+5 Divisões no Noticiário Esportivo no Brasil
+6 Ver também
+7 Referências
+8 Ligações externas
+Participação em eventos multiesportivos[editar | editar código-fonte]
+Arthur Zanetti
+Isaquias Queiroz
+O Brasil já participou de três eventos multidesportivos extintos: os Jogos Pan-americanos de Inverno, no qual não ganhou medalhas na única edição de 1990, os Jogos da Boa Vontade e os Jogos Olímpicos Latino-Americanos. Atualmente participa de treze jogos poliesportivos: os Jogos Olímpicos de Verão, Jogos Olímpicos de Inverno, Jogos Paraolímpicos de Verão, Jogos Pan-americanos de Verão, Jogos Parapan-americanos, Jogos Sul-Americanos, Jogos Sul-Americanos de Praia, Universíada de Verão, Universíada de Inverno, Jogos da Lusofonia, Jogos da CPLP, Jogos Mundiais Militares e os Jogos Mundiais.
+Participação nos Jogos Olímpicos de Verão[editar | editar código-fonte]
+Ver artigo principal: Brasil nos Jogos Olímpicos
+De acordo com o número de ouros conquistados, a melhor participação em Jogos Olímpicos do Brasil foi em 2020,em Tóquio. Foram sete, dentro de um total de vinte e um,sendo esse o maior número de medalhas conquistadas no geral. A participação em 2000 em Sydney foi ruim: doze medalhas, porém nenhuma de ouro. A primeira participação olímpica do Brasil foi em 1920.
+Participação nos Jogos Olímpicos de Inverno[editar | editar código-fonte]
+O Brasil não conquistou nenhuma medalha nos Jogos Olímpicos de Inverno ainda. Por isso, após os Jogos de Vancouver em 2010, as Confederações Brasileira de Desportos na Neve (CBDN) e no Gelo (CBDG) apresentaram projetos ao Comitê Olímpico Brasileiro objetivando o desenvolvimento dos esportes de inverno no país, a presença de mais desportistas nos Jogos de Sóchi, na Rússia, até a construção de um complexo de treinamento no interior de São Paulo.[21] A atleta Isabel Clark, do snowboard cross, conquistou, nos Jogos Olímpicos de Inverno de 2006 a melhor marca de um brasileiro na história dos Jogos, ficando em nono lugar na prova de boardercroos.[22]
+Esportes mais populares[editar | editar código-fonte]
+Esta página ou seção foi marcada para revisão devido a incoerências ou dados de confiabilidade duvidosa. Se tem algum conhecimento sobre o tema, por favor, verifique e melhore a coerência e o rigor deste artigo.Considere utilizar {{revisão-sobre}} e/ou colocar uma explicação mais detalhada na discussão. (Dezembro de 2012)
+Futebol[editar | editar código-fonte]
+Ver artigos principais: Brasil na Copa do Mundo FIFA e Futebol do Brasil
+Edson Arantes o Pelé considerado o maior futebolista da história do
+Brasil
+O Brasil é a maior potência do futebol mundial, Futebol e seus derivados no Brasil como Futsal, Futebol Society, etc... tem cerca de 30 milhões de praticantes e 60 milhões de fãs espalhados pelo Brasil. Destacando-se não só como o que detém a maior quantidade de prêmios, mas também o que mais exporta atletas. Tendo conquistado a Copa do Mundo em cinco oportunidades, além de outros títulos importantes (4 Copa das Confederações FIFA, 9 Copa América, 2 títulos nos Jogos Olímpicos, 4 títulos dos Jogos Pan-Americanos, 5 títulos no Mundial Sub-20 e 4 títulos no Mundial Sub-17, além do futebol feminino ter sido vice-campeão mundial em 2007 e vice-campeão olímpico em 2004 e 2008). É também detentor de diversas marcas históricas no esporte, além de ser a pátria de diversos grandes jogadores que fizeram história, como Pelé (considerado o maior de todos os tempos), Zico, Garrincha, Ronaldo, Roberto Carlos, Cafu, Romário, Ronaldinho, Taffarel, Falcão, Rivaldo e Neymar no masculino, e Marta no feminino.
+O futebol é sem sombra de dúvida o esporte mais praticado no Brasil, sendo que o Campeonato Brasileiro de Futebol (também conhecido pelo apelido de Brasileirão) e a Copa do Brasil são as principais competições do esporte no país, além dos campeonatos estaduais, que também possuem bastante popularidade, principalmente em estados com forte tradição no esporte, como São Paulo, Rio de Janeiro, Minas Gerais, Rio Grande do Sul, Paraná, Pernambuco, Bahia, entre outros. O esporte tornou-se elemento marcante da cultura nacional. Expressões como chute, pisar na bola e outras são usadas em ocasiões que nada tem a ver com o futebol, e por pessoas que sequer acompanham ou praticam a modalidade.
+A Copa do Mundo de Futebol é o evento esportivo que mais atrai a audiência da população brasileira, numa movimentação que paralisa o país em dias de jogo da Seleção Nacional de futebol, conhecida carinhosamente como Seleção Canarinho. O Campeonato Brasileiro de Futebol é um dos mais importantes do mundo e seus clubes são multi-campeões continentais e mundiais. Existem grandes estádios para a prática do futebol na maioria das grandes cidades brasileiras e a modalidade tem pelo menos um clube em cada município do país fundado para sua prática.
+Futebol de areia[editar | editar código-fonte]
+Ver artigos principais: Campeonato Brasileiro de Futebol de Areia, Confederação Brasileira de Beach Soccer e Futebol de areia no Brasil
+O futebol de areia masculino foi promovido com a atuação de jogadores de futebol de campo jogando pela Seleção Brasileira de Futebol de areia Masculino. Assim, o país é pentacampeão do mundo pela FIFA. No entanto, o futebol de areia feminino não possui qualquer projeção. A primeira competição feminina do esporte no Brasil ocorreu antes da Copa Latina de Futebol de Areia de 2010 no Rio Quente Resorts, em Goiás. Envolvendo apenas quatro clubes, o Corinthians superou as equipes do Goiás, Botafogo e Gama.[23][24]
+Futsal, futebol de salão[editar | editar código-fonte]
+Ver artigos principais: Confederação Brasileira de Futebol de Salão, Confederação Nacional de Futebol de Salão e Liga Futsal
+O futsal é uma das modalidades mais praticadas no país, principalmente no período colegial. Atualmente, em termos de praticantes, é tão popular no país quanto o futebol, apesar da ausência de popularização da sua liga mais importante. O Brasil tem 5 títulos na Copa do Mundo de Futsal da FIFA.
+Vôlei[editar | editar código-fonte]
+Ver artigo principal: Vôlei do Brasil
+Quanto à preferência, o vôlei é atualmente o segundo esporte mais popular do país. Vôlei atualmente tem cerca de 15 milhões de praticantes.[25][26] A principal competição do esporte no país é a Superliga Brasileira de Voleibol, sendo que existe a modalidade feminina e a modalidade masculina da Superliga. No retrospecto, o esporte é um dos mais vitoriosos do Brasil, especialmente com o desempenho bombástico que as seleções nacionais vêm tendo nos últimos anos. O Brasil ocupa o primeiro lugar no ranking da FIVB nas duas modalidades[27][28] Até 2019, a seleção masculina de vôlei do Brasil tinha 6 medalhas olímpicas (3 de ouro, 3 de prata), 3 títulos mundiais (e 3 vices mundiais), além de 9 títulos da Liga Mundial. Já a seleção feminina de vôlei tinha 4 medalhas olímpicas (2 de ouro, 2 de bronze), 3 vice-campeonatos mundiais, além de 12 títulos do Grand Prix.
+Basquete[editar | editar código-fonte]
+Hortência Marcari é considerada a maior jogadora da história do país.
+Oscar Schmidt, ex-jogador de basquete da seleção brasileira
+Ver artigo principal: Basquete do Brasil
+O Brasil é um dos países mais tradicionais no basquete mundial. No passado chegou a ser um dos melhores países do mundo na modalidade, e já possuiu vários grandes jogadores e jogadoras, além de haver vários praticantes da modalidade espalhados por diversos cantos do país.
+No total, se somarmos os títulos do masculino e do feminino, o basquete brasileiro possui três campeonatos mundiais.(dois masculinos e um feminino), além de cinco medalhas olímpicas: uma de prata e quatro de bronze. O basquete, que tem cerca de três milhões de praticantes, cem times profissionais e 35 milhões de fãs, segundo a CBB.[29]
+Fonte: Agência Câmara de Notícias
+Recentemente o esporte passou por um longo período de grave crise, o que fez com que o time masculino ficasse ausente de três edições seguidas dos Jogos Olímpicos. Entretanto, o basquete brasileiro vem passando por uma grande reestruturação, principalmente com a criação do NBB (Novo Basquete Brasil), que é o principal campeonato de clubes do país, e com a contratação do treinador argentino Rubén Magnano, que vem fazendo um excelente trabalho com a seleção brasileira. Tal trabalho que fez a seleção retornar aos Jogos Olímpicos após 16 anos de ausência. Nos Jogos Olímpicos de Londres em 2012 a equipe fez uma boa apresentação ficando na quinta colocação, sendo apontada por muitos como candidata a medalha.
+Alguns dos principais jogadores históricos do Brasil são Oscar e Hortência. No auge de suas carreiras, o basquete chegou a ser considerado o segundo esporte mais popular do Brasil. Ambos conseguiram derrotar a equipe dos Estados Unidos no basquete, o que é considerado um dos feitos mais difíceis de se conseguir em qualquer esporte. Oscar (junto com jogadores como Pipoka e Marcel) venceu os EUA na final do Pan de Indianápolis em 1987, além de ter sido medalhista de bronze no Mundial de 1978, e 5º lugar nas Olimpíadas de 1988. Hortência foi a mais vitoriosa em termos de resultados: derrotou os EUA na semifinal do Mundial de 1994 (posteriormente sendo campeã mundial), junto com jogadoras como Magic Paula e Janeth, consideradas duas das maiores jogadoras da história do país junto com Hortência; além de ter sido vice-campeã olímpica em 1996 (onde os EUA tiveram sua revanche, vencendo o Brasil).
+Atualmente o Brasil também possui alguns jogadores que atuam na NBA, considerada a maior liga do esporte no mundo, como Nenê, Leandro Barbosa, Anderson Varejão e Tiago Splitter, e também jogadores que atuam na Europa, como Marcelinho Huertas.
+Tiago SplitterLeandro BarbosaNenêAnderson Varejão
+Natação[editar | editar código-fonte]
+Ver artigo principal: Natação do Brasil
+Fernando Scherer (à esquerda) e Gustavo Borges, dois dos maiores nadadores do Brasil.
+A natação é bastante popular no Brasil. Sendo um esporte costumeiramente recomendado para crianças, e adequado a um país de clima tropical como o Brasil, a natação cresceu e começou a produzir ícones esportivos importantes. Embora o país tenha tido algum sucesso com nadadores como Piedade Coutinho, Tetsuo Okamoto, Manoel dos Santos e José Fiolo, o esporte começou a se tornar mais popular com Djan Madruga, Rômulo Arantes e Ricardo Prado nos anos 70 e 80; passando por Gustavo Borges e Fernando Scherer nos anos 90, a natação brasileira hoje fabrica grandes talentos em sucessão.
+Hoje o Brasil conta com um dos melhores nadadores do mundo, César Cielo, que é campeão olímpico, mundial e recordista mundial; e nadadores como Thiago Pereira, Felipe França e Kaio Márcio de Almeida que conseguiram bater recordes mundiais em suas provas, além de medalhistas em Mundiais, como Bruno Fratus, Nicholas Santos, João Gomes Júnior e Felipe Lima. Mesmo a natação feminina vem se desenvolvendo e criando atletas como Etiene Medeiros e Ana Marcela Cunha. Com a multiplicação do surgimento de talentos, a natação vem se destacando e conquistando seu espaço.
+Atletismo[editar | editar código-fonte]
+Fabiana Murer, campeã mundial em 2011
+Atletismo é um esporte tradicional do Brasil, conquistando medalhas olímpicas para o país. No atletismo, os atleta mais conhecidos são Adhemar Ferreira da Silva, João do Pulo, Joaquim Cruz, Robson Caetano, Maurren Maggi e Fabiana Murer. Outros atletas importantes da História do Brasil são: Thiago Braz, Nélson Prudêncio, Jadel Gregório, Zequinha Barbosa, Sanderlei Parrela, Claudinei Quirino, Vicente Lenílson, André Domingos, Édson Luciano, Vanderlei Cordeiro de Lima, Caio Bonfim, Rosângela Santos e Darlan Romani.
+No Brasil, o atletismo tende a perder muitos praticantes para o futebol, que garante melhores salários aos atletas. É um dos motivos pelos quais o país tem menos destaque mundial em eventos como os 100 metros rasos. O esporte costuma se concentrar em alguns clubes especializados em atletismo, e também recebe atenção e apoio das Forças Armadas do país. O Brasil tem tradição em eventos como o salto triplo, o revezamento 4x100m rasos, e mais recentemente o salto com vara, e sedia eventos importantes de corrida de longa distância, como a Corrida de São Silvestre.
+Tênis[editar | editar código-fonte]
+Ver artigo principal: Confederação Brasileira de Tênis
+Gustavo Kuerten em Roland Garros 2005.
+Marcelo Melo em Roland Garros 2013.
+O tênis no Brasil pode ser considerado um esporte popular. Apesar de esta muito longe do Tenis de Mesa em termos de números de praticantes. Ainda assim o Brasil
+hoje conta com cerca de 700 mil praticantes de tênis no país.[30] Hoje existem diversas quadras em clubes, em propriedades particulares e para locação, especialmente em cidades com nível mais elevado do tamanho da população. Também é encarado por alguns como um passa tempo, ou um esporte a ser praticado depois de um dia de trabalho ou até mesmo antes dele.
+O Brasil tem e já teve no passado grandes nomes no esporte, como Maria Esther Bueno, vencedora de 19 Grand Slams (7 em simples, 11 em duplas e 1 em duplas mistas) e Gustavo Kuerten, o Guga, que venceu 3 vezes o torneio de Roland Garros, além de vários outros jogadores historicamente importantes como Luiz Mattar, Fernando Meligeni e Thomaz Bellucci, que já foram top 30 do Ranking da ATP. O Brasil tem sido muito forte nas duplas, principalmente com Marcelo Melo, que já foi nº 1 do mundo por três vezes, e com Bruno Soares, que é ex-nº2 do mundo. Melo ganhou 2 Grand Slams (Roland Garros e Wimbledon) além de 9 Masters 1000. Soares venceu 3 Grand Slams (Australian Open e 2 US Open) e 4 Masters 1000, além de ter ganho 3 Grand Slams em Duplas Mistas.
+Atualmente o Brasil é sede de dois torneios de nível ATP, sendo o Brasil Open, um torneio ATP 250 realizado em São Paulo e o maior torneio da América do Sul: o Rio Open, um torneio de nível ATP 500 com sede no Rio de Janeiro. O Brasil também realiza dois torneio de WTA, um deles é o Rio Open que acontece simultaneamente com o evento da ATP, e o outro é o Brasil Tennis Cup, realizado em Florianópolis.
+Tênis de mesa[editar | editar código-fonte]
+Hugo Calderano
+Ver artigo principal: Tênis de mesa do Brasil
+O tênis de mesa do Brasil, também conhecido como ping pong, É mais popular do que a versão de quadra no Brasil (o tênis propriamente dito). Isso porque muitos jogam o esporte como lazer, não necessariamente como atividade física. Escolas, clubes e muitos outros lugares dispõem de mesas para a prática da modalidade. Os maiores mesatenistas brasileiros de todos os tempos são Biriba, Cláudio Kano, Hugo Hoyama e Hugo Calderano.
+Brasil é considerado um dos países mais fortes no tênis de mesa da America Latina, além disso o tênis de mesa tem cerca de 12 milhões de praticantes de acordo com o livro Atlas dos Esportes no Brasil. Número considerado bastante alto, bem mais alto que o numero de praticantes de tênis de quadra tradicional. No entanto apesar de ser bem popular a sua popularidade não se reflete no numero de transmissões de eventos na televisão, que é muito inferior ao numero de transmissões dos jogos de tênis de quadra.
+Artes marciais[editar | editar código-fonte]
+Ver artigo principal: Artes marciais brasileiras
+Artes marciais mistas[editar | editar código-fonte]
+Ver artigos principais: Artes marciais mistas e Vale-tudo
+Uma luta de MMA.
+As artes marciais misturadas (inglês: Mixed Martial Arts, MMA) modernas têm suas raízes em dois acontecimentos: os acontecimentos de vale-tudo no Brasil, e o shootwrestling japonês. Nesse tempo eles foram mutuamente ligados, mas foram separados.
+O vale-tudo começou na terceira década do século XX, quando Carlos Gracie, um dos fundadores da luta marcial brasileira Gracie Jiu-Jitsu, convidou cada competidor de modalidades de luta diferentes para uma competição organizada pelo próprio. Isso era chamado de Desafio do Gracie. Mais tarde, Hélio Gracie e a família Gracie e principalmente, Rickson Gracie, mantiveram este desafio que passaram a se dar como duelos de vale-tudo sem a presença da mídia.
+No Japão, década de 1980, Antonio Inoki organizou uma série de lutas de artes marciais misturadas. Eram as forças que produziram o shootwrestling e eles, mais tarde, causaram a formação de uma das primeiras organizações japonesas de artes marciais misturadas conhecida como shooto. As artes marciais misturadas obtiveram grande popularidade nos Estados Unidos em 1993, quando Rorion Gracie e outros sócios criaram o primeiro torneio de UFC. Atualmente o Brasil conta com três campeões mundiais no principal evento de lutas do mundo, o UFC, José Aldo categoria peso pena, Rafael dos Anjos categoria peso leve e Fabrício Werdum categoria pesos pesados.
+Boxe[editar | editar código-fonte]
+Éder Jofre, campeão mundial
+Ver artigo principal: Confederação Brasileira de Boxe
+O boxe é outro esporte popular, especialmente no Nordeste do Brasil; É considerado um esporte da classe trabalhadora. Eder Jofre e Acelino Popó Freitas são ex-campeões mundiais. Nas Olimpíadas, o Brasil conquistou a medalha de ouro na categoria de até 60 kg com o lutador Robson Conceição, sendo o primeiro ouro olímpico do boxe brasileiro. Outros medalhistas olímpicos do Brasil foram Servílio de Oliveira, Yamaguchi Falcão, Esquiva Falcão e Adriana Araújo. Outro lutador famoso foi Maguila, um peso-pesado que chegou a enfrentar Evander Holyfield e George Foreman.
+Capoeira[editar | editar código-fonte]
+Ver artigo principal: Capoeira
+Assim como jogo de taco e o futsal esse foi um esporte criado exclusivamente por brasileiros. A Capoeira surgiu no século XVII em meio aos escravos como forma de resistir a dominação branca. Porém o que difere a capoeira das demais modalidades de artes marciais é a sua musicalidade, pois, para que os senhores de engenho não descobrissem que haviam escravos com habilidades em arte marcial, os escravos cantavam e batiam palmas, enquanto os demais praticavam, assim, simulando uma falsa dança. Nos dias de hoje a capoeira e uma das artes marciais mais praticadas do país seguido pelo judô. Estima- se que no Brasil tenha entre 4 a 6 milhões de praticantes do esporte no país.
+Judô[editar | editar código-fonte]
+Rafael Silva, detentor de 2 medalhas de bronze olímpicas
+Ver artigo principal: Judô do Brasil
+O Judô é outro esporte costumeiramente recomendado para crianças no Brasil, e portanto é largamente praticado. O país têm crescente tradição internacional no esporte, constantemente conquistando medalhas e títulos. O esporte foi trazido e desenvolvido pela grande comunidade japonesa do país. Os maiores expoentes do esporte até hoje foram Aurélio Miguel, Sarah Menezes, Rogério Sampaio e Rafaela Silva, campeões olímpicos. O Brasil também teve vários outros judocas importantes, como os vice-campeões olímpicos Douglas Vieira, Tiago Camilo, Carlos Honorato, e os medalhistas de bronze olímpicos Chiaki Ishii, Luiz Onmura, Walter Carmona, Henrique Guimarães, Leandro Guilheiro, Flávio Canto, Ketleyn Quadros, Felipe Kitadai, Mayra Aguiar e Rafael Silva.
+Jiu-jitsu brasileiro[editar | editar código-fonte]
+Ver artigo principal: Jiu-jitsu brasileiro
+Mitsuyo Maeda ensinou a técnica do jiu-jitsu tradicional japonês a Carlos Gracie e Luiz França que iniciaram as duas principais linhagens desta arte marcial no país.[31] Hélio Gracie (que aprendera com seu irmão Carlos) e Oswaldo Fadda, (ex aluno de França, que realizou um trabalho independente) [32] desenvolveram o jiu-jitsu brasileiro, ou BJJ (do inglês brazilian jiu-jitsu). Esta é hoje a modalidade de jiu-jitsu mais praticada no mundo. A família Gracie criou uma tradição nas artes marciais que se mantém na atualidade. O estilo de luta da família, é conhecido mundialmente como Gracie jiu-jitsu.
+Taekwondo[editar | editar código-fonte]
+Ver artigo principal: Taekwondo do Brasil
+De origem coreana, taekwondo significa “a arte de usar os pés e as mãos na luta”. Há mais de dois mil anos, o rei Ching Heung, da 24ª dinastia Silla, formou uma tropa de elite com guerreiros especialistas em combates corporais. Batizado de Hwa Rang Do, o grupo funcionava como os samurais japoneses. Além de exímios lutadores usando armas como lança, arco e flecha e espada, os integrantes dessa tropa se especializaram em artes marciais, em especial o soo bak, que utilizava amplamente os pés e as mãos. No período da dinastia Koryo (924-1392), os mestres desenvolveram 25 posturas de luta, cujas técnicas formaram a base para o nascimento do taekwondo que se conhece hoje.
+Após a invasão japonesa na Coreia, que durou de 1909 a 1945, as artes marciais praticadas pelos coreanos foram proibidas. Eles só retomaram o hábito de treiná-las após o fim da Segunda Guerra Mundial, em 1945.
+O nome taekwondo só passou a ser adotado na metade da década de 1950, quando, ainda sob os efeitos da Guerra da Coreia, travada entre 1950 e 1953, o general Choi Hong-hi teve sucesso na empreitada de unir diversas escolas de diferentes estilos de arte marcial sob uma única luta, batizada de taekwondo. Em 1964, realizou-se o primeiro campeonato nacional na Coreia e, em 1965, foi fundada a Korea Taekwondo Federation.
+No Brasil, a modalidade foi introduzida em 1970, com a chegada do mestre Song Min Cho a São Paulo. O primeiro Campeonato Brasileiro aconteceu em 1973, ano em que foi fundada, na Coreia do Sul, a World Taekwondo Federation (WTF), entidade que organizou, já em 1973, o primeiro campeonato mundial.
+Nas Olimpíadas de Seul-1988 e de Barcelona-1992, o taekwondo participou como esporte de exibição. Ficou ausente dos Jogos de Atlanta-1996 e retornou em Sydney-2000, quando foi incluído no programa olímpico e passou a valer medalhas. Os maiores lutadores da História do Brasil foram Natália Falavigna e Maicon de Andrade, que obtiveram o bronze olímpico, e Diogo Silva, que terminou duas vezes em 4º lugar nos Jogos Olímpicos, além de ter obtido o ouro em Jogos Pan-Americanos.
+Automobilismo[editar | editar código-fonte]
+Ver artigos principais: Confederação Brasileira de Automobilismo, Liga Independente de Automobilismo e Museu do Automobilismo Brasileiro
+Ayrton Senna em 1989.
+O automobilismo é um esporte popular no Brasil. Começou a ganhar dimensão no país após os primeiros títulos da Fórmula 1 de Emerson Fittipaldi (1972, 1974), posteriormente de Nelson Piquet (1981, 1983, 1987), e depois de Ayrton Senna (1988, 1990, 1991), que ajudaram a firmar ainda mais o automobilismo brasileiro na categoria. Anos depois, Rubens Barrichello e Felipe Massa foram vice-campeões da Fórmula 1. Desde 1972 o Brasil é parte do calendário da Fórmula 1 com o Grande Prêmio do Brasil, atualmente disputado no Autódromo de Interlagos. Anteriormente o Autódromo de Jacarepaguá sediou o evento. O Brasil teve uma equipe na Fórmula 1 entre 1975 e 1982: a Escuderia Fittipaldi, fundada pelos irmãos Emerson e Wilson Fittipaldi Jr..
+O país também possui grandes conquistas na Fórmula Indy, com Emerson Fittipaldi ganhando o primeiro título brasileiro na categoria, seguido também pelos pilotos Gil de Ferran, Cristiano da Matta e Tony Kanaan. Helio Castroneves, ficou quatro vezes em segundo lugar na Fórmula Indy, mas obteve três vitórias nas 500 Milhas de Indianápolis, enquanto Emerson ganhou duas vezes neste evento.
+Dentro do país as duas principais categorias são a Stock Car Brasil e a Fórmula Truck. Alguns ex-pilotos de categorias internacionais atualmente correm nas categorias. Destacam-se pilotos como Ingo Hoffmann, Paulo Gomes, Chico Serra e Cacá Bueno, entre outros.
+O país possui aproximadamente 20 autódromos, incluindo pistas de asfalto e de terra, mas atualmente não possui nenhum circuito oval. O Autódromo de Interlagos, além da Fórmula 1, recebeu campeonatos importantes como o Campeonato Mundial de Motovelocidade, o Campeonato FIA GT, o Campeonato Mundial de Endurance da FIA e o Deutsche Tourenwagen Meisterschaft. Também o Mundial de Turismo da FIA disputou corridas no Autódromo Internacional de Curitiba, o Mundial de Motovelocidade no Autódromo Internacional de Goiânia, a CART no Autódromo de Jacarepaguá e a IndyCar Series no circuito de rua de São Paulo.
+Skate[editar | editar código-fonte]
+Ver artigos principais: Associação Brasileira de Skate Feminino e Confederação Brasileira de Skate
+É um dos esportes mais praticados no Brasil, especialmente nas grandes cidades (metrópoles). Atualmente o Brasil é um dos países com o maior números de profissionais e amadores do esporte, tendo a segunda maior indústria de peças, equipamentos e roupas da modalidade. O maior skatista do mundo atualmente é Bob Burnquist, considerado o pai da mega rampa. Outro skatista brasileiro famoso é Sandro Dias, um dos poucos que conseguem realizar o movimento 900.
+Handebol[editar | editar código-fonte]
+Ver artigos principais: Confederação Brasileira de Handebol, Liga Nacional de Handebol e Liga Nacional de Handebol Feminino
+O handebol é um esporte que veio junto com os imigrantes alemães, de grande popularidade nas escolas de todo o mundo. É o terceiro esporte mais praticado nas escolas, perdendo apenas para o futebol/futsal e o vôlei. O esporte tem 200 mil praticantes hoje no Brasil, com 687 clubes espalhados por todo país e aproximadamente 8 mil equipes. O esporte tem cerca de 5 milhões de fãs no Brasil.[33] A principal competição do esporte no país é a Liga Nacional de Handebol, que é considerada a liga mais forte das Américas. Handebol é um jogo dinâmico, físico e que exige diversas habilidades, como finta, drible, preparo físico, visão de jogo. É praticado com 7 atletas, um deles designado como goleiro. As regras são ditadas pela IHF, e no Brasil, a CBHb é a responsável pela gestão do esporte. No campeonato mundial disputado na Sérvia em 2013, a Seleção Brasileira Feminina de Handebol sagrou-se campeã, derrotando a seleção anfitriã por 22 a 20.
+Vela e hipismo[editar | editar código-fonte]
+Robert Scheidt
+Rodrigo Pessoa
+Vela e hipismo são esportes populares entre espectadores, mas inacessíveis para a prática da população em geral. Atletas bem conhecidos incluem o cavaleiro Rodrigo Pessoa e os marinheiros Robert Scheidt, Marcelo Ferreira e Torben e Lars Grael.
+Frescobol[editar | editar código-fonte]
+Frescobol é um esporte nativo brasileiro semelhante ao tênis e críquete, jogado com uma raquete de madeira e bola de borracha macia na praia com nenhum sistema de pontuação. Ele começou durante a década de 1960 na praia de Ipanema.
+Surfe[editar | editar código-fonte]
+O surfe é um dos esportes mais populares no Brasil, com vários surfistas profissionais brasileiros que competem nas modalidades masculinas e femininas do ASP World Tour. O Brasil é conhecido por produzir manipulador de surfistas de longboard (como o ex-campeão mundial Phil Razjman), manipulador surfistas-rider grande (como Carlos Burle e vencedor do prêmio Maya Gabeira XXL duas vezes) e bodyboarders bem conhecidos.
+Esportes em crescimento[editar | editar código-fonte]
+Nos últimos anos, diversos esportes estão em constantes crescimento no Brasil.
+Graças a diversos fatores como ampliação da televisão a cabo, crescimento econômico e o aumento ao acesso a internet. Esportes individuais onde o país tem obtido bons resultados recentemente vem obtendo grande destaque na mídia nacional, como as artes marciais mistas e o surfe. Na contramão disso, outras modalidades que tinham considerável popularidade por conta de bons resultados vem em decadência no gosto popular, mostrando a maleabilidade e a exigência por bons resultados que faz parte da cultura esportiva brasileira, entre estes citamos o Tênis, o Boxe e as competições automobilísticas.
+Nas modalidades coletivas, esportes que antes eram desconhecidos pela população passaram a ser mais apreciados pelo público jovem.
+No entanto, apesar desse crescimento, esses esportes ainda são praticados de forma amadora no Brasil, sejam em clubes, academias e parques. Algumas das modalidades amadoras que são mais praticados no Brasil são:
+Rugby[editar | editar código-fonte]
+Ver artigo principal: Rugby do Brasil
+Esporte trazido ao país a mesma época do futebol e o críquete, é um dos mais antigos sendo praticado no país. Porém, o país está longe de ser uma potência mundial. Apesar de aqui ter tido o mesmo precursor, não fez o mesmo sucesso do futebol, por motivações pouco conhecidas, mas especula-se que antigamente era um esporte praticado quase exclusivamente pela comunidade inglesa(assim como o futebol no inicio, apesar de introduzidos por um brasileiro), e por isso sua popularização não aconteceu. O Rugby atualmente conta com 15 mil praticantes no Brasil e cerca de 4 milhoes de fans espalhados pelo Brasil.[34]
+Um dos esportes mais praticados e assistidos do mundo, o rúgbi pode ser dividido em Rugby Union, que tem a forma mais popular, conhecido por aqui como Rúgbi de XV e também o Rúgbi de 7 ou Rugby Sevens ou Seven-a-Side. E tem ainda o Rugby League, ou Rúgbi de XIII variável que vive plena expansão no país, com sua seleção feminina tendo se classificado para a Copa do Mundo Feminina de 2021. Os canais ESPN vinham transmitindo os principais torneios de rúgbi do mundo no país como a Copa do Mundo de Rugby, o Six Nations e Campeonato de Rugby das Americas entre seleções nacionais e o Super Rugby, Copa dos Campeões Europeus e Campeonato Inglês entre clubes.
+Contudo devido a baixa audiencia a partir de 2018 grande maioria dos jogos passaram a ser transmitidos no WATCH ESPN.[35]
+A Seleção Nacional da Modalidade está buscando crescimento a nível mundial e disputa atualmente o torneio Campeonato de Rugby das Americas contra as principais forças do continente americano, uma delas a Argentina, potência mundial da modalidade. Com apoio de grandes empresas como o Bradesco, a Topper entre outros, a Confederação Brasileira de Rugby tem tomado medidas de fortalecer o rúgbi no país e também a seleção nacional, com um projeto de disputar na próxima década a Copa do Mundo de Rugby, um dos torneios esportivos de maior audiência mundial.
+Na categoria de Sevens o Brasil disputou os Jogos Olímpicos do Rio de Janeiro com equipes masculina e feminina. O país tem seus circuitos de sevens em todas as regiões do país. Ainda temos o Quad Rugby que disputou os jogos Paralímpicos.
+Futebol americano[editar | editar código-fonte]
+Ver artigo principal: Futebol americano do Brasil
+Fluminense, último campeão do Campeonato Brasileiro promovido pela LBFA.
+Esporte praticado em alto nível exclusivamente nos Estados Unidos, é um dos esportes que mais tem crescido no Brasil na ultima década, os jogos da NFL na TV por assinatura conseguem ser líderes de audiência, sendo que a final do torneio, chamado de Super Bowl, é um dos eventos esportivos mais assistidos e comentados em redes sociais no país, adquirindo maior audiência em comparação que a final da Copa do Brasil em alguns anos. Atualmente, são mais de 165 clubes praticantes do esporte pelo país afora e mais de 6.500 pessoas praticantes aos times, sem contar as pessoas que praticam o esporte entre amigos, nas escolas, faculdades, parques, etc. A entidade máxima que rege o Futebol Americano de Grama no Brasil é a AFAB (Associação de Futebol Americano do Brasil). Há alguns anos foi criada a Liga Brasileira de Futebol Americano, que deixou de existir, ficando a cargo da AFAB a realização e organização de campeonatos, eventos e regulamentação dos mesmos e dos times filiados a ela. Em 2009, foi criada uma liga independente chamada de Torneio Touhdown, onde participaram times dissidentes da AFAB.
+Além disso alguns clubes de futebol já possuem equipes de futebol americano como: Santos, Vasco, Corinthians, Fluminense, Botafogo - RJ, Botafogo - SP, Palmeiras, Lusa, Inter de Limeira e Coritiba.
+Em 2016, a Confederação Brasileira de Futebol Americano (CBFA) publicou uma nota oficial sobre o fim do Torneio Touchdown e a unificação das equipes em um único campeonato nacional, contando também com as 16 equipes do Torneio Touchdown de 2015.[36]
+A CBFA também reconheceu os títulos do torneio como títulos de campeonatos brasileiros.[37]
+Em 2019 O Futebol Americano chegou a 17 mil praticantes do Esporte em 442 times em 2019. A CBFA quer chegar a 20 mil praticantes ate o fim de 2021.[38]
+De acordo com a Global Web Index, o mercado brasileiro (19.7 milhões) é o terceiro maior consumidor de NFL no mundo inteiro e de fans do esporte, ficando atrás somente dos Estados Unidos (117 milhões) e do México (23.3 milhões).[39]
+Beisebol[editar | editar código-fonte]
+Ver artigo principal: Beisebol do Brasil
+Paulo Orlando, campeão da World Series pelo Kansas City Royals em 2015.
+Esporte tradicionalmente praticado por sua maioria de descendentes de japoneses através das comunidades nipônicas, e mais recentemente pelos imigrantes venezuelanos, onde o beisebol é o esporte favorito de grande parte da população. É pouco popular no Brasil, mas com a cobertura da TV a cabo dos jogos, está ganhando mais adeptos. Atualmente várias ligas regionais estão em ascensão no país, mas a dificuldade em se encontrar campos de beisebol impede a prática regular do esporte que muitas vezes é jogado em campos de futebol adaptados. Segundo a CBBS a Confederaçao Brasileira de Beisebol e Softball . O Beisebol tem cerca de 20 mil praticantes de fans e cerca de 5 milhoes de fans da MLB no Brasil, Mas ainda não tem um campeonato profissional de beisebol. A CBBS afirma que todos os jogadores profissionais atuam fora do país, sendo três na MLB, a maior liga dos Estados Unidos. São Yan Gomes (Cleveland Indians), Paulo Orlando (Kansas City Royals) e André Rienzo (Miami Marlins).
+[40]
+Críquete[editar | editar código-fonte]
+Ver artigo principal: Críquete do Brasil
+Um dos esportes mais antigos do país, veio no final do século XIX trazido pelo britânico Charles Miller, O mesmo que anos mais tarde traria o futebol e rúgbi. Atualmente o críquete é mais praticado na sua modalidade simplista conhecida como Bete-ombro ou jogo do Taco.
+Contudo com a criação da Associação Brasileira de Cricket o número de adeptos do esporte tem aumentado gradativamente. Outro fato interessante que tem se aumentado a divulgação do esporte na mídia aos poucos. Durante a Copa do Mundo de Críquete de 2011 alguns sites tradicionais como o Terra, Globoesporte.com passaram a divulgar resultados e fazer matérias sobre as finais das Copas do Mundo de Críquete. No ano passado o WatchESPN exibiu as semi finais da copa do mundo de criquete em 2019, realizada em Gales e Inglaterra, No total exibiu 44 partidas de criquete para toda america latina via streaming.[41]
+Recentemente o Brasil tem se destacado bastante no Críquete Feminino na America do Sul. Aonde conquistou 4 Campeonatos Sul Americanos de Críquete Feminino, Nos anos de 2015, 2016, 2018 e 2019. Só perde para a Argentina em Títulos no feminino, já que nossos vizinhos tem 5 títulos conquistados. Esse desempenho recente no críquete rendeu um 35 lugar no ranking da ICC. Já no masculino a realidade é bem diferente. O Brasil enfrenta dificuldade em superar nações vizinhas como o Chile e a Argentina.
+A Argentina possuem 10 títulos no Campeonato Sul Americano de Críquete. Mesmo assim o Brasil no masculino ocupa a posição de numero 69 no Internacional Cricket Council de 104 países membros que fazem parte da entidade.
+Considera-se que uma forma simples do Críquete é bastante difundida no país, conhecida como Taco com objetivos parecidos. O Criquete tem atualmente cerca de 30 mil praticantes no País na sua maioria concetrada no sul de minas. E cerca de 3 milhoes de fans do esporte espalhados pelo Brasil. Alem disso a região de Poços de Caldas sera a primeira região da america do sul a ter uma fabrica de tacos de criquete. a grande maioria das fabricas de tacos estao concentrada no paquistao.[42]
+Hóquei sobre o gelo e em linha[editar | editar código-fonte]
+Ver artigo principal: Confederação Brasileira de Hóquei no Gelo
+No Brasil, o hóquei em linha é o mais popular e divulgado até o momento, ao contrário do hóquei no gelo que ainda é dependente de infraestrutura, Apesar de terem projetos para divulgação da modalidade como o campeonato paulista de hóquei sobre o gelo, e da possível construção de uma arena de hóquei sobre o gelo na cidade de Campos do Jordão.
+No entanto os brasileiros praticantes de hóquei, na sua maioria praticam o chamado hóquei em linha, em quadras com tamanho e equipamentos idênticos aos do hóquei sobre o gelo, pela única e exclusiva diferença do não uso de peitoral para jogadores de linha.Apesar disso entre os dias 2a 9 de Março de 2-14. O hóquei sobre o gelo Brasileiro disputou pela primeira vez o Pan Americano da modalidade. Competição que incluiu também as seleções da Argentina, Canadá, México e Colômbia. Em termos de praticantes o hoquei no geral se juntando o Hóquei em Linha E o Hóquei sobre a Grama O Brasil tem aproximadamente cerca de 8 mil praticantes de hoquei no brasil e 4 milhoes de fans.[43][44]
+Os principais torneios do mundo de Hóquei Sobre Gelo são transmitidos pela TV fechada no país, entre eles o NHL disputado entre times do Canadá e Estados Unidos, e a Liga Europeia. Apesar disso, a modalidade encontra dificuldades em cair no gosto popular do país.
+Golfe[editar | editar código-fonte]
+Ver artigos principais: Confederação Brasileira de Golfe e Golfe do Brasil
+Introduzido no país por Ingleses e escoceses no fim do século XIX, da mesma forma que o críquete, Rugby e o futebol. O golfe conseguiu ao longo dos anos destaque no Brasil, sendo conhecido como esportes dos ricos e famosos. Contudo com a entrada do esporte nas Olimpíadas de 2016 a Confederação Brasileira de Golfe espera uma popularização maior do esporte no Brasil. Atualmente o Brasil cerca de 20 mil praticantes do esporte no país.[45] Alguns jogadores de golfe brasileiros famosos são: o piloto Rubens Barrichello e o político Helio Andrade. Atualmente, há um crescimento grande de novos campos de golfe em condomínios residenciais e clubes equestres.
+Mídia[editar | editar código-fonte]
+Ver artigo principal: Mídia esportiva do Brasil
+A mídia cobre de forma parcial as modalidades esportivas no Brasil, focando a cobertura principalmente no futebol. Os canais abertos de televisão cobrem o futebol de forma exagerada, ao ponto de: interferir no horário dos jogos para se adequarem à grade de programação de sua emissora; apresentar fatos corriqueiros da vida dos atletas como se fossem grandes acontecimentos; exagerar em elogios ou críticas a determinados futebolistas; tudo em uma busca desesperada por audiência.
+Com o aumento recente no número de esportes com certa popularidade na classe média. A mídia tradicional em especial a como o Rádio e o Jornal impresso tem se focado mais e mais no futebol. Deixando de lado o especializado, Por exemplo, O vôlei que é um esporte que sempre grande cobertura nos jornais impressos, teve seu espaço drasticamente reduzido. E isso acontece pois falar do vôlei com frequência, levaria a abrir espaço a outros esportes especializados nos jornais. E já que ficaria muito difícil dar espaço para tantos esportes diariamente como Vôlei, Basquete, Tênis, Tênis de Mesa, Futebol Americano, Beisebol e etc. Os editorias dos jornais pedem para focar somente no futebol e derivados para economizar espaço nas páginas de esportes. Contudo, por outro lado a Internet não tem este problema de falta de espaço, então mesmo portais de mídia tradicional como UOL e Globo Esporte aumentam mais seu espaço para o esporte especializado.
+Divisões no Noticiário Esportivo no Brasil[editar | editar código-fonte]
+No Brasil, em especial nos jornais impressos e na televisão, costuma se dividir os esportes em duas categorias. O Não especializado e o Esporte Especializado. O esporte não especializado é o Futebol de campo, seus derivados e variações como Futebol de Areia, Futsal, Futebol Society e etc...
+Já o esporte especializado é tudo aquilo que não é Futebol e seus derivados. Como Vôlei, Basquete,Tênis de Mesa, Beisebol, Handball, Críquete e etc... Atualmente devido o aumento da popularidade dos esportes oriundos dos Estados Unidos, começou a aparecer uma nova denominação na imprensa esportiva tradicional, que é chamada de esportes americanos, criando uma outra divisão dentro dos editoriais esportivos.
+Ver também[editar | editar código-fonte]
+Esportes brasileiros
+Transmissão esportiva no Brasil
+Mídia esportiva do Brasil
+Referências
+↑ «People and Society». Encarta. MSN. Consultado em 10 de junho de 2008. Arquivado do original em 31 de outubro de 2009
+↑ Confederação Brasileira de Futebol
+↑ História do Futebol
+↑ Curiosidade: Os esportes inventados no Rio
+↑ Federação Mineira de Peteca, Histórico da Peteca
+↑ «Sandboard, um esporte criado no Brasil». Consultado em 27 de maio de 2012. Arquivado do original em 25 de setembro de 2013
+↑ [1] Acessado em 27/05/2012, 09:00h.
+↑ «Beach Soccer». International Federation of Association Football. Consultado em 6 de junho de 2008
+↑ «Futsal». International Federation of Association Football. Consultado em 6 de junho de 2008
+↑ Portal do Futsac
+↑ Montoro, Patricia (14 de junho de 2005). «História do Biribol». EducaRede. Consultado em 15 de agosto de 2008
+↑ Dia do Desafio traz inventor de fute-tênis Arquivado em 23 de setembro de
+2013, no Wayback Machine. Jornal O Imparcial, acessado em 17 de junho de 2010
+↑ Santos terá torneio de fute-tênis no fim de semana Folha Online, acessado em 17 de junho de 2010
+↑ «Acqua Ride na Europa». Consultado em 27 de maio de 2012. Arquivado do original em 25 de novembro de 2011
+↑ «Acqua Ride». Cidade Aventura. Consultado em 27 de maio de 2012. Arquivado do original em 25 de abril de 2009
+↑ «Acqua Ride: Passeio aquático radical». LivrEsportes. Consultado em 27 de maio de 2012. Arquivado do original em 23 de setembro de 2013
+↑ http://www.cbfv.com.br/regras.php Confederação Brasileira de futevôlei
+↑ «The art of capoeira». BBC. 20 de setembro de 2006. Consultado em 6 de junho de 2008
+↑ «Brazilian Vale Tudo». I.V.C. Consultado em 6 de junho de 2008. Arquivado do original em 30 de maio de 1998
+↑ «Brazilian Jiu-Jitsu Official Website». International Brazilian Jiu-Jitsu Federation. Consultado em 6 de junho de 2008
+↑ UOL Esporte (28 de fevereiro de 2010). «Brasil planeja construir centro de treinamento visando Jogos de Inverno de 2014». Consultado em 28 de fevereiro de 2010
+↑ «Aos 37 anos, atleta do snowboard conta que enfrentou até terremoto quando descobriu sua paixão pela neve». 23 de janeiro de 2014. Consultado em 8 de março de 2015
+↑ PRATES, Renan (3 de março de 2010). «Na contramão do masculino, futebol de areia feminino engatinha por projeção». Consultado em 30 de agosto de 2010
+↑ PRATES, Renan (3 de março de 2010). «Beach Soccer quer que estrelas do futebol feminino ajudem na projeção». Consultado em 30 de agosto de 2010
+↑ [2] Volei chega a marca de 15 milhoes de praticantes no Brasil.
+↑ Deloitte Pesquisa Muito Além do Futebol. Pg. 12. Acessado em 15/01/2015.
+↑ http://www.fivb.org/en/volleyball/VB_Ranking_W_2013-09.asp
+↑ http://www.fivb.org/en/volleyball/VB_Ranking_M_2013-07.asp
+↑ Brasil tem 3 milhoes de praticantes no Brasil
+↑ Tenis chega a 700 mil no Brasil.
+↑ (em inglês) BJJ Bear Arquivado em 29 de outubro de
+2013, no Wayback Machine. - Lineage Tree (árvore das linhagens do jiu-jitsu brasileiro). Página visitada em 24/11/2013.
+↑ Jiu-jitsu: a origem. Revista Tatame Nº 177, pág. 53, Novembro de 2010 (adicionado em 24/11/2013).
+↑ Handebol tem cerca de 200 mil praticantes no Brasil
+↑ Rugby busca espaço no país do futebol
+↑ Rugby deixa a grade da ESPN e passa a ter maioria das transmissoes apenas no Watch Espn
+↑ «CBFA divulga nota oficial sobre a criação de um campeonato brasileiro único». futebolamericanobrasil.com. 18 de março de 2016. Consultado em 19 de março de 2016
+↑ «CBFA reconhece títulos conquistados na Liga Nordestina e Torneio Touchdown». futebolamericanobrasil.com. 13 de maio de 2016. Consultado em 21 de junho de 2016
+↑ Futebol Americano chega a 17 mil praticantes no Brasil
+↑ Brasil tem cerca de 20 milhoes de fans de futebol americano
+↑ Beisebol conta com 20 mil praticantes no Brasil.
+↑ ESPN exibe
+copa do mundo de criquete T20 no Espn Play
+↑ Brasil tem cerca de 30 mil praticantes de críquete
+↑ planos ousados, hóquei busca a popularização do esporte no Brasil
+↑ do Hóquei Inline Brasileiro de 2018
+↑ Golfe avanca no Brasil e chega a 20 mil praticantes
+Ligações externas[editar | editar código-fonte]
+«Ministério do Esporte do Brasil»
+Esporte.esp.br
+Jornalismo Esportivo Especializado, Muito Além do Futebol
+Capoeira tem 6 milhões de praticantes
+Brasil conquista seu primeiro título no criquete
+Crescimento do Futebol Americano no Brasil
+Tenis de mesa atinge a marca de 10 milhoes de praticantes no brasil
+Handball tenta deixar de ser um esporte colegial[ligação inativa]
+http://esportes.terra.com.br/noticias/0,,OI5043284-EI1137,00-India+e+campea+mundial+de+criquete.html#comment  Em falta ou vazio |título= (ajuda)
+golfe confirmado esporte olimpico em 2016
+Ranking da seleção brasileira feminina e masculina de criquete na ICC
+seleçao brasileira feminina de críquete é tetra campeá
+Brasil disputa o Pan americano de hóquei sob o gelo
+vdeEsporte do BrasilClubes • Mídia • CronologiaInstituições
+Comitê Olímpico do Brasil
+Comitê Paralímpico Brasileiro
+Confederação Brasileira do Desporto Universitário
+Ministério do Esporte
+Superior Tribunal de Justiça Desportiva
+Tribunal de Justiça Desportiva
+Esportes
+Atletismo
+Automobilismo
+Badminton
+Balonismo
+Basquete
+Beisebol
+Boliche
+Boxe
+Críquete
+Canoagem
+Ciclismo
+Curling
+Esgrima
+Esporte eletrônico
+Esqui aquático
+Futebol
+Futebol americano
+Futsal
+Ginástica
+artística
+rítmica
+Halterofilismo
+Handebol
+Hipismo
+Hóquei no gelo
+Hóquei sobre a grama
+Judô
+Karatê
+Lutas associadas
+Mergulho
+Motociclismo
+Nado sincronizado
+Natação
+Parkour
+Patinação sobre rodas
+Pentatlo moderno
+Polo
+Polo aquático
+Remo
+Rugby
+Saltos ornamentais
+Skate
+Squash
+Softbol
+Surfe
+Taekwondo
+Tênis
+Tênis de mesa
+Tiro esportivo
+Tiro com arco
+Triatlo
+Vela
+Voleibol
+aquáticos
+de combate
+de corrida
+para deficientes
+de força
+de inverno
+motorizados
+de praia
+radicais
+universitários
+Por UF
+AC
+AL
+AM
+AP
+BA
+CE
+DF
+ES
+GO
+MA
+MG
+MS
+MT
+PA
+PB
+PE
+PI
+PR
+RJ
+RN
+RO
+RR
+RS
+SC
+SE
+SP
+TO
+Desempenho internacional
+Jogos da Boa Vontade
+Jogos da Lusofonia
+Jogos Ibero-Americanos
+Jogos Mundiais
+Jogos Olímpicos
+Jogos Pan-Americanos
+Jogos Paralímpicos
+Jogos Parapan-Americanos
+Jogos Sul-Americanos
+Universíada
+Categoria
+vdeEsporte da América do SulNos países
+Argentina
+Bolívia
+Brasil
+Chile
+Colômbia
+Equador
+Guiana
+Paraguai
+Peru
+Suriname
+Uruguai
+Venezuela
+Entidades
+ODESUL (esportes em geral)
+COSUD (esportes universitários)
+CONSUDATLE (atletismo)
+ABASU (basquete)
+CONSANAT (esportes aquáticos)
+CONMEBOL (futebol de areia, campo e salão)
+CSANF (futebol não-FIFA)
+SAR (rúgbi de praia e quinze)
+ASF América do Sul (surfe)
+CSV (vôlei de praia e quadra)
+COSAT (tênis)
+Modalidades
+Basquete
+Futebol
+Handebol
+Rúgbi
+Voleibol
+Eventos
+Jogos Sul-Americanos
+Jogos Sul-Americanos de Praia
+Jogos Sul-Americanos da Juventude
+Portal América do Sul •
+Categoria
+vdeTópicos sobre o Brasil História
+Cronologia
+Periodização
+Pré-descobrimento (antes de 1500)
+Colônia (1500–1822)
+Império (1822–1889)
+República (1889–presente)
+República Velha (1889–1930)
+Era Vargas (1930–1945)
+República Nova (1945–1964)
+Ditadura Militar (1964–1985)
+Nova República (1985–presente)
+Política
+Governo
+Administração pública
+Sistema jurídico-legal
+Constituição
+Executivo
+Presidente
+Judiciário
+Suprema corte
+Legislativo
+Congresso nacional: câmara alta e câmara baixa
+Eleições
+Partidos políticos
+Relações exteriores
+Direitos humanos
+Direitos LGBT
+Direitos das mulheres
+Pena de morte
+Tortura
+União
+Unidades federativas
+Geografia
+Território
+Fusos horários
+Hidrografia
+Clima
+Litoral
+Pontos extremos
+Relevo
+Biodiversidade
+Biomas
+Problemas ambientais
+Áreas protegidas
+Rede e hierarquia urbanas
+Capitais
+Base antártica
+Subdivisões
+Regiões
+Regiões geográficas intermediárias e imediatas
+Distritos
+Demografia
+Pessoas
+Línguas
+Religiões
+Economia
+Moeda
+Banco central
+Agricultura
+Indústria
+Energia
+Fontes renováveis
+Programa nuclear
+Mineração
+Turismo
+Problemas econômicos
+Infraestrutura
+Saúde
+Educação
+Comunicações
+Transportes
+Ciência e tecnologia
+Segurança
+Forças armadas: aérea, naval e terrestre
+Forças policiais
+Cultura
+Artes
+Culinária
+Esporte
+Feriados
+Folclore
+Multiculturalismo
+Problemas sociais
+Criminalidade
+Homofobia
+Intolerância religiosa
+Racismo
+Símbolos
+Bandeira
+Brasão de armas
+Selo
+Lema
+Hino
+Portal
+WikiProjeto
+Categoria
+Portal do Brasil
+Portal do desporto
+Obtida de https://pt.wikipedia.org/w/index.php?title=Esporte_no_Brasil&oldid=61919754
+Categoria: Desporto do BrasilCategorias ocultas: !Predefinição Webarchive wayback links!Artigos que carecem de notas de rodapé desde dezembro de 2012!Artigos do Brasil que carecem de notas de rodapé!Artigos a revisar desde dezembro de 2012!Artigos do Brasil a revisar!Artigos com ligações inativas!Páginas com citações sem título!Páginas com citações e URLs vazios
+Esta página foi editada pela última vez às 14h01min de 26 de agosto de 2021.
+Este texto é disponibilizado nos termos da licença Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as condições de utilização.
+Política de privacidade
+Sobre a Wikipédia
+Avisos gerais
+Versão móvel
+Programadores
+Estatísticas
+Declaração sobre cookies');
+Document.create!(url: 'https://pt.wikipedia.org/wiki/Voleibol', title: 'Voleibol – Wikipédia, a enciclopédia livre', body: 'Voleibol – Wikipédia, a enciclopédia livre
+Saltar para o conteúdo
+Alternar barra lateral
+Busca
+Links do usuário
+Criar uma conta
+Ferramentas pessoais
+expanded
+collapsed
+Criar uma conta
+Entrar
+Páginas para editores conectados saiba mais
+DiscussãoContribuições
+Navegação
+Página principalConteúdo destacadoEventos atuaisEsplanadaPágina aleatóriaPortaisInformar um erro
+Colaboração
+Boas-vindasAjudaPágina de testesPortal comunitárioMudanças recentesManutençãoCriar páginaPáginas novasContatoDonativos
+Ferramentas
+Páginas afluentesAlterações relacionadasCarregar ficheiroPáginas especiaisHiperligação permanenteInformações da páginaCitar esta páginaElemento Wikidata
+Imprimir/exportar
+Criar um livroDescarregar como PDFVersão para impressão
+Noutros projetos
+Wikimedia Commons
+Espaços nominais
+ArtigoDiscussão
+Variantes
+expanded
+collapsed
+Vistas
+LerEditarEditar código-fonteVer histórico
+Mais
+expanded
+collapsed
+133 idiomas
+expanded
+collapsed
+AfrikaansAkanAragonésÆngliscالعربيةمصرىঅসমীয়াAsturianuAzərbaycancaتۆرکجهБашҡортсаBasa BaliBoarischŽemaitėškaБеларускаяБеларуская (тарашкевіца)БългарскиBislamaবাংলাབོད་ཡིགBosanskiCatalàНохчийнکوردیČeštinaЧӑвашлаCymraegDanskDeutschZazakiडोटेलीΕλληνικάEnglishEsperantoEspañolEestiEuskaraفارسیSuomiNa Vosa VakavitiFøroysktFrançaisFryskGalegoगोंयची कोंकणी / Gõychi Konknniעבריתहिन्दीHrvatskiKreyòl ayisyenMagyarՀայերենInterlinguaBahasa IndonesiaIdoÍslenskaItaliano日本語JawaქართულიQaraqalpaqshaҚазақшаភាសាខ្មែរಕನ್ನಡ한국어КомиКыргызчаLatinaLëtzebuergeschЛаккуLingálaLietuviųLatviešuMinangkabauМакедонскиമലയാളംМонголमराठीBahasa MelayuمازِرونیNāhuatlPlattdüütschNedersaksiesनेपालीNederlandsNorsk nynorskNorsk bokmålOccitanਪੰਜਾਬੀPapiamentuPolskiپنجابیپښتوRuna SimiRumantschRomânăРусскийIkinyarwandaसंस्कृतम्SicilianuSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaGagana SamoaShqipСрпски / srpskiSundaSvenskaKiswahiliதமிழ்తెలుగుТоҷикӣไทยTürkmençeTagalogTürkçeТатарча/tatarçaТыва дылئۇيغۇرچە / UyghurcheУкраїнськаاردوOʻzbekcha/ўзбекчаVènetoTiếng ViệtWalon吴语მარგალურიYorùbáVahcuengh中文Bân-lâm-gú粵語
+Editar hiperligações
+Voleibol
+Origem: Wikipédia, a enciclopédia livre.
+Esta página cita fontes, mas estas não cobrem todo o conteúdo. Ajude a inserir referências. Conteúdo não verificável poderá ser removido.—Encontre fontes: Google (notícias, livros e acadêmico) (Dezembro de 2008)
+Voleibol
+Um jogo de voleibol Itália vs. Rússia.
+Olímpico desde
+1964 H/S
+Desporto
+Voleibol
+Praticado por
+Ambos os sexos
+Campeões Olímpicos
+Tóquio 2021
+Homens
+França
+Mulheres
+Estados Unidos
+Campeões Mundiais
+Itália/Bulgária 2018 (masculino)Japão 2018 (feminino)
+Homens
+Polônia
+Mulheres
+Sérvia
+Voleibol (chamado frequentemente no Brasil de Vôlei e em Portugal de Vólei) é um desporto praticado numa quadra dividida em duas partes por uma rede, possuindo duas equipes de seis jogadores em cada lado. O voleibol foi originalmente chamado de Mintonette, devido à sua semelhança com o Badminton. Ele também tem alguns elementos de tênis e handebol e até beisebol porque no conjunto de regras original havia 9 entradas com três saídas (saques).[1] O objetivo da modalidade é fazer a bola passar sobre a rede de modo a que a bola toque no chão dentro da quadra adversária, ao mesmo tempo que se evita que os adversários consigam fazer o mesmo. O voleibol é um desporto olímpico, regulado pela Fédération Internationale de Volleyball (FIVB).
+Índice
+1 História
+1.1 No Brasil
+2 Regras
+2.1 O campo
+2.2 Equipamento
+2.3 Estrutura
+2.4 O jogo
+2.5 Líbero
+2.6 Pontos
+3 Fundamentos
+3.1 Saque ou serviço
+3.2 Passe
+3.2.1 Manchete
+3.3 Levantamento
+3.4 Ataque
+3.5 Bloqueio
+3.6 Defesa
+4 Saltos
+5 Principais competições
+5.1 Internacionais
+5.2 Nacionais
+6 Ver também
+7 Referências
+8 Ligações externas
+História[editar | editar código-fonte]
+Ver artigo principal: História do voleibol
+William George Morgan, o criador do voleibol.
+O vôlei foi criado em 9 de fevereiro de 1895 por William George Morgan nos Estados Unidos.[2] O objetivo de Morgan, que trabalhava na Associação Cristã de Moços (ACM), era criar um esporte de equipes sem contato físico entre os adversários, de modo a minimizar os riscos de lesões. Inicialmente jogava-se com uma câmara de ar da bola de basquetebol e foi chamado Mintonette, mas rapidamente ganhou popularidade com o nome de volleyball. O criador do voleibol faleceu em 27 de dezembro de 1942 aos 72 anos de idade.
+O voleibol de praia, uma modalidade derivada do voleibol surgida na década de 1920, tem obtido grande sucesso em diversos países, nomeadamente no Brasil e nos Estados Unidos.
+Em 1947, foi fundada a Federação Internacional de Voleibol (FIVB). Dois anos mais tarde foi realizado o primeiro Campeonato Mundial de Voleibol. Na ocasião, só houve o evento masculino. Em 1952, o evento foi estendido também ao voleibol feminino. No ano de 1964, o voleibol passou a fazer parte do programa dos Jogos Olímpicos, tendo-se mantido até a atualidade.
+A partir dos Jogos Olímpicos de 1988, uma nova regra impediu a interrupção do jogo para que se pudesse secar a quadra. Os times passaram a entrar com toalhinhas presas na parte de trás do calção, usadas sempre que o suor molha o piso (esta regra não está mais em vigor).
+Karch Kiraly é considerado o maior jogador de vôlei de sempre, tendo conseguido medalhas de ouro no vôlei nos Jogos Olímpicos de 1984 e 1988 e depois repetido o feito no vôlei de praia, nos jogos de 1996, tendo sido o único jogador a conseguir a proeza.[3]
+No Brasil[editar | editar código-fonte]
+Antes do estouro do voleibol no Brasil, durante os anos 1980, a Seleção Brasileira se resumia a um único grande jogador. A dinastia de Antônio Carlos Moreno durou 21 anos e 366 jogos. Uma trajetória exemplar, iniciada aos dezessete anos, em que ele disputou sete campeonatos sul-americanos e quatro jogos Pan-Americanos. Participou também de quatro mundiais e cinco Olimpíadas.
+Nos esportes coletivos, a primeira medalha de ouro olímpica conquistada por um país lusófono foi obtida pela equipe masculina de vôlei do Brasil nos Jogos Olímpicos de Verão de 1992. A proeza se repetiu nos Jogos Olímpicos de Verão de 2004 e nos Jogos Olímpicos de Verão de 2008 foi a vez da seleção brasileira feminina ganhar a sua primeira medalha de ouro em Olimpíadas.
+A Seleção Masculina de Voleibol do Brasil possui os dois recordes mundiais de público na história do voleibol: em 26 de Julho de 1983, no Estádio do Maracanã, no Rio de Janeiro, 95 887 pessoas viram O Grande Desafio de Vôlei – Brasil X URSS, uma partida amistosa na qual o Brasil derrotou a então campeã olímpica e mundial, União Soviética, por 3-1, num recorde absoluto da história do esporte. No dia 6 de Julho de 1995, no Ginásio do Mineirinho, em Belo Horizonte, foi batido o recorde de público numa partida indoor: 25 326 torcedores superlotaram o ginásio para ver a Itália bater o Brasil por 3-2, na fase decisiva de classificação para as finais da Liga Mundial daquele ano.
+Regras[editar | editar código-fonte]
+As seleções de Bulgária e Sérvia se enfrentam em 2011.
+Cada equipe de voleibol é constituída por 12 jogadores: seis efetivos (sendo um líbero) e seis suplentes. Em quadra, portanto, ficam dois times de seis jogadores.
+As equipes são separadas por uma rede no meio da quadra. O jogo começa com um dos times que devem sacar. Logo depois do saque, a bola deve ultrapassar a rede e seguir ao campo do adversário onde os jogadores tentam evitar que a bola entre no seu campo usando qualquer parte do corpo (antes não era válido usar membros da cintura para baixo, mas as regras foram mudadas). O jogador pode rebater a bola para que ela passe para o campo adversário sendo permitidos dar três toques na bola antes que ela passe, sempre alternando os jogadores que dão os toques. Caso a bola caia, é ponto do time adversário.
+O jogador não pode encostar na rede e, caso isso ocorra, o ponto será para o outro time.[4] O mesmo jogador não pode dar 2 ou mais toques seguidos na bola, exceção no caso do toque de Bloqueio.
+O campo[editar | editar código-fonte]
+É retangular, com a dimensão de 18 x 9 metros, com uma rede no meio colocada a uma altura variável, conforme o sexo e a categoria dos jogadores (exemplo dos seniores e juniores: masculino 2,43 metros e feminino 2,24 metros).
+Há uma linha de 3 metros em direção do campo para a rede, dos dois lados e uma distância de 6 metros até o fim da quadra. Fazendo uma quadra de extensão de 18 metros de ponta a ponta e 9 metros de lado a lado.
+O campo mede 18 metros de comprimento por 9 de largura (18 x 9 metros), e é dividido por uma linha central em um dos lados de nove metros que constituem as quadras de cada time. O objetivo principal é conquistar pontos fazendo a bola encostar na quadra adversária ou sair da área de jogo após ter sido tocada por um oponente.
+Equipamento[editar | editar código-fonte]
+Campo de Voleibol.
+As partidas de voleibol são confrontos envolvendo duas equipes disputados em ginásio coberto ou ao ar livre conforme desejado.
+Acima da linha central, é postada uma rede de material sintético a uma altura de 2,43 m para homens ou 2,24 m para mulheres (no caso de competições juvenis, infanto-juvenis e mirins, as alturas são diferentes). Cada quadra é por sua vez dividida em duas áreas de tamanhos diferentes (usualmente denominadas rede e fundo) por uma linha que se localiza, em cada lado, a três metros da rede (linha de 3 metros).
+No voleibol, todas as linhas delimitadoras são consideradas parte integrante do campo. Deste modo, uma bola que toca a linha é considerada dentro (válida), e não fora (inválida). Acima da quadra, o espaço aéreo é delimitado no sentido lateral por duas antenas postadas em cada uma das extremidades da rede. No sentido vertical, os únicos limites são as estruturas físicas do ginásio.
+Caso a bola toque em uma das antenas ou nas estruturas físicas do ginásio, o ponto vai automaticamente para o oponente do último jogador que a tocou.
+A bola empregada nas partidas de voleibol é composta de couro ou couro sintético e mede aproximadamente 65 centímetros de perímetro. Ela pesa em torno de 270 gramas e deve ser inflada com ar comprimido a uma pressão de 0,30 quilogramas por centímetro quadrado.
+Estrutura[editar | editar código-fonte]
+Ao contrário de muitos esportes, tais como o futebol ou o basquetebol, o voleibol é jogado por pontos, e não por tempo. Cada partida é dividida em sets que terminam quando uma das duas equipes conquista 25 pontos. Deve haver também uma diferença de no mínimo dois pontos com relação ao placar do adversário - caso contrário, a disputa prossegue até que tal diferença seja atingida. O vencedor será aquele que conquistar primeiramente três sets.
+Como o jogo termina quando um time completa três sets vencidos, cada partida de voleibol dura no máximo cinco sets. Se isto ocorrer, o último recebe o nome de tie-break e termina quando um dos times atinge a marca de 15, e não 25 pontos. Como no caso dos demais, também é necessária uma diferença de dois pontos com relação ao placar do adversário.
+Cada equipe é composta por doze jogadores, dos quais seis estão atuando na quadra e seis permanecem no banco na qualidade de reservas. As substituições são limitadas: cada técnico pode realizar no máximo seis por set, e cada jogador só pode ser substituído uma única vez - com exceção do líbero - devendo necessariamente retornar à quadra para ocupar a posição daquele que tomara originalmente o seu lugar.
+Os seis jogadores de cada equipe são dispostos na quadra do seguinte modo. No sentido do comprimento, três estão mais próximos da rede, e três mais próximos do fundo; e, no sentido da largura, dois estão mais próximos da lateral esquerda; dois, do centro da quadra; e dois, da lateral direita. Estas posições são identificadas por números: com o observador postado frente à rede, aquela que se localiza no fundo à direita recebe o número 1, e as outras seguem-se em ordem crescente conforme o sentido anti-horário.
+O jogo[editar | editar código-fonte]
+Ver artigo principal: Sistemas táticos do voleibol
+Posicionamento e rotação.
+No início de cada set, o jogador que ocupa a posição 1 realiza o saque, e, acerta a bola com a mão tencionando fazê-la atravessar o espaço aéreo delimitado pelas duas antenas e aterrissar na quadra adversária. Os oponentes devem então fazer a bola retornar tocando-a no máximo três vezes, e evitando que o mesmo jogador toque-a por duas vezes consecutivas.
+O primeiro contato com a bola após o saque é denominado recepção ou passe, e seu objetivo primordial é evitar que ela atinja uma área válida do campo. Segue-se então usualmente o levantamento, que procura colocar a bola no ar de modo a permitir que um terceiro jogador realize o ataque, ou seja, acerte-a de forma a fazê-la aterrissar na quadra adversária, conquistando deste modo o ponto.
+No momento em que o time adversário vai atacar, os jogadores que ocupam as posições 2, 3 e 4 podem saltar e estender os braços, numa tentativa de impedir ou dificultar a passagem da bola por sobre a rede. Este movimento é denominado bloqueio, e não é permitido para os outros três atletas que compõem o restante da equipe.
+Em termos técnicos, os jogadores que ocupam as posições 1, 6 e 5 só podem acertar a bola acima da altura da rede em direção à quadra adversária se estiverem no fundo de sua própria quadra. Por esta razão, não só o bloqueio torna-se impossível, como restrições adicionais se aplicam ao ataque. Para atacar do fundo, o atleta deve saltar sem tocar com os pés na linha de três metros ou na área por ela delimitada; o contato posterior com a bola, contudo, pode ocorrer no espaço aéreo frontal.
+Após o ataque adversário, o time procura interceptar a trajetória da bola com os braços ou com outras partes do corpo para evitar que ela aterrisse na quadra. Se obtém sucesso, diz-se que foi feita uma defesa, e seguem-se novos levantamento e ataque. O jogo continua até que uma das equipes cometa um erro ou consiga fazer a bola tocar o campo do lado oponente.
+Se o time que conquistou o ponto não foi o mesmo que havia sacado, os jogadores devem deslocar-se em sentido horário, passando a ocupar a próxima posição de número inferior à sua na quadra (ou a posição 3, no caso do atleta que ocupava a posição 4). Este movimento é denominado rodízio.
+Líbero[editar | editar código-fonte]
+Ver artigo principal: Líbero (voleibol)
+O líbero é um atleta especializado nos fundamentos que são realizados com mais frequência no fundo da quadra, isto é, recepção e defesa. Esta função foi introduzida pela FIVB em 1998, com o propósito de permitir disputas mais longas de pontos e tornar o jogo deste modo mais atraente para o público. Um conjunto específico de regras se aplica exclusivamente a este jogador.
+O líbero deve utilizar uniforme diferente dos demais, não pode ser capitão do time, nem atacar, bloquear ou sacar. Quando a bola não está em jogo, ele pode trocar de lugar com qualquer outro jogador sem notificação prévia aos árbitros, e suas substituições não contam para o limite que é concedido por set a cada técnico.
+Por fim, o líbero só pode realizar levantamentos de toque do fundo da quadra. Caso esteja pisando sobre a linha de três metros ou sobre a área por ela delimitada, deverá exercitar somente levantamentos de manchete, pois se o fizer de toque por cima (pontas dos dedos) o ataque deverá ser executado com a bola abaixo do bordo superior da rede.
+Pontos[editar | editar código-fonte]
+Existem basicamente duas formas de marcar pontos no voleibol. A primeira consiste em fazer a bola aterrissar sobre a quadra adversária como resultado de um ataque, de um bloqueio bem sucedido ou, mais raramente, de um saque que não foi corretamente recebido. A segunda ocorre quando o time adversário comete um erro ou uma falta.
+Diversas situações são consideradas erros:
+A bola toca em qualquer lugar exceto em um dos doze atletas que estão em quadra, ou no campo válido de jogo (bola fora).
+O jogador toca consecutivamente duas vezes na bola (dois toques).
+O jogador empurra a bola, ao invés de acertá-la. Este movimento é denominado carregar ou condução.
+A bola é tocada mais de três vezes antes de retornar para o campo adversário.
+A bola toca a antena, ou passa sobre ou por fora da antena em direção à quadra adversária.
+O jogador encosta na borda superior da rede.
+Um jogador que está no fundo da quadra realiza um bloqueio.
+Um jogador que está no fundo da quadra pisa na linha de três metros ou na área frontal antes de fazer contato com a bola acima do bordo superior da rede (invasão do fundo).
+Postado dentro da zona de ataque da quadra ou tocando a linha de três metros, o líbero realiza um levantamento de toque que é posteriormente atacado acima da altura da rede.
+O jogador bloqueia o saque adversário.
+O jogador está fora de posição no momento do saque.
+O jogador saca quando não está na posição 1.
+O jogador toca a bola no espaço aéreo acima da quadra adversária em uma situação que não se configura como um bloqueio (invasão por cima).
+O jogador toca a quadra adversária por baixo da rede com qualquer parte do corpo exceto as mãos ou os pés (invasão por baixo).
+O jogador leva mais de oito segundos para sacar
+No momento do saque, os jogadores que estão na rede pulam e/ou erguem os braços, com o intuito de esconder a trajetória da bola dos adversários. Esta falta é denominada screening
+Os dois toques são permitidos no primeiro contato do time com a bola, desde que ocorram em uma ação simultânea - a interpretação do que é ou não simultâneo fica a cargo do arbitro.
+A não ser no bloqueio. O toque da bola no bloqueio não é contabilizado.
+A invasão por baixo de mãos e pés é permitida apenas se uma parte dos membros permanecer em contato com a linha central.
+Fundamentos[editar | editar código-fonte]
+Um time que deseja competir em nível internacional precisa dominar um conjunto de seis habilidades básicas, denominadas usualmente sob a rubrica fundamentos. Elas são: saque, passe, levantamento, ataque, bloqueio e defesa. A cada um destes fundamentos compreende um certo número de habilidades e técnicas que foram introduzidas ao longo da história do voleibol e são hoje consideradas prática comum no esporte.
+Saque ou serviço[editar | editar código-fonte]
+Jogador preparando-se para sacar.
+O saque ou serviço marca o início de uma disputa de pontos no voleibol. Um jogador posta-se atrás da linha de fundo de sua quadra, estende o braço e acerta a bola, de forma a fazê-la atravessar o espaço aéreo acima da rede delimitado pelas antenas e aterrissar na quadra adversária. Seu principal objetivo consiste em dificultar a recepção de seu oponente controlando a aceleração e a trajetória da bola.
+Existe a denominada área de saque, que é constituída por duas pequenas linhas nas laterais da quadra, o jogador não pode sacar de fora desse limite.
+Um saque que a bola aterrissa diretamente sobre a quadra do adversário sem ser tocada pelo adversário - é denominado em voleibol ace, assim como em outros esportes tais como o tênis.
+No voleibol contemporâneo, foram desenvolvidos muitos tipos diferentes de saques:
+Saque por baixo ou por cima: indica a forma como o saque é realizado, ou seja, se o jogador acerta a bola por baixo, no nível da cintura, ou primeiro lança-a no ar para depois acertá-la acima do nível do ombro. A recepção do saque por baixo é usualmente considerada muito fácil, e por esta razão esta técnica não é mais utilizada em competições de alto nível.
+Jornada nas estrelas: um tipo específico de saque por baixo, em que a bola é acertada de forma a atingir grandes alturas (em torno de 25 metros). O aumento no raio da parábola descrito pela trajetória faz com que a bola desça quase em linha reta, e em velocidades da ordem de 70 quilômetros por hora. Ao contrário do que todos imaginam, o primeiro atleta brasileiro a executá-lo não foi o Bernard Rajzman, e sim Vicente Pinheiro Chagas, no início da década de 1950. Vicentão, como era conhecido em Minas Gerais, executou esse tipo de saque quando jogava pelo Clube Atlético Mineiro. Naquela ocasião, a maiorias das quadras eram descobertas em Belo Horizonte, e esse saque surtia, segundo os mais antigos, um efeito devastador. A bola subia além do feixe de luz dos holofotes e, momentaneamente, não era vista pelos jogadores. Muitos anos depois, Bernard aplicou esse tipo de saque na praia no início da década de 1980, e o levou para os ginásios com muito sucesso. Na ocasião, passava, na televisão brasileira, o seriado Jornada nas Estrelas. Foi o bastante para o saque ser batizado com esse nome. Popularizado na década de 1980 pela equipe brasileira, especialmente pelo ex-jogador Bernard Rajzman, ele hoje é considerado ultrapassado, e já não é mais empregado em competições internacionais.
+Saque com efeito: denominado em inglês spin serve, trata-se de um saque em que a bola ganha velocidade ao longo da trajetória, ao invés de perdê-la, graças a um efeito produzido dobrando-se o pulso no momento do contato.
+Saque flutuante ou saque sem peso: saque em que a bola é tocada apenas de leve no momento de contato, o que faz com que ela perca velocidade repentinamente e sua trajetória se torne imprevisível.
+Viagem ao fundo do mar: saque em que o jogador lança a bola, faz a aproximação em passadas como no momento do ataque, e acerta-a com força em direção à quadra adversária. Supõe-se que este saque já existisse desde a década de 1960, e tenha chegado ao Brasil pelas mãos do jogador Feitosa. De todo modo, ele só se tornou popular a partir da segunda metade dos anos 1980.
+Saque oriental: o jogador posta-se na linha de fundo de perfil para a quadra, lança a bola no ar e acerta-a com um movimento circular do braço oposto. O nome deste saque provém do fato de que seu uso contemporâneo restringe-se a algumas equipes de voleibol feminino da Rússia.
+Passe[editar | editar código-fonte]
+Passe realizado com manchete.
+Também chamado recepção, o passe é o primeiro contato com a bola por parte do time que não está sacando e consiste, em última análise, em tentativa de evitar que a bola toque a sua quadra, o que permitiria que o adversário marcasse um ponto. Além disso, o principal objetivo deste fundamento é controlar a bola de forma a fazê-la chegar rapidamente e em boas condições nas mãos do levantador, para que este seja capaz de preparar uma jogada ofensiva.
+O fundamento passe envolve basicamente duas técnicas específicas: a manchete, em que o jogador empurra a bola com a parte interna dos braços esticados, usualmente com as pernas flexionadas e abaixo da linha da cintura; e o toque, em que a bola é manipulada com as pontas dos dedos acima da cabeça.
+Quando, por uma falha de passe, a bola não permanece na quadra do jogador que está na recepção, mas atravessa por cima da rede em direção à quadra da equipe adversária, diz-se que esta pessoa recebeu uma bola de graça.
+Manchete[editar | editar código-fonte]
+Manchete é um golpe executado por um jogador de voleibol, realizado com os antebraços unidos e com os braços estendidos para que a bola não toque no chão. O jogador tentará receber o saque adversário efetuando um passe para o levantador.[5] Erros resultam em pontos para o adversário, a manchete tem grande influência no jogo, sendo ela responsável pela defesa do saque e de cortadas.
+A posição da manchete deve ser executada com eficiência. É considerada um princípio de defesa. O líbero é o que fica encarregado de pegar saques e cortes, usando a manchete.[6] E no caso de alguns levantadores a manchete é usada para uma melhor colocação da bola para o atacante.
+A manchete é o tipo de defesa mais usado no jogo de voleibol.[7] Ela é usada em bolas que vem em baixa altitude, e que não tem chance de ser devolvida com o toque. O movimento da manchete tem início nas pernas e é realizado de baixo para cima numa posição mais ou menos cômoda, é importante que a perna seja flexionada na hora do movimento, garantindo maior precisão e comodidade no movimento.
+Foi o último dos fundamentos a ser adicionado ao jogo. Uma vez que o saque foi ficando mais potente, e o toque, não era mais tão eficaz, abriu-se espaço para a implantação da manchete.[8] Quando a manchete é mal efetuada e o passe acaba indo para a equipe adversária, diz-se que houve bola de graça.[9]
+Levantamento[editar | editar código-fonte]
+O levantamento é normalmente o segundo contato de um time com a bola. Seu principal objetivo consiste em posicioná-la de forma a permitir uma ação ofensiva por parte da equipe, ou seja, um ataque.
+A exemplo do passe, pode-se distinguir o levantamento pela forma como o jogador executa o movimento, ou seja, como levantamento de toque e levantamento de manchete. Como o primeiro usualmente permite um controle maior, o segundo só é utilizado quando o passe está tão baixo que não permite manipular a bola com as pontas dos dedos, ou no voleibol de praia, em que as regras são mais restritas no que diz respeito à infração de carregar.
+Também costuma-se utilizar o termo levantamento de costas, em referência à situação em que a bola é lançada na direção oposta àquela para a qual o levantador está olhando.
+Quando o jogador não levanta a bola para ser atacada por um de seus companheiros de equipe, mas decide lançá-la diretamente em direção à quadra adversária numa tentativa de conquistar o ponto rapidamente, diz-se que esta é uma bola de segunda.
+Ataque[editar | editar código-fonte]
+Jogador atacando.
+O ataque é, em geral, o terceiro contato de um time com a bola. O objetivo deste fundamento é fazer a bola aterrissar na quadra adversária, conquistando deste modo o ponto em disputa. Para realizar o ataque, o jogador dá uma série de passos contados (passada), salta e então projeta seu corpo para a frente, transferindo deste modo seu peso para a bola no momento do contato.
+O voleibol contemporâneo envolve diversas técnicas individuais de ataque:
+Ataque do fundo: ataque realizado por um jogador que não se encontra na rede, ou seja, por um jogador que não ocupa as posições 2-4. O atacante não pode pisar na linha de três metros ou na parte frontal da quadra antes de tocar a bola, embora seja permitido que ele aterrisse nesta área após o ataque.
+Diagonal ou Paralela: indica a direção da trajetória da bola no ataque, em relação às linhas laterais da quadra. Uma diagonal de ângulo bastante pronunciado, com a bola aterrissando na zona frontal da quadra adversária, é denominada diagonal curta.
+Cortada ou Remate: refere-se a um ataque em que a bola é acertada com força, com o objetivo de fazê-la aterrissar o mais rápido possível na quadra adversária. Uma cortada pode atingir velocidades de aproximadamente 200 quilômetros por hora.
+Largada: refere-se a um ataque em que jogador não acerta a bola com força, mas antes toca-a levemente, procurando direcioná-la para uma região da quadra adversária que não esteja bem coberta pela defesa.
+Explorar o bloqueio: refere-se a um ataque em que o jogador não pretende fazer a bola tocar a quadra adversária, mas antes atingir com ela o bloqueio oponente de modo a que ela, posteriormente, aterrise em uma área fora de jogo.
+Ataque sem força: o jogador acerta a bola mas reduz a força e consequentemente sua aceleração, numa tentativa de confundir a defesa adversária.
+Bola de xeque: refere-se à cortada realizada por um dos jogadores que está na rede quando a equipe recebe uma bola de graça (ver passe, acima).
+Bloqueio[editar | editar código-fonte]
+Bloqueio triplo.
+O bloqueio refere-se às ações executadas pelos jogadores que ocupam a parte frontal da quadra (posições 2-3-4) e que têm por objetivo impedir ou dificultar o ataque da equipe adversária. Elas consistem, em geral, em estender os braços acima do nível da rede com o propósito de interceptar a trajetória ou diminuir a velocidade de uma bola que foi cortada pelo oponente.
+Denomina-se bloqueio ofensivo à situação em que os jogadores têm por objetivo interceptar completamente o ataque, fazendo a bola permanecer na quadra adversária. Para isto, é necessário saltar, estender os braços para dentro do espaço aéreo acima da quadra adversária e manter as mãos viradas em torno de 45-60° em direção ao punho. Um bloqueio ofensivo especialmente bem executado, em que bola é direcionada diretamente para baixo em uma trajetória praticamente ortogonal em relação ao solo, é denominado toco.
+Um bloqueio é chamado, entretanto, defensivo se tem por objetivo apenas tocar a bola e deste modo diminuir a sua velocidade, de modo a que ela possa ser melhor defendida pelos jogadores que se situam no fundo da quadra. Para a execução do bloqueio defensivo, o jogador reduz o ângulo de penetração dos braços na quadra adversária, e procura manter as palmas das mãos voltadas em direção à sua própria quadra.
+O bloqueio também é classificado, de acordo com o número de jogadores envolvidos, em simples, duplo e triplo.
+Defesa[editar | editar código-fonte]
+Defesa.
+A defesa consiste em um conjunto de técnicas que têm por objetivo evitar que a bola toque a quadra após o ataque adversário. Além da manchete e do toque, já discutidos nas seções relacionadas ao passe e ao levantamento, algumas das ações específicas que se aplicam a este fundamento são:
+Peixinho: o jogador atira-se no ar, como se estivesse mergulhando, para interceptar uma bola, e termina o movimento sob o próprio abdômen.
+Rolamento: o jogador rola lateralmente sobre o próprio corpo após ter feito contato com a bola. Esta técnica é utilizada, especialmente, para minimizar a possibilidade de contusões após a queda que é resultado da força com que uma bola fora cortada pelo adversário.
+Martelo: o jogador acerta a bola com as duas mãos fechadas sobre si mesmas, como numa oração. Esta técnica é empregada, especialmente, para interceptar a trajetória de bolas que se encontram a uma altura que não permite o emprego da manchete, mas para as quais o uso do toque não é adequado, pois a velocidade é grande demais para a correta manipulação com as pontas dos dedos.
+Posição de expectativa: Estratégia ou tática adotada antes do saque adversário de posicionamento da defesa, podendo ser no centro ou antecipado em uma das metades da quadra.[10]
+Saltos[editar | editar código-fonte]
+Durante uma partida, um jogador dá de sessenta a oitenta saltos entre os saques, ataques e bloqueios. Alguns podem chegar a cem saltos.
+Principais competições[editar | editar código-fonte]
+Organizadas pela federação internacional (FIVB), as principais competições de voleibol são torneios internacionais que podem ser divididos em dois grupos: grandes eventos que ocorrem em ciclos de quatro anos e eventos anuais, criados a partir da década de 1990. De menor importância, mas igualmente tradicionais, são os torneios organizados por cada uma das cinco grandes confederações continentais.
+Por fim, diversas federações possuem torneios e ligas nacionais, que ganham em prestígio de acordo com o volume de capital investido e a qualidade dos atletas envolvidos.
+Entre as principais competições de voleibol, destacam-se:
+Internacionais[editar | editar código-fonte]
+Torneio Olímpico de Voleibol: a cada quatro anos, desde 1964
+Campeonato Mundial de Voleibol: a cada quatro anos, desde 1949 (homens) e 1952 (mulheres)
+Copa do Mundo: a cada quatro anos, desde 1965 (homens) e 1973 (mulheres)
+Liga Mundial: anualmente, desde 1990
+Grand Prix: anualmente, desde 1993
+Copa dos Campeões de Voleibol: a cada quatro anos, desde 1993
+Nacionais[editar | editar código-fonte]
+Superliga Brasileira de Voleibol (Brasil)
+Liga Italiana de Voleibol (Itália)
+Campeonato Argentino de Voleibol Masculino (Argentina)
+Campeonato Russo de Voleibol Masculino (Rússia)
+Ver também[editar | editar código-fonte]
+Voleibol de praia
+Lista de federações de voleibol
+Lista de vencedores de títulos mundiais de voleibol
+Medalhistas olímpicos do voleibol
+Superliga Brasileira de Voleibol
+Referências
+↑ https://www.liveabout.com/volleyball-facts-you-didnt-know-3428635
+↑ «FIVB: The Volleyball Story». Fivb.org
+↑ «Como Tudo Funciona». Consultado em 11 de maio de 2014. Arquivado do original em 12 de maio de 2014
+↑ «Vôlei muda regras e proíbe todo tipo de toque na rede». Estadão. Consultado em 6 de agosto de 2016
+↑
+manchete in Dicionário infopédia da Língua Portuguesa [em linha]. Porto: Porto Editora, 2003-2019. [consult. 2019-02-10 22:05:40]. Disponível na Internet: https://www.infopedia.pt/dicionarios/lingua-portuguesa/manchete
+↑ http://www.dicionarioolimpico.com.br/voleibol/cenario/manchete
+↑ http://www.volei.org/2011/08/manchete-no-voleibol.html
+↑ https://www.portaleducacao.com.br/conteudo/artigos/educacao-fisica/toque-no-voleibol/40923
+↑ https://sportsregras.com/voleibol-passe-manchete-saque/
+↑ «Vôlei - Estratégias e táticas». Justvolleyball.com.br. Arquivado do original em 8 de agosto de 2014
+Ligações externas[editar | editar código-fonte]
+O Wikiquote possui citações de ou sobre: Voleibol
+O Commons possui imagens e outros ficheiros sobre
+Voleibol
+«Sítio oficial da Federação Internacional de Voleibol - FIVB» (em inglês). www.fivb.com
+«Sítio da Confederação Brasileira de Voleibol». 2017.cbv.com.br
+«Sítio da Federação Portuguesa de Voleibol». www.fpvoleibol.pt
+VoleibolvdeJogadas do voleibolAtaques
+Desmico
+Desmico de Saída
+China
+Degrau
+Jogada X
+Between
+Bola alta
+Bola chutada
+Bola de tempo
+Bola de segunda
+Ataque dos 3
+Saques
+Jornada nas estrelas
+Saque Viagem
+Saque por baixo
+Saque por cima
+Saque flutuante ou Sem peso
+Saque oriental
+Bloqueios
+Bloqueio Simples
+Bloqueio Duplo
+Bloqueio Triplo
+Defesas
+Peixinho
+Rolamento
+Martelo
+Posição de expectativa
+Defesa com os pés
+Portal do Voleibol
+História
+Táticas
+Lista de federações de voleibol
+vdeCompetições internacionais de voleibolFederações • Vencedores • Medalhistas olímpicos • Ranking mundial • Hall da famaFIVBAdultoJogos Olímpicos • Campeonato Mundial (masculino • feminino) • Copa do Mundo (masculina • feminina) • Liga das Nações (masculina • feminina) • Challenger Cup (masculina • feminina) • Copa dos Campeões (masculina • feminina) • Campeonato Mundial de Clubes (masculino • feminino)BaseMundial Masculino Sub-23 • Mundial Feminino Sub-23 • Mundial Masculino Sub-21 • Mundial Feminino Sub-20 • Mundial Masculino Sub-19 • Mundial Feminino Sub-18 • Jogos Olímpicos da JuventudeOutros organizadoresUniversíada • Torneio de Montreux • Torneio Hubert Jerzeg Wagner • Copa Yeltsin • Jogos do Mediterrâneo • Copa Latina • USA Volleyball Cup • Jogos da Lusofonia • Jogos Centro-Americanos e do Caribe • Jogos Bolivarianos • Jogos Mundiais Militares • Campeonato Mundial Militar (masculino • feminino) • Top VolleyExtintasLiga Mundial • Grand Prix • Jogos da Boa Vontade • World Top Four • World Super Challenge • Mundialito • Torneio de Courmayeur • Torneio Abu Dhabi • Torneio de Alassio • Copa Rio Internacional • Copa Presidente de la República • Copa Unique • Jogos Mundiais da Juventude • Salonpas Cupvde Competições continentais de voleibol África (CAVB)Campeonato Africano Feminino (Sub-23 • Sub-20 • Sub-18) • Masculino (Sub-23 • Sub-21 • Sub-19)Jogos Pan-Africanos
+Campeonato Africano de Clubes Campeões (Feminino • Masculino)América do Norte e Central (NORCECA)Campeonato NORCECA Feminino (Sub-20 • Sub-18) • Masculino (Sub-21 • Sub-19)
+Copa Pan-Americana Masculina (Sub-23 • Sub-21 • Sub-19) • Feminina (Sub-23 • Sub-20 • Sub-18) • Jogos Pan-Americanos • Jogos Centro-Americanos e do Caribe • Copa América • Copa Final Four
+Copa Centro-Americana Feminina (Sub-23 • Sub-20 • Sub-18) • Masculina (Sub-23 • Sub-21 • Sub-19)América do Sul (CSV)Sul-Americano Masculino (Sub-23 • Sub-21 • Sub-19 • Sub-17 • Sub-15) e Feminino (Sub-23 • Sub-20 • Sub-18 • Sub-16 • Sub-14)
+Copa Pan-Americana Masculina (Sub-23 • Sub-21 • Sub-19) • Feminina (Sub-23 • Sub-20 • Sub-18) • Jogos Pan-Americanos • Jogos Centro-Americanos e do Caribe • Jogos Sul-Americanos • Copa América • Copa Final Four
+Campeonato Sul-Americano de Clubes (Feminino • Masculino)Ásia (AVC)Campeonato Asiático Feminino (Sub-23 • Sub-20 • Sub-18) • Masculino (Sub-23 • Sub-21 • Sub-19)
+Jogos Asiáticos • Copa Asiática (Feminina • Masculina)
+Campeonato Asiático de Clubes (Feminino • Masculino)Europa (CEV)Campeonato Europeu Feminino (Sub-20 • Sub-18 • Sub-16) • Masculino (Sub-21 • Sub-19 • Sub-17)
+Jogos Europeus • Liga Europeia (Feminina • Masculina) • Estados Pequenos (Feminino • Masculino) • Jogos dos Pequenos Estados da Europa
+Liga dos Campeões (Feminina • Masculina) • Copa CEV (Feminina • Masculina) • Challenge Cup (Feminina • Masculina)vdeCampeonatos nacionais de voleibol masculino da primeira divisãoÁfrica (CAVB)Argélia • Egito • Marrocos • TunísiaAmérica do Norte e Central (NORCECA)Cuba • Estados Unidos (universitário) • Porto Rico • República Dominicana • MéxicoAmérica do Sul (CSV)Argentina • Brasil • Chile • Colômbia • Paraguai • Peru • Uruguai • VenezuelaÁsia (AVC)Austrália • China • Coreia do Sul • Japão • Indonésia • Irã • Ilhas Maldivas • Nova Zelândia • Tailândia • Taiwan • VietnãEuropa (CEV)Albânia • Alemanha • Áustria • Azerbaijão • Bélgica • Bielorrússia • Bósnia e Herzegovina • Bulgária • Chipre • Croácia • Dinamarca • Eslováquia • Eslovênia • Espanha • Estônia • Finlândia • França • Grécia • Hungria • Inglaterra • Israel • Itália • Letônia • Lituânia • Luxemburgo • Macedônia • Montenegro • Noruega • Países Baixos • Polônia • Portugal • República Checa • Romênia • Rússia • Sérvia • Suécia • Suíça • Turquia • UcrâniavdeCampeonatos nacionais de voleibol feminino da primeira divisãoÁfrica (CAVB)Argélia • Egito • Marrocos • TunísiaAmérica do Norte e Central (NORCECA)Porto Rico • República Dominicana • México • Cuba •
+EUA (universitário)América do Sul (CSV)Argentina • Brasil • Chile • Colômbia • Paraguai • Peru • Uruguai • VenezuelaÁsia (AVC)Austrália • China • Coreia do Sul • Japão • Indonésia • Irã • Ilhas Maldivas • Nova Zelândia • Tailândia • Taiwan • VietnãEuropa (CEV)Albânia • Alemanha • Áustria • Azerbaijão • Bélgica • Bielorrússia • Bósnia e Herzegovina • Bulgária • Chipre • Croácia • Dinamarca • Eslováquia • Eslovênia • Espanha • Estônia • Finlândia • França • Grécia • Hungria • Inglaterra • Israel • Itália • Letônia • Lituânia • Luxemburgo • Macedônia • Montenegro • Noruega • Países Baixos • Polônia • Portugal • República Checa • Romênia • Rússia • Sérvia • Suécia • Suíça • Turquia • Ucrânia
+vdeModalidades nos Jogos OlímpicosJogos de verãoAtletismo • Badminton • Basquetebol • Beisebol • Boxe • Canoagem • Caratê • Ciclismo • Escalada esportiva • Esgrima • Futebol • Ginástica • Golfe • Halterofilismo • Handebol •
+Hipismo • Hóquei sobre grama • Judô • Lutas • Natação • Natação artística • Pentatlo moderno • Polo aquático • Remo • Rugby sevens • Saltos ornamentais • Skate • Softbol • Surfe • Taekwondo • Tênis • Tênis de mesa • Tiro • Tiro com arco • Triatlo • Vela • Voleibol • Voleibol de praiaJogos de invernoBiatlo • Bobsleigh • Combinado nórdico • Curling • Esqui alpino • Esqui cross‑country • Esqui estilo livre • Hóquei no gelo • Luge • Patinação artística • Patinação de velocidade • Patinação de velocidade em pista curta • Salto de esqui • Skeleton • SnowboardEsportes passadosCabo de guerra • Críquete • Croquet • Jeu de paume • Lacrosse • Motonáutica • Patrulha militar • Pelota basca • Polo • Raquetes • Roque • Rugby unionEsportes de demonstraçãoBandy • Boliche • Budô • Corfebol • Corrida de cão e trenó • Corrida em cadeira de rodas • Esqui aquático • Esqui de velocidade • Esqui para deficientes • Futebol americano • Futebol australiano • Glíma • Hóquei em patins • Ice stock sport • Planadorismo • Pentatlo de inverno • Pesäpallo • Savate • Skijöring • Voo à velaEsportes não-oficiaisBalonismo • Boules • Columbofilia • Combate a incêndios • Competições artísticas • Cycle polo • Desportos a motor • Futebol gaélico • Hurling • Kaatsen • Longue paume • Motociclismo • Pesca • Salvamento • Tiro de canhão • Voo de pipa • Wushu
+vdeEsportes coletivosEsportes de bola-ao-cesto
+Basquetebol
+Corfebol
+Hoop takraw‎
+Netball
+Slamball
+Streetball
+Esportes de bola-sobre-redeVoleibol
+Biribol
+Bossaball
+Futevôlei
+Peteca
+Punhobol/faustebol
+Sepaktakraw
+Vôlei de praia
+Vôlei de quadra
+Vôlei adaptado
+Vôlei na neve
+Ecuavóley
+Tênis
+Badminton
+Futebol-tênis/futnet
+Tênis
+Esportes de meta
+Autobol
+Golbol
+Tazerball
+Tchoukball
+Ultimate
+(H)andebol
+(H)andebol
+(H)andebol de campo
+(H)andebol de praia/areia
+Futebol
+Australiano
+Calcio Fiorentino
+Cuju
+Gaélico
+Harpasto
+Regras Internacionais
+Kemari
+Código FIFA
+De campo
+De areia
+De pântano
+Soçaite
+Futsal FIFA
+Futsal FIFUSA
+Showbol
+De sete
+De cinco
+De rua
+Em cadeira motorizada
+Freestyle
+Código Rugby
+League
+De praia
+Quad rugby
+Sevens
+Subaquático
+Touch
+Union
+Código gridiron
+Americano
+Americano de arena
+Canadense
+Flag football
+Esportes de precisão
+Bocha
+Bolão
+Boliche
+Curling
+Lawn bowls
+Petanca
+Ice stock sport
+Esportes de Taco
+Camogie
+Gateball
+Hurling
+Basebol
+Softbol
+Pesäpallo
+Críquete
+Bete-ombro
+Twenty20
+Hóquei
+Bandy
+Broomball
+Floorball
+Modalidades
+em campo
+no gelo
+em linha
+em patins
+de rua
+de salão/indoor
+Lacrosse
+Modalidades
+De box
+De campo
+Polo
+Polo aquático
+Horseball
+Pato
+Outros
+Airsoft
+Buzkashi
+Kabaddi
+Kin-Ball
+Paintball
+Queimada/dodgeball
+Roller derby
+Portal dos Esportes
+Lista de esportes
+Eventos esportivos
+vdeComparações entre esportesEsportes coletivos
+Beisebol e críquete
+Beisebol e softbol
+Futebol americano e futebol canadense
+Futebol americano e rugby union
+Futebol australiano e rugby union
+Futebol de salão e futsal
+Rugby union e rugby league
+Rugby union e rugby sevens
+Voleibol de quadra e voleibol de praiaEsportes de luta / artes marciais
+Vale-tudo e MMA
+Controle de autoridade
+: Q1734
+AAT: 300222794
+BNCF: 4896
+BNF: 11941718x
+BRE: 1925922
+EBID: ID
+GEA: 13032
+GEC: 0151136
+GND: 4063900-9
+JSTOR: volleyball
+LCCN: sh85144299
+NARA: 10645068
+NDL: 00560523
+PSH: 9948
+Identificadores
+MeSH: D054798
+Portal do voleibol
+Portal do desporto
+Obtida de https://pt.wikipedia.org/w/index.php?title=Voleibol&oldid=62189338
+Categoria: VoleibolCategorias ocultas: !Artigos que carecem de notas de rodapé desde Dezembro de 2008!Artigos de ciência que carecem de notas de rodapé!Artigos bons na Wikipédia em sânscrito!Artigos destacados na Wikipédia em azeri!Artigos bons na Wikipédia em alemão!Artigos destacados na Wikipédia em búlgaro!CS1 inglês-fontes em língua (en)
+Esta página foi editada pela última vez às 14h46min de 6 de outubro de 2021.
+Este texto é disponibilizado nos termos da licença Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as condições de utilização.
+Política de privacidade
+Sobre a Wikipédia
+Avisos gerais
+Versão móvel
+Programadores
+Estatísticas
+Declaração sobre cookies');
+Document.create!(url: 'https://pt.wikipedia.org/wiki/Basquetebol', title: 'Basquetebol – Wikipédia, a enciclopédia livre', body: 'Basquetebol – Wikipédia, a enciclopédia livre
+Saltar para o conteúdo
+Alternar barra lateral
+Busca
+Links do usuário
+Criar uma conta
+Ferramentas pessoais
+expanded
+collapsed
+Criar uma conta
+Entrar
+Páginas para editores conectados saiba mais
+DiscussãoContribuições
+Navegação
+Página principalConteúdo destacadoEventos atuaisEsplanadaPágina aleatóriaPortaisInformar um erro
+Colaboração
+Boas-vindasAjudaPágina de testesPortal comunitárioMudanças recentesManutençãoCriar páginaPáginas novasContatoDonativos
+Ferramentas
+Páginas afluentesAlterações relacionadasCarregar ficheiroPáginas especiaisHiperligação permanenteInformações da páginaCitar esta páginaElemento Wikidata
+Imprimir/exportar
+Criar um livroDescarregar como PDFVersão para impressão
+Noutros projetos
+Wikimedia Commons
+Espaços nominais
+ArtigoDiscussão
+Variantes
+expanded
+collapsed
+Vistas
+LerEditarEditar código-fonteVer histórico
+Mais
+expanded
+collapsed
+171 idiomas
+expanded
+collapsed
+AfrikaansAlemannischአማርኛAragonésÆngliscالعربيةمصرىAsturianuअवधीAzərbaycancaتۆرکجهБашҡортсаBasa BaliBoarischŽemaitėškaBikol CentralБеларускаяБеларуская (тарашкевіца)БългарскиBanjarবাংলাBrezhonegBosanskiБуряадCatalàMìng-dĕ̤ng-ngṳ̄НохчийнTsetsêhestâheseکوردیČeštinaЧӑвашлаCymraegDanskDeutschThuɔŋjäŋZazakiΕλληνικάEnglishEsperantoEspañolEestiEuskaraEstremeñuفارسیSuomiVõroNa Vosa VakavitiFøroysktFrançaisFurlanFryskGaeilgeGàidhligGalegoAvañeẽગુજરાતી客家語/Hak-kâ-ngîעבריתहिन्दीFiji HindiHrvatskiKreyòl ayisyenMagyarՀայերենԱրեւմտահայերէնInterlinguaBahasa IndonesiaInterlingueIlokanoIdoÍslenskaItaliano日本語PatoisJawaქართულიQaraqalpaqshaKabɩyɛҚазақшаಕನ್ನಡ한국어KurdîКомиКыргызчаLatinaLëtzebuergeschЛаккуЛезгиLingua Franca NovaLigureLingálaລາວLietuviųLatviešuमैथिलीОлык марийMinangkabauМакедонскиമലയാളംМонголमराठीBahasa MelayuMaltiMirandésမြန်မာဘာသာمازِرونیनेपालीनेपाल भाषाNederlandsNorsk nynorskNorsk bokmålSesotho sa LeboaOccitanLivvinkarjalaਪੰਜਾਬੀPangasinanPolskiپنجابیپښتوRuna SimiRumantschRomânăРусскийРусиньскыйIkinyarwandaसंस्कृतम्Саха тылаᱥᱟᱱᱛᱟᱲᱤSarduSicilianuScotsسنڌيSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaGagana SamoaSoomaaligaShqipСрпски / srpskiSvenskaKiswahiliŚlůnskiதமிழ்ತುಳುతెలుగుТоҷикӣไทยTürkmençeTagalogTürkçeТатарча/tatarçaئۇيغۇرچە / UyghurcheУкраїнськаاردوOʻzbekcha/ўзбекчаVènetoVepsän kel’Tiếng ViệtWest-VlamsWalonWinaray吴语მარგალურიייִדישYorùbáVahcuengh中文Bân-lâm-gú粵語
+Editar hiperligações
+Basquetebol
+Origem: Wikipédia, a enciclopédia livre.
+Esta página cita fontes, mas estas não cobrem todo o conteúdo. Ajude a inserir referências. Conteúdo não verificável poderá ser removido.—Encontre fontes: Google (notícias, livros e acadêmico) (Dezembro de 2010)
+Basquetebol
+Federação desportiva mais alta
+FIBA
+Jogado pela primeira vez
+21 de dezembro de 1891; há 129 anos. Springfield, Massachusetts, EUA
+Características
+Contacto
+Limitado
+Membros de equipa
+5 por lado
+Género misto
+Não, competições separadas
+Tipo
+Interno/externo
+Equipamento
+Bola de basquetebol
+Presença
+País ou região
+Todo o mundo
+Olímpico
+Sim, demonstrado nas Olimpíadas de Verão de 1904 e 1924Parte do programa das Olimpíadas de Verão desde 1936
+Paralímpico
+Sim
+O basquetebol ou bola ao cesto é um jogo desportivo coletivo inventado em 1891 pelo professor de Educação Física canadense James Naismit, na Associação Cristã de Rapazes de Springfield, Massachusetts, Estados Unidos.[1] É disputado por duas equipes de 12 jogadores (5 em campo e 7 suplentes) que têm como objetivo passar a bola por dentro de um cesto e evitar que a bola entre no seu cesto colocado nas extremidades da quadra, seja num ginásio ou ao ar livre.
+Os aros que formam os cestos são colocados a uma altura de 3 metros e 5 centímetros. Os jogadores podem caminhar no campo desde que driblem (batam a bola contra o chão) a cada passo dado. Também é possível executar um passe, ou seja, passar a bola em direção a um companheiro de equipe.[1]
+O basquetebol é um desporto olímpico desde os Jogos Olímpicos de Verão de 1936 em Berlim.
+O nome vem do inglês basketball, que significa literalmente bola no cesto.[1] É um dos esportes mais populares do mundo.[2]
+Em Dezembro de 1891, o professor de educação física canadense James Naismit, do Springfield College (então denominada Associação Cristã de Rapazes[3]), em Massachusetts, Estados Unidos, recebeu uma tarefa de seu diretor: criar um desporto que os alunos pudessem praticar em um local fechado, pois o inverno costumava ser muito rigoroso, o que impedia a prática do Beisebol e do Futebol Americano.
+James Naismith logo descartou um jogo que utilizasse os pés ou com muito contato físico, pois poderiam se tornar muito violentos devido às características de um ginásio, local fechado e com piso de madeira.
+Logo escreveu as treze regras básicas do jogo e pendurou um cesto de pêssegos a uma altura que julgou adequada: 10 pés, equivalente a 3,05 metros, altura que se mantém até hoje; já a quadra possuía, aproximadamente, metade do tamanho da atual.[4][5]
+Em contrastes com as redes de basquete moderno, em cesta de pêssegos manteve a sua parte inferior, e as bolas tinham que ser retiradas manualmente após cada cesto ou ponto marcado, o que provou ser ineficaz. Dessa forma, um buraco foi perfurado no fundo da cesta, permitindo que as bolas fossem retiradas a cada vez com uma longa vara. Os cestos de pêssegos foram utilizados até 1906, quando foram finalmente substituídos por aros de metal com tabela.
+Uma outra alteração foi feita logo cedo, de forma que a bola apenas passasse pela cesta, abrindo caminho para o jogo que conhecemos hoje. Uma bola de futebol foi usada para acertar as cestas. Sempre que uma pessoa arremessava uma bola na cesta, a sua equipe ganharia um ponto. A equipe com o maior número de pontos ganhava o jogo.[4] As cestas foram originalmente pregadas ao balcão do mezanino da quadra de jogo, mas isto se provou impraticável quando os espectadores no balcão começaram a interferir nos arremessos. A tabela foi introduzida para evitar essa interferência, que teve o efeito adicional de permitir rebotes.[6] Esse desporto chama-se basquetebol.[7]
+Índice
+1 História
+1.1 O primeiro jogo
+1.2 História do basquetebol no Brasil
+1.3 História do basquetebol em Portugal
+2 Características
+3 Objetivo do jogo
+4 Posições
+5 Regulamento (FIBA)
+6 Fundamentos
+6.1 Empunhadura geral
+6.2 Manejo de corpo
+6.3 Finta
+6.4 Giros ou rotações
+6.5 Paragens
+6.6 Corridas
+7 Drible
+7.1 Regras de Drible
+8 Passe
+8.1 Passe com uma mão
+8.2 Passe de peito
+8.3 Passe picado ou quicado
+8.4 Passe de ombro (ou de basebol)
+8.5 Passe por cima da cabeça
+8.6 Utilização dos passes
+8.6.1 Passes de peito e picado ou quicado
+8.6.2 Passe por cima da cabeça
+8.6.3 Passe de ombro
+9 Arremesso / Lançamento na Passada
+9.1 Bandeja
+9.2 Com uma das mãos
+9.3 Jump
+10 Rebote
+11 Assistência
+12 Enterradas / Afundanço
+13 Ponte-aérea
+14 Toco / Bafo
+15 Entrosamento de equipe
+16 Expressões utilizadas
+16.1 Duplo-Duplo
+16.2 Triplo-Duplo
+16.3 Cinco por cinco
+17 Recordes e Curiosidades
+18 Ver também
+19 Referências
+20 Ligações externas
+História[editar | editar código-fonte]
+James Naismith, o inventor do basquetebol.
+Primeira quadra de basquetebol no Springfield College, em Massachusetts, Estados Unidos.
+O primeiro jogo[editar | editar código-fonte]
+O primeiro jogo de Basquetebol foi disputado em 20 de Janeiro de 1892, com nove jogadores em cada equipe e utilizando-se uma bola de futebol, sendo visto apenas por funcionários da Associação Cristã de Moços.[8] Cerca de duzentas pessoas viram o jogo, que terminou com o placar de 1 a 0, sendo a cesta feita de uma distância de 7,6 metros. Equipes de cinco pessoas passaram a ser o padrão por volta de 1897-1898.
+O basquete feminino iniciou em 1892 quando a professora de educação física do Smith College, Senda Berenson, adaptou as regras criadas por James Naismith.[9] A primeira partida aconteceu em 4 de Abril de 1896. A Universidade de Stanford venceu a Universidade da Califórnia.[9]
+História do basquetebol no Brasil[editar | editar código-fonte]
+Ver artigo principal: Basquete do Brasil
+A prática do basquetebol no Brasil começou quando o norte-americano Augusto Louis introduziu o desporto na Associação Atlética Mackenzie College de São Paulo, em 1896.
+No Rio de Janeiro, teriam acontecido, em 1912, os primeiros jogos de basquete, na rua da Quitanda, com o América Football Club tendo sido o primeiro clube carioca a introduzir o desporto nesta cidade, incentivado por Henry J. Sims, diretor da Associação Cristã de Moços.
+História do basquetebol em Portugal[editar | editar código-fonte]
+Ver artigo principal: Basquetebol em Portugal
+A introdução do basquetebol em Portugal deu-se em 1913, pelo professor de Educação Física suíço Rodolfo Horney, que exerceu a sua actividade em Lisboa durante 12 anos.[10]
+A primeira prova inter-regional realizou-se em 1922, entre Lisboa, Porto e Coimbra, sendo esta última a vencedora. Cinco anos mais tarde, a 17 de Agosto de 1927 foi fundada a Federação Portuguesa de Basquetebol (FPB), na cidade do Porto. Já o primeiro Campeonato Português de Basquetebol foi disputado em 1932/1933, saindo vencedor o Sport Clube Conimbricense.[11]
+A 18 de Junho de 1932 é fundada a Federação Internacional de Basquetebol, sendo Portugal um dos oito países fundadores.[11]
+O primeiro encontro de basquetebol feminino ocorre em 1934. Nesse mesmo ano a FPB passa a sua sede para Lisboa, por intervenção da Confederação Portuguesa de Desportos.
+Hoje em dia, o basquetebol é o segundo desporto que mais praticantes tem em Portugal, conta com 25 550 atletas federados.[12]
+Características[editar | editar código-fonte]
+Partida entre Chicago Bulls e New York Knicks no United Center em Chicago válida pela NBA 2007-08.
+Uma bola de basquetebol.
+Cesto é o nome comum que se dá ao encestar (fazer a bola passar pelo aro) e então marcam-se pontos, dependendo do local e das circunstâncias do cesto: se for cesto dentro do garrafão (nome comum dado à Área Restritiva) obtém-se dois pontos, se for fora da linha dos 6,25 metros obtém-se 3 pontos, se for lance livre após uma falta, o cesto equivale a 1 ponto. As equipes devem fazer pontos sempre do lado oposto - é o meia-quadra de ataque - e defender o cesto do seu lado - na meia-quadra de defesa. Obviamente a equipa que defende tenta impedir a equipa que ataca de fazer cesto, através da marcação, da interceptação de passes ou até mesmo do bloqueio (toco) ao lançamento.
+Os jogadores penduram-se no aro com a bola para fazer espetáculo (Encaixada). No entanto, contatos físicos mais fortes são punidos como falta. Se o jogador fizer cinco faltas terá que ser substituído e não poderá voltar ao jogo. A partir da quarta falta coletiva de uma equipa , a equipa adversária tem o direito a lances livres toda a vez que sofrer falta. As faltas efetuam-se da seguinte maneira: se um jogador faz falta ao atacante e este encesta, os 2 pontos contam-se e esse jogador tem direito a 1 lance livre (se não acertar os outros jogadores irão tentar apanhar a bola - rebote). Se a falta for cometida e o atacante não conseguir encestar terá direito a 2 ou 3 lances livres, dependendo do local onde foi cometida a falta.
+Atualmente o basquete internacional encontra-se organizado pela FIBA - Federação Internacional de Basquetebol. As suas determinações valem para todos os países onde o basquete é jogado, exceto para a liga profissional de basquete dos EUA, a NBA, que mantém regras próprias, um pouco diferentes das regras internacionais. A expectativa é que as duas entidades aproximem cada vez mais os seus regulamentos.
+Jogador com a posse da bola.
+Para jogos regulamentados pela FIBA, o tempo de jogo oficial é de 40 minutos, divididos em quatro períodos iguais de 10 minutos cada. Entre o 2º e 3º períodos, há intervalo de 15 minutos, e invertem-se as quadras de ataque e defesa das equipas; logo, cada equipa defende em dois períodos cada cesto. Ao contrário dos outros desportos coletivos, não há sorteio para definir-se de quem é a posse de bola no começo do jogo: a bola é lançada ao ar por um árbitro, e um jogador de cada equipa (normalmente o mais alto) posiciona-se para saltar e tentar passar a bola a um companheiro.
+Não é permitido sair dos limites da quadra, e nos jogos oficiais também não é permitido que o jogador leve a bola para a quadra de ataque e retorne para a quadra de defesa (retorno). Além disso há também uma limitação de tempo (24 segundos) para executar uma jogada, e a proibição de que o atleta salte e retorne ao chão (com os 2 pés ao mesmo tempo) com a posse de bola, sem executar lançamento ou passe. As faltas são cobradas da lateral de quadra, assim como as demais violações; no entanto, caso uma equipa cometa mais de 4 faltas num período, as faltas do adversário passam a ser cobrados na forma de lance livre: o jogador posiciona-se numa linha a 4,60 metros do cesto e lança sem a marcação dos rivais. O lance livre também é cobrado quando um jogador sofre falta no momento em que está tentando encestar - independentemente do número total de faltas da equipa adversário.
+Além da NBA, que é considerada uma liga muito emocionante e espectacular, o principal torneio de clubes de basquete é a Euroliga. Se, por um lado a NBA conta com os jogadores de maior poder defensivo e de força, a Euroliga conta com jogadores mais cerebrais e técnicos. Já entre as seleções, os torneio mais importantes são o Mundial da FIBA e os Jogos Olímpicos.
+O basquetebol em cadeira de rodas é uma modalidade bastante conhecida entre os desportos para pessoas com necessidades especiais.
+O Mini Basquetebol é a forma de disputa do desporto para crianças com menos de 12 anos. Foi desenvolvido como uma forma divertida de se descobrir o basquete. Algumas regras são diferentes do basquetebol tradicional. A altura da cesta (do aro até o solo) é de 3,05 m. O tempo de jogo recomendado pela FIBA é de 2 períodos de 20 minutos, no entanto, alguns Estados criam adaptações a esta regra visando um maior desenvolvimento do jogo.
+Objetivo do jogo[editar | editar código-fonte]
+Uma tabela de basquete.
+O objetivo do jogo é introduzir a bola no cesto da equipe adversária (marcando pontos) e, simultaneamente, evitar que esta seja introduzida no próprio cesto, respeitando as regras do jogo. A equipe que obtiver mais pontos no fim do jogo vence.
+A competição é dirigida por:
+Três árbitros – têm como função assegurarem o cumprimento das regras do jogo;
+Um marcador e o seu auxiliar – têm como funções o preenchimento do boletim de jogo, onde registram os pontos marcados, as faltas pessoais e técnicas, etc.;
+O cronometrista – verifica o tempo de jogo e os descontos de tempo;
+Um operador de vinte e quatro segundos – controla os 24 segundos que cada equipe dispõe para a execução de uma jogada.
+Posições[editar | editar código-fonte]
+São usadas, geralmente, no basquete, três posições: alas, pivôs e armador. Na maioria das equipes temos dois alas, dois pivôs e um armador.[13]
+Armador ou base é como o cérebro dos jogadores. Planeja as jogadas e geralmente começa com a bola. Em inglês essa posição é conhecida como point guard ou simplesmente PG.
+Ala e ala/armador ou extremos jogam pelos cantos. A função do ala muda bastante. Ele pode ajudar o base, ou fazer muitas cestas. Em inglês essas posições são conhecidas como small forward ou simplesmente SF e shooting guard ou simplesmente SG.
+Ala/pivô e Pivô ou postes são, na maioria das vezes, os mais altos e mais fortes. Com a sua altura, pegam muitos rebotes, fazem muitos afundaços (enterradas) e bandejas, e na defesa ajudam muito com os tocos. Em inglês essas posições são conhecidas como power forward ou simplesmente PF e center ou simplesmente C.
+Regulamento (FIBA)[editar | editar código-fonte]
+Diagrama das dimensões de uma quadra oficial.
+Diagrama das dimensões de uma tabela oficial.
+Equipe - Existem duas equipes que são compostas por 5 jogadores cada (em jogo), mais 7 reservas.
+Início do jogo – O Jogo começa com o lançamento da bola ao ar, pelo árbitro, entre dois jogadores adversários no círculo central e esta só pode ser tocada quando atingir o ponto mais alto. A equipe que não ganhou a posse de bola fica com a seta a seu favor.
+Duração do jogo – Quatro períodos de 10 minutos de tempo útil cada (Na NBA, são 12 minutos), com um intervalo de meio tempo entre o segundo e o terceiro período com uma duração de 15 minutos, e com intervalos de dois minutos entre o primeiro e o segundo período e entre o terceiro e o quarto período. O cronómetro só avança quando a bola se encontra em jogo, isto é, sempre que o árbitro interrompe o jogo, o tempo é parado de imediato.
+Reposição da bola em jogo - Depois da marcação de uma falta, o jogo recomeça por um lançamento fora das linhas laterais, excepto no caso de lances livres. Após a marcação de ponto, o jogo prossegue com um passe realizado atrás da linha do campo da equipe que defende. Não é permitido pular segurando com as bolas nas mãos e cair com ela ainda em posse. No entanto, caso um defensor bata na bola durante o ato do pulo, a posse reinicia, não sendo necessário soltar a bola. Nesse caso, se contabiliza rebote do jogador de ataque.
+Como jogar a bola - A bola é sempre jogada com as mãos. Não é permitido andar com a bola nas mãos ou provocar o contato da bola com os pés ou pernas. Também não é permitido driblar com as duas mãos ao mesmo tempo.
+Pontuação - Um cesto é válido quando a bola entra pelo aro, por cima. Um cesto de campo vale 2 pontos, a não ser que tenha sido conseguido para além da linha dos 3 pontos, situada a 6,25 m (valendo, portanto, 3 pontos); um cesto de lance livre vale 1 ponto.
+Empate – Os jogos não podem terminar empatados. O desempate processa-se através de períodos suplementares de 5 minutos. Exceptuando torneios cujo regulamento obrigue a mais que uma mão, todos os clubes de possíveis torneios devem concordar previamente com o regulamento. Assim como jogos particulares, após o término do tempo regulamentar se ambas as equipes concordarem podem dar a partida por terminada.
+Resultado – O jogo é ganho pela equipe que marcar maior número de pontos no tempo regulamentar.
+Lançamento livre – Na execução, os vários jogadores, ocupam os respectivos espaços ao longo da linha de marcação, não podem deixar os seus lugares até que a bola saia das mãos do lançador do lance livre (A6); não podem tocar a bola na sua trajectória para o cesto, até que esta toque no aro.
+Penalizações de faltas pessoais – Se a falta for cometida sobre um jogador que não está em acto de lançamento, a falta será cobrada por forma de uma reposição de bola lateral, desde que a equipa(e) não tenha cometido mais do que 4 (quatro) faltas coletivas durante o período, caso contrário é concedido ao jogador que sofreu a falta o direito a dois lances livres. Se a falta for cometida sobre um jogador no acto de lançamento, o cesto conta e deve, ainda, ser concedido um lance livre. No caso do lançamento não tiver resultado cesto, o lançador irá executar o(s) lance(s) livres correspondentes às penalidades (2 ou 3 lances livres, conforme se trate de uma tentativa de lançamento de 2 ou 3 pontos).
+Regra dos 5 segundos - Um jogador que está sendo marcado não pode ter a bola em sua posse (sem driblar) por mais de 5 segundos.
+Regra dos 3 segundos - Um jogador não pode permanecer mais de 3 segundos dentro da área restritiva do adversário, enquanto a sua equipe esteja na posse da bola.
+Regra dos 8 segundos - Quando uma equipe ganha a posse da bola na sua zona de defesa, deve, dentro de 8 segundos, fazer com que a bola chegue à zona de ataque.
+Regra dos 24 segundos - Quando uma equipe está de posse da bola, dispõe de 24 segundos para a lançar ao cesto do adversário.
+Bola presa – Considera-se bola presa quando dois ou mais jogadores (um de cada equipa pelo menos) tiverem uma ou ambas as mãos sobre a bola, ficando esta presa. A posse de bola será da equipe que tiver a seta a seu favor.
+Transição de campo – Um jogador cuja equipe está na posse de bola, na sua zona de ataque, não pode provocar a ida da bola para a sua zona de defesa (retorno).
+Dribles - Quando se dribla pode-se executar o n.º de passos que pretender. O jogador não pode bater a bola com as duas mãos simultaneamente, nem efectuar dois dribles consecutivos (jogar a bola, agarrá-la com as duas mãos e voltar a batê-la).
+Passos – O jogador não pode executar mais de dois passos com a bola nas mãos.
+Faltas pessoais – É uma falta que envolve contacto com o adversário, e que consiste nos seguintes parâmetros: Obstrução, Carregar, Marcar pela retaguarda, Deter, Segurar, Uso ilegal das mãos, Empurrar.
+Falta antidesportiva – Falta pessoal que, no entender do árbitro, foi cometida intencionalmente, com objectivo de prejudicar a equipa adversária.
+Falta técnica – Falta cometida por um jogador sem envolver contacto pessoal com o adversário, como, por exemplo, contestação das decisões do árbitro, usando gestos, atitudes ou vocabulário ofensivo, ou mesmo quando não levantar imediatamente o braço quando solicitado pelo árbitro, após lhe ser assinalada uma falta.
+Falta da equipe – Se uma equipa cometer um total de quatro faltas, para todas as outras faltas pessoais sofrerá a penalização de dois lançamentos livres.
+Número de faltas – Um jogador que cometer cinco faltas está desqualificado da partida.
+Altura do aro - A altura do aro até o solo é de 3,05 metros.
+Fundamentos[editar | editar código-fonte]
+Empunhadura geral[editar | editar código-fonte]
+É feita com os dedos e a parte calosa das mãos, polegares um de frente para o outro nas laterais da bola. Não é correto segurar a bola com as palmas da mão.[14]
+Manejo de corpo[editar | editar código-fonte]
+São movimentos corporais utilizado no basquete que visam facilitar a aprendizagem dos fundamentos com a bola. Esses movimentos incluem: finta, giro, mudança de direção, mudança de ritmo e parada brusca.[14]
+Finta[editar | editar código-fonte]
+Pela frente, por trás, reversão, por baixo das pernas e em passe livre.[14]
+Giros ou rotações[editar | editar código-fonte]
+Para frente e para trás.[14]
+Falando sobre tempo:
+No 1º, 2º e 3º período pode 1 tempo de 1 min. no 4º período, 2 tempos de 1 min.
+Os intervalos entre cada período são de 2 minutos, mas entre o 2º e 3º há um intervalo de 15 minutos. Não é permitido ficar dentro do garrafão por mais de 3 segundos com ou sem posse de bola. Não é permitido ficar (com a bola) mais de 8 segundos na zona (lado da quadra) de defesa. Há 24 segundos para arremessar a bola (zona de ataque). Quando há um marcador a menos de 1 m de distância do atacante, o mesmo, não pode segurar a bola por mais de 5 segundos.
+Paragens[editar | editar código-fonte]
+A um tempo e a dois tempos. Podendo ser chamado de jump, uma jogada ao qual o atleta da um tempo no ar para executar um arremesso.
+Corridas[editar | editar código-fonte]
+De frente, lateral, de costas, zigue-zague e perseguições.
+Drible[editar | editar código-fonte]
+Drible de progressão – Utilizado fundamentalmente para sair de uma zona congestionada e avançar no terreno sem encostar no corpo do adversário.
+Drible de protecção - Serve fundamentalmente para abrir linhas de passe e para garantir a posse de bola. É um tipo de drible, que face a uma maior proximidade de defesa, o jogador tem de dar maior atenção à protecção da bola. Roubar a bola do adversário é considerado um drible de proteção.
+Drible pedalada - Pique a bola no chão e faça o movimento da pedalada do basquetebol por cima da bola.
+Regras de Drible[editar | editar código-fonte]
+Um jogador não poderá tirar o pé-de-pivô do chão para iniciar uma progressão sem antes executar um drible. Um jogador poderá tirar o pé-de-pivô do chão para executar um passe ou um arremesso, mas a bola deverá deixar sua mão antes que o pé retorne ao solo.
+O pé-de-pivô é determinado da seguinte forma:
+Jogador recebe a bola com um dos pés no chão: Aquele pé é o pé-de-pivô;
+Jogador recebe a bola com os dois pés no chão: Quando retirar um dos pés, o outro será considerado pé-de-pivô;
+Jogador recebe a bola no ar e um dos pés toca o solo antes do outro: o pé que primeiro toca o solo é o pé-de-pivô;
+Jogador recebe a bola no ar e cai com os dois pés ao mesmo tempo: Quando retirar um dos pés, o outro será considerado pé-de-pivô.
+Um jogador que esteja driblando ou receba um passe durante uma progressão (ou seja, correndo), pode executar dois tempos rítmicos e, a seguir, arremessar ou passar a bola; isso não significa necessariamente dois passos (como é mais comumente executado), pois o jogador pode, por exemplo, executar dois saltos consecutivos; desde que mantenha o mesmo ritmo.
+Mas o esquema dos passos não é a única restrição. Você também não pode: driblar a bola, pegá-la com as mãos e driblá-la novamente; Não pode driblar a bola com ambas as mãos; Não pode apoiar a bola por baixo, ou seja, conduzir a bola levando a mão sob a bola. Todos estes aspectos são considerados drible ilegal e tem a mesma penalidade da caminhada.
+Passe[editar | editar código-fonte]
+O passe tem como objetivo a colocação da bola num companheiro que se encontre em melhor posição, para a criação de situações de finalização ou para a progressão no terreno de jogo. Existem vários tipos de passe: peito, picado, por cima com 2 mãos, lateral com 1 mão, por trás das costas, etc.
+Passe com uma mão[editar | editar código-fonte]
+Usado para lançar a bola mais longe.
+Técnicas determinantes:
+jogue a bola com uma mão.
+Passe de peito[editar | editar código-fonte]
+Como o nome indica, com a bola à altura do peito é arremessada frontalmente na direcção do alvo. Neste movimento os polegares é que darão força ao passe e as palmas das mãos deverão apontar para fora no final do gesto técnico.
+Técnicas determinantes:
+Colocar os cotovelos junto ao corpo;
+Avançar um dos apoios;
+Executar um movimento de repulsão com os braços;
+Executar a rotação dos pulsos;
+Após a execução do passe, deve-se ficar com as palmas das mãos viradas para fora e os polegares a apontar para dentro e para baixo.
+Passe picado ou quicado[editar | editar código-fonte]
+Muito semelhante ao passe de peito, tendo em conta que o alvo inicial é o solo; O ressalto da bola terá um objetivo comum ao do passe de peito, isto é, a mão alvo do colega ou as zonas próximas do peito.
+Técnicas determinantes:
+Colocar os cotovelos junto ao corpo;
+Avançar um dos apoios;
+Executar um movimento de repulsão com os braços.
+Passe de ombro (ou de basebol)[editar | editar código-fonte]
+É utilizado nas situações que solicitam um passe comprido. A bola é lançada como no lançamento de uma bola no baseball (daí o nome). É um tipo de passe com uma trajectória linear (sem arco), e em direcção ao alvo.
+Técnicas determinantes:
+Segurar a bola com as duas mãos e por cima do ombro;
+Colocar o cotovelo numa posição levantada;
+Avançar o corpo e a perna do lado da bola;
+Fazer a extensão do braço e finalizar o passe para as distancias maiores.
+Passe por cima da cabeça[editar | editar código-fonte]
+É usado quando existe um adversário entre dois jogadores da mesma equipe.
+Técnicas determinantes:
+Elevar os braços acima da cabeça;
+Avançar um dos apoios;
+Executar o passe com o movimento dos pulsos e dos dedos.
+Utilização dos passes[editar | editar código-fonte]
+Passes de peito e picado ou quicado[editar | editar código-fonte]
+Utilizado em curtas e médias distâncias.
+Passe por cima da cabeça[editar | editar código-fonte]
+Também utilizado em curtas e médias distâncias, sendo mais específicos para o pivô.
+Passe de ombro[editar | editar código-fonte]
+Utilizado em médias e longas
+distâncias, sendo muito utilizados em contra ataques.
+Arremesso / Lançamento na Passada[editar | editar código-fonte]
+Driblar e jogar a bola na cesta.
+Bandeja[editar | editar código-fonte]
+É um arremesso que tem que dar dois passos: o primeiro de equilíbrio e o segundo de distância. Que pode ser feito em movimento com passe ou driblando.
+Com uma das mãos[editar | editar código-fonte]
+Partindo da posição fundamental, com o peso do corpo na perna da frente, a bola na altura do peito, o jogador flexionará as pernas simultaneamente a elevação da bola acima da cabeça.
+Jump[editar | editar código-fonte]
+Driblando em direção a cesta e parando numa posição de equilíbrio, flexionando as pernas, saltar elevando a bola acima e à frente da cabeça com ambas as mãos e executar o arremesso no momento mais alto do pulo.
+Rebote[editar | editar código-fonte]
+É a recuperação da bola após um arremesso não convertido.
+Assistência[editar | editar código-fonte]
+Assistência é um passe certeiro que encontra outro companheiro de equipe, e acaba convertido em cesto. O jogador que faz a assistência é tão importante como o jogador que marca o cesto
+Enterradas / Afundanço[editar | editar código-fonte]
+Enterrada ou afundaço no basquetebol.
+É movimento que conjuga o salto e a colocação com firmeza da bola diretamente na cesta. O termo utilizado na NBA é Dunk que descreve a mesma situação e que é executado de uma forma habilidosa, este movimento é executado normalmente quando o jogador que o executa está isolado.
+Ponte-aérea[editar | editar código-fonte]
+É quando um jogador lança a bola diretamente a um de seus parceiros, que pula recebe a bola e finaliza a jogada arremessando a bola antes de tocar o chão. Também pode ser feita com um jogador arremessando a bola na tabela com outro jogador pegando o rebote e finalizando a jogada imediatamente em seguida com arremesso ou enterrada. Esta jogada é conhecida como alley-oop na NBA.
+Toco / Bafo[editar | editar código-fonte]
+É um bloqueio brusco ao movimento da bola que foi ou está sendo arremessada a cesta por um adversário.
+Entrosamento de equipe[editar | editar código-fonte]
+Passar a bola de mão-em-mão até chegar alguém que possa fazer a cesta com tranqüilidade. Isso é trabalho de equipe.
+Expressões utilizadas[editar | editar código-fonte]
+Arremesso para três pontos de Sara Giauro.
+Duplo-Duplo[editar | editar código-fonte]
+O desempenho de um jogador numa partida de basquetebol é avaliado segundo vários requisitos: números de pontos marcados, assistências efetuadas, ressaltos, bloqueios de lançamento, e roubos de bola. Assim, um jogador obtém um duplo-duplo quando consegue 10 ou mais, em dois desses requisitos. Daí o nome de duplo, devido aos dois dígitos.
+Triplo-Duplo[editar | editar código-fonte]
+O jogador obtém um triplo-duplo quando conseguir 10, ou mais, em três requisitos.
+Cinco por cinco[editar | editar código-fonte]
+Ver artigo principal: 5x5 (basquetebol)
+Recordes e Curiosidades[editar | editar código-fonte]
+No dia 05 de Fevereiro de 1974,[15] um garoto sueco chamado Mats Wermelin, então com apenas 13 anos, entraria para a história do basquete. É que ele marcou incríveis 272 pontos em uma só partida,[16] de um torneio escolar em Estocolmo.[17] Um recorde, reconhecido pelo Guinness Book como a mais alta pontuação atingida por uma pessoa numa partida de basquete.[18] Já numa partida profissional, o recorde pertence ao turco Erman Kunter, com 153 pontos. Esta marca foi atingida 1988 pela Liga Turca de Basquetebol.[19][20]
+A pontuação mais alta obtida num jogo de basquetebol foi de 370 pontos, num jogo realizado a 13 de Dezembro de 1983 entre os Denver Nuggets e os Detroit Pistons. O jogo obrigou a três tempos extras e terminou com vitória da equipa de Detroit por 186 a 184.[21]
+Ver também[editar | editar código-fonte]
+FIBA
+NBA
+CBB
+NBB
+Campeonato Mundial de Basquetebol
+Basquetebol nos Jogos Olímpicos
+Basquetebol 3x3
+Esporte nos Estados Unidos
+Referências
+↑ a b c «Basquete». www.brasilescola.com. Consultado em 28 de junho de 2009
+↑ «They think its all over». The Guardian. 6 de dezembro de 2008. Consultado em 24 de dezembro de 2008
+↑ «Hoop Hall History Page»
+↑ a b «James Naismith Biography». 14 de fevereiro de 2007. Consultado em 14 de fevereiro de 2007
+↑ Thinkquest, Basketball. Accessed 2009.01.20.
+↑ Thinkquest, Basketball. Acessado em 2009/01/20.
+↑ «Newly found documents shed light on basketballs birth». ESPN.com. Associated Press. 13 de novembro de 2006. Consultado em 11 de janeiro de 2007
+↑ «Pioneers in Physical Education». pp. 661–662. Consultado em 3 de junho de 2009
+↑ a b «Senda Berenson Papers». Consultado em 3 de junho de 2009
+↑ Planeta Basket. «Coisas da História do Basquetebol Português». 14 de julho de 2008. Consultado em 29 de dezembro de 2010
+↑ a b Planeta Basket. «1ºs Campeões Nacionais - 1932/33». 14 de dezembro de 2008. Consultado em 29 de dezembro de 2010
+↑ Público. «Portugal ainda é quase só um país de futebol». 29 de dezembro de 2010. Consultado em 29 de dezembro de 2010
+↑ «Posições». www.geocities.com. Consultado em 28 de junho de 2009
+↑ a b c d «PRINCIPAIS FUNDAMENTOS DO BASQUETE». www.solbrilhando.com.br. Consultado em 28 de junho de 2009
+↑ history.adpsp.ru Mats Wermelin, Sweden, scores all points in 272-0 basketball win Acessado em 11/04/2012.
+↑ gaz.com.br Recorde de pontos numa partida. Acessado em 11/04/2012.
+↑ portaldoms.com.br Recorde de pontos numa partida. Acessado em 11/04/2012.
+↑ record.xl.pt Guinness Book: Recorde de pontos numa partida. Acessado em 11/04/2012.
+↑ (em turco) Ermans record cant break
+↑ (em inglês) Hilalspor vs. Fenerbahce (12.03.1988) Game Detail
+↑ Como Tudo Funciona
+Ligações externas[editar | editar código-fonte]
+O Commons possui imagens e outros ficheiros sobre
+Basquetebol
+«Federação Internacional de Basquetebol» (em inglês)
+«Confederação Brasileira de Basketball»
+«Federação Portuguesa de Basquetebol»
+vdeModalidades nos Jogos OlímpicosJogos de verãoAtletismo • Badminton • Basquetebol • Beisebol • Boxe • Canoagem • Caratê • Ciclismo • Escalada esportiva • Esgrima • Futebol • Ginástica • Golfe • Halterofilismo • Handebol •
+Hipismo • Hóquei sobre grama • Judô • Lutas • Natação • Natação artística • Pentatlo moderno • Polo aquático • Remo • Rugby sevens • Saltos ornamentais • Skate • Softbol • Surfe • Taekwondo • Tênis • Tênis de mesa • Tiro • Tiro com arco • Triatlo • Vela • Voleibol • Voleibol de praiaJogos de invernoBiatlo • Bobsleigh • Combinado nórdico • Curling • Esqui alpino • Esqui cross‑country • Esqui estilo livre • Hóquei no gelo • Luge • Patinação artística • Patinação de velocidade • Patinação de velocidade em pista curta • Salto de esqui • Skeleton • SnowboardEsportes passadosCabo de guerra • Críquete • Croquet • Jeu de paume • Lacrosse • Motonáutica • Patrulha militar • Pelota basca • Polo • Raquetes • Roque • Rugby unionEsportes de demonstraçãoBandy • Boliche • Budô • Corfebol • Corrida de cão e trenó • Corrida em cadeira de rodas • Esqui aquático • Esqui de velocidade • Esqui para deficientes • Futebol americano • Futebol australiano • Glíma • Hóquei em patins • Ice stock sport • Planadorismo • Pentatlo de inverno • Pesäpallo • Savate • Skijöring • Voo à velaEsportes não-oficiaisBalonismo • Boules • Columbofilia • Combate a incêndios • Competições artísticas • Cycle polo • Desportos a motor • Futebol gaélico • Hurling • Kaatsen • Longue paume • Motociclismo • Pesca • Salvamento • Tiro de canhão • Voo de pipa • Wushu
+vdeEsportes coletivosEsportes de bola-ao-cesto
+Basquetebol
+Corfebol
+Hoop takraw‎
+Netball
+Slamball
+Streetball
+Esportes de bola-sobre-redeVoleibol
+Biribol
+Bossaball
+Futevôlei
+Peteca
+Punhobol/faustebol
+Sepaktakraw
+Vôlei de praia
+Vôlei de quadra
+Vôlei adaptado
+Vôlei na neve
+Ecuavóley
+Tênis
+Badminton
+Futebol-tênis/futnet
+Tênis
+Esportes de meta
+Autobol
+Golbol
+Tazerball
+Tchoukball
+Ultimate
+(H)andebol
+(H)andebol
+(H)andebol de campo
+(H)andebol de praia/areia
+Futebol
+Australiano
+Calcio Fiorentino
+Cuju
+Gaélico
+Harpasto
+Regras Internacionais
+Kemari
+Código FIFA
+De campo
+De areia
+De pântano
+Soçaite
+Futsal FIFA
+Futsal FIFUSA
+Showbol
+De sete
+De cinco
+De rua
+Em cadeira motorizada
+Freestyle
+Código Rugby
+League
+De praia
+Quad rugby
+Sevens
+Subaquático
+Touch
+Union
+Código gridiron
+Americano
+Americano de arena
+Canadense
+Flag football
+Esportes de precisão
+Bocha
+Bolão
+Boliche
+Curling
+Lawn bowls
+Petanca
+Ice stock sport
+Esportes de Taco
+Camogie
+Gateball
+Hurling
+Basebol
+Softbol
+Pesäpallo
+Críquete
+Bete-ombro
+Twenty20
+Hóquei
+Bandy
+Broomball
+Floorball
+Modalidades
+em campo
+no gelo
+em linha
+em patins
+de rua
+de salão/indoor
+Lacrosse
+Modalidades
+De box
+De campo
+Polo
+Polo aquático
+Horseball
+Pato
+Outros
+Airsoft
+Buzkashi
+Kabaddi
+Kin-Ball
+Paintball
+Queimada/dodgeball
+Roller derby
+Portal dos Esportes
+Lista de esportes
+Eventos esportivos
+vdeBasquetebol Internacional Feminino
+FIBA
+Olimpíadas
+Campeonato Mundial
+Ranking Mundial
+Campeonato Mundial Sub-21
+Campeonato Mundial Sub-19
+Campeonato Mundial Sub-17
+Jogos da Commonwealth
+Times
+África
+FIBA África
+Afrobasket feminino
+Américas
+FIBA Américas
+Copa América
+Ásia
+FIBA Ásia
+Campeonato Asiático
+Europa
+FIBA Europa
+EuroBasket Feminino
+Oceania
+FIBA Oceania
+Campeonato da Oceania
+Portal do basquetebol
+Obtida de https://pt.wikipedia.org/w/index.php?title=Basquetebol&oldid=62151690
+Categorias: BasquetebolDesportos olímpicosDesportos coletivosCategorias ocultas: !Artigos que carecem de notas de rodapé desde dezembro de 2010!Artigos que carecem de notas de rodapé sem indicação de tema!Artigos destacados na Wikipédia em macedônio!Artigos bons na Wikipédia em islandês!Artigos destacados na Wikipédia em croata!Artigos bons na Wikipédia em alemão!Artigos bons na Wikipédia em francês!Artigos destacados na Wikipédia em bósnio!Artigos destacados na Wikipédia em flamengo ocidental!CS1 inglês-fontes em língua (en)
+Esta página foi editada pela última vez às 19h51min de 30 de setembro de 2021.
+Este texto é disponibilizado nos termos da licença Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as condições de utilização.
+Política de privacidade
+Sobre a Wikipédia
+Avisos gerais
+Versão móvel
+Programadores
+Estatísticas
+Declaração sobre cookies');
+Document.create!(url: 'https://pt.wikipedia.org/wiki/Voleibol_de_praia', title: 'Voleibol de praia – Wikipédia, a enciclopédia livre', body: 'Voleibol de praia – Wikipédia, a enciclopédia livre
+Saltar para o conteúdo
+Alternar barra lateral
+Busca
+Links do usuário
+Criar uma conta
+Ferramentas pessoais
+expanded
+collapsed
+Criar uma conta
+Entrar
+Páginas para editores conectados saiba mais
+DiscussãoContribuições
+Navegação
+Página principalConteúdo destacadoEventos atuaisEsplanadaPágina aleatóriaPortaisInformar um erro
+Colaboração
+Boas-vindasAjudaPágina de testesPortal comunitárioMudanças recentesManutençãoCriar páginaPáginas novasContatoDonativos
+Ferramentas
+Páginas afluentesAlterações relacionadasCarregar ficheiroPáginas especiaisHiperligação permanenteInformações da páginaCitar esta páginaElemento Wikidata
+Imprimir/exportar
+Criar um livroDescarregar como PDFVersão para impressão
+Noutros projetos
+Wikimedia Commons
+Espaços nominais
+ArtigoDiscussão
+Variantes
+expanded
+collapsed
+Vistas
+LerEditarEditar código-fonteVer histórico
+Mais
+expanded
+collapsed
+65 idiomas
+expanded
+collapsed
+AfrikaansالعربيةAsturianuAzərbaycancaБеларускаяБеларуская (тарашкевіца)БългарскиবাংলাBosanskiCatalàČeštinaDanskDeutschΕλληνικάEnglishEsperantoEspañolEestiEuskaraفارسیSuomiFøroysktFrançaisFryskGalegoעבריתहिन्दीHrvatskiMagyarՀայերենInterlinguaBahasa IndonesiaItaliano日本語Jawa한국어LatinaLietuviųLatviešuМакедонскиമലയാളംBahasa MelayuPlattdüütschनेपालीNederlandsNorsk nynorskNorsk bokmålOccitanPolskiRomânăРусскийSrpskohrvatski / српскохрватскиSimple EnglishSlovenščinaСрпски / srpskiSvenskaதமிழ்ไทยTürkçeТатарча/tatarçaУкраїнськаTiếng Việt吴语中文粵語
+Editar hiperligações
+Voleibol de praia
+Origem: Wikipédia, a enciclopédia livre.
+Voleibol de praia
+Campeonato na Espanha em 2004
+Olímpico desde
+1996 H/S
+Desporto
+Voleibol
+Praticado por
+Ambos os sexos
+Campeões Olímpicos
+Tóquio 2020
+Homens
+Christian Sørum / Anders Mol Noruega
+Mulheres
+April Ross / Alexandra Klineman Estados Unidos
+Campeões Mundiais
+Viena 2017
+Homens
+Gonçalves / Stein Brasil
+Mulheres
+Ludwig / Walkenhorst Alemanha
+Voleibol de praia (chamado frequentemente no Brasil de vôlei de praia e em Portugal de vólei de praia) é um desporto praticado na areia da praia ou numa quadra de areia dividida em duas metades por uma rede. É praticado por duas equipes, cada uma composta de dois jogadores.
+Assim como no voleibol, o objetivo do jogo é jogar a bola por cima da rede para fazê-la cair na quadra do adversário, bem como evitar que o adversário consiga fazer o mesmo. Cada equipe pode tocar na bola três vezes antes de jogá-la para o outro lado. A bola é posta em jogo com um saque (ou serviço) — um golpe dado pelo sacador de trás da linha que delimita o fim de sua quadra. Ele deve jogá-la para o outro lado por cima da rede, e assim começa a disputa de cada um dos pontos. As disputas continuam até que a bola caia no chão ou não seja manipulada de maneira apropriada pelos jogadores.
+A equipe que vencer a disputa marca um ponto e fará o próximo saque, dando início à próxima disputa. Todos os quatro jogadores sacam. Os sacadores devem se alternar toda vez que sua equipe pontuar, após um ponto da equipe adversária. Tendo surgido na Califórnia e no Havaí (Estados Unidos), o voleibol de praia atingiu popularidade mundial.
+Índice
+1 História
+2 As regras
+2.1 As regras são diferentes das regras do voleibol de quadra
+3 Forma de jogo
+3.1 Habilidades
+3.2 Participantes
+3.3 Sistema de pontuação
+3.4 Características das jogadas
+4 Controvérsia dos uniformes
+5 Ver também
+6 Referências
+7 Ligações externas
+História[editar | editar código-fonte]
+Naturistas jogando voleibol de praia em 1958 no Canadá
+O voleibol de praia evoluiu a partir dos jogos de voleibol disputados socialmente na praia de Santa Mónica na Califórnia, EUA, na década de 1920, tendo chegado à Europa na década seguinte.
+Apesar disso, temos notícia da prática do Vôlei de Praia nas areias da antiga Praia do Caju no Rio de Janeiro nos anos de 1950 por membros da Polícia do Exército e remadores do São Cristóvão de Futebol e Regatas
+Na década de 1940, disputavam-se dois torneios amadores na praia de Santa Mônica onde mais tarde tentou, sem sucesso, começar um campeonato profissional. Ainda em Santa Mónica, durante a década de 1970 começaram a realizar-se alguns torneios profissionais, patrocinados por empresas de cerveja e cigarros.
+Em 1996, nos Jogos Olímpicos de Atlanta, o voleibol de praia passou a integrar o programa Jogos Olímpicos. Na categoria feminina, a primeira medalha de ouro na modalidade foi conquistada por uma dupla brasileira, Jacqueline Silva e Sandra Pires, tendo como vice-campeãs as também brasileiras Mônica Rodrigues e Adriana Samuel. A dupla de portugueses Miguel Maia e João Brenha conseguiu duas quartas posições consecutivas, nos jogos de 1996 e de 2000.
+As regras[editar | editar código-fonte]
+Voleibol de praia nos Jogos Olímpicos de 2012
+O tamanho da quadra já foi 18 por 9 m, mas atualmente é de 16 por 8 m. Sendo disputado por dois jogadores de cada lado, tem algumas regras diferentes do voleibol tradicional. A bola do voleibol tem o mesmo peso, de 260 a 280 gramas, porém a pressão interna é menor.
+As regras são diferentes das regras do voleibol de quadra[editar | editar código-fonte]
+O voleibol de praia é bastante similar ao voleibol de quadra: uma equipe pontua quando consegue jogar a bola no chão da quadra adversária ou quando a equipe adversária comete uma falta (manipulação incorreta da bola, etc.) e contatos consecutivos devem ser feitos por jogadores diferentes.
+As maiores diferenças entre o voleibol e o voleibol de praia são as seguintes:
+Ambiente de jogo: areia;
+Tamanho das equipes: dois jogadores. Não há substituições;
+As regras para o levantamento são diferentes: toques duplos são julgados com mais rigidez, entretanto, a tolerância para com as conduções é maior;
+O bloqueio conta como toque da equipe. Portanto, caso a bola toque no bloqueador, a equipe dele só poderá tocar na bola mais duas vezes. Todavia, o jogador que tocou a bola no bloqueio pode fazer o toque seguinte;
+Não existem erros de posicionamento na praia, os jogadores podem trocar de posição à vontade;
+Durante os dois primeiros sets, as equipes trocam de lados da quadra a cada sete pontos disputados. Durante o set de desempate, elas fazem isso a cada cinco pontos disputados;
+Cada equipe tem direito a apenas um pedido de tempo de trinta segundos;
+A invasão por baixo da rede não é considerada falta, desde que não atrapalhe a jogada do rival.
+Forma de jogo[editar | editar código-fonte]
+Habilidades[editar | editar código-fonte]
+Assim como no voleibol, os jogadores precisam dominar várias habilidades: o saque, o passe, o levantamento, o ataque, o bloqueio e a defesa.
+Sacar é o ato de colocar a bola em jogo, golpeando-a desde atrás do fim da quadra e fazendo-a passar por cima da rede. Esta habilidade é bastante similar no voleibol e no voleibol de praia, com a exceção de que na praia o vento pode ter uma influência muito significativa na trajetória da bola.
+O passe é o primeiro dos três toques que cada equipe pode fazer, e também é bastante similar ao do voleibol de quadra. No entanto, os padrões são mais restritos na praia. Os jogadores não podem usar o passe para fazer um levantamento. Os jogadores raramente fazem o primeiro toque com as mãos abertas, exceto quando para defender-se de um ataque.
+A defesa é uma habilidade bastante similar ao passe, mas com a fundamental diferença de que tem o intuito de impedir que um ataque dos oponentes atinja o solo.
+O levantamento é o segundo toque, e tem a intenção de preparar a bola para ser atacada no terceiro toque. Existem duas maneiras, ambas muito usadas, de fazer um levantamento. Ele pode ser executado com as mãos abertas, mas a manchete, movimento no qual a bola bate nos antebraços do jogador, também é muito comum. Após terminar o levantamento, o jogador geralmente se concentra na defesa e avisa seu parceiro se há bloqueio e informa quais áreas da quadra adversária estão desprotegidas. O segundo toque também pode ser usado para atacar a bola.
+O ataque pode ser feito de três formas: o jogador pode atingir bruscamente a bola, fazendo-a seguir uma trajetória descendente bem íngreme. Ele também pode atacar de maneira mais suave, fazendo a bola seguir uma trajetória em arco. Uma terceira opção (bem pouco comum no voleibol mas quase uma marca registrada do voleibol de praia) é quando o jogador dá um toque suave na bola, fazendo-a subir, passar por cima do bloqueador e cair lentamente na quadra adversária. Isto é comum no voleibol de praia porque há menos jogadores, portanto áreas maiores ficam desprotegidas.
+O bloqueio é uma tentativa de impedir que um ataque adversário passe por cima da rede. Os jogadores pulam e estendem os braços, tentando fazer com que a bola os atinja e volte para a área do adversário, preferencialmente caindo no chão. Entretanto, o jogador que está atacando pode tentar jogar a bola de tal maneira que ela bata nos braços do bloqueador e vá para fora, o que configura ponto para a equipe do atacante. É uma jogada difícil, mas muitos jogadores conseguem.
+Participantes[editar | editar código-fonte]
+Jogo entre duplas de voleibol de praia
+As equipes têm apenas dois jogadores, que não podem ser substituídos. Um jogador que se machuque tem cinco minutos para se recuperar. Caso não consiga, a dupla é considerada incompleta e perde a partida.
+Sistema de pontuação[editar | editar código-fonte]
+A partida é vencida pela primeira equipe que conseguir vencer dois sets. Um set é vencido pela equipe que completa 21 pontos primeiro, desde que haja uma diferença de dois pontos para a equipe adversária. Caso não haja, o set deve prosseguir até que tal diferença surja. Caso cada equipe vença um set, havendo um empate de 1 a 1, haverá um terceiro set para desempate. Este será vencido pela equipe que marcar 15 pontos primeiro. Entretanto, também deve haver uma diferença de dois pontos, se não houver, o set continua até uma das equipes abrir tal vantagem.
+Características das jogadas[editar | editar código-fonte]
+A bola pode tocar qualquer parte do corpo dos atletas, mas deve ser atingida, nunca agarrada ou arremessada. Quando o jogador está se defendendo de uma bola atacada em alta velocidade, a bola pode ser retida entre os dedos, desde que seja de maneira momentânea, muito rápida.
+Quando um jogador está recebendo uma bola que não foi atacada com força, ela deve ser manipulada de maneira “limpa” — se ele a receber com as mãos abertas, o toque das duas mãos na bola deve ser exatamente simultâneo. Na prática, isto significa que saques nunca são recebidos com as mãos abertas, e sim com manchete. Ao receber um ataque forte, um toque duplo (desde que os dois contatos ocorram numa única ação) e/ou uma leve condução da bola são permitidos.
+Ao fazer um levantamento, a tolerância para com um contato duplo é maior do que no passe, embora ainda seja muito menor do que no voleibol de quadra. Já a restrição para com as conduções é bem mais flexível — é permitido manter a bola imóvel durante pequenos períodos de tempo.
+Controvérsia dos uniformes[editar | editar código-fonte]
+Em 1999, a FIVB padronizou os uniformes para o voleibol de praia. Os trajes de banho tornaram-se os uniformes requiridos tanto para homens quanto para mulheres.[1]
+De acordo com a FIVB, as mulheres jogadoras de voleibol de praia podem escolher entre jogar de shorts ou com um traje único.[2][3] Entretanto, a maior parte das jogadoras preferem o biquíni.[4]
+Jogadoras como Natalie Cook[5] e Holly McPeak[4] confirmaram as afirmações da FIVB de que os uniformes são práticos para um esporte jogado na areia durante o calor do verão, mas a atleta britânica Denise Johns protestou, dizendo que a regulação dos uniformes tinha a intenção de ser “sensual” e chamar atenção.[6]
+No começo de 2012, a Federação Internacional de Voleibol anunciou que permitiria shorts (com o comprimento máximo de 3 cm acima do joelho) e tops com mangas compridas nas Olimpíadas de 2012. Richard Baker, o porta-voz da federação, disse que “muitos destes países têm exigências culturais e religiosas, portanto o uniforme tinha de ser mais flexível”.[7] E de fato o clima esteve tão frio durante os jogos à noite nas Olimpíadas de 2012 que às vezes as atletas tiveram de usar camisetas e leggings.[8]
+Ver também[editar | editar código-fonte]
+Voleibol de praia nos Jogos Olímpicos
+Medalhistas olímpicos do voleibol de praia
+Campeonato Mundial de Voleibol de Praia
+Circuito Mundial de Voleibol de Praia
+FIVB World Tour Finals
+Referências
+↑ Jeanne Moos (13 de janeiro de 1999). «Bikini blues -- Beach volleyball makes the swimsuit standard». CNN. Consultado em 25 de agosto de 2016
+↑ «Official BEACH VOLLEYBALL Rules - Règles Officielles du VOLLEYBALL DE PLAGE - Reglas Oficiales del VOLEIBOL DE PLAYA 2009-2012» (PDF). FEDERATION INTERNATIONALE DE VOLLEYBALL. 2009–2012. Consultado em 25 de agosto de 2016  !CS1 manut: Formato data (link)
+↑ «Olimpíadas 2004» (PDF). FEDERATION INTERNATIONALE DE VOLLEYBALL. 2004. Consultado em 25 de agosto de 2016
+↑ a b Sarah Netter (18 de agosto de 2008). «Olympic Uniforms: Less Clothing Means Better Results». ABC News. Consultado em 25 de agosto de 2016
+↑ «Herald Sun - Breaking News from Melbourne and Victoria - Herald Sun». www.news.com.au
+↑ «The Times & The Sunday Times». thetimes.co.uk
+↑ agencies, Telegraph staff and (27 de março de 2012). «London 2012 Olympics: female beach volleyball players permitted to wear less revealing uniforms»
+– via www.telegraph.co.uk
+↑ Hanlon, Peter (29 de julho de 2012). «Beach volleyball but not beach weather: Aussies lose close match as cold bites». canberratimes.com.au
+Ligações externas[editar | editar código-fonte]
+O Commons possui imagens e outros ficheiros sobre
+Voleibol de praia
+«Página oficial da FIVB» (em inglês)
+vdeCompetições internacionais de voleibol de praiaFederações • Medalhistas olímpicos • Hall da famaFIVBAdultoJogos Olímpicos • Campeonato Mundial • Circuito Mundial • World Tour Finals • Copa do MundoBaseMundial Sub-23 • Mundial Sub-21 • Mundial Sub-19 • Mundial Sub-17 • Jogos Olímpicos da Juventude• Jogos da CPLP • Jogos Pan-Americanos JunioresOutros organizadoresUniversíada • Campeonato Mundial Universitário • Desafio 4x4 • Desafio Melhores do Mundo • Jogos Centro-Americanos e do Caribe • Jogos do Mediterrâneo • Jogos da Lusofonia • Jogos da Francofonia • Jogos Mundiais Militares • Campeonato Mundial Militar• Jogos do PacíficoExtintasJogos Mundiais • Jogos da Boa Vontade
+vdeModalidades nos Jogos OlímpicosJogos de verãoAtletismo • Badminton • Basquetebol • Beisebol • Boxe • Canoagem • Caratê • Ciclismo • Escalada esportiva • Esgrima • Futebol • Ginástica • Golfe • Halterofilismo • Handebol •
+Hipismo • Hóquei sobre grama • Judô • Lutas • Natação • Natação artística • Pentatlo moderno • Polo aquático • Remo • Rugby sevens • Saltos ornamentais • Skate • Softbol • Surfe • Taekwondo • Tênis • Tênis de mesa • Tiro • Tiro com arco • Triatlo • Vela • Voleibol • Voleibol de praiaJogos de invernoBiatlo • Bobsleigh • Combinado nórdico • Curling • Esqui alpino • Esqui cross‑country • Esqui estilo livre • Hóquei no gelo • Luge • Patinação artística • Patinação de velocidade • Patinação de velocidade em pista curta • Salto de esqui • Skeleton • SnowboardEsportes passadosCabo de guerra • Críquete • Croquet • Jeu de paume • Lacrosse • Motonáutica • Patrulha militar • Pelota basca • Polo • Raquetes • Roque • Rugby unionEsportes de demonstraçãoBandy • Boliche • Budô • Corfebol • Corrida de cão e trenó • Corrida em cadeira de rodas • Esqui aquático • Esqui de velocidade • Esqui para deficientes • Futebol americano • Futebol australiano • Glíma • Hóquei em patins • Ice stock sport • Planadorismo • Pentatlo de inverno • Pesäpallo • Savate • Skijöring • Voo à velaEsportes não-oficiaisBalonismo • Boules • Columbofilia • Combate a incêndios • Competições artísticas • Cycle polo • Desportos a motor • Futebol gaélico • Hurling • Kaatsen • Longue paume • Motociclismo • Pesca • Salvamento • Tiro de canhão • Voo de pipa • Wushu
+vdeEsportes coletivosEsportes de bola-ao-cesto
+Basquetebol
+Corfebol
+Hoop takraw‎
+Netball
+Slamball
+Streetball
+Esportes de bola-sobre-redeVoleibol
+Biribol
+Bossaball
+Futevôlei
+Peteca
+Punhobol/faustebol
+Sepaktakraw
+Vôlei de praia
+Vôlei de quadra
+Vôlei adaptado
+Vôlei na neve
+Ecuavóley
+Tênis
+Badminton
+Futebol-tênis/futnet
+Tênis
+Esportes de meta
+Autobol
+Golbol
+Tazerball
+Tchoukball
+Ultimate
+(H)andebol
+(H)andebol
+(H)andebol de campo
+(H)andebol de praia/areia
+Futebol
+Australiano
+Calcio Fiorentino
+Cuju
+Gaélico
+Harpasto
+Regras Internacionais
+Kemari
+Código FIFA
+De campo
+De areia
+De pântano
+Soçaite
+Futsal FIFA
+Futsal FIFUSA
+Showbol
+De sete
+De cinco
+De rua
+Em cadeira motorizada
+Freestyle
+Código Rugby
+League
+De praia
+Quad rugby
+Sevens
+Subaquático
+Touch
+Union
+Código gridiron
+Americano
+Americano de arena
+Canadense
+Flag football
+Esportes de precisão
+Bocha
+Bolão
+Boliche
+Curling
+Lawn bowls
+Petanca
+Ice stock sport
+Esportes de Taco
+Camogie
+Gateball
+Hurling
+Basebol
+Softbol
+Pesäpallo
+Críquete
+Bete-ombro
+Twenty20
+Hóquei
+Bandy
+Broomball
+Floorball
+Modalidades
+em campo
+no gelo
+em linha
+em patins
+de rua
+de salão/indoor
+Lacrosse
+Modalidades
+De box
+De campo
+Polo
+Polo aquático
+Horseball
+Pato
+Outros
+Airsoft
+Buzkashi
+Kabaddi
+Kin-Ball
+Paintball
+Queimada/dodgeball
+Roller derby
+Portal dos Esportes
+Lista de esportes
+Eventos esportivos
+vdeComparações entre esportesEsportes coletivos
+Beisebol e críquete
+Beisebol e softbol
+Futebol americano e futebol canadense
+Futebol americano e rugby union
+Futebol australiano e rugby union
+Futebol de salão e futsal
+Rugby union e rugby league
+Rugby union e rugby sevens
+Voleibol de quadra e voleibol de praiaEsportes de luta / artes marciais
+Vale-tudo e MMA
+Portal do desporto
+Portal do voleibol
+Obtida de https://pt.wikipedia.org/w/index.php?title=Voleibol_de_praia&oldid=61823242
+Categoria: Voleibol de praiaCategorias ocultas: !CS1 manut: Formato data!Artigos bons na Wikipédia em alemão!CS1 inglês-fontes em língua (en)
+Esta página foi editada pela última vez às 01h30min de 12 de agosto de 2021.
+Este texto é disponibilizado nos termos da licença Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as condições de utilização.
+Política de privacidade
+Sobre a Wikipédia
+Avisos gerais
+Versão móvel
+Programadores
+Estatísticas
+Declaração sobre cookies');
+Document.create!(url: 'https://pt.wikipedia.org/wiki/Basquetebol_em_cadeira_de_rodas', title: 'Basquetebol em cadeira de rodas – Wikipédia, a enciclopédia livre', body: 'Basquetebol em cadeira de rodas – Wikipédia, a enciclopédia livre
+Saltar para o conteúdo
+Alternar barra lateral
+Busca
+Links do usuário
+Criar uma conta
+Ferramentas pessoais
+expandido
+collapsed
+Criar uma conta
+Entrar
+Páginas para editores conectados saiba mais
+DiscussãoContribuições
+Navegação
+Página principalConteúdo destacadoEventos atuaisEsplanadaPágina aleatóriaPortaisInformar um erro
+Colaboração
+Boas-vindasAjudaPágina de testesPortal comunitárioMudanças recentesManutençãoCriar páginaPáginas novasContatoDonativos
+Ferramentas
+Páginas afluentesAlterações relacionadasCarregar ficheiroPáginas especiaisHiperligação permanenteInformações da páginaCitar esta páginaElemento Wikidata
+Imprimir/exportar
+Criar um livroDescarregar como PDFVersão para impressão
+Noutros projetos
+Wikimedia Commons
+Espaços nominais
+ArtigoDiscussão
+Variantes
+expandido
+collapsed
+Vistas
+LerEditarEditar código-fonteVer histórico
+Mais
+expandido
+collapsed
+26 idiomas
+expandido
+collapsed
+العربيةCatalàDanskDeutschΕλληνικάEnglishEspañolفارسیSuomiFrançaisעבריתBahasa IndonesiaItaliano日本語한국어LietuviųमराठीNederlandsNorsk bokmålPolskiРусскийSimple EnglishSvenskaไทยTürkçe中文
+Editar hiperligações
+Basquetebol em cadeira de rodas
+Origem: Wikipédia, a enciclopédia livre.
+Este artigo ou secção
+não cita fontes confiáveis e independentes. Ajude a inserir referências.O conteúdo não verificável pode ser removido.—Encontre fontes: Google (notícias, livros e acadêmico) (Março de 2015)
+ex-soldados feridos praticando basquetebol de cadeira de rodas.
+Jogadoras na República Democrática do Congo.
+Basquetebol de cadeira de rodas é um desporto praticado principalmente por indivíduos com deficiências físicas. É baseado no basquetebol, mas com algumas adaptações para refletir a diversidade de dificuldades que eles enfrentam no tocante ao uso e à presença da cadeira de rodas e para harmonizar os diferentes níveis de deficiência dos jogadores. A International Wheelchair Basketball Federation (IWBF) é o corpo governativo para este desporto.
+História[editar | editar código-fonte]
+A adaptação do basquetebol (ou só basquete) para o jogo em cadeira de rodas aconteceu, principalmente, após a Segunda Guerra Mundial. Ex-soldados do exército americano, feridos durante o confronto, se reuniram em uma quadra de um hospital de reabilitação e começaram a jogar. Na Inglaterra, a prática também era usada na reabilitação de pacientes no hospital de Stoke Mandeville.
+Este esporte fez sua estreia nos primeiros Jogos Paraolímpicos, realizados no ano de 1960 em Roma, e é um dos poucos que esteve presente em todas as edições do evento. As mulheres entraram na disputa em 1968, em Tel Aviv, capital de Israel.
+Algumas Regras do Jogo[editar | editar código-fonte]
+O basquetebol em cadeira de rodas é disputado por pessoas
+com alguma deficiência físico-motora. As cadeiras são adaptadas e padronizadas, conforme previsto nas regras, sob a responsabilidade da Federação Internacional de Basquetebol em Cadeira de Rodas (IWBF, em inglês), fundada em 1989 e que ganhou independência em 1998.
+As dimensões da quadra, a pontuação e a altura da cesta são as mesmas do basquetebol convencional - assim como as equipes, com cinco jogadores cada. As partidas são divididas em quatro quartos de dez minutos. O relógio para, entre outras situações, quando a bola sai da quadra, ou em cada pedido de tempo, de um minuto cada.
+Cada equipe tem 30 segundos de posse de bola e precisa arremessá-la em direção à cesta antes deste tempo. A cada dois toques na cadeira, o jogador precisará quicar, passar ou arremessar a bola. O simples contato das cadeiras dos participantes não é considerado falta pela arbitragem, apenas se for interpretada a intenção.
+Com o intuito de deixar os times equilibrados, a classificação dos atletas é feita por um sistema de pontos, que vai de 1 a 4.5, respeitando o potencial funcional de cada um – quanto maior a pontuação, maior a habilidade funcional do atleta. A soma de todos os jogadores em quadra não pode ultrapassar o total de 14 pontos.
+O basquetebol em cadeira de rodas é um esporte pioneiro, com muita tradição no movimento paralímpico.
+Fontes[editar | editar código-fonte]
+http://www.iwbf.org/
+http://www.nwba.org/
+http://www.fiba.org/
+http://www.fbcrerj.org.br
+http://www.paraolimpiadas.com.br
+RS PARADESPORTO - Basquete Gaúcho
+http://www.brasil2016.gov.br/pt-br/paraolimpiadas/modalidades/basquete-em-cadeira-de-rodas
+/
+Este artigo
+sobre basquetebol é um esboço relacionado ao Projeto Basquetebol.
+Você pode ajudar a Wikipédia expandindo-o.vde
+Obtida de https://pt.wikipedia.org/w/index.php?title=Basquetebol_em_cadeira_de_rodas&oldid=61253998
+Categorias: Jogos ParalímpicosBasquetebol em cadeira de rodasDesportos em cadeira de rodasCategorias ocultas: !Artigos que carecem de fontes desde março de 2015!Artigos que carecem de fontes sem indicação de tema!Esboços sobre basquetebol!Esboços maiores que 1000 bytes
+Esta página foi editada pela última vez às 15h49min de 27 de maio de 2021.
+Este texto é disponibilizado nos termos da licença Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as condições de utilização.
+Política de privacidade
+Sobre a Wikipédia
+Avisos gerais
+Versão móvel
+Programadores
+Estatísticas
+Declaração sobre cookies');
+Document.create!(url: 'https://pt.wikipedia.org/wiki/Voleibol_do_Brasil', title: 'Voleibol do Brasil – Wikipédia, a enciclopédia livre', body: 'Voleibol do Brasil – Wikipédia, a enciclopédia livre
+Saltar para o conteúdo
+Alternar barra lateral
+Busca
+Links do usuário
+Criar uma conta
+Ferramentas pessoais
+expandido
+collapsed
+Criar uma conta
+Entrar
+Páginas para editores conectados saiba mais
+DiscussãoContribuições
+Navegação
+Página principalConteúdo destacadoEventos atuaisEsplanadaPágina aleatóriaPortaisInformar um erro
+Colaboração
+Boas-vindasAjudaPágina de testesPortal comunitárioMudanças recentesManutençãoCriar páginaPáginas novasContatoDonativos
+Ferramentas
+Páginas afluentesAlterações relacionadasCarregar ficheiroPáginas especiaisHiperligação permanenteInformações da páginaCitar esta páginaElemento Wikidata
+Imprimir/exportar
+Criar um livroDescarregar como PDFVersão para impressão
+Noutros projetos
+Wikimedia Commons
+Espaços nominais
+ArtigoDiscussão
+Variantes
+expandido
+collapsed
+Vistas
+LerEditarEditar código-fonteVer histórico
+Mais
+expandido
+collapsed
+0 idioma
+expandido
+collapsed
+Adicionar hiperligações
+Voleibol do Brasil
+Origem: Wikipédia, a enciclopédia livre.
+Esporte do Brasil
+Comitê Olímpico Brasileiro (COB)
+Código do COI
+BRA
+Eventos Multiesportivos
+Olimpíadas  •
+Pan  •
+Sul-Americanos  •
+Sul-Americanos de Praia  •
+Lusofonia
+Esportes
+Futebol (FIFA)
+Copa do Mundo  •
+Copa América  •
+Copa das Confederações
+Futsal (FIFA)
+Copa do Mundo  •
+Copa América
+Voleibol (FIVB)
+Copa do Mundo  •
+Mundial  •
+Liga  •
+Grand Prix  •
+Sul-Americano
+Natação (FINA)
+Campeonato Mundial
+Atletismo (World Athletics)
+Campeonato Mundial
+Rugby (WR)
+Copa do Mundo  •
+Sul-Americano
+Quanto à preferência, o voleibol é atualmente o segundo esporte mais popular do Brasil.[1] A principal competição do esporte no país é a Superliga, sendo que existem as variantes feminina e masculina da Superliga. No retrospecto, o esporte é um dos mais vitoriosos do Brasil, especialmente com o bom desempenho que as seleções nacionais vêm tendo nos últimos anos. O Brasil já ocupou o primeiro lugar no ranking da FIVB nas duas modalidades.[2][3]
+A seleção feminina é detentora de 5 medalhas olímpicas, dois ouros (2008, 2012), uma prata (2020) e dois bronzes (1996 e 2000), tornando-se a primeira equipe de esporte coletivo a conquistar o bicampeonato olímpico de forma consecutiva no Brasil. É a atual terceira colocada no mundial, tendo conquistado a prata em três oportunidades (1994, 2006 e 2010) e é a maior vencedora do Grand Prix, com doze títulos.[4][5][6]
+A seleção masculina é tricampeã mundial, e conquistou 6 medalhas olímpicas, 3 ouros (1992, 2004 e 2016[7][8]) e 3 pratas (1984, 2008 e 2012). Conquistou 3 Copas do Mundo e é a maior vencedora da história da Liga Mundial, com nove títulos.[4]
+Amistoso da seleção brasileira masculina contra os Estados Unidos, no dia 25 de setembro de 2009, em Uberlândia.
+Índice
+1 História
+1.1 Início
+1.2 Fundação da CBV
+1.3 Décadas de 1960 e 1970
+1.4 Atualmente
+1.5 Hall da Fama do Voleibol
+2 Ver também
+3 Referências
+4 Ligações externas
+História[editar | editar código-fonte]
+Início[editar | editar código-fonte]
+Registros dão conta
+que a primeira vez que o vôlei foi praticado no Brasil foi em 1915, no Colégio Marista de Recife[9], mas que começou a tornar-se um pouco mais notório entre 1916 e 1917, por iniciativa da Associação Cristã de Moços (ACM) de São Paulo[9].
+Em 1923, o Fluminense tornou-se o primeiro clube brasileiro profissional da modalidade[9]. No mesmo ano, ele organizou um torneio aberto para os membros da Liga Metropolitana de Desportos Terrestres na sua sede das laranjeiras[9]. Foi lá também que, em 1951, ocorreu a 1ª edição do Campeonato Sul-Americano de Voleibol Masculino, e também a 1ª edição do Campeonato Sul-Americano de Voleibol Feminino, com ambas vitórias do Brasil[9].
+Nos anos 40 e 50, o voleibol era praticado no país pela elite social, o Brasil tinha pouco intercâmbio com as principais potências do esporte. Para se ter uma ideia do atraso que o vôlei
+tinha no país em relação ao resto do mundo, foi somente um dia antes da disputa do Campeonato Mundial de Voleibol Masculino de 1956 que a seleção brasileira conheceu o fundamento da manchete[10].
+Em 1947, é criada a Federação Internacional de Voleibol (FIVB), órgão máximo do voleibol no mundo, com o Brasil sendo um dos países fundadores[10].
+Fundação da CBV[editar | editar código-fonte]
+Em 16 de agosto de 1954 é fundada a Confederação Brasileira de Voleibol - até então o voleibol brasileiro era ligado à Confederação Brasileira de Desportos (CBD). Foi a CBV a responsável por promover cursos para difundir o esporte e também a responsável pelas criações de escolinha de vôlei.
+Décadas de 1960 e 1970[editar | editar código-fonte]
+Em dezembro de 66 o Botafogo derrotou o Spartak, equipe que era formada pela base da seleção campeã mundial em 56 da Thecoslováquia[10].
+Em 1977, a Confederação Brasileira de Voleibol (CBV) organizou o 1º Mundial Juvenil, onde a equipe masculina terminou em 3º lugar e a feminina em 4º lugar
+Em 1979, aconteceu um marco na literatura da Educação Física brasileira, quando foi lançado o primeiro livro voltado ao treinamento esportivo do nosso país (Metodologia Científica do Treinamento Desportivo, de Manoel Tubino). Esta obra foi importante para os treinadores do voleibol da época e de diversos esportes[10].
+Até a década de 1980, porém, o voleibol ainda era um esporte de pouca valorização no Brasil, além de carregar a conotação de que se tratava de um esporte “para meninas”, enquanto o futebol seria a prática “dos meninos”, já que os gestos praticados na modalidade, diziam, eram muito afeminados por incrível que pareça. Além disso, o voleibol para o sexo feminino era considerado um esporte ideal, já que é um esporte que não exige contato físico entre os atletas e os seus fundamentos eram elegantes quando as mulheres praticavam. Desta forma, foi comum durante muito tempo que, nas aulas de Educação Física, os professores dessem uma bola de voleibol para as meninas e uma de futebol para os meninos[11].
+O cenário começou a mudar a partir de 1975, com a chegada de Carlos Arthur Nuzman à presidência da CBV, trazendo uma grande modernização na gestão da entidade. Isso foi o alicerce para que a década de 1980 marcasse um ponto de inflexão neste esporte no país.
+Após a Olimpíada de 80 o voleibol brasileiro deixou de ser amador e os atletas se tornaram profissionais. Nuzman sugeriu que o voleibol do nosso país deveria adotar os modelos utilizados pela Itália e pelo Japão, de clube-empresa.
+Os resultados começaram a chegar 2 anos depois, quando o Brasil foi campeão do Mundialito.
+Em 1984, a chamada Geração de Prata deu ao Brasil sua primeira medalha olímpica neste esporte[12]. Os resultados conquistados por esta equipe, aliados a investimentos de marketing e formação de base, melhoraram sensivelmente o nível do voleibol nacional.
+Outro marco importante desta geração foi o chamado O Grande Desafio de Vôlei – Brasil X URSS, que é considerado o marco inicial que ajudou na popularização do voleibol no Brasil e transformou a modalidade no segundo esporte mais popular no país.[13]
+Com relação ao voleibol feminino, esta década foi marcada por conta da chamada “Geração das Musas”, formada pelas jogadoras Isabel, Vera Mossa, Dulce, Regina Uchôa, Jaqueline, e outras[10].
+Outro fato que ajudou a popularizar o esporte no país foram as transmissões na TV. Ideia de Luciano do Valle, que sempre trazia pessoas gabaritadas, como Paulo Russo, para fazer comentários sobre os jogos e explicar as regras aos ouvintes.
+Atualmente[editar | editar código-fonte]
+Em 1992 o voleibol brasileiro consegue sua primeira grande conquista, medalha de ouro no Vôlei masculino nas Olimpíadas de Barcelona.
+A partir da década de 1990 o Brasil acumulou uma série de conquistas olímpicas e mundiais, tanto no Voleibol masculino, quando no Voleibol feminino.
+Hall da Fama do Voleibol[editar | editar código-fonte]
+Personalidades que entraram para o Hall da Fama do Voleibol
+Bernard Rajzman (introduzido como jogador em 2005)[14]
+Jacqueline Silva (introduzida como jogadora em 2006)[15]
+Carlos Nuzman (introduzido como líder em 2007)[16]
+Ana Moser (introduzida como jogadora em 2009)[17]
+Adriana Behar (introduzida como dupla de voleibol de praia em 2010)[18]
+Shelda Bedê (introduzida como dupla de voleibol de praia em 2010)[18]
+Maurício Lima (introduzido como jogador em 2012)[19]
+Nalbert Bitencourt (introduzido como jogador em 2014)[20]
+Sandra Pires (introduzida como jogadora em 2014)[21]
+Bebeto de Freitas (introduzido como técnico em 2015)[22]
+Hélia Souza (introduzida como jogadora em 2015)[23]
+Renan Dal Zotto (introduzido como jogador em 2015)[24]
+Emanuel Rego (introduzido como jogador em 2016)[25]
+José Loiola (introduzido como jogador em 2017)[26]
+Giba (introduzido como jogador em 2018)[27]
+Zé Marco de Melo (introduzido como jogador em 2019)[28]
+Giovane Gavio
+(introduzido como jogador em 2021)[29]
+Ricardo Santos
+(introduzido como jogador em 2021)[29]
+Sérgio Dutra Santos (introduzido como jogador em 2021)[29]
+Ver também[editar | editar código-fonte]
+O Commons possui uma categoria com imagens e outros ficheiros sobre
+Voleibol do Brasil
+Comitê Olímpico Brasileiro
+Referências
+↑ «Esportes no Brasil» (PDF). Deloitte. Setembro de 2011. p. 12. Consultado em 20 de julho de 2016. Arquivado do original (PDF) em 16 de janeiro de 2015  |urlmorta= e |ligação inativa= redundantes (ajuda)
+↑ «FIVB Senior World Ranking - Women». FIVB (em inglês). 2 de setembro de 2013. Consultado em 20 de julho de 2016. Cópia arquivada em 20 de julho de 2016
+↑ «FIVB Senior World Ranking - Men». FIVB (em inglês). 7 de julho de 2017. Consultado em 14 de agosto de 2017. Cópia arquivada em 14 de agosto de 2017
+↑ a b «Seleção Brasileira». CBV. Consultado em 20 de julho de 2016. Arquivado do original em 20 de julho de 2016
+↑ «Tandara and Natalia lead as Brazil claim 12th title in World Grand Prix». FIVB (em inglês). 6 de agosto de 2017. Consultado em 14 de agosto de 2017. Cópia arquivada em 14 de agosto de 2017
+↑ «Em final emocionante, Brasil bate a Itália e fatura o 12º título do Grand Prix». globoesporte.com. Grupo Globo. 6 de agosto de 2017. Consultado em 14 de agosto de 2017. Cópia arquivada em 14 de agosto de 2017
+↑ «Firme, forte e dourado: Brasil bate Itália e volta ao topo olímpico após 12 anos». globoesporte.com. Grupo Globo. 21 de agosto de 2016. Consultado em 27 de dezembro de 2016. Cópia arquivada em 30 de agosto de 2016
+↑ «Brazil make triumphant return to the top of the podium». FIVB (em inglês). Rio2016.fivb.com. 21 de agosto de 2016. Consultado em 27 de dezembro de 2016. Cópia arquivada em 9 de setembro de 2016
+↑ a b c d e travinha.com.br/ História do Vôlei no Brasil
+↑ a b c d e efdeportes.com/ História do voleibol no Brasil e o efeito da evolução científica da educação física brasileira nesse esporte
+↑ brasilescola.uol.com.br/ Brasil no voleibol
+↑ veja.abril.com.br/ Arquivado em 16 de março de
+2016, no Wayback Machine. Prata: Vôlei masculino - 1984
+↑ esporte.uol.com.br/ Com carreira marcada por vitórias no vôlei, ambição e críticas, Nuzman tenta chegar a 21 anos no COB
+↑ «Bernard Rajzman». Hall da Fama do Voleibol (em inglês). Consultado em 23 de fevereiro de 2015. Cópia arquivada em 29 de outubro de 2013
+↑ «Jackie Silva». Hall da Fama do Voleibol (em inglês). Consultado em 23 de fevereiro de 2015. Cópia arquivada em 5 de outubro de 2013
+↑ «Carlos Nuzman». Hall da Fama do Voleibol (em inglês). Consultado em 23 de fevereiro de 2015. Cópia arquivada em 5 de outubro de 2013
+↑ «Ana Moser». Hall da Fama do Voleibol (em inglês). Consultado em 23 de fevereiro de 2015. Cópia arquivada (PDF) em 5 de outubro de 2013
+↑ a b «Shelda Bede & Adriana Behar (Team)» (PDF). Hall da Fama do Voleibol (em inglês). Consultado em 23 de fevereiro de 2015. Arquivado do original em 5 de outubro de 2013
+↑ «Maurício Lima». Hall da Fama do Voleibol (em inglês). Consultado em 23 de fevereiro de 2015. Arquivado do original em 5 de outubro de 2013
+↑ «Nalbert Bitencourt». Hall da Fama do Voleibol (em inglês). Consultado em 23 de fevereiro de 2015. Cópia arquivada em 23 de fevereiro de 2015
+↑ «Sandra Pires». Hall da Fama do Voleibol (em inglês). Consultado em 23 de fevereiro de 2015. Cópia arquivada em 23 de fevereiro de 2015
+↑ «Bebeto de Freitas». Hall da Fama do Voleibol (em inglês). Consultado em 14 de fevereiro de 2016. Cópia arquivada em 14 de fevereiro de 2016
+↑ «Hélia Souza Pinto (Fofão)». Hall da Fama do Voleibol (em inglês). Consultado em 14 de fevereiro de 2016. Arquivado do original em 14 de fevereiro de 2016
+↑ «Renan Dal Zotto». Hall da Fama do Voleibol (em inglês). Consultado em 14 de fevereiro de 2016. Cópia arquivada em 14 de fevereiro de 2016
+↑ «Emanuel Rego». Hall da Fama do Voleibol (em inglês). Consultado em 2 de novembro de 2016. Cópia arquivada em 2 de novembro de 2016
+↑ «José Loiola». Hall da Fama do Voleibol (em inglês). Consultado em 10 de dezembro de 2018
+↑ «Gilberto (Giba) Godoy Filho». Hall da Fama do Voleibol (em inglês). Consultado em 10 de dezembro de 2018
+↑ «Zé Marco de Melo». Hall da Fama do Voleibol (em inglês). Consultado em 10 de dezembro de 2018
+↑ a b c Class of 2021 - Hall da Fama do Voleibol
+Ligações externas[editar | editar código-fonte]
+«Página oficial da CBV»
+vde Voleibol no Brasil Confederação Brasileira de VoleibolDivisõesSuperliga Série A (masculina / feminina)  •
+Série B (masculina / feminina)  •
+Série C (masculina / feminina)CopasCopa Brasil (masculina / feminina)  •
+Supercopa (masculina / feminina)Categorias de BaseCampeonato Brasileiro Interclubes  •
+Campeonato de Seleções EstaduaisEstaduaisAcre  • Alagoas  • Amapá  • Amazonas  • Bahia  • Ceará  • Distrito Federal  • Espírito Santo  • Goiás  • Maranhão  • Mato Grosso  • Mato Grosso do Sul  • Minas Gerais (masculino / feminino) • Pará  • Paraíba  • Paraná  • Pernambuco  • Piauí  • Rio de Janeiro (masculino / feminino) • Rio Grande do Norte  • Rio Grande do Sul (masculino / feminino) • Rondônia  • Roraima  • Santa Catarina  • São Paulo (masculino / feminino)  • Sergipe  • TocantinsCompetições ExtintasGrand Prix Brasil (masculino / feminino)  •
+Salonpas Cup  •
+Liga Nacional (masculina / feminina)FederaçõesAcre  • Alagoas  • Amapá  • Amazonas  • Bahia  • Ceará
+• Distrito Federal  • Espírito Santo  • Goiás  • Maranhão  • Mato Grosso  • Mato Grosso do Sul  • Minas Gerais  • Pará  • Paraíba  • Paraná  • Pernambuco  • Piauí  • Rio de Janeiro  • Rio Grande do Norte  • Rio Grande do Sul  • Rondônia  • Roraima  • Santa Catarina  • São Paulo  • Sergipe  • TocantinsTópicosClubes masculinos e femininos  •
+Voleibolistas  •
+Treinadores  •
+Ginásios  •
+ClássicosSeleção Brasileira de Voleibol Masculino  • Seleção Brasileira de Voleibol Feminino
+vdeEsporte do BrasilClubes • Mídia • CronologiaInstituições
+Comitê Olímpico do Brasil
+Comitê Paralímpico Brasileiro
+Confederação Brasileira do Desporto Universitário
+Ministério do Esporte
+Superior Tribunal de Justiça Desportiva
+Tribunal de Justiça Desportiva
+Esportes
+Atletismo
+Automobilismo
+Badminton
+Balonismo
+Basquete
+Beisebol
+Boliche
+Boxe
+Críquete
+Canoagem
+Ciclismo
+Curling
+Esgrima
+Esporte eletrônico
+Esqui aquático
+Futebol
+Futebol americano
+Futsal
+Ginástica
+artística
+rítmica
+Halterofilismo
+Handebol
+Hipismo
+Hóquei no gelo
+Hóquei sobre a grama
+Judô
+Karatê
+Lutas associadas
+Mergulho
+Motociclismo
+Nado sincronizado
+Natação
+Parkour
+Patinação sobre rodas
+Pentatlo moderno
+Polo
+Polo aquático
+Remo
+Rugby
+Saltos ornamentais
+Skate
+Squash
+Softbol
+Surfe
+Taekwondo
+Tênis
+Tênis de mesa
+Tiro esportivo
+Tiro com arco
+Triatlo
+Vela
+Voleibol
+aquáticos
+de combate
+de corrida
+para deficientes
+de força
+de inverno
+motorizados
+de praia
+radicais
+universitários
+Por UF
+AC
+AL
+AM
+AP
+BA
+CE
+DF
+ES
+GO
+MA
+MG
+MS
+MT
+PA
+PB
+PE
+PI
+PR
+RJ
+RN
+RO
+RR
+RS
+SC
+SE
+SP
+TO
+Desempenho internacional
+Jogos da Boa Vontade
+Jogos da Lusofonia
+Jogos Ibero-Americanos
+Jogos Mundiais
+Jogos Olímpicos
+Jogos Pan-Americanos
+Jogos Paralímpicos
+Jogos Parapan-Americanos
+Jogos Sul-Americanos
+Universíada
+Categoria
+Portal do desporto
+Portal do voleibol
+Portal do Brasil
+Este artigo
+sobre voleibol é um esboço.
+Você pode ajudar a Wikipédia expandindo-o.
+Obtida de https://pt.wikipedia.org/w/index.php?title=Voleibol_do_Brasil&oldid=61857031
+Categoria: Voleibol do BrasilCategorias ocultas: !Páginas com citações e parâmetros redundantes!CS1 inglês-fontes em língua (en)!Predefinição Webarchive wayback links!Esboços maiores que 15000 bytes!Esboços sobre voleibol
+Esta página foi editada pela última vez às 06h05min de 17 de agosto de 2021.
+Este texto é disponibilizado nos termos da licença Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as condições de utilização.
+Política de privacidade
+Sobre a Wikipédia
+Avisos gerais
+Versão móvel
+Programadores
+Estatísticas
+Declaração sobre cookies');
+Document.create!(url: 'https://pt.wikipedia.org/wiki/Futebol', title: 'Futebol – Wikipédia, a enciclopédia livre', body: 'Futebol – Wikipédia, a enciclopédia livre
+Saltar para o conteúdo
+Alternar barra lateral
+Busca
+Links do usuário
+Criar uma conta
+Ferramentas pessoais
+expanded
+collapsed
+Criar uma conta
+Entrar
+Páginas para editores conectados saiba mais
+DiscussãoContribuições
+Navegação
+Página principalConteúdo destacadoEventos atuaisEsplanadaPágina aleatóriaPortaisInformar um erro
+Colaboração
+Boas-vindasAjudaPágina de testesPortal comunitárioMudanças recentesManutençãoCriar páginaPáginas novasContatoDonativos
+Ferramentas
+Páginas afluentesAlterações relacionadasCarregar ficheiroPáginas especiaisHiperligação permanenteInformações da páginaCitar esta páginaElemento Wikidata
+Imprimir/exportar
+Criar um livroDescarregar como PDFVersão para impressão
+Noutros projetos
+Wikimedia CommonsWikilivrosWikinotíciasWikiquote
+Espaços nominais
+ArtigoDiscussão
+Variantes
+expanded
+collapsed
+Vistas
+LerVer código-fonteVer histórico
+Mais
+expanded
+collapsed
+215 idiomas
+expanded
+collapsed
+АҧсшәаAcèhАдыгабзэAfrikaansAlemannischአማርኛAragonésÆngliscالعربيةالدارجةمصرىঅসমীয়াAsturianuAymar aruAzərbaycancaتۆرکجهБашҡортсаBasa BaliBoarischŽemaitėškaBikol CentralБеларускаяБеларуская (тарашкевіца)БългарскиभोजपुरीBanjarবাংলাབོད་ཡིགBrezhonegBosanskiБуряадCatalàMìng-dĕ̤ng-ngṳ̄НохчийнCebuanoکوردیCorsuQırımtatarcaČeštinaKaszëbscziСловѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟЧӑвашлаCymraegDanskDeutschThuɔŋjäŋZazakiDolnoserbskiडोटेलीΕλληνικάEnglishEsperantoEspañolEestiEuskaraEstremeñuفارسیSuomiVõroNa Vosa VakavitiFøroysktFrançaisArpetanNordfriiskFurlanFryskGaeilge贛語Kriyòl gwiyannenGàidhligGalegoAvañeẽगोंयची कोंकणी / Gõychi Konknni𐌲𐌿𐍄𐌹𐍃𐌺ગુજરાતીGaelgHausa客家語/Hak-kâ-ngîעבריתहिन्दीHrvatskiHornjoserbsceKreyòl ayisyenMagyarՀայերենԱրեւմտահայերէնInterlinguaBahasa IndonesiaInterlingueIgboIlokanoIdoÍslenskaItalianoᐃᓄᒃᑎᑐᑦ/inuktitut日本語JawaქართულიQaraqalpaqshaTaqbaylitKabɩyɛҚазақшаភាសាខ្មែរಕನ್ನಡ한국어RipoarischKurdîКомиКыргызчаLatinaLëtzebuergeschЛаккуЛезгиLingua Franca NovaLimburgsLigureLombardLingálaລາວLietuviųLatviešuमैथिलीBasa BanyumasanMalagasyОлык марийMinangkabauМакедонскиമലയാളംМонголमराठीBahasa MelayuMaltiMirandésမြန်မာဘာသာЭрзяньمازِرونیNāhuatlNapulitanoPlattdüütschNedersaksiesनेपालीLi NihaNederlandsNorsk nynorskNorsk bokmålNovialSesotho sa LeboaChi-ChewaOccitanLivvinkarjalaИронਪੰਜਾਬੀPicardDeitschPolskiپنجابیپښتوRuna SimiRumantschRomânăРусскийРусиньскыйIkinyarwandaСаха тылаᱥᱟᱱᱛᱟᱲᱤSarduSicilianuScotsسنڌيDavvisámegiellaSrpskohrvatski / српскохрватскиTaclḥitSimple EnglishSlovenčinaSlovenščinaGagana SamoaChiShonaSoomaaligaShqipСрпски / srpskiSeelterskSundaSvenskaKiswahiliŚlůnskiதமிழ்ತುಳುతెలుగుТоҷикӣไทยTürkmençeTagalogTok PisinTürkçeТатарча/tatarçaУкраїнськаاردوOʻzbekcha/ўзбекчаVènetoTiếng ViệtWest-VlamsWalonWinarayWolof吴语IsiXhosaმარგალურიייִדישYorùbáVahcuengh中文文言Bân-lâm-gú粵語IsiZulu
+Editar hiperligações
+Futebol
+Origem: Wikipédia, a enciclopédia livre.
+Nota: Para outros significados, veja Futebol (desambiguação).
+Futebol
+Federação desportiva mais alta
+FIFA
+Outros nomes
+futebol de campofutebol de onzefutebol associado
+Jogado pela primeira vez
+Inglaterra em meados do século 19[1][2][3]
+Características
+Contacto
+Permitido (limitado)
+Membros de equipa
+11 por lado (incluindo guarda-redes)
+Género misto
+Não, competições separadas
+Tipo
+Desporto de equipa, desporto de bola
+Equipamento
+Bola de futebol
+Presença
+País ou região
+Mundial
+Olímpico
+Sim, masculino desde as Olimpíadas de 1900 e feminino desde as Olimpíadas de 1996
+Paralímpico
+Sim, Futebol de 5 desde 2004 e Futebol de 7 desde 1984
+O futebol,[4] também referido como futebol de campo,[5][6] futebol de onze[7][8] e, controversamente, futebol associado[nota 1][9][10][11][12] (em inglês: association football, football, soccer), é um desporto de equipe jogado entre dois times de 11 jogadores cada um e um árbitro que se ocupa da correta aplicação das normas. É considerado o desporto mais popular do mundo, pois cerca de 270 milhões de pessoas participam das suas várias competições.[13] É jogado num campo retangular gramado, com uma baliza em cada lado do campo. O objetivo do jogo é deslocar uma bola através do campo para colocá-la dentro da baliza adversária, ação que se denomina golo (português europeu) ou gol (português brasileiro). A equipe que marca mais gols ao término da partida é a vencedora.[14]
+O jogo moderno foi criado na Inglaterra com a formação da The Football Association, cujas regras de 1863 são a base do desporto na atualidade. O órgão regente do futebol é a Federação Internacional de Futebol (em francês: Fédération Internationale de Football Association), mais conhecida pela sigla FIFA. A principal competição internacional de futebol é a Copa do Mundo FIFA, realizada a cada quatro anos. Este evento é o mais famoso e com maior quantidade de espectadores do mundo, o dobro da audiência dos Jogos Olímpicos.[15]
+Índice
+1 Origem do nome
+2 História
+2.1 Origens
+2.2 Unificações do século XIX
+2.2.1 Primeiros eventos
+2.3 Expansão internacional
+2.4 Consolidação
+2.5 Futebol feminino
+3 Influência no mundo
+3.1 Difusão
+3.2 Inovações tecnológicas
+3.3 Popularidade
+3.4 Economia
+3.5 Cultura
+4 As regras
+4.1 Campo de jogo
+4.1.1 Finalidade das marcações do campo de jogo
+4.2 Início do jogo
+4.3 Duração e resultado
+4.4 Faltas e reinício do jogo
+4.5 Impedimento
+5 Esquemas táticos
+6 Outras variedades do futebol
+6.1 Futebol de salão
+6.2 Futebol de areia
+6.3 Futebol de pântano
+6.4 Futebol paraolímpico
+6.5 Showbol
+6.6 Outras variantes
+6.7 Variações Independentes
+6.8 Variações do râguebi nomeadas como futebol
+6.9 Jogos de mesa e outros
+7 Entidades organizadoras
+8 Principais competições internacionais
+8.1 Seleções
+8.2 Clubes
+9 Doping
+10 Violência
+11 Passe
+12 Notas
+13 Ver também
+14 Referências
+15 Ligações externas
+Origem do nome
+As regras do assim chamado football association foram codificadas na Inglaterra pela FA no ano de 1863 e este nome foi cunhado para distinguir o jogo das outras formas de futebol jogados na época, como o rugby football e o gaelic football, por exemplo.
+A primeira referência à bola inflada usada no jogo foi em meados do Século XIV: Þe heued fro þe body went, Als it was a foteballe[16]. Já a palavra soccer, como uma abreviação de association apareceu pela primeira vez em escolas privadas e universidades inglesas na década de 1880 (às vezes usando a variante ortográfica socker).
+De acordo com o Online Etymology Dictionary, as regras do soccer foram feitas em 1848, antes da divisão do football association com o
+rugby football em 1863[17]. O termo soccer vem de uma gíria ou abreviação jocular da palavra association, com o sufixo -er anexado a ele[18].Esta palavra (que chegou à sua forma final em 1895) foi registrada pela primeira vez em 1889 na forma anterior de socca[19]. A forma final soccer é creditada a Charles Wreford-Brown, um estudante da Universidade de Oxford que gostava de usar formas encurtadas de palavras, como brekkers para o café da manhã e rugger para o rugby. Clive Toye observou que ele pegou a terceira, quarta e quinta letras de Association e a chamaram de SOCcer.
+O termo football association nunca foi amplamente utilizado, embora na Grã-Bretanha alguns clubes de futebol em redutos onde o rugby football é popular adotaram o sufixo Association Football Club (A.F.C.) para evitar confusão com o esporte dominante em sua área[20]. Por quase cem anos depois de ser cunhado, a palavra soccer foi uma alternativa aceita e incontroversa na Grã-Bretanha se referir ao futebol, muitas vezes em contextos coloquiais e juvenis, mas também foi amplamente utilizado na fala formal e escrita sobre o jogo. Soccer era um termo usado pela classe alta, enquanto a classe trabalhadora e a classe média preferiam a palavra football; como a classe alta perdeu influência na sociedade britânica a partir da década de 1960, football suplantou soccer como a palavra mais usada e aceita. Há evidências de que o uso da palavra soccer está diminuindo na Grã-Bretanha, sendo considerado como um termo inglês americano[20].
+Dentro dos países de língua inglesa, o football association é atualmente chamado de futebol no Reino Unido e principalmente soccer no Canadá e nos Estados Unidos. Pessoas em países onde outros códigos de futebol são predominantes (Austrália, Irlanda, País de Gales, África do Sul e Nova Zelândia) podem usar ambos os termos, embora as associações nacionais na Austrália e Nova Zelândia usem principalmente football para o nome formal.
+Fitbaa, fitba ou fitbaw é uma renderização da pronúncia escocesa de football, muitas vezes usada em um contexto humorístico ou irônico.
+No resto do mundo, o football association, em sua forma moderna, foi exportada pelos britânicos, e muitas das nações adotaram este termo inglês comum para o esporte em sua própria língua. Isso geralmente era feito de duas maneiras: seja importando diretamente a palavra em si, ou como calque traduzindo suas partes constituintes, foot e ball, como, por exemplo, balompié.
+História
+Ver artigos principais: História do futebol, Cronologia do futebol no mundo e Bola de futebol
+Origens
+Representação moderna do kemari no Japão, em 2006.
+A atividade mais antiga que se assemelha ao futebol moderno da qual se tem conhecimento data dos séculos III e II a. C. Estes dados são baseados em um manual de exercícios correspondentes à dinastia Han da antiga China. O jogo era chamado tsuh Kúh (cuju), e consistia em lançar uma bola com os pés para uma pequena rede.[21][22] Uma variante
+incluía uma modalidade onde o jogador deveria passar pelo ataque dos seus adversários. Também no Extremo Oriente, embora cerca de cinco ou seis séculos depois do cuju, existia uma variante japonesa chamada kemari, que tinha um caráter mais cerimonial, sendo o objetivo do jogo manter uma bola no ar passando-a entre os jogadores.[23] O kemari até hoje é praticado no Japão, em eventos culturais.[24]
+No Mediterrâneo destacaram-se duas formas de jogo: o harpasto, em Roma, e o epísquiro, na Grécia, sobre o qual se tem pouca informação. O primeiro era disputado por duas equipes em um terreno retangular demarcado e dividido pela metade por uma linha. Os jogadores de cada equipe podiam passar uma pequena bola entre eles, e o objetivo do jogo era enviá-la ao campo contrário. Esta variante foi muito popular entre os anos 700 e 800, e, apesar de ter sido introduzida nas Ilhas Britânicas, sua ascensão até o futebol moderno é incerta.[23] O epísquiro era feito por duas equipas, normalmente
+entre 12 e 14 jogadores cada, com uma bola, e segundo as regras era permitido o uso das mãos.[25]
+Imperador Song Taizu joga cuju com o Primeiro Ministro Zhao Pu; pintado por Qian Xuan (1235-1305).
+Durante a Era dos Descobrimentos, começou-se a conhecer desportos provenientes do Novo Mundo. Estima-se que o pok ta pok da cultura maia teria 3 000 anos de história.[26] Documentos escritos por jesuítas descrevem um jogo denominado como Manga ñembosarái praticado nas reduções jesuíticas no Paraguai que seria bastante similar ao futebol.[27][28][29][30] Na Groenlândia também se jogava um desporto que se assemelhava ao futebol, ao passo que o jogo denominado marngrook, da Oceania, tinha características que o assemelhava ao futebol australiano.[31][32] Onde hoje se localizam os Estados Unidos os aborígenes praticavam outros jogos: o pasuckuakohowog na área continental central e o asqaqtuk no Alasca.[33]
+Embora estes jogos tiveram certas características que os assemelham ao futebol e outros desportos variados modernos, a incidência dos mesmos nos desportos atuais é discutível, já que praticamente não há vínculos dos mesmos com as Ilhas Britânicas, o berço do futebol moderno.[34]
+Uma representação do calcio fiorentino durante o século XVII (1688).
+Nos finais da Idade Média e séculos posteriores desenvolveram-se nas Ilhas Britânicas e em zonas circunvizinhas distintos tipos de jogos de equipe, os quais eram conhecidos como códigos de futebol. Estes códigos foram se unificando com o passar do tempo, mas foi na segunda metade do século XVII que ocorreram as primeiras grandes unificações do futebol, que deram origem ao rúgbi, ao futebol americano, ao futebol australiano etc. e ao desporto que hoje é conhecido em grande parte do mundo como futebol.[35]
+Os primeiros códigos britânicos se caracterizavam por terem poucas regras e por sua extrema violência.[36] Um dos mais populares foi o futebol escolar. Por esta razão o futebol escolar foi proibido na Inglaterra por um decreto do Rei Eduardo III, que alegou ser um desporto não cristão, e a proibição perdurou por 500 anos.[37] O futebol escolar não foi a única forma de jogo da época; de fato existiram outras formas mais organizadas, menos violentas e inclusive que se desenvolveram fora das Ilhas Britânicas. Um dos jogos mais conhecidos foi o calcio fiorentino, originário da cidade de Florença, na Itália, no período da renascença, no século XVI. Este desporto influenciou em vários aspectos o futebol atual, não somente por suas regras, mas também pelo ambiente de festa em que se jogavam estas partidas.[38]
+Unificações do século XIX
+Os clubes britânicos se dividiram em relação ao jogo denominado rúgbi, e enquanto vários decidiram segui-lo, outros decidiram rejeitá-lo, devido ao fato que nestes a prática de não tocar a bola com a mão era mais aceita. Entre estes últimos se encontravam os clubes de Eton, Harrow, Winchester, Charterhouse e Westminster.[39]
+Em meados do século XIX foram dados os primeiros passos para unificar todos as regras e formas de jogo do futebol em um único desporto. A primeira tentativa foi em 1848, quando na Universidade de Cambridge, Henry de Winton e John Charles Thring convocaram membros de outras escolas para regulamentar um código de regras, o Código Cambridge, também conhecido como as Regras de Cambridge.[40] As regras tinham uma semelhança significativa com relação as regras do futebol atual. Talvez o mais importante de todos foi a limitação das mãos para tocar a bola, passando a responsabilidade de mover a mesma aos pés. O objetivo do jogo era fazer passar uma bola entre dois postes verticais e debaixo de uma fita que os unia, ato chamado golo, e a equipe que marcava mais golos era a vencedora. Também foi criada uma regra de impedimento similar à atual.[41] Os documentos originais de 1848 se perderam, mas é conservada uma cópia das regras do ano 1856.[42]
+Escócia 0–0 Inglaterra, primeira partida oficial entre seleções (30 de novembro de 1872).
+Entre 1857 e 1878 foi utilizado um conjunto de regras de futebol que também deixaria características ao futebol moderno: o Código Sheffield, também conhecido como as regras de Sheffield. O código, criado por Nathaniel Creswick e William Prest, adotou regras que ainda hoje são utilizadas, como o uso de um travessão (poste horizontal) de material rígido, no lugar da fita que se usava até o momento. Também foi adotada a utilização de tiros livres, escanteios e arremessos laterais como métodos de reintrodução da bola ao jogo.[43]
+Embora estas unificações de futebol levaram a vários avanços para a criação do futebol moderno, 26 de outubro de 1863 é considerado por muitos como o dia do nascimento do futebol moderno. Nesse dia, Ebenezer Cobb Morley iniciou uma série de seis reuniões entre 12 clubes de distintas escolas londrinas na Taberna Freemasons, com o objetivo de criar um regulamento de futebol universal e definitivo, que tivesse a aceitação da maioria. Concluídas as reuniões, em 8 de dezembro, onze dos doze clubes chegaram a um consenso para estabelecer 14 regras do novo regulamento, o qual recebeu o nome de association football, para diferenciá-lo de outras formas de futebol da época. Somente o clube Blackheath se negou a apoiar a criação destas regras, e acabou mais tarde se tornando um dos criadores de outro famoso desporto, o rúgbi.[44]
+O regulamento utilizado como base para o futebol foi o Código de regras de Cambridge, exceto dois pontos do mesmo, que eram considerados de muita importância para as regras atuais: o uso das mãos para transportar a bola e o uso dos tackles (contato físico brusco para tomar a bola do rival) contra os adversários. Este foi o motivo do abandono do clube Blackheath. Com o tempo o futebol e o rúgbi foram se distanciando e acabaram por serem reconhecidos como dois desportos distintos.[45]
+Junto da criação do novo conjunto de regras foi criada a Football Association, órgão que rege até hoje o futebol na Inglaterra. Nessa época, os estudantes das escolas inglesas desenvolveram as abreviaturas rugger e soccer (derivado de association), para designar a ambos desportos: o rúgbi e o futebol, respectivamente. Este último termo é majoritariamente utilizados para designar o futebol nos Estados Unidos.[46]
+Primeiros eventos
+Já com as regras do futebol bem definidas, começou-se a disputar os primeiros jogos e torneios com esta nova modalidade. Em 30 de novembro de 1872, Escócia e Inglaterra disputaram a primeira partida oficial entre seleções nacionais, jogo que acabou num empate sem gols. A partida foi disputada no Hamilton Crescent, atual campo de críquete, em Partick, Escócia.[47] Entre janeiro e março de 1884 foi disputada a primeira edição do British Home Championship, que até seu fim foi o torneio entre seleções mais antigo da história. O primeiro título foi ganho pela Escócia.[48]
+Em 20 de julho de 1871, um jornal britânico propôs a criação de um torneio que fosse organizado pela Football Association, o primeiro passo para a criação da Copa da Inglaterra.[49] Nesse ano, a Football Association era composta por 30 equipes, mas somente 15 decidiram participar da primeira edição do torneio, a FA Cup 1871-1872, que foi ganha pelo Wanderers F.C..[50] A primeira competição de liga chegou na temporada 1888/1889 com a criação da Football League. Participaram 12 equipes afiliadas à FA, e cada uma jogou 22 partidas. Este torneio foi vencido pelo Preston North End Football Club, que conseguiu o feito de vencer invicto.[51]
+Expansão internacional
+A Seleção Britânica de Futebol venceu o primeiro campeonato internacional entre seleções.
+Com o passar dos anos, o futebol expandiu-se rapidamente nas Ilhas Britânicas, surgindo assim novas associações de futebol além da inglesa, as quais representavam as quatro regiões constituintes do então Reino Unido da Grã-Bretanha e Irlanda: a Scottish Football Association (Escócia, fundada em 1873), a Football Association of Wales (País de Gales, 1875) e a Irish Football Association (Irlanda, 1880). No final dos anos 1880 o futebol começou a expandir-se rapidamente fora do Reino Unido, principalmente devido à influência internacional do Império Britânico. Os primeiros países a possuírem suas próprias associações de futebol fora das Ilhas Britânicas foram os Países Baixos a Dinamarca, em 1889, a Nova Zelândia, em 1891, a Argentina em 1893, o Chile, a Confederação Helvética e a Bélgica em 1895, a Itália em 1898, a Alemanha e o Uruguai em 1900, a Hungria em 1901, a Noruega em 1902 e a Suécia em 1904.[52]
+O auge do futebol a nível mundial motivou a criação da FIFA em 21 de maio de 1904. As associações fundadoras foram as da Bélgica, da Espanha, Dinamarca, França, Países Baixos, Suécia e Suíça. As quatro associações de futebol do Reino Unido, as chamadas Home Nations, se opuseram à criação desse órgão.[52] Devido ao crescimento do futebol, a FIFA havia anunciado a primeira competição internacional de seleções para 1906, mas devido a problemas internos de várias associações a mesma não foi realizada.[52] O futebol já havia sido apresentado ao mundo por meio de uma série de partidas de exibição durante os Jogos Olímpicos de 1900, 1904, 1906 (jogos intercalados), todos em nível de clubes, até que a edição de 1908 recebeu pela primeira vez uma competição de seleções. A medalha de ouro foi para a Seleção Britânica.[53]
+Cartaz da Copa do Mundo FIFA de 1930.
+Em 1916 foi fundada a Confederação Sul-Americana de Futebol, que nesse mesmo ano organiza a primeira edição do Campeonato Sul-americano de Futebol, atual Copa América. Este torneio se mantém até hoje como o mais antigo da história do futebol entre seleções nacionais, dos que ainda existem.[54] Nessa primeira edição participaram: Argentina, Brasil, Chile e Uruguai, que foi o campeão.[55]
+A Primeira Guerra Mundial fez atrasar o desenvolvimento do futebol, mas as edições de 1924 e 1928 dos Jogos Olímpicos revitalizaram o desporto, particularmente as atuações da seleção uruguaia. Este novo crescimento do futebol fez com que a FIFA confirmasse em 28 de maio de 1928 em Amsterdã a realização de um campeonato mundial de seleções, cuja sede seria confirmada em 18 de maio de 1929 no congresso de Barcelona. Uruguai foi escolhido como a sede da primeira edição da Copa do Mundo, que ocorreu em 1930, ano do centenário da primeira Constituição uruguaia. A seleção uruguaia tornou-se o primeiro campeão da história da competição. A segunda edição do torneio ocorreu em 1934, na Itália, e foi utilizada pelo ditador Benito Mussolini como propaganda de seu regime. A competição foi marcada pela intervenção de Mussolini, que fez de tudo para que a seleção italiana obtivesse o título, inclusive com ameaças aos árbitros da final.[56] A terceira edição do torneio também foi marcada por Mussolini, que antes da final entre a Itália e a Hungria enviou um telegrama a sua seleção ameaçando os jogadores de morte. Finalmente a seleção azzurra, que vestiu um uniforme completamente preto representando o Partido Nacional Fascista, venceu a final por 4 a 2.[57]
+A Segunda Guerra Mundial teve um efeito similar à primeira guerra sobre o futebol. Em 1946 as Home Nations, que haviam se desfiliado da FIFA depois da Primeira Guerra Mundial, voltaram ao organismo internacional. 10 de maio de 1947 é considerada uma data de vital importância para o ressurgimento da FIFA e do futebol mundial, graças à realização da partida amistosa entre a seleção do Reino Unido e uma seleção de jogadores europeus, o Resto da Europa XI, no denominado Jogo do Século. O jogo foi disputado em Hampden Park, Glasgow, Escócia, diante de 135.000 espectadores. O time britânico venceu o jogo por 6 a 1, e a arrecadação da partida foi doada à FIFA para ajudá-la em sua refundação.[52] A primeira edição da Copa do Mundo FIFA depois da Segunda Guerra Mundial ocorreu no Brasil em 1950. A conquista da seleção uruguaia no lembrado Maracanaço coroou uma revitalização da FIFA e do futebol mundial.[58]
+Consolidação
+Jogo entre Alemanha e Portugal na Copa do Mundo FIFA de 2006.
+Ryan Valentine marca para o Wrexham durante um jogo da Football League Two.
+A segunda metade do século XX foi a época de maior crescimento do futebol. O futebol sul-americano já se encontrava organizado desde 1916, ano no qual foi fundada a Confederação Sul-Americana de Futebol,[59] mas o desporto em outras regiões começaria a se organizar nos anos 1950 e 60. Em 1954 e 1955 o futebol europeu e asiático passou a ser regido pela União das Associações Europeias de Futebol (UEFA) e a Confederação Asiática de Futebol (AFC) respectivamente.[60][61] Na África, foi fundada a Confederação Africana de Futebol (CFA) em 1956;[62] na América do Norte, a Confederação de Futebol da América do Norte, Central e Caribe (CONCACAF) em 1961;[63] e por último na Oceania, a Confederação de Futebol da Oceania (OFC) em 1966.[64] Estas organizações se afiliaram à FIFA sob o estatuto de confederações.[65]
+Paralelamente às criações das novas confederações iniciaram-se as disputas dos primeiros torneios regionais de seleções, exceto a Confederação Sul-Americana de Futebol, que já disputava seu Campeonato Sul-americano de Seleções desde 1916.[54] Em 1956 a AFC realizou a primeira edição da Copa da Ásia,[66] e no ano seguinte a CFA organizou a Copa Africana de Nações.[67] Em 1960 foi criado o Campeonato Europeu de Futebol (Eurocopa), que agrupa as seleções da UEFA.[68] Por sua vez, a CONCACAF organizou pela primeira vez a Copa CONCACAF em 1963, que mais tarde seria substituída pela Copa Ouro.[69] A Confederação de Futebol da Oceania foi a última a criar seu próprio torneio, a Copa das Nações da OFC, realizada pela primeira vez em 1973.[70]
+Devido à criação das confederações começaram-se a disputar os primeiros campeonatos internacionais em nível de clubes, sendo a primeira de seu tipo a Liga dos Campeões da UEFA, que reunia os campeões das principais ligas dos países da UEFA a partir de 1955.[71] Cinco anos mais tarde se iniciou a Copa Libertadores da América, evento máximo para clubes de futebol afiliados à CONMEBOL, que foi disputada pela primeira vez em 1960.[72] Nesse mesmo ano foi disputada a primeira edição da Copa Intercontinental, que reuniu os campeões de ambos torneios. Este torneio foi substituído em 2005 pela Copa do Mundo de Clubes da FIFA,[73] campeonato que já havia tido uma edição em 2000. Este torneio passou a ser disputado por representantes de todas as confederações.[74]
+Enquanto isso, a Copa do Mundo FIFA se consolidou como o evento desportivo de maior importância no mundo inteiro, inclusive superando em audiência os próprios Jogos Olímpicos.[15]
+Futebol feminino
+Ver artigo principal: Futebol feminino
+Uma partida de futebol feminino.
+O futebol feminino tem apresentado um crescimento lento atualmente, principalmente devido a obstáculos sociais e culturais que não permitem o ingresso pleno da mulher ao desporto.[75] O primeiro jogo feminino sob as regras de futebol do qual se tem registros ocorreu em 1892, na cidade escocesa de Glasgow.[76] No final de 1921 o futebol feminino foi proibido na Inglaterra, ação não seguida por outros países do mundo. Em 1969 o futebol feminino voltou a ser realizado na Inglaterra, motivo pelo qual começou a se expandir fora do seu território. A primeira partida internacional de seleções de futebol feminino ocorreu em 1972, casualmente 100 anos depois do primeiro encontro masculino, onde a Inglaterra venceu a Escócia por 3 a 2.[76] Os primeiros torneios mundiais começaram a ser disputados nos anos 1990: a Copa do Mundo de Futebol Feminino a partir de 1991 e como desporto olímpico desde 1996.
+Segundo uma pesquisa realizada pela FIFA, existem cerca de 26 milhões de jogadoras no mundo. Em média, para cada 10 futebolistas (de ambos sexos) existe uma jogadora no mundo.[13]
+Influência no mundo
+Difusão
+O futebol vem cada vez mais se tornando um desporto popular em vários países sem muita tradição neste desporto. Esta é uma tendência mundial.[77] Especialmente porque para se jogar futebol precisa-se de poucos recursos e equipamentos, uma bola e uma área plana (ou nem isso). Tanto em países pobres como em países mais desenvolvidos, como Estados Unidos, Coreia do Sul e Japão, vem ocorrendo uma popularização desse desporto.[78]
+Inovações tecnológicas
+As inovações tecnológicas têm contribuído para a difusão do esporte no mundo. A tecnologia também vem sendo cada vez mais utilizada para mostrar imprecisões nas decisões do árbitro. A televisão, e os recursos de alta resolução de vídeo demonstram para o telespectador todas as nuances de uma partida em tempo real. Assim é possível visualizar diversos ângulos de uma jogada, que muitas vezes a equipe de arbitragem, os jogadores e os torcedores em campo não poderiam ver.[79][80]
+Recentemente na Copa do Mundo de 2006, na Alemanha foram dispostos telões de grandes dimensões nos estádios. As imagens televisivas permitem à torcida rever detalhes ampliados das jogadas. Porém, os lances polêmicos não são mostrados em replays nos telões dos estádios. Também, os árbitros têm usado, durante a jogo, um discreto sistema de radiocomunicação, que permite a troca de informações entre a equipe de arbitragem.[81][82]
+Outro aspecto importante nos desportos, e particularmente no futebol, é o emprego de tecnologia para a análise dos jogos através do scouting (quantificação das ações que acontecem em uma partida de futebol, desde o tempo dos gols marcados, até número de escanteios, impedimentos ou qualquer outra ação pertinente à disputa). Antes feito com anotações manuscritas, o scout técnico já pode ser feito com o auxílio de sistemas computadorizados que são capazes até de fornecer dados em tempo real para técnicos, imprensa e torcedores.[83]
+Popularidade
+Mapa comparativo da popularidade do futebol a nível mundial. Os países que são representados pela cor verde são os que possuem maior número de jogadores ativos para cada 1 000 habitantes
+Segundo uma pesquisa realizada pela FIFA no ano de 2006,[13] aproximadamente 270 milhões de pessoas no mundo estão ativamente envolvidos no futebol, incluindo jogadores, árbitros e diretores. Destas, 265 milhões jogam o desporto regularmente de maneira profissional, semiprofissional ou amadora, considerando tanto a homens, mulheres, jovens e crianças. Este valor representa cerca de 4% da população mundial. A confederação com maior porcentagem de pessoas ativamente envolvidas com o futebol é a CONCACAF, com cerca de 8,53% da população. Em contrapartida, na região da AFC esta porcentagem é de somente 2,22%. A UEFA tem uma porcentagem de participação de 7,59%; a CONMEBOL, de 7,47%; a OFC, de 4,68%; e a CFA, de 5,16%. Existem mais de 1,7 milhões de equipes no mundo e aproximadamente 301 mil clubes.[nota 2]
+O país com mais jogadores que regularmente atuam (exceto crianças) é a China Continental, que possui 26,1 milhões de futebolistas. Em seguida vêm: Estados Unidos (24,4 milhões), Índia (20,5 milhões), Alemanha (16,3 milhões), Brasil (13,1 milhões) e México (8,4 milhões). Por outro lado, a entidade com menor quantidade de futebolistas regulares (excetuando-se crianças) é Montserrat, com apenas 300 jogadores, seguido das Ilhas Virgens Britânicas (658), Anguila (760) e as Ilhas Turcas e Caicós (950).[84]
+Economia
+Objetos personalizados como esta bola do Brasil são claros exemplos de merchandising.
+Segundo estimativas da FIFA, durante o período 2003-2006 este organismo teve uma receita de 3 238 milhões de francos suíços (CHF)[85] e gastos de 2 422 milhões de CHF, o que gerou um superávit de 816 milhões de CHF. 92% (2 986 milhões de CHF) das receitas estão relacionadas com as competições internacionais, particularmente a retransmissão por televisão da Copa do Mundo FIFA de 2006, que responde por 1 660 milhões de CHF desse valor. O restante das receitas se dividem em partes iguais entre receitas financeiras e outras receitas operacionais. Do total das receitas, 714 milhões de CHF foram obtidas por direitos de merchandising. Muitos destas receitas são obtidas em pontos de venda nos arredores dos estádios da Copa do Mundo.[86] Quanto aos gastos, 69% (1 682 milhões de CHF) dos mesmos estão relacionados à organização de campeonatos e ao desenvolvimento do desporto: 46% dos gastos totais (1 125 milhões de CHF) e 23% (557 milhões de CHF) respectivamente. 26% (622 milhões de CHF) são utilizados para gastos operacionais, como transportes, alugueis, gastos jurídicos, comunicações, entre outros. Os 5% restantes (118 milhões de CHF) corre por efeitos de câmbios de divisas e juros.[85][87]
+Os orçamentos dos clubes de futebol podem ser encontrados em diferentes valores dependendo da região do mundo onde se encontram. Os maiores orçamentos podem ser encontrados na Europa, particularmente nas principais ligas da Alemanha, Espanha, Itália e Inglaterra.[88] Em grande parte da América do Sul as maiores receitas se devem às transferências de jogadores às ligas europeias, aos fundos fornecidos por transmissões de televisão e a publicidade nas camisetas.[89][90] Na Europa, os direitos televisivos, a publicidade, a venda de ingressos e o merchandising cobrem grande parte do orçamento.[91][92]
+O futebol também desempenha um papel de solidariedade. Uma das principais contribuições da FIFA ao desenvolvimento do desporto em áreas onde tal fato é dificultado pela falta de materiais e técnicas de desenvolvimento é o Programa Goal. A FIFA também trabalha com o UNICEF desde 1999, fornecendo material de trabalho relacionado com o futebol para que este seja distribuído por esta organização da ONU.[93] Regularmente são realizados em todo o mundo jogos amistosos com propósitos beneficentes, cujos idealizadores frequentemente são estrelas do futebol mundial.[94][95][96]
+Cultura
+Representação de um par de chuteiras por um artista plástico, incluída no Walk of Ideas
+O Fußball Globus em Nuremberga.
+A cultura é o conjunto de expressões de uma sociedade, e como tal o futebol não está isento da mesma. Um dos institutos que promovem o futebol como cultura a nível mundial é o Instituto Goethe, que realizou exposições pelo mundo cujos temas eram o futebol.[97]
+Uma importante mostra de cultura ocorreu durante a Copa do Mundo FIFA de 2006, disputada na Alemanha. O Walk of Ideas, como foi chamada, era composta de uma série obras plásticas que representavam a Alemanha, sendo uma delas um par de chuteiras.[98]
+O design gráfico engloba parte da cultura deste desporto, uma vez que a concepção de cartazes e outros elementos gráficos devem representar o país onde é realizada a competição a que foram atribuídas essas obras. Também vale destacar trabalhos como os do humorista gráfico e escritor argentino Roberto Fontanarrosa, já que muitos dos mesmos estavam relacionados com o futebol.[99]
+A relação com a literatura foi mais difícil. Tendo sido popularmente rejeitado pelos escritores desde seu início, somente a partir dos anos 1960 e 1970 os literatos começaram a abordar o mundo do futebol.[100] Esta aproximação pode ser relacionada com o auge dos estudos semióticos, que revalorizaram as manifestações culturais de carácter popular e massiva.[101]
+No cinema e na televisão aparecem muitos temas relacionados a esse desporto. Em relação ao primeiro, existem muitos filmes dedicados a este jogo, ainda que poucas criadas com o apoio da FIFA. Dentro das mais conhecidas destacam-se a trilogia Goal!: Goal! (2005), Goal II: Living the Dream (2007) e Goal! 3 (2008), todas com o apoio da FIFA.[102] A FIFA também lançou um filme relacionado com a Copa do Mundo FIFA de 2006.[103] Na televisão pode-se destacar séries animadas como o anime japonês Captain Tsubasa, que praticamente popularizou o futebol no Japão; também pode-se mencionar produções mexicanas[104] e argentinas[105] que o tratam como tema central e secundário.
+Em relação à música, Voices from the FIFA World Cup contém uma série de canções de autores conhecidos. Este foi o álbum musical feito para a celebração da Copa do Mundo de 2006, na Alemanha.
+A relação entre os videogames e o futebol é muito produtiva. Um dos primeiros jogos eletrônicos futebolísticos bem-sucedidos foi o Peles Soccer, do console Atari 2600.[106] Muitas edições se tornaram clássicos, como o FIFA Séries, o Pro Evolution Soccer/Winning Eleven e o PC Fútbol.
+As regras
+Ver artigo principal: Regras do futebol
+O futebol infantil é um claro exemplo de variação das regras, onde destaca-se o tamanha do campo e o número de jogadores por equipe
+O futebol é regido atualmente por 17 regras, as quais são utilizadas mundialmente, ainda que dentro das mesmas são permitidas certas modificações para facilitar o desenvolvimento das modalidades feminina, infantil e veterana.[107] Embora as regras sejam claramente definidas, existem certas diferenças na aplicação das mesmas que devem-se a vários aspectos. Um aspecto importante é a região onde é realizado o jogo. Por exemplo, na Europa, particularmente na Inglaterra, os árbitros se destacam por ser mais brandos com as faltas e infrações, reduzindo desta maneira as advertências e expulsões, enquanto que em outros lugares, por exemplo na América do Sul, as faltas são penalizadas com cartões com mais frequência.[108]
+As regras do jogo estão definidas pela International Football Association Board, organismo integrado pela FIFA e pelas quatro associações do Reino Unido. Para aprovar-se uma modificação as mesmas devem ter pelo menos os votos da FIFA e de 2 dos 4 votos das associações britânicas.[109]
+Campo de jogo
+Campo de jogo do futebol, padrão 4136 m²
+O goleiro ou guarda-redes pode tocar a bola com suas mãos
+O futebol se joga num campo de grama natural ou sintética de forma retangular. As medidas são regulamentadas pela International Football Association Board (IFAB) baseadas no sistema imperial
+As dimensões permitidas do terreno são de 90 a 120 metros (100 a 130 jardas) de comprimento e de 45 a 90 metros (50 a 100 jardas) de largura, mas para partidas internacionais se recomenda as seguintes medidas: entre 100 e 110 metros (110 a 120 jardas) de comprimento, e entre 64 e 75 metros (70 a 80 jardas) de largura. Em 2008 a IFAB lançou a recomendação de de 105 metros de comprimento por 68 metros de largura. As duas linhas localizadas ao longo do terreno recebem o nome de linhas laterais, enquanto que as outras são chamadas linhas de fundo. Os pontos no meio de cada linha lateral são unidos por outra linha, a linha de meio.[110][111] O círculo central e o que circunda a marca do pênalti possui raio de 9,15 metros (10 jardas).
+As grandes áreas são áreas retangulares localizadas no centro dos golos e adentrando-se no campo. As linhas que delimitam a grande área são traçadas a 16,5 metros (18 jardas) dos postes verticais, adentrando-se também 16,5 metros ao interior do campo, e unidas por outra linha maior. O traçado da pequena área e semelhante, mas com uma medida de 5,5 metros (6 jardas).[112]
+Sobre o centro de cada linha de fundo e adentrando-se no campo ficam a grande área, as pequena área e as balizas. As chamadas balizas, também conhecidas como goleiras, gols ou golos, são constituídas de dois postes verticais (conhecidos como traves) de localizados a 7,32 metros de distância um do outro com 2,44 metros de altura e sobre o centro de cada linha de fundo. As partes superiores dos postes são unidas por outro poste horizontal, conhecido como travessão.[111][112]
+Finalidade das marcações do campo de jogo
+Arco-penal – popularmente conhecida por meia-lua, tem como objetivo determinar a distância de 9,15 m que os demais jogadores que não estão envolvidos nas cobranças de penais devem permanecer, somente o cobrador e o goleiro podem ficar a frente dessa marca;
+Área de meta – popularmente conhecida como pequena área, tem um diâmetro de 5,5 m, ela objetiva delimitar espaço para cobrança do tiro de meta, presta-se também a delimitar o espaço para cobrança de tiro-livre indireto caso ocorra este tipo de falta dentro da área, nesse caso a barreira não fica na distância do 9,15 m regulamentares e sim no máximo em cima da linha de meta ou linha de gol;
+Área penal – popularmente chamada de grande área, marca o espaço onde o goleiro pode usar as mãos para defender sua meta, marcar também o espaço onde faltas podem se tornar penalidade máxima;
+Tiro penal – popularmente conhecida como marca do pênalti, marca a distância de 11 m até a linha do gol para a cobrança de pênaltis;
+Arco de Canto – Espaço conhecido como marca de escanteio, espaço para que se possa executar a cobrança de escanteios;
+Linha Lateral – às vezes chamada de linha de canto, serve para delimitar o espaço final de jogo, se a bola ultrapassar essa linha deve ser marcado falta e cobrado o lateral;
+Linha de Meta – chamada também de linha de fundo, marca o espaço máximo do gol, se a bola ultrapassar essa linha marca falta para cobrança de escanteio ou tiro de meta. Se a bola passar pelo espaço do gol, então é assinalado gol e a cobrança é feita no ponto central;
+Bandeirinha de canto – Tem como finalidade facilitar a definição de escanteio/tiro de meta e lateral, o mastro fica cravado sobre o encontro de ambas as linhas de lado e fundo, quando a bola bate no mastro e volta, a bola continua em jogo, sem marcação de falta;
+Círculo Central – sua finalidade é delimitar o espaço no qual os jogadores que darão o toque inicial para colocar a bola em jogo terão sem que haja interferência do adversário, somente o ou os cobradores podem ficar dentro do círculo nos instantes do primeiro toque, a bola deve sempre se cobrada para frente, para o lado do campo adversário;
+Ponto Central – é a marca que define onde a bola deve ser coloca sem movimento para o início ou reinício da partida;
+Linha de meio-campo – é a marcação que define os campos de jogo de cada time.
+Início do jogo
+Cada um dos dois times joga com no máximo 11 jogadores e no mínimo 7. Durante a partida pode-se substituir jogadores por outros, denominados reservas. Um dos jogadores titulares deverá ser o goleiro ou guarda-redes. É permitido que um goleiro e outro jogador da equipe troquem de posição durante o jogo, se for durante o intervalo e com o consentimento do árbitro.[113][114]
+Cada jogador deverá utilizar um vestuário básico, que é constituído de uma camiseta ou camisa com mangas, bermudas, meias, caneleiras e uma chuteira. As cores do vestuário de ambas as equipes e a de ambos os goleiros devem ser claramente diferentes. Os capitães (jogadores representantes de cada equipe) devem ter alguma marca identificadora para ser chamados pelo árbitro quando for necessário, que geralmente é um bracelete.[115]
+O futebol é jogado com uma bola de forma esférica que deve ser de couro ou outro material adequado. Sua circunferência deve ser entre 68 e 70 centímetros, sua massa de 410 a 450 gramas e sua pressão de 0,6 a 1,1 atmosferas ao nível do mar. Os jogadores podem tocar e mover a bola com qualquer parte de seu corpo, exceto os membros superiores. O goleiro tem a vantagem de poder utilizar qualquer parte de seu corpo para isto, mas somente dentro de sua grande área.[112]
+Cada jogo é controlado por um árbitro principal designado pela organização da competição em questão, que será a autoridade máxima da partida e o encarregado de fazer cumprir as regras do jogo. Todas as decisões do árbitro são definitivas. Somente ele pode modificar uma decisão, sempre que não tenha retomado o jogo ou a partida tenha sido finalizada. Além disso tem a sua disposição dois bandeirinhas para ajudá-lo na tomada de decisões. Possui também um quarto árbitro a seu dispor que é o que confirma, e além disso controla os reservas e o corpo técnico. O quarto árbitro também indica as substituições e o aumento do tempo regulamentar.[116]
+Para iniciar o jogo, um ou mais jogadores de uma equipe movem a bola do meio de campo, momento quando começa a correr o tempo regulamentar. Esta situação se dá com a equipe adversária no início do segundo tempo. Também ocorre depois de cada gol marcado, quando a equipe que o sofreu executa a ação.[114]
+Duração e resultado
+Diagrama apresentando tempos e métodos de desempate no futebol
+Embora o regulamento não especifica um tempo fixo de duração das partidas, recomenda-se 90 minutos por jogo, divididos em dois tempos de 45 minutos, com quinze minutos de intervalo entre ambos os períodos. Cada competição fixa um tempo para cada partida da mesma, mas durante elas sempre perde-se tempo de jogo por várias razões, como substituições e faltas. Por isso o árbitro principal de cada jogo pode adicionar minutos extras em cada tempo.[114]
+O objetivo do desporto é marcar mais golos que o rival. Considera-se que uma equipe marcou um gol quando se introduz a bola por completo entre as traves verticais e por debaixo do travessão do rival, sempre e quando não é cometido uma infração às regras do jogo previamente. O gol é a única forma de marcar no futebol, situação que não ocorre em outros códigos de regras do futebol. Se ambas as equipes marcam o mesmo número de golos, a partida é considerada empatada.[117][118]
+Em muitos casos, quando a partida termina em empate, busca-se alguma forma para que uma da equipes seja considerada vencedora do jogo, e para alcançar isto existem várias formas. Se a partida fica empatada, pode-se jogar uma prorrogação, que é constituída de dois tempos, geralmente de 15 minutos cada um, dando-se continuidade à partida inicial. Além disso, existiam duas formas em que a prorrogação termine antes do tempo previsto: o morte súbita (gol de ouro) e o gol de prata. Esses métodos foram abolidos em 2004.[119]
+Se a igualdade persistir, ocorrerá uma disputa por pênaltis, que consiste em cada equipe execute cobranças de pênalti de forma alternada até totalizar cinco cada uma. Se ao término das dez cobranças a igualdade permanecer, se continuará cobrando um pênalti por equipe até que se defina um vencedor.[120]
+A baliza do futebol, onde se marcam os golos.
+A utilização da prorrogação e da disputa por pênaltis é uma forma muito utilizada no futebol contemporâneo, sendo o principal exemplo disso as fases eliminatórias da fase final da Copa do Mundo FIFA. Em algumas competições é realizada a cobrança de pênaltis logo após o término do tempo regulamentado, sem passar por uma prorrogação. Um bom exemplo deste sistema são as fases eliminatórias da Copa América.[107]
+Em todos estes exemplos se joga uma única partida, mas existem outros torneios onde as fases eliminatórias são jogadas em duas partidas, as chamadas partidas de ida e volta. Para determinar se a chave (ambas as partidas) terminou em empate, são somados os golos a favor de ambas as equipes nas duas partidas, e se resultam no mesmo número de golos para cada uma das duas equipes, diz-se que a chave terminou empatada. Em alguns casos, se a chave termina empatada, utiliza-se um sistema de desempate com prorrogação ou pênaltis, que são realizados ao término da segunda partida da chave.[107]
+Em algumas chaves eliminatórias considera-se outra forma de desempate prévio à prorrogação ou os pênaltis: os golos do visitante. Se ao término de ambas as partidas ninguém supera o rival em número de golos, conta-se o número de golos convertidos por cada time na partida que jogou como visitante. Se uma equipe marca mais golos como visitante depois de jogadas as partidas, será a vencedora da chave, mas se persistir o empate também nesse critério, realizar-se-a a prorrogação e disputa de pênaltis. Um exemplo deste sistema são as fases eliminatórias da Copa Libertadores da América e da Liga dos Campeões da UEFA.[107]
+Faltas e reinício do jogo
+O árbitro advertirá a um jogador quando este comete uma infração que deva motivar esta advertência
+As faltas na área são punidas com um pênalti.
+Cada vez que um jogador golpeie ou tenta golpear outro jogador, o empurre, o retenha para obter vantagem, cuspa-no ou toque a bola com seus membros superiores (exceto o goleiro), o árbitro marcará um tiro livre direto a favor da equipe que recebeu a infração, que se realizará desde o local da infração. Se ocorrer dentro de uma das áreas, independentemente da posição da bola, e se esta estava em jogo, é marcado um pênalti contra a equipe infratora.[121]
+Se um jogador joga de forma perigosa, dificulta a um adversário ou impede o goleiro de pegar a bola com suas mãos, é marcado um tiro livre indireto a favor da equipe que recebeu a infração, que será cobrado do local onde ocorreu a infração. Além disso, será marcado um tiro livre indireto se o goleiro manter a bola em suas mãos por mais de seis segundos ou tocar a bola logo depois de tê-la tocado e a soltado (exceto se o árbitro entender que não havia como não soltá-la), tê-la recebido de um companheiro ou diretamente de um arremesso lateral.[121]
+Um jogador poderá receber um cartão amarelo (advertência) ou vermelho (expulsão), se cometer algumas infração das especificadas no regulamento. Se um jogador recebe um cartão vermelho, será expulso de campo e não poderá ser substituído por outro. Se um jogador recebe dois cartões amarelos em uma mesma partida, receberá um cartão vermelho e será expulso. Os cartões são uma forma de fazer o cumprimento das regras do jogo pelos jogadores.[121]
+Se a bola sai de campo pela linha de fundo logo após ser tocada por um jogador da equipe que está na defensiva, será concedido uma cobrança de escanteio ao time rival. Se for tocada pela última vez por um jogador do time atacante, será concedido um tiro de meta à equipe adversária.[122] Caso a bola sai de campo por uma das linhas laterais, o time adversário ao do jogador que tocou-a pela última vez terá direito a um arremesso lateral.[123]
+Impedimento
+Ver artigo principal: Impedimento
+O impedimento é uma regra para impedir a chamada banheira (gíria do futebol para os jogadores que ficam só dentro da área penal adversária esperando pela bola). Ela caracteriza-se quando um jogador que poderia receber um passe, no momento em que este é executado, não tem entre si e a linha de fundo adversária pelo menos dois jogadores do outro time.[117]
+Quando um jogador não está em posição de impedimento, diz-se que há jogadores adversários dando condições a ele. Os jogadores que dão condições ao atacante podem ser um goleiro e um jogador de linha ou dois jogadores de linha.[117]
+As exceções à regra do impedimento são unicamente os casos de lançamentos diretos de tiros de meta, arremessos laterais, escanteio; e situações específicas: quando o jogador a receber o passe encontra-se no campo de defesa ou quando está atrás da linha da bola.[117]
+Esquemas táticos
+Ver artigo principal: Posições no futebol, Esquemas táticos e futebolista
+As regras do futebol não determinam especificamente outras posições além do guarda-redes. Porém, com o desenvolvimento do jogo, um certo número de posições especializadas foi criada. As posições principais no futebol são:[124]
+O guarda-redes ou goleiro é quem protege a baliza. É o único jogador que pode usar as mãos, e mesmo assim só pode usá-las dentro da área de baliza e tem o tempo de 6 segundos para recolocá-la em jogo. A sua função é impedir que a bola passe pelas traves da baliza.
+Os centrais ou zagueiros têm a função de ajudar o goleiro a proteger a baliza, tentando desarmar os atacantes adversários.
+Os laterais ocupam as laterais do campo. Também ajudam o goleiro a proteger a baliza e normalmente são os responsáveis de repor a bola em jogo quando esta sai pelas linhas laterais do campo.
+Os médios, meias, meio campistas têm basicamente a função de fazer a ligação entre a defesa e o ataque da equipe, atuando tanto na marcação como nas jogadas ofensivas.
+O avançado ou atacante tem a função fundamental de fazer o gol logo estão normalmente no campo adversário.
+As posições definem a área do campo de atuação de um jogador, mas não o prendem a ela. Jogadores podem trocar de posições, sendo isso bem frequente. Os goleiros têm uma mobilidade menos versátil por sua função, mas também podem participar de cobranças de faltas e escanteios.[124]
+O número de jogadores em cada posição define o esquema tático do time, sendo os mais comuns na atualidade o 4-4-2, o 3-5-2 e o 4-5-1. A seleção italiana, no entanto, foi campeã da Copa do Mundo FIFA 2006 utilizando o esquema tático 4-4-1-1. Os números indicam a ordem sequencial de jogadores nas posições: o 4-4-1-1, por exemplo, significa que a Itália jogava com quatro jogadores mais defensivos( incluindo defesas centrais e laterais, que podem ser mais ofensivos, sendo aí chamados no Brasil de alas), 4 médios, 1 médio ofensivo e 1 avançado ou ponta de lança.[124]
+Outras variedades do futebol
+Existem dois tipos de variação futebolística: Os que têm regras herdadas da Football Association (criada em 1863), descendem principalmente do association football (traduzido em português como futebol associativo, mas que com o tempo ficou a ser conhecido simplesmente como futebol); e o segundo, com regras herdadas do Rugby Football Union (criada em 1871 por 21 clubes ingleses que se opuseram à regra de não poder colocar a mão na bola), descendem principalmente do rugby football (traduzido em português como futebol râguebi, mas que com o tempo ficou conhecido simplesmente como râguebi), e acabaram por formar desportos característicos quase que exclusivamente de países anglófonos.[125]
+O futebol possui diversos desportos derivados das regras estabelecidas pela FIFA (originalmente pelo The Football Association) e pelo International Rugby Board (originalmente pelo Rugby Football Union, não reconhecido em países neolatinos como tipos oficiais de futebol); ambos possuindo em sua maioria versões modificadas das regras para determinado piso (areia, quadra) ou ao tamanho ou característica destas (paredes ao invés de laterais, campos gramados menores).[125]
+Futebol de salão
+Ver artigo principal: Futsal
+O futebol de salão ou futsal é jogado entre duas equipes de 5 jogadores cada uma, sendo um deles o goleiro. É disputado em dois tempos de 20 minutos cada um. Cada jogo é realizado sobre uma superfície de material sólido com cerca de 40 por 20 metros. As outras regras são praticamente iguais às do futebol tradicional, com poucas diferenças, como a ausência do impedimento e o uso dos pés para cobrar os arremessos laterais.[126]
+Desde 1989 é realizado o Campeonato Mundial de Futsal, equivalente à Copa do Mundo FIFA para este desporto, que também é organizado pela FIFA.[127]
+Futebol de areia
+Ver artigo principal: Futebol de areia
+Assim como o futsal, o futebol de areia possui grandes semelhanças com o futebol tradicional. Participam duas equipes de cinco jogadores cada uma, sendo um deles o goleiro. Joga-se num campo de cerca de 35 por 25 metros, que é coberto inteiramente por areia. Cada partida é constituída de três tempos de 12 minutos cada um e, diferentemente de outras variantes do futebol, o tempo para quando o árbitro marca um tiro livre, marca um pênalti ou consta que um jogador está fazendo o tempo passar de forma inapropriada. Todos os tiros livres são diretos e sem barreira da equipe adversária. Se um jogador recebe dois cartões amarelos, receberá um cartão azul e deverá sair do campo de jogo por 2 minutos, sem poder ser substituído por outro jogador. Se um jogador recebe um cartão vermelho ou três amarelos, será expulso e não poderá ser substituído por outro. Os arremessos laterais podem ser executados com os pés. As outras regras são praticamente iguais às do futebol tradicional.[128]
+A competição mais importante atualmente é a Copa do Mundo de Futebol de Areia, que é disputada desde 1995, ainda que somente a partir de 2005 sob a organização da FIFA.[129]
+Futebol de pântano
+Ver artigo principal: Futebol de pântano
+É uma variação do futebol tradicional. O esporte teve origem na Finlândia, mas foi no Reino Unido que ganhou um campeonato mundial.[130]
+Futebol paraolímpico
+Atualmente, particularmente nos Jogos Paraolímpicos, existem duas versões do futebol adaptadas a pessoas com algum tipo de deficiência: o futebol de cinco, para pessoas que sofrem de cegueira, e o futebol de sete, para atletas com paralisia cerebral. Utilizam-se as regras similares às do futebol tradicional e às do futsal, mas com modificações para adaptá-las à deficiência em questão.[131][132]
+O futebol de cinco é jogado entre duas equipes de cinco jogadores cada uma, onde um deles, o goleiro, não pode sofrer de cegueira total (cegueira B-1). Para evitar fraudes, os 4 jogadores de campo usam uma venda sobre seus olhos, independentemente de seu nível de cegueira. É jogado em dois tempos de 25 minutos cada um. O campo de jogo possui um formato retangular, seu comprimento é de 38 a 42 metros e sua largura possui entre 18 e 22 metros. Possui uma baliza, uma grande área e outras características similares à do futebol tradicional. Utiliza-se uma bola que ao girar sobre si mesma emite um som claramente identificável pelos jogadores. O objetivo do jogo é marcar mais golos que o adversário e para isto deve-se passar a bola pela baliza do rival, utilizando qualquer parte do corpo, exceto os membros superiores. Como no futebol tradicional, cada jogo é controlado por vários árbitros, que são encarregados de fazer cumprir as regras e punir aos jogadores se for necessário.[131][133]
+O futebol de sete é praticamente igual ao futebol tradicional. As diferenças mais notórias são o fato de o campo e as balizas serem menores, o número de jogadores por equipe (7 ao invés de 11), a inexistência da regra do impedimento e a liberdade para efetuar um arremesso lateral da forma que o jogador preferir. Somente podem participar jogadores que sofram paralisia cerebral de classe 5 a 8.[132]
+Showbol
+Ver artigo principal: Showbol
+O Showbol é muito parecido com o futsal, mas em um campo menor. Foi criado em 2007 e, ainda que não é muito conhecido pelo mundo, na América do Sul ganhou muitos adeptos. A ideia foi divulgada pelos ex-jogadores Diego Armando Maradona (argentino) e Iván Zamorano (chileno). Basicamente é uma espécie de Show a base do futebol; onde os jogadores são reconhecidos ex-jogadores de futebol tradicional. Há várias seleções de Showbol, destacando-se a argentina, a chilena, a peruana, a uruguaia, a brasileira e a mexicana.[134]
+Outras variantes
+Um jogador efetua uma bicicleta durante um jogo de bossaball na Espanha.
+À parte de todas as variantes supracitadas, existem outros desportos que possuem grandes semelhanças com o futebol tradicional ou que mesmo combinam aspectos de outros desportos, ainda que as regras dos mesmos variam de acordo com o local onde são jogados e aos meios disponíveis.
+O jogo denominado bossaball ou futevôlei inflável combina aspectos do futebol tradicional e do voleibol. Baseado nas regras do voleibol, é jogado sobre uma superfície de colchões infláveis e camas elásticas, o que permite maior número de toques e uma maior disputa pelos pontos nos saltos. Joga-se entre duas equipes de até 5 jogadores, que devem passar a bola por cima da rede utilizando qualquer parte de seu corpo, mas com um número limitado de toques.[135]
+O futetênis, como o nome indica, combina aspectos do futebol tradicional e o ténis. É jogado sobre um terreno similar ou igual ao campo de ténis, onde cada uma das duas equipes deve passar a bola por cima da rede utilizando a cabeça e os pés. A altura da rede pode variar, com que o terreno poderia ser substituído por uma quadra de voleibol.[136]
+Nos Estados Unidos também foi criado o footbag, esporte que tem por objetivo manter uma pequena bola no ar por meio de chutes.[137] Uma adaptação deste esporte é o futebol de saco, criado no Brasil,[138] que guarda uma semelhança com o tênis e futevôlei.[139][140]
+Variações Independentes
+Futebol Society: Variação jogada em campos gramados (ou artificiais) menores, com pelo menos sete metros de cada lado. Já existem campeonatos amadores na América do Sul.[141]
+Futebol de Salão Fifusa: Muitíssimo parecido com o Futsal, é decorrente de uma rixa entre a FIFA e a FIFUSA que era a única federação internacional de futebol de salão, As regras são consideradas mais clássicas, tendo a bola um pouco menor e mais pesada, entre outras diferenças.[142]
+Rush goalie: Praticado na Europa, Basicamente é um futebol Society onde a posição de guarda-redes não é definida podendo ser desempenhada por qualquer um dos jogadores mas não ao mesmo tempo. Em algumas variedades o guarda-redes temporário tem de avisar com um grito que está assumindo a posição.[143]
+Variações do râguebi nomeadas como futebol
+Estes desportos surgiram como tipos de râguebi do desmembramento do Rugby Football Union do Football Association em 1871 (na Inglaterra), para proteger a tradição dos clubes ingleses que permitiam o futebol em que pode-se colocar as mãos na bola; em algumas línguas também são nomeadas como futebol. A variedade mais conhecida é o futebol americano, também conhecido em alguns países anglófonos como gridiron, que é uma ramificação do râguebi praticado nos Estados Unidos.[144] Há também o futebol canadense, que é parecido com o futebol americano, mas preservou algumas regras originais do râguebi inglês;[145] o futebol australiano, que é uma ramificação do râguebi praticado nos países da Oceania;[146]
+e o futebol gaélico, conhecido também como Peil ou Caid, que é praticado na Irlanda e aparenta-se, grosso modo, como uma mistura de futebol, râguebi e andebol.[147]
+Jogos de mesa e outros
+Jovens jogam futebol de mesa em Nova Iorque.
+Um dos jogos de mesa mais tradicionais relacionados com o futebol é o futebol de mesa ou matraquilhos. O mesmo é constituído de uma mesa com uma réplica de campo de futebol em seu interior, a qual possui vários bonecos representando os futebolistas. A mesa é atravessada por uma série de barras rotativas onde se encontram os jogadores. Cada uma das equipes tem suas barras de forma alternada. Essas barras são giradas com as mãos através de borrachas localizadas nas extremidades das barras. Embora este jogo possua caráter informal, particularmente por suas regras e o formato da mesa, existe uma organização chamada International Table Soccer Federation, que estipula regras[148] e organiza campeonatos de forma regular.[149]
+Também vale ressaltar o subbuteo, um jogo de mesa similar ao futebol de mesa, onde a principal diferença é que os jogadores não se encontram presos em uma barra, mas sim apoiados individualmente sobre uma espécie de pedestal de forma côncava. Para que um jogador possa mover a bola deve-se pegar com o dedo um dos bonecos para que este golpeie o esférico.[150]
+O futebol também tem uma grande importância para programação de videojogos e robôs. Em relação a videojogos destacam-se simuladores como FIFA e Pro Evolution Soccer (também conhecido como Winning Eleven), os quais permitem simular encontros de futebol controlando os movimentos dos futebolistas, e outros como Football Manager e Brasfoot, os quais permitem controlar equipes como dirigentes e técnicos. Também existem competições como a RoboCup, que simulam partidas de futebol utilizando pequenos robôs.[151]
+Entidades organizadoras
+Confederações da FIFA.   Confederação Asiática de Futebol (AFC) na Ásia e Austrália.   Confederação Africana de Futebol (CAF) na África.   Confederação de Futebol da América do Norte, Central e Caribe (CONCACAF) na América do Norte, Central e no Caribe (incluindo as Guianas).   Confederação Sul-americana de Futebol (CONMEBOL) na América do Sul (exceto as Guianas e Trinidad e Tobago.   Confederação de Futebol da Oceania (OFC) na Oceania (exceto a Austrália).   União das Associações Europeias de Futebol (UEFA) na Europa.
+O corpo diretor do futebol a nível internacional é a Federação Internacional de Futebol (Fédération Internationale de Football Association), mais conhecida pelo seu acrônimo FIFA, com sede em Zurique, Suíça. Este organismo se sustenta em cinco princípios principais para garantir o bom desenvolvimento do desporto: melhorar o futebol desde seu caráter universal, educacional e cultural, assim como melhorar os valores humanos que sustentam o mesmo; organizar competições do desporto; elaborar um regulamento para manter o espírito do jogo; controlar as distintas formas de futebol, adotando medidas para melhorar as mesmas; e impedir certas práticas que afetem a essência do desporto.[152]
+A FIFA não se dedica unicamente nos detalhes organizativos do desporto, mas também promove melhorias na infraestrutura futebolística de cada país, particularmente nos mais pobres, por meio do Programa Goal. O mesmo inculca aspectos táticos, técnicos, de saúde e organizativos às populações desses países, ajudando-os no crescimento do futebol interno. O Programa não financia a construção de estádios, mas apoia financiando centros de treinamento, material para treinar e elementos de oficina para as associações.[153] Atualmente 185 associações nacionais são beneficiadas pelo programa, que completou ou está organizando 292 projetos.[154]
+Devido ao constante crescimento da FIFA, foram criadas ao longo da história seis confederações regionais, cujos objetivos são similares aos da FIFA. As mesmas estão encarregadas de coordenar todos os aspectos do desporto em cada região. Para que uma associação seja membro de uma confederação, não deve necessariamente ser afiliada à FIFA.[65]
+Por sua vez, dentro de cada confederação há associações de futebol, que representam um país e, em algumas ocasiões, um território ou estado não reconhecido internacionalmente. Salvo casos excepcionais, há somente uma associação por país ou território, e em caso de existir mais de uma, somente uma pode estar afiliada a sua confederação.[155] Em alguns casos a associação principal do país tem afiliadas a ela outras sub-associações para ajudá-la na organização do desporto.[156] Cada associação organiza o futebol de seu país independentemente de sua confederação, mas em alguns casos, por exemplo, para classificar clubes para torneios internacionais, ditos clubes devem estar garantidos pela associação ante a confederação. Em alguns casos, uma equipe pode estar afiliada direta ou indiretamente a uma associação sem estar afiliada a uma confederação.
+Também é necessário mencionar a NF-Board, organização que agrupa as associações não afiliadas nem à FIFA, nem à nenhuma de suas confederações. A grande maioria de suas associações pertencem a territórios e estados não reconhecidos politicamente a nível internacional. A única competição desse organismo é a Copa do Mundo VIVA.[157][158]
+Principais competições internacionais
+Seleções
+Em nível de seleções nacionais, o torneio mais importante é a Copa do Mundo FIFA de Futebol, que é disputada desde 1930.[15] Antes da criação da Copa do Mundo, particularmente durante os anos 1920, a competição de futebol dos Jogos Olímpicos era considerada a principal competição do desporto, ainda que atualmente se mantém como um torneio secundário onde se permitem jogadores menores de 23 anos, com até três jogadores que extrapolem esse limite de idade por equipe. No futebol feminino, o equivalente à Copa do Mundo é a Copa do Mundo de Futebol Feminino.[159]
+A nível das confederações da FIFA, os torneios mais importantes são a Copa América (América do Sul) e Eurocopa (Europa),[160][161] e; embora com menos importância, a Copa Africana de Nações (África),[162] a Copa Ouro da CONCACAF (Américas do Norte, Central e Caribe),[163] a Copa Asiática (Ásia)[164] e a Copa das Nações da OFC (Oceania).[165]
+O torneio mais importante para jogadores jovens é a Campeonato Mundial de Futebol Sub-20,[166] que recebe equipes classificadas do Campeonato Sul-Americano de Futebol Sub-20 (América do Sul),[167] do Campeonato Europeu de Futebol Sub-19 (Europa),[168] do Campeonato Juvenil da CAF (África),[169] o Campeonato Sub-20 da Concacaf (Américas do Norte, Central e Caribe),[170] o Campeonato Juvenil da AFC (Ásia)[171] e o Campeonato Sub-20 da OFC (Oceania).[172]
+Clubes
+Em cada país os clubes de futebol frequentemente afiliam-se a associações ou ligas que organizam torneios oficiais entre eles, de onde surgem os campeões nacionais e as equipes que participarão de torneios internacionais. Não existe um sistema único de torneios e cada liga nacional os organiza de acordo a suas tradições. Em geral, a maioria dos países tem dois torneios principais no ano: Brasil (Brasileirão e Copa do Brasil),[173] Espanha (Liga e Copa do Rei),[174] Itália (Série A e Copa Itália),[175] etc. Em alguns casos os campeões de ambos os torneios disputam supercopas anuais e recopas entre si. A Inglaterra tem um sistema de campeonato principal (a Premier League) e em seguida várias copas nas que participam equipes de distintas divisões.[176] O Brasil tem um sistema de campeonatos estaduais, além de ter um Campeonato Nacional (Brasileirão) e a Copa do Brasil. No México existe somente um campeonato anual dividido em dois torneios semestrais (Apertura e Clausura).[177]
+Internacionalmente, a competição mais importante historicamente foi a Copa Intercontinental,[178] que foi substituída em 2000 pelo Copa do Mundo de Clubes da FIFA.[179] A nível continental as competições mais importantes são a Copa Libertadores da América (América do Sul) e a Liga dos Campeões da UEFA (Europa), torneios cujos vencedores disputavam a Copa Intercontinental. A partir de 2000, a recém-criada Copa do Mundo de Clubes da FIFA recebe também os vencedores da Liga dos Campeões da CAF (África), da Copa dos Campeões da CONCACAF (América do Norte, América Central e Antilhas), a Liga dos Campeões da AFC (Ásia) e a Liga dos Campeões da OFC (Oceania), além do campeão nacional do país-sede.[180] Também a nível continental destacam-se as competições secundárias da América do Sul e Europa: a Copa Sul-americana e a Liga Europa da UEFA respectivamente.
+Doping
+Os esforços contra a dopagem bioquímica (doping) no futebol remontam a 1966, quando a FIFA foi uma das primeiras federações internacionais a criar regras para controlar o mesmo.[181] Anualmente são feitos 20 000 testes antidoping em jogadores do mundo todo, dos quais entre 80 e 90 dão resultados positivos, principalmente pelo uso de cocaína ou maconha.[182] Entende-se por dopagem positiva o seguinte:
+Somente deve ser falado em resultado de dopagem positivo se o laboratório identifica a presença de uma substância proibida, seus metabolitos, marcadores ou evidências do uso de um método proibido que não foi aprovado mediante uma IUT (Isenção por Uso Terapêutico) ou quando não se originam naturalmente no organismo.[183]
+O procedimento para um exame anti-doping se inicia no intervalo de uma partida, quando são sorteados os jogadores por equipe. Quinze minutos antes do término do jogo é entregue um envelope com os sorteados para os delegados no campo, identificados por um jaleco branco com uma cruz verde, que divulgam os sorteados (um por equipe). Uma vez finalizada a partida informam aos dois jogadores sorteados que devem dirigir-se ao local de testes para serem controlados. Os jogadores expulsos durante o jogo também podem ser citados. Mais tarde os jogadores selecionados deverão dar uma amostra de urina. Antes disso, os selecionados não podem se dirigir aos seus vestiários, e sim a uma sala onde podem beber bebidas não alcoólicas e tomar banho. A amostra tomada por um profissional do mesmo sexo que o do jogador é mandada a um laboratório para análise.[184]
+Caso o resultado da mostra seja positivo, o relatório é enviado para a Subcomissão do Controle de Dopagem Bioquímica da FIFA, que investigará a autenticidade do estudo e, uma vez aprovado, passa para a responsabilidade do diretor do controle de dopagem da FIFA, que verificará a informação para autorizar seu envio à Comissão Disciplinar, à Comissão de Medicina Desportiva e ao clube a qual pertença o jogador. A Comissão Disciplinar decidirá que pena será aplicada ao jogador.[185]
+Talvez o caso mais conhecido de dopagem bioquímica no futebol foi o de Diego Armando Maradona, que depois de uma partida válida pela Copa do Mundo FIFA de 1994, nos Estados Unidos, foi selecionado para a realização do teste. Sua mostra deu positiva e foi aplicada uma pena de 15 meses.[186]
+Violência
+Cartaz localizado no Camp Nou de Barcelona que proíbe a entrada com objetos que podem ser usados de forma violenta.
+A violência no futebol é quase tão antiga quanto o próprio desporto. Suas origens remontam aos jogos de futebol escolar durante a Idade Média, que se caracterizavam por não terem regras e pelo uso desmedido da violência. Em 1314 foi criada a primeira restrição desse desporto para evitar a crescente onda de violência que ele criava.[187] A primeira manifestação de violência no futebol moderno, de 1863 em diante, ocorreu em 1885, quando uma partida entre as equipes inglesas de Preston North End e Aston Villa acabou em uma brutal luta entre jogadores de ambas equipes.[188]
+Os grupos violentos de uma torcida recebem várias denominações, mas destacam-se alguns como barra bravas, hooligans ou ultras. Na América do Sul um dos países que mais têm sido afetados pela violência no desporto é a Argentina, que ao longo de sua história teve mais de 220 casos de vítimas fatais de incidentes em campos de futebol e seus arredores.[189] Na Itália a violência relacionada com futebol vai ainda mais longe. Os denominados ultras italianos caracterizam-se por seus insultos racistas e inclusive pela fabricação de armamentos para as batalhas que efetuam antes, durante e depois das partidas.[190]
+A violência no futebol resultou em situações ainda piores, como a chamada Guerra do Futebol. Esse conflito armado teve como estopim uma série de jogos disputados pelas seleções de futebol de El Salvador e Honduras, válidos pelas eliminatórias da Copa do Mundo FIFA de 1970, que foi disputada no México.[191]
+Para evitar estes problemas, a FIFA promove uma campanha chamada Fair Play ou Jogo Limpo, que convida os participantes deste desporto para mostrar valores que fazer crescer o futebol.[192] Anualmente a FIFA entrega um ou mais prêmios a pessoas, clubes, associações ou entidades de qualquer natureza que transmitem os valores do Fair Play.[193]
+Passe
+Ver também: Passe (conceito jurídico)
+Passe é um evento comercial (transação financeira) entre clubes e jogadores profissionais pelo direito do trabalho do atleta.[194]
+Notas
+↑ Há ainda as variações futebol associação, futebol de associação e futebol da associação.
+↑ Dentro de um mesmo clube podem existir várias equipes, como categorias de base e equipes filiais.
+Ver também
+Outros projetos Wikimedia também contêm material sobre este tema:
+Definições no Wikcionário
+Citações no Wikiquote
+Imagens e media no Commons
+Notícias no Wikinotícias
+Commons
+Wikiquote
+Wikinotícias
+Wikcionário
+Futsal
+Futebol de areia
+Melhores árbitros
+Campeonato do Mundo de Futebol Não Oficial
+Showbol
+Rugby
+Passe (conceito jurídico)
+Referências
+↑ «History of Football – Britain, the home of Football». FIFA
+↑ Post Publishing PCL. «Bangkok Post article». Bangkok Post
+↑ «History of Football – The Origins». FIFA. Consultado em 29 de abril de 2013
+↑ «Estatutos de la FIFA 2009» (PDF). Estatutos da FIFA (em espanhol). Consultado em 17 de agosto de 2009
+↑ «Futebol e suas ramificações nos jogos». Tribuna do Norte
+↑ Ana Carolyne Pereira de, SOUZA; MARINI, Clarissa Prado. «UM ESTUDO SOBRE VARIAÇÃO TERMINOLÓGICA ENTRE TRADUÇÕES DAS REGRAS DO FUTEBOL DE BRASIL E PORTUGAL» (PDF). UnB. Consultado em 18 de dezembro de 2016
+↑ Guterman, Tulio. «Estudo comparativo do comportamento táctico na variante GR3x3GR utilizando balizas de futsal e de futebol de sete». www.efdeportes.com. Consultado em 18 de dezembro de 2016
+↑ CARDOSO, M., Caracterização do Esforço do Futebolista no Escalão de Escolas - Futebol de Sete Versus Futebol de Onze,
+Tese de Mestrado em Ciências do Desporto, FCDEF-UP, Porto, 1998.
+↑ «Árvore de Família – com as mãos ou com os pés, tem futebol para todos os gostos». 29 de maio de 2011. Consultado em 18 de dezembro de 2016
+↑ «Vida longa ao futebol, que completa 150 anos». O Globo. 19 de outubro de 2013
+↑ resumosetrabalhos.com.br. «Desportos de equipe ou coletivos». Consultado em 18 de dezembro de 2016. Arquivado do original em 20 de dezembro de 2016
+↑ Pinto, Thiago Kater (2016). A IMIGRAÇÃO BRITÂNICA E A INTRODUÇÃO DO RUGBY NO BRASIL (1891-1933) (PDF). Anais do XXIII Encontro Regional de História da ANPUH-SP. [S.l.]: ANPUH-SP. ISBN 978-85-68545-01-0. Consultado em 18 de dezembro de 2016
+↑ a b c «FIFA Big Count 2006: 270 million people active in football» (PDF). Sitio web oficial de la FIFA (em espanhol). Consultado em 22 de julho de 2007
+↑ «Regras do futebol» (PDF). Confederação Brasileira de Futebol. Julho de 2008. Consultado em 5 de abril de 2010. Arquivado do original (PDF) em 17 de janeiro de 2009
+↑ a b c «2002 FIFA World Cup TV Coverage». Página da FIFA no Web Archive (em inglês). Consultado em 6 de maio de 2010
+↑ «Octavian | Robbins Library Digital Projects». d.lib.rochester.edu
+↑ «Online Etymology Dictionary». 1 January 2017. Consultado em 29 October 2018. Cópia arquivada em 1 January 2017  Parâmetro desconhecido |url-status= ignorado (ajuda); Verifique data em: |acessodata=, |arquivodata=, |data= (ajuda)
+↑ «Whats The Origin Of The Word Soccer? | Lexico». Lexico Dictionaries | English
+↑ «soccer | Origin and meaning of soccer by Online Etymology Dictionary». www.etymonline.com. Consultado em 29 October 2018  Verifique data em: |acessodata= (ajuda)
+↑ a b Szymanski, Stefan (2014). «Its football not soccer» (PDF). University of Michigan. Consultado em 26 July 2014  Verifique data em: |acessodata= (ajuda)
+↑ «Um pouco de história». Torcedor Coral. 12 de abril de 2010. Consultado em 6 de maio de 2010 [ligação inativa]
+↑ «Futebol». Infoescola. Consultado em 17 de junho de 2016
+↑ a b «Los orígenes». Sítio oficial da FIFA (em espanhol). Consultado em 15 de setembro de 2007. Arquivado do original em 12 de Julho de 2012
+↑ «Kemari, o futebol ancestral japonês». Séries sobre Kyoto (Quioto). Curtindo o Japão. 13 de março de 2010. Consultado em 6 de maio de 2010
+↑ [1] David F. Elmer, Epikoinos: The Ball Game ; Episkuros and Illiad.
+↑ «Fútbol maya de gira en Alemania» (em espanhol). BBC Mundo. Consultado em 2 de fevereiro de 2008
+↑ Documental reafirma que los guaraníes de Paraguay inventaron el fútbol, em espanhol, acesso em 16 de setembro de 2017.
+↑ Manga ñembosarái, el documental que profundiza la historia entre los guaraníes y el fútbol, em espanhol, acesso em 16 de setembro de 2017.
+↑ Presentan “Manga Ñembosarái”, el documental que profundiza la historia entre los guaraníes y el fútbol, em espanhol, acesso em 16 de setembro de 2017.
+↑ LOS GUARANÍES INVENTARON EL FÚTBOL, em espanhol, acesso em 16 de setembro de 2017.
+↑ Hakluyt, Richard (1586). «8». Voyages in Search of The North-West Passage. [S.l.]: University of Adelaide Library Electronic Texts Collection. Consultado em 16 de Outubro de 2015. Arquivado do original em 12 de Outubro de 2008
+↑ «Marngrook». Darren Moncrieff, AboriginalFootball.com.au. Consultado em 2 de fevereiro de 2008. Arquivado do original em 12 de Maio de 2006
+↑ «América». ExpertFootball.com. Consultado em 2 de fevereiro de 2008
+↑ «Las Islas Británicas, el hogar del fútbol» (em espanhol). Sítio oficial da FIFA. Consultado em 15 de setembro de 2007. Arquivado do original em 4 de Novembro de 2007
+↑ «Rugby». InfoEscola. Consultado em 6 de maio de 2010
+↑ «History of The FA». Sítio oficial da FA no Web Archive (em inglês)
+↑ Velarde Hurtado, Alfredo. «Fútbol: Las primeras reglas» (PDF). Federación Peruana de Fútbol, 2006 (em espanhol). Consultado em 20 de janeiro de 2008. Arquivado do original (PDF) em 6 de Junho de 2007
+↑ «Calcio e historia del Fútbol». ExpertFootball.com (em espanhol)
+↑ Velarde Hurtado, Alfredo. «Fútbol: Las primeras reglas» (PDF). Federación Peruana de Fútbol, Perú (em espanhol). Consultado em 20 de janeiro de 2008. Arquivado do original (PDF) em 6 de Junho de 2007
+↑ «The History Of English Football». The English Football Archive (em inglês). Consultado em 6 de maio de 2010
+↑ «The Cambridge University Rules November 1863». Middleton Youth Soccer (em inglês). Consultado em 17 de maio de 2007. Arquivado do original em 2 de Março de 2007
+↑ «The Law Makers». Independent Schools Football Association (em inglês). Consultado em 28 de Outubro de 2007. Arquivado do original em 31 de Outubro de 2007
+↑ Wikisource anglófono. «Código Sheffield». Consultado em 5 de abril de 2010
+↑ «The Football Association and the First FA Rules». The Association of Football Statisticians (em inglês). Consultado em 5 de abril de 2010
+↑ Copacabana Runners. «História do futebol». Consultado em 8 de maio de 2010
+↑ «Récords y curiosidades». El Area (em espanhol). Consultado em 5 de abril de 2005
+↑ «England National Football Team Match No. 1». England Football Online (em inglês). Consultado em 5 de abril de 2010
+↑ «British Home Championship 1884-1899». Macario Reyes y Neil Morrison para RSSSF (em inglês)
+↑ «The FA CUP - História». OleOle!. Consultado em 6 de maio de 2010. Arquivado do original em 10 de janeiro de 2011
+↑ «England FA Challenge Cup 1871-72». Macario Reyes Padilla, RSSSF (em inglês). Consultado em 27 de janeiro de 2001
+↑ «England 1888-89». Paul Felton y Barry Spencer, RSSSF (em inglês)
+↑ a b c d «Historia del Juego». Sítio oficial da FIFA (em espanhol). Consultado em 15 de Setembro de 2007. Arquivado do original em 12 de Julho de 2012
+↑ «Futebol nas Olimpíadas de Londres de 1908». Olimpíadas 2008 - Histórico das Olimpíadas. UOL. Consultado em 14 de maio de 2010
+↑ a b «El torneo de selecciones más antiguo del mundo». Sítio oficial da Copa América (em espanhol). Consultado em 27 de julho de 2007. Arquivado do original em 19 de agosto de 2010
+↑ «Campeonato Sul-Americano 1916 - Argentina». Arquivo dos Mundiais. Consultado em 15 de maio de 2010. Arquivado do original em 14 de junho de 2011
+↑ «Los 12 escándalos más famosos de las Copas del Mundo». Alejandro Mayorga, Mundosoccer.com (em espanhol). Consultado em 10 de abril de 2010
+↑ «Countdown with Keith Olbermann». MSNBC.com (em inglês). Consultado em 20 de junho de 2006
+↑ «Onde os jacarés não andam nas ruas: A imprensa e os motivos da realização da copa do mundo de 1950 no Brasil» (doc). Scribd. Consultado em 15 de maio de 2010
+↑ «CONMEBOL - Confederación Sudamericana de Fútbol». Bola n@ área. Consultado em 16 de maio de 2010
+↑ «1954-1962: Nascimento da UEFA». História. Sítio oficial da UEFA. Consultado em 16 de maio de 2010. Arquivado do original em 2 de setembro de 2011
+↑ «Taiwan – uma seleção sem país» (aspx). Conheça a seleção. Trivela. 8 de agosto de 2008. Consultado em 16 de maio de 2010
+↑ «CONFEDERATION AFRICAINE DE FOOTBALL ( CAF )». História de futebol da África. África Mania. Consultado em 16 de maio de 2010. Arquivado do original em 31 de maio de 2010
+↑ «Acerca de CONCACAF» (em espanhol). Sítio oficial da CONCACAF. Consultado em 16 de maio de 2010. Arquivado do original em 29 de maio de 2010
+↑ «History of OFC». About OFC (em inglês). Sítio oficial da OFC. Consultado em 16 de maio de 2010. Arquivado do original (aspx) em 13 de maio de 2010
+↑ a b «Mapa das Confederações - FIFA». 100chance. Consultado em 16 de maio de 2010 [ligação inativa]
+↑ «Asian Cup 2011 History» (em inglês). Sítio oficial da Copa da Ásia. 17 de setembro de 2008. Consultado em 16 de maio de 2010
+↑ «Do Sudão a Angola». Sobre a Competição. Sítio oficial da competição. Consultado em 16 de maio de 2010. Arquivado do original em 18 de abril de 2010
+↑ «Origens». História da Eurocopa. Sítio oficial da UEFA. Consultado em 16 de maio de 2010
+↑ «Origens do futebol». Comissão de Desportos do Exército. Consultado em 16 de maio de 2010 [ligação inativa]
+↑ «Mens Nations Cup Previous Tournaments» (aspx) (em inglês). Sítio oficial da OFC. Consultado em 16 de maio de 2010
+↑ «A primeira competição de futebol a nível de clubes». Sítio oficial da UEFA. Consultado em 16 de maio de 2010
+↑ «Hace 50 años nacía la Copa Libertadores de América» (em espanhol). Taringa!. 5 de março de 2010. Consultado em 16 de maio de 2010
+↑ «Copa Toyota Intercontinental». Campeões do futebol.com. Consultado em 16 de maio de 2010
+↑ «História do Mundial de Clubes». Folha Online. 29 de novembro de 2005. Consultado em 16 de maio de 2010
+↑ «Misión y objetivos: Fútbol femenino». Sítio oficial da FIFA (em espanhol). Consultado em 27 de julho de 2007. Arquivado do original em 1 de Julho de 2007
+↑ a b «FUTEBOL FEMININO». Acadêmico Clério José Borges de SantAnna. Consultado em 6 de maio de 2010. Arquivado do original em 24 de abril de 2010
+↑ «FUTEBOL». Mundo Educação. Consultado em 16 de maio de 2010
+↑ «Futebol japonês». Cultura Japonesa.com.br. Consultado em 16 de maio de 2010
+↑ «A Influência do Futebol na TV e na Economia». Artigos de opinião. Jogos de área. Consultado em 23 de maio de 2010. Arquivado do original em 29 de maio de 2010
+↑ «Fifa nega influência de TV em lance polêmico». Futebol Total Brazil. Consultado em 23 de maio de 2010
+↑ «Copa da Alemanha terá telões nos estádios». Diário Web. 3 de maio de 2006. Consultado em 23 de maio de 2010. Arquivado do original em 10 de agosto de 2011
+↑ «Equipamento para comunicação entre os árbitros laterais e o árbitro central de Futebol». Eletrônica LAMB. Consultado em 23 de maio de 2010
+↑ «Análise das principais ações realizadas em partidas de futebol através do scout técnico» (aspx). Universidade do futebol. 29 de setembro de 2009. Consultado em 23 de maio de 2010 [ligação inativa]
+↑ «História do futebol». Revista & Guia. Consultado em 11 de outubro de 2010. Arquivado do original em 11 de outubro de 2012
+↑ a b Desde 1° de janeiro de 2007 a FIFA utiliza os dólares estadunidenses. Esta informação é dada em francos suíços devido ao fato de que ela cobre um período até 31 de dezembro de 2006.«Informe sobre las finanzas de la FIFA» (PDF) (em espanhol)
+↑ «First official 2006 FIFA World Cup™ shop opens in Berlin». Sítio oficial da FIFA no Web Archive (em inglês). Consultado em 6 de maio de 2010
+↑ Comisión de Finanzas. «Informe sobre las finanzas de la FIFA 2006» (PDF). Fédération Internationale de Football Association (em espanhol). Consultado em 28 de Julho de 2007. Arquivado do original (PDF) em 26 de Abril de 2011
+↑ «Soccer Team Valuations». Forbes (em inglês). Consultado em 29 de março de 2007
+↑ «Principales ingresos de los equipos de fútbol». El Litoral (em espanhol). Consultado em 6 de maio de 2010
+↑ «Pases son 50% de ingresos de clubes». El País digital (Uruguai) (em espanhol). Consultado em 29 de julho de 2007
+↑ «Fútbol, pa$ión de multitude$». Clarín (em espanhol). Consultado em 29 de julho de 2007
+↑ «Manchester, el club más rico del mundo». Clarín (em espanhol). Consultado em 29 de julho de 2007
+↑ «UNICEF y la FIFA». Sítio oficial da UNICEF (em espanhol). Consultado em 28 de julho de 2007
+↑ «Amigos de Zidane derrotaron 5-2 a los de Ronaldo en partido benéfico». La República (Uruguai) no Internet Archive (em espanhol). Consultado em 6 de maio de 2010
+↑ «Haití: fútbol para la paz». BBC Mundo (em espanhol). Consultado em 30 de junho de 2004
+↑ «Real Madrid: fiesta del fútbol en honor a la paz en Israel con una goleada del Campeón de Liga». Arancha Díaz, noticias.info, em Internet Archive (em espanhol). Consultado em 6 de maio de 2010
+↑ «El Goethe-Institut acoge la exposición Planeta fútbol». barna21 (em espanhol). Consultado em 28 de julho de 2007. Arquivado do original em 9 de Outubro de 2007
+↑ «Land of Ideas». 2006. Marketing für Deutschland GmbH. Consultado em 23 de abril de 2009. Arquivado do original em 4 de setembro de 2009
+↑ «Trabajos de Fontanarrosa (sección fútbol)». La web de Fontanarrosa (em espanhol). Consultado em 28 de julho de 2007. Arquivado do original em 9 de agosto de 2007
+↑ «Los cuentos sobre fútbol salen a la cancha en otra campaña pro-lectura». Clarín suplemento Cultura (em espanhol). Consultado em 5 de agosto de 2007
+↑ «Fútbol, pasión de literatos». Soles Digital (em espanhol). Consultado em 5 de agosto de 2007
+↑ «Danny Cannon to Direct GOAL!». Sítio oficial da FIFA (em inglês). Consultado em 28 de julho de 2007
+↑ «Grand Finale, Great Film». Sítio oficial da FIFA no Internet Archive (em inglês). Consultado em 6 de maio de 2010
+↑ «Telemundo apuesta por el fútbol en novela Amores de mercado» (em espanhol). Consultado em 5 de agosto de 2007. Arquivado do original em 9 de Agosto de 2007
+↑ «De novela». Olé (em espanhol). Consultado em 5 de agosto de 2007
+↑ «Historia del juego del fútbol». Expert Football (em espanhol). Consultado em 5 de agosto de 2007
+↑ a b c d «Laws of the Game 2009/2010» (PDF). FIFA - IFAB. 2009. Consultado em 17 de maio de 2010
+↑ «Historia do futebol Mundial». Sempre Tops. Consultado em 18 de maio de 2010
+↑ «REGULAMENTO DA INTERNATIONAL FOOTBALL ASSOCIATION BOARD - I.F.A.B.». Futebol - Regras oficiais. Portal Brasil. Consultado em 18 de maio de 2010
+↑ «.: Campo e Bola de Futebol :.». Inmetro. Consultado em 23 de maio de 2010
+↑ a b «.: Campo de Futebol :.». Inmetro. Consultado em 23 de maio de 2010
+↑ a b c «- FUTEBOL - REGRAS OFICIAIS N° 1 e N° 2». Portal Brasil. Consultado em 23 de maio de 2010
+↑ «REGRA N° 3 - O NÚMERO DE JOGADORES». Portal Brasil. Consultado em 23 de maio de 2010
+↑ a b c «REGRA N° 7 - A DURAÇÃO DA PARTIDA». Portal Brasil. Consultado em 23 de maio de 2010
+↑ «REGRA N° 4 - O EQUIPAMENTO DOS JOGADORES». Portal Brasil. Consultado em 23 de maio de 2010
+↑ «FUTEBOL - REGRAS OFICIAIS N° 5 E N° 6 - (Quarto árbitro)». Portal Brasil. Consultado em 23 de maio de 2010
+↑ a b c d «REGRAS OFICIAIS N° 9, N° 10 e N° 11». Portal Brasil. Consultado em 23 de maio de 2010
+↑ Oliveira, Gabriel de. «O futebol». Futebol Objetivo. Consultado em 23 de maio de 2010. Arquivado do original em 9 de junho de 2009
+↑ «Megapost: el Gol de Oro» (em espanhol). Taringa!. Consultado em 11 de abril de 2010
+↑ «Regras do Jogo 2008/2009, pág. 51» (PDF). International Football Association Board (em espanhol). Consultado em 16 de dezembro de 2008. Arquivado do original (PDF) em 26 de Janeiro de 2009
+↑ a b c «REGRA N° 12 - FALTAS E CONDUTA ANTIESPORTIVA». Portal Brasil. Consultado em 23 de maio de 2010
+↑ «REGRAS OFICIAIS N° 16 E N° 17». Portal Brasil. Consultado em 23 de maio de 2010
+↑ «REGRAS OFICIAIS N° 14 E N° 15». Portal Brasil. Consultado em 23 de maio de 2010
+↑ a b c «Esquema Tático for Dummies». Baú Pirata. Consultado em 23 de maio de 2010
+↑ a b «Enciclopédia do futebol». Enciclopédia. Consultado em 19 de junho de 2010. Arquivado do original em 9 de junho de 2011
+↑ «Reglas del Juego del Futsal 2006» (PDF). International Football Association Board (em espanhol). Consultado em 27 de julho de 2007
+↑ «FIFA Futsal World Championship Netherlands 1989» (em inglês). Sítio oficial da FIFA. Consultado em 19 de junho de 2010
+↑ «Reglamento del Juego del Fútbol Playa» (PDF). International Football Association Board (em espanhol). Consultado em 27 de julho de 2007
+↑ «FIFA Beach Soccer World Cup» (em inglês). Sítio oficial da FIFA. Consultado em 19 de junho de 2010
+↑ tsf.pt
+↑ a b «Futebol de Cinco». Alunos Online. Consultado em 19 de junho de 2010
+↑ a b «Futebol de Sete». Comitê Olímpico Brasileiro. Consultado em 19 de junho de 2010. Arquivado do original em 1 de novembro de 2010
+↑ «Futsal de IBSA - Reglamento». International Blind Sport Federation (em espanhol). Consultado em 27 de julho de 2007. Arquivado do original em 20 de Junho de 2012
+↑ «Showbol». Sítio de divulgação do desporto. Consultado em 19 de junho de 2010
+↑ «Bossaball New Sport» (em inglês e castelhano e neerlandês). Sítio de divulgação do desporto. Consultado em 19 de junho de 2010  !CS1 manut: Língua não reconhecida (link)
+↑ «FUTE-TÊNIS». Portal São Francisco. Consultado em 19 de junho de 2010
+↑ «Associação Brasileira de Footbag». Consultado em 18 de abril de 2019. Arquivado do original em 22 de novembro de 2007
+↑ Parque Barigui ganha três quadras de footsack – Esporte criado em Curitiba[ligação inativa]
+↑ www.futsac.com
+↑ Oficialização do Esporte pela Prefeitura de Curitiba
+↑ «FUTEBOL SOCIETY». Portal São Francisco. Consultado em 19 de junho de 2010
+↑ «Futsal - Reglas del Juego» (em espanhol). FIFUSA. Consultado em 19 de junho de 2010. Arquivado do original em 22 de Agosto de 2009
+↑ Pearson, Harry (25 de novembro de 2005). «Premiership could learn from Titchy Kid and Hogger» (em inglês). The Guardian. Consultado em 19 de junho de 2010
+↑ «Digest of Rules» (em inglês). National Football League. Consultado em 2 de julho de 2010
+↑ «History of Canadian Football» (em inglês). Football Canada. Consultado em 2 de julho de 2010. Arquivado do original em 25 de Agosto de 2007
+↑ «AFL History» (aspx) (em inglês). Australian Football League. Consultado em 2 de julho de 2010
+↑ Mahon, Jack.
+Gill & Macmillan, ed. A History of Gaelic Football. 2001. Dublim: [s.n.] ISBN 0-7171-3279-X
+↑ «Futbolmesa - Reglamento de juego» (PDF) (em espanhol). International Table Soccer Federation. Consultado em 27 de julho de 2007
+↑ «International Table Soccer Federation» (em inglês). Consultado em 11 de agosto de 2010
+↑ «Subbuteo» (em inglês). Departamento de Engenharia Informática. Consultado em 17 de agosto de 2010. Arquivado do original em 10 de maio de 2009
+↑ «About RoboCup» (em inglês). Sítio oficial. Consultado em 17 de agosto de 2010. Arquivado do original em 22 de agosto de 2010
+↑ Fédération Internationale de Football Association. «Estatutos de la FIFA» (PDF). Home of FIFA (Zúrich) (em espanhol). Consultado em 4 de Janeiro de 2008. Arquivado do original (PDF) em 1 de Outubro de 2007
+↑ Joseph Blatter. «Reglamento del Programa Goal» (PDF). FIFA Goal Bureau (em espanhol)
+↑ «Programa Goal». Sítio oficial da FIFA. Consultado em 31 de agosto de 2007. Arquivado do original em 11 de Outubro de 2007
+↑ «Federações». Sítio oficial da FIFA. Consultado em 1 de julho de 2010. Arquivado do original em 1 de maio de 2010
+↑ Marcelo Oliva. «FEDERAÇÕES». Sobresites. Consultado em 1 de julho de 2010
+↑ «N.F.-Board: Site Officiel, Official Site» (em espanhol e francês e inglês). Sítio oficial da NF-Board. Consultado em 1 de julho de 2010. Arquivado do original em 19 de Setembro de 2017  !CS1 manut: Língua não reconhecida (link)
+↑ «Sítio Oficial da VIVA» (em espanhol e francês e inglês). NF-Board. Consultado em 1 de julho de 2010. Arquivado do original em 12 de fevereiro de 2007  !CS1 manut: Língua não reconhecida (link)
+↑ «Copa do Mundo Feminina da FIFA». Sítio oficial da FIFA. Consultado em 2 de julho de 2010. Arquivado do original em 12 de junho de 2010
+↑ «Copa América». Quadro de medalhas. Consultado em 2 de julho de 2010
+↑ «Eurocopa». Quadro de medalhas. Consultado em 2 de julho de 2010
+↑ «AFRICAN NATIONS CHAMPIONSHIP» (em inglês). Sítio oficial da CAF. Consultado em 2 de julho de 2010
+↑ «Concacaf Gold Cup - Sítio oficial» (em inglês). Consultado em 2 de julho de 2010. Arquivado do original em 8 de Dezembro de 2010
+↑ «AFC Asian Cup» (em inglês). Sítio oficial da AFC. Consultado em 2 de julho de 2010
+↑ «OFC Nations Cup» (aspx) (em inglês). Sítio oficial da AFC. Consultado em 2 de julho de 2010
+↑ FIFA.com. «Copa do Mundo Sub-20 da FIFA». Consultado em 10 de Agosto de 2010. Arquivado do original em 12 de abril de 2010
+↑ Conmebol. «Sudamericano Sub-20» (em espanhol). Sítio oficial. Consultado em 10 de agosto de 2010
+↑ UEFA.com. «Campeonato da Europa de Sub-19». Consultado em 10 de agosto de 2010
+↑ CAF. «Orange African Youth Championship» (em inglês). Consultado em 10 de agosto de 2010
+↑ «CONCACAF Under 20s» (em inglês). Consultado em 10 de agosto de 2010. Arquivado do original em 3 de Março de 2011
+↑ AFC. «AFC U19 Championship» (em inglês). Consultado em 10 de agosto de 2010
+↑ OFC. «OFC U20 Championship» (em inglês). Sítio oficial da OFC. Consultado em 10 de agosto de 2010
+↑ «Regulamento geral das competições da CBF» (PDF). Consultado em 8 de agosto de 2010. Arquivado do original (PDF) em 29 de dezembro de 2009
+↑ «Espanha: La Liga 2010-11». Futebol 365. Consultado em 8 de agosto de 2010. Arquivado do original em 22 de julho de 2010
+↑ «Itália: Série A 2010-11». Futebol 365. Consultado em 8 de agosto de 2010. Arquivado do original em 31 de julho de 2010
+↑ «The English Pyramid» (em inglês). Consultado em 8 de agosto de 2010
+↑ «Campeonato Mexicano de Futebol». Bola na área. Consultado em 14 de agosto de 2010
+↑ «Intercontinental Club Cup» (em inglês). RSSSF. Consultado em 13 de julho de 2010
+↑ «Fifa confirma Mundial de clubes no Japão em 2005»  Globoesporte.com, 17/05/2004
+↑ «FIFA envia regulamento do Mundial ao Inter». Sítio oficial do SC Internacional-RS. 7 de agosto de 2010. Consultado em 17 de agosto de 2010
+↑ «Ya en la época de los griegos...» (PDF). Sítio oficial da FIFA. Consultado em 27 de julho de 2007
+↑ «El enfoque de la FIFA sobre el dopaje en el fútbol» (PDF). Sítio oficial da FIFA. Consultado em 28 de julho de 2007
+↑ «Algunas palabras sobre estadísticas de dopaje». Sítio oficial da FIFA. Consultado em 28 de julho de 2007. Arquivado do original em 27 de Junho de 2007
+↑ «¿Qué sucede en la sala del control de dopaje?» (PDF). Sítio oficial da FIFA. Consultado em 28 de julho de 2007
+↑ «Aspectos legales: objetividad, culpa y fútbol» (PDF). Sítio oficial da FIFA (em espanhol). Consultado em 28 de julho de 2007
+↑ «El dopaje y sus caras más famosas». Terra (em espanhol). Consultado em 27 de julho de 2006
+↑ «British Mob Football». Expert Football (em inglês). Consultado em 28 de julho de 2007
+↑ «When did football hooliganism start?». Sean Ingle y Mark Hodgkinson, Guardian Unlimited. Consultado em 6 de maio de 2010
+↑ «Los hilos secretos de la violencia». Clarín Digital
+↑ «Italia: el racismo vive en la tribuna». Clarín Digital. Consultado em 10 de abril de 2010. Arquivado do original em 16 de abril de 2010
+↑ «Recordarán 38 años de la guerra entre Honduras y El Salvador». Radio La Primerissima. Consultado em 6 de maio de 2010
+↑ «Fair Play: código». Sítio oficial da FIFA no internet Archive (em espanhol). Consultado em 6 de maio de 2010
+↑ «Fair Play: premios». Sítio oficial da FIFA no Web Archive. Consultado em 6 de maio de 2010
+↑ «Como funcionam na prática a compra e a venda de jogadores de futebol». BBC. 12 de setembro de 2017. Consultado em 11 de novembro de 2018
+Ligações externas
+Federações e confederações
+«FIFA (Federação internacional)» (em inglês)
+«UEFA (Federação Europeia)» (em inglês)
+«CONMEBOL (Confederação Sul-Americana)» (em inglês)
+«FPF (Federação Portuguesa de Futebol)»
+«CBF (Confederação Brasileira de Futebol)»
+vdeModalidades nos Jogos OlímpicosJogos de verãoAtletismo • Badminton • Basquetebol • Beisebol • Boxe • Canoagem • Caratê • Ciclismo • Escalada esportiva • Esgrima • Futebol • Ginástica • Golfe • Halterofilismo • Handebol •
+Hipismo • Hóquei sobre grama • Judô • Lutas • Natação • Natação artística • Pentatlo moderno • Polo aquático • Remo • Rugby sevens • Saltos ornamentais • Skate • Softbol • Surfe • Taekwondo • Tênis • Tênis de mesa • Tiro • Tiro com arco • Triatlo • Vela • Voleibol • Voleibol de praiaJogos de invernoBiatlo • Bobsleigh • Combinado nórdico • Curling • Esqui alpino • Esqui cross‑country • Esqui estilo livre • Hóquei no gelo • Luge • Patinação artística • Patinação de velocidade • Patinação de velocidade em pista curta • Salto de esqui • Skeleton • SnowboardEsportes passadosCabo de guerra • Críquete • Croquet • Jeu de paume • Lacrosse • Motonáutica • Patrulha militar • Pelota basca • Polo • Raquetes • Roque • Rugby unionEsportes de demonstraçãoBandy • Boliche • Budô • Corfebol • Corrida de cão e trenó • Corrida em cadeira de rodas • Esqui aquático • Esqui de velocidade • Esqui para deficientes • Futebol americano • Futebol australiano • Glíma • Hóquei em patins • Ice stock sport • Planadorismo • Pentatlo de inverno • Pesäpallo • Savate • Skijöring • Voo à velaEsportes não-oficiaisBalonismo • Boules • Columbofilia • Combate a incêndios • Competições artísticas • Cycle polo • Desportos a motor • Futebol gaélico • Hurling • Kaatsen • Longue paume • Motociclismo • Pesca • Salvamento • Tiro de canhão • Voo de pipa • Wushu
+vdeEsportes coletivosEsportes de bola-ao-cesto
+Basquetebol
+Corfebol
+Hoop takraw‎
+Netball
+Slamball
+Streetball
+Esportes de bola-sobre-redeVoleibol
+Biribol
+Bossaball
+Futevôlei
+Peteca
+Punhobol/faustebol
+Sepaktakraw
+Vôlei de praia
+Vôlei de quadra
+Vôlei adaptado
+Vôlei na neve
+Ecuavóley
+Tênis
+Badminton
+Futebol-tênis/futnet
+Tênis
+Esportes de meta
+Autobol
+Golbol
+Tazerball
+Tchoukball
+Ultimate
+(H)andebol
+(H)andebol
+(H)andebol de campo
+(H)andebol de praia/areia
+Futebol
+Australiano
+Calcio Fiorentino
+Cuju
+Gaélico
+Harpasto
+Regras Internacionais
+Kemari
+Código FIFA
+De campo
+De areia
+De pântano
+Soçaite
+Futsal FIFA
+Futsal FIFUSA
+Showbol
+De sete
+De cinco
+De rua
+Em cadeira motorizada
+Freestyle
+Código Rugby
+League
+De praia
+Quad rugby
+Sevens
+Subaquático
+Touch
+Union
+Código gridiron
+Americano
+Americano de arena
+Canadense
+Flag football
+Esportes de precisão
+Bocha
+Bolão
+Boliche
+Curling
+Lawn bowls
+Petanca
+Ice stock sport
+Esportes de Taco
+Camogie
+Gateball
+Hurling
+Basebol
+Softbol
+Pesäpallo
+Críquete
+Bete-ombro
+Twenty20
+Hóquei
+Bandy
+Broomball
+Floorball
+Modalidades
+em campo
+no gelo
+em linha
+em patins
+de rua
+de salão/indoor
+Lacrosse
+Modalidades
+De box
+De campo
+Polo
+Polo aquático
+Horseball
+Pato
+Outros
+Airsoft
+Buzkashi
+Kabaddi
+Kin-Ball
+Paintball
+Queimada/dodgeball
+Roller derby
+Portal dos Esportes
+Lista de esportes
+Eventos esportivos
+vdeFutebol internacional
+Federação Internacional de Futebol (FIFA)
+IFFHS
+Ranking Mundial da FIFA (feminino)
+Melhor jogador do mundo pela FIFA
+Copa do Mundo de Clubes
+FIFA Ballon dOr
+Lista de clubes campeões internacionais de futebol
+Masculino
+Copa do Mundo
+Copa das Confederações
+Copa do Mundo Sub-20
+Copa do Mundo Sub-17
+Feminino
+Copa do Mundo
+Copa do Mundo Sub-20
+Copa do Mundo Sub-17
+Confederações etorneios regionaisAFCCopa da Ásia (feminina)CAFCampeonato Africano das Nações (CAN) (feminino)  · Campeonato das Nações Africanas (CHAN)CONCACAFCopa Ouro (feminina) · Liga das NaçõesCONMEBOLCopa América (feminina)OFCCopa das Nações (feminina)UEFACampeonato Europeu (feminino) · Liga das NaçõesNão FIFA
+CONIFA – Copa do Mundo CONIFA
+Copa Europeia CONIFA
+Conselho Sul-Americano de Novas Federações (CSANF)
+NF-Board – Copa do Mundo VIVA
+feminina
+Futebol nos torneiosmultidesportivos
+Jogos Asiáticos
+Jogos Olímpicos
+Jogos da Lusofonia
+Jogos do Mediterrâneo
+Jogos do Pacífico
+Jogos Pan-Americanos
+Jogos Pan-Arábicos
+Jogos Pan-Africanos
+Universíada
+Portal do futebol
+Portal do desporto
+Obtida de https://pt.wikipedia.org/w/index.php?title=Futebol&oldid=62034426
+Categoria: FutebolCategorias ocultas: !CS1 espanhol-fontes em língua (es)!CS1 inglês-fontes em língua (en)!Páginas com citações usando parâmetros sem suporte!Páginas com erros CS1: datas!Artigos com ligações inativas!CS1 manut: Língua não reconhecida!Artigos destacados na Wikipédia em siciliano!Artigos destacados na Wikipédia em persa!Artigos destacados na Wikipédia em malaiala!Artigos destacados na Wikipédia em grego!Artigos destacados na Wikipédia em árabe!Artigos destacados na Wikipédia em francês!Artigos destacados na Wikipédia em croata!Artigos bons na Wikipédia em sérvio!Artigos destacados na Wikipédia em turco!Artigos destacados na Wikipédia em inglês!Artigos bons na Wikipédia em chinês min nan!Artigos bons!Artigos bons na Wikipédia em baskir!Artigos destacados na Wikipédia em norueguês!Artigos destacados na Wikipédia em vietnamita!Artigos destacados na Wikipédia em espanhol
+Esta página foi editada pela última vez às 06h44min de 12 de setembro de 2021.
+Este texto é disponibilizado nos termos da licença Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as condições de utilização.
+Política de privacidade
+Sobre a Wikipédia
+Avisos gerais
+Versão móvel
+Programadores
+Estatísticas
+Declaração sobre cookies');
+Document.create!(url: 'https://pt.wikipedia.org/wiki/Futebol_feminino', title: 'Futebol feminino – Wikipédia, a enciclopédia livre', body: 'Futebol feminino – Wikipédia, a enciclopédia livre
+Saltar para o conteúdo
+Alternar barra lateral
+Busca
+Links do usuário
+Criar uma conta
+Ferramentas pessoais
+expanded
+collapsed
+Criar uma conta
+Entrar
+Páginas para editores conectados saiba mais
+DiscussãoContribuições
+Navegação
+Página principalConteúdo destacadoEventos atuaisEsplanadaPágina aleatóriaPortaisInformar um erro
+Colaboração
+Boas-vindasAjudaPágina de testesPortal comunitárioMudanças recentesManutençãoCriar páginaPáginas novasContatoDonativos
+Ferramentas
+Páginas afluentesAlterações relacionadasCarregar ficheiroPáginas especiaisHiperligação permanenteInformações da páginaCitar esta páginaElemento Wikidata
+Imprimir/exportar
+Criar um livroDescarregar como PDFVersão para impressão
+Noutros projetos
+Wikimedia Commons
+Espaços nominais
+ArtigoDiscussão
+Variantes
+expanded
+collapsed
+Vistas
+LerEditarEditar código-fonteVer histórico
+Mais
+expanded
+collapsed
+36 idiomas
+expanded
+collapsed
+العربيةAzərbaycancaБългарскиBrezhonegCatalàČeštinaDanskDeutschZazakiΕλληνικάEnglishEspañolفارسیSuomiFrançaisGaeilgeGalegoעבריתՀայերենBahasa Indonesia日本語한국어NederlandsNorsk bokmålپنجابیРусскийسنڌيSimple EnglishСрпски / srpskiSvenskaไทยTürkçeУкраїнськаاردوTiếng Việt中文
+Editar hiperligações
+Futebol feminino
+Origem: Wikipédia, a enciclopédia livre.
+Esta página cita fontes, mas estas não cobrem todo o conteúdo. Ajude a inserir referências. Conteúdo não verificável poderá ser removido.—Encontre fontes: Google (notícias, livros e acadêmico) (Abril de 2017)
+Cristiane Rozeira de Souza Silva atuando pela seleção brasileira.
+Maria Pia Gomez e Emilia Mendietal durante partida entre Boca Juniors e River Plate em 2011
+O futebol feminino é a modalidade do futebol praticado com equipes compostas somente por mulheres. Apesar de em alguns países terem predominância na prática com homens, diversos países tem equipes profissionais e amadores de mulheres, sendo um esporte com liga profissional.
+Quanto as regras, elas são as mesmas do futebol masculino. O que pouca gente sabe, porém, é que as regras do futebol permitem ajustes para partidas entre mulheres (e também para deficientes físicos, jogadoras com menos de 16 anos, mais de 35 [veteranas]). Não só o tamanho do campo e as dimensões da baliza podem ser modificadas, como peso e circunferência da bola e duração do jogo, cabendo apenas a quem organiza os jogos encontrar o padrão mais adequado.[1]
+Segundo a FIFA, a primeira partida oficial entre mulheres foi disputada no dia 23 de março de 1885, em Crouch End, Londres, Inglaterra. Os dois times foram divididos em Norte e Sul, representando as duas partes da cidade.[2]
+Índice
+1 História
+1.1 Futebol feminino no Brasil
+2 Referências
+3 Ligações externas
+História[editar | editar código-fonte]
+As mulheres
+tem sido importantes para o desenvolvimento e evolução do futebol até hoje. Os primeiros indícios datam desde o tempo da Dinastia Han (206 a.C. - 220 d.C.) em que elas jogavam uma variação do antigo jogo chamado TSU Chu. Há outros relatos que indicam que, no décimo quinto século, era usual que as mulheres desempenham jogos de bola, especialmente na França e na Escócia. Em 1863, foram definidas regras para prevenir a violência no jogo, enquanto que era socialmente aceitável para as mulheres. Segundo a FIFA, a primeira partida oficial entre mulheres foi disputada no dia 23 de março de 1885, em Crouch End, Londres, Inglaterra. Os dois times foram divididos em Norte e Sul, representando duas partes da cidade.[2] Um jornal esportivo da época relatou:
+“
+“Verdade, jovens homens correriam mais e bateriam mais forte, mas, além disso, eu não posso acreditar que eles mostrariam qualquer outro conhecimento maior ou habilidade na execução. Eu não penso que o futebol feminino deva ser extinto por causa de importantes artigos escritos por velhos homens sem simpatia por tanto pelo futebol como um jogo quanto pelas aspirações de jovens mulheres. Se o futebol feminino morrer, será uma morte difícil”.[2]
+”
+Porém, há relatos, de disputas antes desta data, como, por exemplo, uma competição anual, em Lothian, Escócia em 1790.[3][4]
+O documento mais conhecido sobre os inícios do futebol feminino remonta a 1894 quando Nettie Honeyball, uma ativista dos direitos da mulher, fundou o primeiro clube desportivo britânico chamado o Ladies Football Club. Honeyball, convicta de sua causa declarou que pretendia demonstrar que as mulheres poderiam alcançar a emancipação e ter um lugar importante na sociedade.
+Lady Florence Dixie desempenhou um papel fundamental na criação do jogo, organizando jogos de exposição para caridade, e em 1895 ela se tornou presidente da British Ladies Football Club, estipulando que as jovens devem entrar no espírito do jogo com o coração e a alma. Ela providenciou uma turnê para a Escócia da equipe de futebol de Londres.
+A Primeira Guerra Mundial, foram a chave para a superlotação de futebol feminino na Inglaterra. Porque muitos homens foram para o campo de batalha, já a mulher foi introduzida na força trabalhadora. Muitas fábricas tiveram suas próprias equipes de futebol que até então eram privilégio de homens. A mais exitosa destas equipes existe foi Dick, Kerrs Ladies of Preston, Inglaterra. A equipe foi bem sucedida, atingindo resultados como os de um jogo contra uma equipe escocesa que levou um chocolate de-0.
+A equipa Dick, Kerr era a mais famosa da Inglaterra, chegando a atrair mais de 50 mil espectadores no Boxing Day de 1920.
+Em 1921, a guerra já tinha acabado há três anos, as provas de futebol masculino estavam de regresso e a dinâmica imposta pelas mulheres era sentida mais como uma ameaça do que algo complementar. A Federação Inglesa de Futebol sentiu o novo paradigma e, pressionada por vários quadrantes, precipitou-se numa decisão que arrasou o crescimento da modalidade nas ilhas britânicas. Com o fim da guerra, entenderam que já não havia motivo lógico para que mulheres continuassem a praticar um desporto que se via como masculino. Por isso, a 5 de dezembro, a direção decidiu banir qualquer prática de futebol feminino nos estádios[5].
+Isto levou à formação da English Ladies Football Association (Associação Inglesa de Futebol Feminino) cujo início foi difícil devido ao boicote da FA que levou mesmo a mulheres a jogarem em estádios de Rugby.
+Após a Copa do Mundo 1966, o interesse dos amadores cresceu de tal forma que a FA decidiu voltar atrás e em 1969 criou o ramo feminino da FA. Em 1971, a UEFA instruiu seus respectivos parceiros a gerir e promover o futebol feminino e na Europa ele foi consolidado nos anos seguintes. Assim, países como a Itália, E.U.A. e o Japão têm ligas profissionais cuja popularidade não inveja o que é atingido pelos seus similares do sexo masculino.
+Futebol feminino no Brasil[editar | editar código-fonte]
+Segundo o livro Futebol, Carnaval e Capoeira - Entre as gingas do corpo brasileiro, de Heloísa Bruhns, enquanto os homens da elite brasileira começaram a praticá-lo no final do século XIX no Rio de Janeiro e em São Paulo, o grupo feminino que aderiu à prática do futebol era pertencente às classes menos favorecidas. Por conta disso, as mulheres que jogavam futebol eram consideradas grosseiras, sem classe e malcheirosas. Às mulheres da elite cabia o papel de torcedoras. As partidas de futebol masculinas eram um evento da alta sociedade e as mulheres se arrumavam para ir assistir aos jogos, afirma o livro.[6]
+Os primeiros registros de partidas mistas no país, com homens e mulheres juntos, datam de 1908 e 1909.[7]
+Em 1913, houve um evento beneficente, que foi considerado por muitos anos como a primeira partida de futebol feminino no Brasil. Anos depois, porém, foi descoberto que, na verdade, o time “feminino” era formado por jogadores do Sport Club Americano, campeão paulista daquele ano, vestidos de mulher, misturados a “senhoritas da sociedade”.[7] Desta forma, considera-se que a primeira partida de futebol feminino no Brasil ocorreu em 1921, entre senhoritas dos bairros Tremembé e Cantareira, na zona norte de São Paulo, conforme noticiado pelo jornal A Gazeta.[7]
+Em 1941, aconteceu o primeiro jogo masculino apitado por uma mulher, num amistoso entre o Serrano de Petrópolis contra o América do Rio. Na ocasião, o árbitro passou mal e uma atleta da partida preliminar ao amistoso assumiu o apito.[7]
+Em 14 de Abril de 1941, durante a presidência de Getúlio Vargas, foi-se criado o Decreto-Lei 3199, proibindo a “prática de esportes incompatíveis com a natureza feminina”, entre eles o futebol.[8] Este decreto-lei só seria revogado em 1979.[9]
+O Araguari Atlético Clube é considerado o primeiro clube do Brasil a formar um time feminino, que em meados de 1958, selecionou 22 meninas para um jogo benificiente em dezembro deste mesmo ano.[9] O sucesso desta partida foi tão grande, que a revista O Cruzeiro fez matéria de capa sobre o acontecimento, pois até então, partidas femininas só ocorriam em circos ou em quadras de futsal. Com esta divulgação, houve, nos meses seguintes, vários jogos do time feminino do Araguari em cidades de Minas Gerais (Belo Horizonte inclusive) e também em Goiânia e Salvador. Em meados de 1959 a equipe feminina do Araguari foi desfeita, por pressão dos religiosos de Minas Gerais.[10][11]
+Em 1967, Asaléa de Campos Micheli, mais conhecida por Léa Campos, foi a primeira mulher a terminar um curso de arbitragem. O Decreto-Lei 3199 proibia as mulheres apenas de jogarem, mas não faziam menção sobre arbitragem. Essa brecha foi o que garantiu a Léa o direito de participar do curso de árbitros em Minas Gerais, feito no Departamento de Futebol Amador da Federação Estadual. Em entrevista ao programa Esporte Espetacular, da Rede Globo, em 2007, ela informou que não pode participar sequer da formatura do curso, por represálias machistas.[12]
+A primeira Seleção Brasileira de Futebol Feminino foi convocada pela CBF em 1988, para disputar, e vencer, o “Women’s Cup of Spain”.[7]
+Referências
+↑ espn.uol.com.br/ Olímpicas 2: goleiras sabotam o futebol feminino. Regra permite campo e balizas menores
+↑ a b c globoesporte.globo.com/ A importância do primeiro jogo oficial de futebol feminino, disputado em 1885
+↑ The Scottish FA - A Brief History of Women’s Football
+↑ «Football history: Winning ways of wedded women». Consultado em 18 de agosto de 2008. Arquivado do original em 27 de setembro de 2007
+↑ «Quando as mulheres foram banidas do futebol em Inglaterra»
+↑ folha.uol.com.br/ Futebol feminino chegou a ser proibido no Brasil na ditadura Vargas
+↑ a b c d e ultimadivisao.com.br/ Futebol Feminino no Brasil – A História
+↑ espnw.espn.uol.com.br/ Será que Marta conseguirá aproveitar o momento e tirar o máximo de proveito em solo nacional?
+↑ a b globoesporte.globo.com/ Pioneiras do esporte proibido: histórias do início do futebol feminino no Brasil
+↑ Primeiro time feminino brasileiro é reativado em Minas Folha de S.Paulo - (edição de 12/6/2011) - consultado em 11 de agosto de 2011
+↑ Nos anos 50, futebol feminino tinha gracejos, fãs e talento Folha de S.Paulo - (edição de 12/6/2011 por
+Lucas Reias) - consultado em 11 de agosto de 2011
+↑ ocuriosodofutebol.com.br/ Léa Campos - a primeira árbitra do futebol brasileiro
+Ligações externas[editar | editar código-fonte]
+O Commons possui uma categoria com imagens e outros ficheiros sobre
+Futebol feminino
+Página sobre a Série A2 de futebol feminino no sítio da CBF (em português)
+«Campeonato Brasileiro de Futebol Feminino - Série A1». no sítio da CBF
+vdeCompetições nacionais de futebol feminino do BrasilCampeonato Brasileiro
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+Campeonato Brasileiro - Série A2
+2017
+2018
+2019
+2020
+2021
+Campeonato Brasileiro - Série A3
+2022
+Copa do Brasil(extinta)
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+Campeonato Brasileiro - Sub-18
+2019
+2020
+2021
+Campeonato Brasileiro - Sub-16
+2019
+2020
+2021
+Portal do desporto
+Portal do futebol
+Obtida de https://pt.wikipedia.org/w/index.php?title=Futebol_feminino&oldid=61740560
+Categoria: Futebol femininoCategorias ocultas: !Artigos que carecem de notas de rodapé desde abril de 2017!Artigos que carecem de notas de rodapé sem indicação de tema
+Esta página foi editada pela última vez às 23h37min de 29 de julho de 2021.
+Este texto é disponibilizado nos termos da licença Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as condições de utilização.
+Política de privacidade
+Sobre a Wikipédia
+Avisos gerais
+Versão móvel
+Programadores
+Estatísticas
+Declaração sobre cookies');
+Document.create!(url: 'https://pt.wikipedia.org/wiki/Futebol_nos_Jogos_Ol%C3%ADmpicos', title: 'Futebol nos Jogos Olímpicos – Wikipédia, a enciclopédia livre', body: 'Futebol nos Jogos Olímpicos – Wikipédia, a enciclopédia livre
+Saltar para o conteúdo
+Alternar barra lateral
+Busca
+Links do usuário
+Criar uma conta
+Ferramentas pessoais
+expandido
+collapsed
+Criar uma conta
+Entrar
+Páginas para editores conectados saiba mais
+DiscussãoContribuições
+Navegação
+Página principalConteúdo destacadoEventos atuaisEsplanadaPágina aleatóriaPortaisInformar um erro
+Colaboração
+Boas-vindasAjudaPágina de testesPortal comunitárioMudanças recentesManutençãoCriar páginaPáginas novasContatoDonativos
+Ferramentas
+Páginas afluentesAlterações relacionadasCarregar ficheiroPáginas especiaisHiperligação permanenteInformações da páginaCitar esta páginaElemento Wikidata
+Imprimir/exportar
+Criar um livroDescarregar como PDFVersão para impressão
+Noutros projetos
+Wikimedia Commons
+Espaços nominais
+ArtigoDiscussão
+Variantes
+expandido
+collapsed
+Vistas
+LerEditarEditar código-fonteVer histórico
+Mais
+expandido
+collapsed
+51 idiomas
+expandido
+collapsed
+العربيةAsturianuAzərbaycancaБългарскиবাংলাCatalàČeštinaDanskDeutschΕλληνικάEnglishEspañolEestiEuskaraفارسیSuomiFrançaisFryskGalegoעבריתहिन्दीHrvatskiMagyarBahasa IndonesiaItaliano日本語ქართულიҚазақша한국어LietuviųLatviešuМакедонскиമലയാളംमराठीBahasa MelayuNederlandsNorsk bokmålPolskiRomânăРусскийSimple EnglishSlovenčinaSlovenščinaСрпски / srpskiSvenskaதமிழ்ไทยTürkçeУкраїнськаTiếng Việt中文
+Editar hiperligações
+Futebol nos Jogos Olímpicos
+Origem: Wikipédia, a enciclopédia livre.
+Futebol nos Jogos Olímpicos
+Torneio Olímpico de Futebol
+Dados gerais
+Organização
+FIFA e COI
+Edições
+27 (masculino)7 (feminino)
+Sistema
+Torneio concentradoGrupos e eliminatória
+Dados históricos
+Primeiro vencedor
+M:  Grã-Bretanha (1900) F:
+Estados Unidos (1996)
+Último vencedor
+M:  Brasil (2020) F:  Canadá (2020)
+Maior vencedor
+M:  Grã-Bretanha e  Hungria (3 conquistas) F:
+Estados Unidos (4 conquistas)
+editar
+O futebol foi o segundo esporte coletivo a entrar oficialmente nos Jogos Olímpicos, atrás apenas do polo aquático, em 1908. A competição é oficialmente chamada pela Federação Internacional de Futebol de Torneio Olímpico de Futebol.
+A partir de 1996, o futebol feminino também passou a ser disputado, com dominância dos Estados Unidos da América, que esteve presente em todas as finais até 2012 e só não levou o ouro em 2000, perdendo para a Noruega. Na edição de 2016, pela primeira vez, as norte-americanas não disputaram medalhas. Elas foram superadas pela Suécia nas quartas de final, na disputa de penalidades. Com a seleção americana eliminada, e a Noruega fora do torneio, a Alemanha se sagrou a terceira campeã do torneio. Desde que o torneio feminino foi incluído no programa olímpico, nunca houve uma dobradinha - ou seja, o mesmo país conquistar a medalha de ouro tanto no masculino quanto no feminino. O país que chegou mais perto foi a Alemanha, que em 2016 conquistou o ouro no feminino e a prata no masculino.
+Índice
+1 Locais de competição
+2 Torneio masculino
+2.1 Início
+2.2 Campeonato Mundial e primeira Copa do Mundo
+2.3 Amadorismo e domínio dos países do leste europeu
+2.4 Boicote da Grã-Bretanha
+2.5 A era moderna e equipes sub-23
+2.5.1 Jogos de 1984 e 1988
+2.5.2 Formato atual
+2.6 Resultados
+2.7 Quadro de medalhas
+2.8 Campeões mundiais e olímpicos
+2.9 Vice-campeões mundiais e campeões olímpicos
+2.10 Brasil no futebol olímpico
+2.11 Portugal no futebol olímpico
+2.12 Fatos sobre o torneio
+3 Torneio feminino
+3.1 História
+3.2 Resultados
+3.3 Quadro de medalhas
+3.4 Campeãs mundiais e olímpicas
+3.5 Campeãs mundiais e vice-campeãs olímpicas
+3.6 Brasil no futebol olímpico feminino
+3.7 Portugal no futebol olímpico feminino
+3.8 Fatos sobre o torneio
+4 Recordes e estatísticas
+4.1 Artilharia
+4.2 Mais gols marcados
+5 Quadro geral de medalhas
+6 Notas
+7 Referências
+8 Ver também
+Locais de competição[editar | editar código-fonte]
+Ver artigo principal: Lista de locais de competições do futebol em Olimpíadas
+Historicamente, as competições de futebol são realizados em outros estádios de outras cidades, sendo a cidade sede tendo apenas os principais jogos.
+Edições dos Jogos Olímpicos
+Cidade
+Estádio
+Atenas 1896
+Sem torneio de futebol
+Paris 1900
+Paris
+Velódromo de Vincennes
+Saint Louis 1904
+St. Louis
+Estádio Francis Field
+Londres 1908
+Londres
+Estádio White City
+Estocolmo 1912
+Estocolmo
+Estádio Olímpico
+Estádio Råsunda
+Tranebergs Idrottsplats
+Antuérpia 1920
+Antuérpia
+Estádio Olímpico
+Stadion Broodstraat
+Bruxelas
+Stade de lUnion St. Gilloise
+Gante
+Stade dA.A. La Gantoise
+Paris 1924
+Paris
+Stade Olympique, Colombes
+Stade Bergeyre
+Stade de Paris, Saint-Ouen
+Stade Pershing, Vincennes
+Amsterdam 1928
+Amsterdam
+Estádio Olímpico
+Harry Elte Stadium
+Los Angeles 1932
+Sem torneio de futebol
+Berlim 1936
+Berlim
+Estádio Olímpico
+Poststadion, Tiergarten
+Mommsenstadion, Charlottenburg
+Hertha-BSC-Platz
+Londres 1948
+Londres
+Empire Stadium, Wembley
+White Hart Lane, Tottenham
+Selhurst Park, Crystal Palace
+Craven Cottage, Fulham
+Griffin Park, Brentford
+Arsenal Stadium, Highbury
+Lynn Road, Ilford
+Green Pond Road, Walthamstow
+Champion Hill, Dulwich
+Brighton
+Goldstone Ground
+Portsmouth
+Fratton Park
+Helsinque 1952
+Helsinque
+Estádio Olímpico
+Töölö Football Grounds
+Turku
+Kupittaa Stadion
+Tampere
+Ratina Stadion
+Lahti
+Kisapuisto
+Kotka
+Kotka Stadion
+Melbourne 1956
+Melbourne
+Melbourne Cricket Ground
+Olympic Park Stadium
+Roma 1960
+Roma
+Estádio Flamínio
+Florença
+Stadio Comunale
+Grosseto
+Stadio Comunale
+Livorno
+Stadio Ardenza
+Pescara
+Estádio Adriático
+Áquila
+Stadio Comunale
+Nápoles
+Stadio Fuorigrotta
+Tóquio 1964
+Tóquio
+Estádio Olímpico Nacional
+Prince Chichibu Memorial Field
+Estádio Komazawa
+Omiya
+Estádio Omiya
+Yokohama
+Estádio de Mitsuzawa
+Cidade do México 1968
+Cidade do México
+Estádio Azteca
+Puebla
+Estádio Cuauhtémoc
+Guadalajara
+Estádio Jalisco
+León
+Estádio León
+Munique 1972
+Munique
+Estádio Olímpico
+Augsburgo
+Rosenaustadion
+Ingolstadt
+ESV-Stadion
+Ratisbona
+Jahnstadion
+Nurembergue
+Städtisches Stadion
+Passau
+Dreiflüssestadion
+Montreal 1976
+Montreal
+Estádio Olímpico
+Sherbrooke
+Municipal Stadium
+Toronto
+Varsity Stadium
+Ottawa
+Lansdowne Stadium
+Moscou 1980
+Moscou
+Estádio Lenin
+Estádio Dynamo
+Leningrado
+Estádio Kirov
+Kiev
+Estádio Republicano
+Minsk
+Estádio Dínamo
+Los Angeles 1984
+Pasadena
+Rose Bowl
+Boston
+Harvard Stadium
+Annapolis
+Navy-Marine Corps Memorial Stadium
+Stanford
+Stanford Stadium
+Seoul 1988
+Seul
+Estádio Olímpico de Seul
+Estádio Dongdaemun
+Busan
+Estádio Busan
+Daegu
+Estádio Daegu
+Daejeon
+Estádio Daejeon
+Gwangju
+Estádio Gwangju
+Barcelona 1992
+Barcelona
+Camp Nou
+Estadi de Sarrià
+Sabadell
+Estadi de la Nova Creu Alta
+Saragoça
+Estadio de La Romareda
+Valência
+Estádio Luis Casanova
+Atlanta 1996
+Athens
+Sanford Stadium
+Orlando
+Citrus Bowl
+Birmingham
+Legion Field
+Miami
+Miami Orange Bowl
+Washington, D.C.
+Robert F. Kennedy Memorial Stadium
+Sydney 2000
+Sydney
+Estádio Olímpico
+Sydney Football Stadium
+Brisbane
+Brisbane Cricket Ground
+Adelaide
+Hindmarsh Stadium
+Camberra
+Bruce Stadium
+Melbourne
+Melbourne Cricket Ground
+Atenas 2004
+Atenas
+Estádio Olímpico de Atenas
+Estádio Karaiskakis
+Patras
+Estádio Pampeloponnisiako
+Vólos
+Estádio Panthessaliko
+Salonica
+Estádio Kaftanzoglio
+Heraclião
+Estádio Pankritio
+Pequim 2008
+Pequim
+Estádio Nacional de Pequim
+Estádio dos Trabalhadores
+Tianjin
+Estádio Centro Olímpico de Tianjin
+Xangai
+Estádio de Shanghai
+Qinhuangdao
+Estádio Centro de Esportes Olímpicos de Qinhuangdao
+Shenyang
+Estádio Olímpico de Shenyang
+Londres 2012
+Londres
+Estádio de Wembley
+Glasgow
+Hampden Park
+Cardiff
+Millennium Stadium
+Coventry
+City of Coventry Stadium
+Manchester
+Old Trafford
+Newcastle upon Tyne
+St James Park
+Rio de Janeiro 2016
+Rio de Janeiro
+Maracanã
+Estádio Olímpico
+São Paulo
+Arena Corinthians
+Brasília
+Estádio Mané Garrincha
+Salvador
+Arena Fonte Nova
+Belo Horizonte
+Mineirão
+Manaus
+Arena da Amazônia
+Tóquio 2020
+Chofu
+Estádio de Tóquio
+Yokohama
+Estádio Internacional de Yokohama
+Saitama
+Estádio Saitama 2002
+Rifu
+Estádio de Miyagi
+Kashima
+Estádio Kashima
+Sapporo
+Sapporo Dome
+Torneio masculino[editar | editar código-fonte]
+O torneio masculino é a única modalidade olímpica a restringir a participação de atletas. Isso porque a FIFA teme que o torneio olímpico de futebol possa competir em importância com a Copa do Mundo. Por outro lado, o Comitê Olímpico Internacional tem receio que as outras competições entrem em caráter secundário para a mídia, ofuscadas pelas grandes estrelas dos gramados.[carece de fontes?] Além disso, o Torneio Olímpico de Futebol não consta como uma Data FIFA, o que significa que os clubes não estão obrigados a liberarem seus jogadores para a competição.[1]
+Por conta dessa restrição, o torneio masculino é a competição de futebol mais imprevisível, com medalhas conquistadas por países como Japão (bronze em 1968), Gana (bronze em 1992), Nigéria (ouro em 1996, prata em 2008 e bronze em 2016), Camarões (ouro em 2000), Chile (bronze em 2000), Paraguai (prata em 2004) e Coreia do Sul (bronze em 2012).
+Por outro lado, o Brasil, maior ganhador de Copas do Mundo, com cinco títulos, veio a conquistar a sua primeira medalha de ouro somente em 2016. Com isso o selecionado brasileiro passou a ser o mais laureado da história da competição masculina e aumentou a distância para o segundo colocado neste quesito com o segundo ouro conquistado em 2020 (com 7 medalhas, o Brasil tem quatro a mais que o segundo colocado),[2] embora não seja a que tem mais ouros, e por isso não aparece no topo do quadro de medalhas do torneio masculino. Além disso, com a vitória conquistada na semifinal de 2016, diante de Honduras, passou a ser a que tem o maior número de vitórias no torneio olímpico: 34 vitórias em treze participações.[3]
+Reunificada em 1990, a atual seleção da República Federal da Alemanha jamais conquistou a medalha de ouro. Outra grande potência da modalidade com quatro títulos mundiais, o país classificou-se para o torneio pela primeira vez em 2016, edição na qual conquistou a medalha de prata. A extinta Alemanha Oriental, socialista e de futebol amador, conquistou o ouro em 1976, na época do chamado amadorismo de fachada dos países do Leste Europeu, ganhou também uma prata e um bronze; enquanto isso a antiga Alemanha Ocidental, capitalista e com seu futebol profissional teve rendimento pequeno: conseguiu apenas uma medalha de bronze, em 1988. Nas Olimpíadas de 1964, os dois países competiram esportivamente unidos com o nome de Alemanha Unificada, mas na modalidade futebol foi representada pela Alemanha Oriental, que ficou com a medalha de bronze. Alemanha Ocidental e Oriental tinham federações de futebol diferentes e independentes.
+Início[editar | editar código-fonte]
+Pierre de Fredy, o Barão de Coubertin, recriador das Olimpíadas, era defensor ardoroso do amadorismo. Assim, no começo, o futebol nas Olimpíadas era disputado apenas por jogadores amadores.
+O futebol que ainda dava os primeiros passos na sua internacionalização, não fez parte dos primeiros jogos da era moderna, disputados em Atenas, na Grécia em 1896. Segundo alguns relatos, na primeira edição dos Jogos, disputou-se um torneio não oficial na capital helénica, onde uma equipa de Atenas perdeu a final para uma equipa de Esmirna, que representava o então Império Otomano. Mas a historiografia oficial do movimento olímpico tem sérias reservas relativamente à real existência de tal encontro.[4]
+Desta forma, o futebol foi introduzido nas Olimpíadas de Paris, em 1900, mas como esporte de exibição. Em St. Louis 1904 também fez parte do programa olímpico, mas ainda como exibição. Nos Jogos Olímpicos Intercalares de 1906, o futebol também teve o mesmo tratamento. Estas competições foram disputadas por clubes, universidades e seleções de cidades ou regiões, não tendo o reconhecimento oficial da FIFA. A ausência de informações dessas competições nos arquivos online da FIFA também pode ser lida como uma forma de não validar essa competição antes de sua fundação, que aconteceu em 1904.[5] O COI, porém, mais tarde reconheceria estas medalhas como oficiais. Somente em Londres 1908 o futebol passou a fazer parte de fato do programa olímpico. Desde então, o esporte só ficou de fora da disputa das Olimpíadas nos Jogos de 1932, em Los Angeles.[6]
+É possível dividir a história da modalidade nos jogos em três fases. Na primeira, que vai do início dos Jogos até o fim da Segunda Guerra Mundial, o torneio refletia de certa forma a relação de forças do futebol internacional no início do Século XX. Na segunda, entre as décadas de 1950 e 1970, no auge do amadorismo, há um enorme domínio do Leste Europeu, que enviava suas competitivas seleções principais para enfrentar times realmente amadores, compostos por juniores. Por fim, a fase moderna, em que a FIFA tentou igualar as condições e impôs limitações uniformes para todos os países.
+Campeonato Mundial e primeira Copa do Mundo[editar | editar código-fonte]
+O primeiro torneio com a participação de seleções nacionais e disputado em moldes parecidos com os atuais foi o de 1908 em Londres, que corou à anfitriã Grã-Bretanha como a grande vencedora, título que renovaria quatro anos depois em Estocolmo.[4] Este torneio realizado nos Jogos de 1908 é considerado como o primeiro torneio de caráter internacional disputado, e ele ficou a cargo da Football Association, que à época não era afiliada a então recém fundada FIFA. Nesse início foi ressaltado que somente poderiam participar do torneio olímpico de futebol atletas amadores, segundo os princípios olímpicos, sendo considerado amador aquele que não recebesse remuneração ou consideração de qualquer espécie a mais do que as despesas necessárias para pagar hotel e viagem, ou aquele que não estivesse registrado como profissional.[5]
+A partir de meados da década de 1910, o futebol ganha cada vez mais importância. Até então as grandes viagens para disputar os Jogos ainda eram feitas de barco, e só equipes europeias se inscreviam para a competição. O futebol não era grande o suficiente para que alguém encarasse os custos de uma viagem transatlântica: nenhum país latino-americano quis realizar a travessia. Esse cenário começa a mudar a partir dos Jogos da Antuérpia 1920, que receberam pela primeira vez uma equipe de fora da Europa. Coube esse mérito à Seleção do Egito. A cidade belga presenciaria também a primeira derrota britânica, logo no primeiro jogo com a Noruega, o que levou os britânicos a protestarem a inclusão de profissionais nas outras equipas. Na única edição que foi disputada em molde de campeonato e sem final, a anfitriã Bélgica bateu a Espanha na final.[4] É neste torneio também que ocorreu a primeira grande polêmica. Na disputa da medalha de ouro, a Tchecoslováquia se sentiu tão prejudicada pela arbitragem e pelo clima bélico em Antuérpia, que se retirou de campo e deu a vitória à anfitriã Bélgica.
+Jogadores do uruguai, campeões olímpicos em 1928.
+De 1908 a 1928, apesar do amadorismo, o torneio olímpico de futebol foi a principal competição internacional de seleções. Por conta disso, até 1930, com a realização da primeira Copa do Mundo, no Uruguai, o torneio olímpico de futebol era considerado o Campeonato Mundial de Futebol.
+Os Jogos Olímpicos de Paris, em 1924, representam uma grande transformação na estrutura do futebol e confirma que o futebol havia se popularizado. O torneio de futebol foi disputado em quatro estádios diferentes (Colombes, Pershing, Berger e Paris) e, segundo o Relatório Oficial dos Jogos teve um público acumulado de 201 324 pessoas.[5] Para se ter uma ideia, naquela época o futebol tinha se tornado tão popular que um terço de toda a receita obtida nas Olimpíadas de 1924 viria dos estádios de futebol.
+A força latino-americana, até hoje presente na disputa, começou a se fazer valer nos Jogos, com a entrada do Uruguai e Argentina.[7][8] Em 1924, os uruguaios venceram cinco jogos marcando 20 gols e sofrendo apenas dois. Faturou um ouro que, assim como o de 1928, em Amsterdã, estampa até hoje o seu símbolo oficial, garantindo ainda o apelido de Celeste Olímpica e o posto de maior potência do futebol mundial, à época. Na comemoração do ouro obtido em 1924, os uruguaios andaram ao redor do campo acenando para o público: era a primeira volta olímpica da história do futebol.
+Ao final dos Jogos de 1924 se iniciou um debate entre o COI e a FIFA que foi crucial para os rumos do futebol dentro dos Jogos Olímpicos. O Congresso de Praga (1925), deu uma nova definição de amadorismo, e foi feita em conjunto com as federações internacionais.[5]
+Ao final dos Jogos de 1928 ficou decidido que o futebol não faria parte do programa olímpico de 1932. Com a saída da modalidade e diante da autonomia que já apresentava em relação ao movimento olímpico, em outubro de 1928 a FIFA anunciou que pretendia organizar um campeonato mundial de futebol aberto para amadores e profissionais, mas que esse fato não iria interferir nos Jogos Olímpicos.[5]
+Amadorismo e domínio dos países do leste europeu[editar | editar código-fonte]
+Com o estabelecimento da Copa do Mundo, em 1930, começou o profissionalismo no futebol. A FIFA não autorizou a realização do torneio olímpico nos Jogos de 1932, e a partir de 1936 as seleções olímpicas só poderiam relacionar seus melhores atletas se estes fossem amadores (para a FIFA, atleta amador seriam os que não recebiam reembolso por tempo de afastamento). O torneio olímpico de futebol passou a ser, portanto, uma competição de seleções restritivas. Isto acabou gerando uma vantagem para os socialistas do Leste Europeu, já que os jogadores nesses países eram, oficialmente, militares (e, portanto, amadores). Assim, estes países enviavam aos Jogos Olímpicos suas seleções principais (o que ficou conhecido por amadorismo de fachada), ao passo que os países ocidentais eram forçados a mandar equipes amadoras ou de juniores.[7] Muitas seleções passaram a não participar do torneio de futebol por alegar que o futebol profissional havia ganhado espaço em seu país e, por tal fato, não teriam condições de enviar uma seleção competitiva para a disputa.[5]
+Desta forma, não é de estranhar que a lista de campeões olímpicos entre 1952 e 1980 só inclua países que ficavam na chamada cortina de ferro: União Soviética (1956), Jugoslávia (1960), Hungria (1964 e 1968), Polônia (1972), República Democrática Alemã (1976) e Checoslováquia (1980). Entre Londres 1948 e Moscou 1980, 23 das 27 medalhas olímpicas foram conquistadas por países socialistas, cabendo a Dinamarca, Suécia e Japão as únicas exceções.
+O amadorismo, no entanto, não impediu o desfile de grandes craques pelos campos olímpicos. Um deles foi Ferenc Puskás, que, ao lado de outros grandes jogadores como Zoltán Czibor e Sándor Kocsis, comandou os húngaros em Helsinque dois anos antes de brilhar na Copa da Suíça. Quatro anos mais tarde, os soviéticos venceram com Lev Yashin guardando a meta.
+Para os Jogos Olímpicos de Roma em 1960, a FIFA tomou uma decisão inédita: estava proibida, além dos atletas profissionais, a participação dos jogadores que haviam disputado a Copa do Mundo da Suécia de 1958. Essa determinação foi apresentada como forma de salvar o torneio olímpico e, consequentemente, restringir o acesso dos atletas pertencentes aos países que não reconheciam o profissionalismo (União Soviética, Suécia, Tchecoslováquia e Hungria) e tinham um grande êxito nessa competição.[5] Um destaque negativo dessa época aconteceu em 1968: a desistência da seleção de Marrocos, que se recusou a jogar após ser sorteada para o Grupo C, que também tinha Israel. A equipe marroquina foi substituída pela seleção de Gana.
+Boicote da Grã-Bretanha[editar | editar código-fonte]
+Ver artigo principal: Seleção Britânica de Futebol
+A Seleção Britânica medalha de ouro nas Olimpíadas de Londres, 1908. O uniforme foi o mesmo do da Seleção Inglesa, mas com a bandeira do Reino Unido bordada no peito.
+A partir de 1972, a Grã-Bretanha não mais participou do torneio olímpico de futebol, já que a Inglaterra, Irlanda do Norte, Escócia e País de Gales disputam a Olimpíada defendendo uma única bandeira, e o futebol na Grã-Bretanha não tem um órgão regulador único (esses países disputam torneios da FIFA separadamente). Apenas a Football Association inglesa (FA) é afiliada à British Olympic Association (BOA), e a FA inscreveu times da Grã-Bretanha nos torneios de futebol até 1972. Em 1974, a FA aboliu a distinção entre amador e profissional, e parou de entrar nas Olimpíadas. Embora a FIFA tenha permitido profissionais nas Olimpíadas desde 1984, a FA não voltou a entrar, já que as nações nacionais temiam que uma equipe olímpica britânica unida abrisse um precedente que poderia levar a FIFA a questionar seu status separado em outras competições da FIFA e no International Football Association Board.[9][10].
+Ryan Giggs, um dos cinco não ingleses do elenco olímpico do time masculino de 2012.
+Quando Londres foi escolhida para sediar os Jogos de 2012, houve pressão sobre a federação inglesa para exercer o direito automático da nação anfitriã de colocar uma equipe em campo,[11]. Em 2009, o plano acordado pela FA com a FA galesa, a FA escocesa e a FA irlandesa era apenas colocar jogadores ingleses[12]; no entanto, a British Olympic Association rejeitou isso[13] e, em última análise, havia jogadores galeses no time masculino e escoceses no time feminino.[14] Na estreia das seleções britânicas masculina e feminina de futebol nos Jogos Olímpicos de 2012, atletas não ingleses recusaram-se a cantar o God Save the Queen (Deus salve a Rainha, em inglês), o hino nacional britânico. Na equipe feminina, Kim Little e Ifeoma Dieke, ambas escocesas, foram as que não cantaram e, na equipe masculina, quem não cantou foram os galeses Ryan Giggs e Craig Bellamy. A atitude dos atletas foi muito criticada por torcedores do Reino Unido.[15]
+Após os jogos de 2012, a FA decidiu que nenhuma equipe seria inscrita nos torneios masculinos subsequentes, mas estava aberta para colocar uma equipe feminina novamente.[16] Para o torneio de 2020, a FIFA declarou que a seleção feminina do Reino Unido poderia entrar nas Olimpíadas com a concordância das quatro federações de futebol britânicas, dependendo do desempenho da seleção feminina inglesa na Copa do Mundo de 2019 (que serviu como qualificação europeia para as Olimpíadas), o que veio a ocorrer.
+A era moderna e equipes sub-23[editar | editar código-fonte]
+Jogos de 1984 e 1988[editar | editar código-fonte]
+A discrepância de forças estava gerando um desinteresse do público. Isto fez com que, para os Jogos de Los Angeles 1984, o Comitê Olímpico Internacional admitisse uma mudança na regra para aumentar o interesse no esporte. A partir de então, foram admitidos jogadores profissionais. Ocorreu, então, um acordo entre a FIFA, que não queria as Olimpíadas disputando com a Copa do Mundo, e o COI, definindo que jogadores que não tivessem participado da Copa do Mundo pudessem disputar as Olimpíadas. Muitas delegações em campo levaram equipes jovens, incluindo a França, que em 1984 ganhou o título olímpico.[7][17] As regras de 1984 foram mantidas também para a edição de 1988, mas com um parágrafo adicional: eram elegíveis os jogadores de futebol europeus e sul-americanos que antes haviam disputado menos de 90 minutos em uma única partida da Copa do Mundo.
+Formato atual[editar | editar código-fonte]
+Desde os Jogos de 1992, em Barcelona, somente jogadores com menos de 23 anos podem disputar as Olimpíadas no futebol masculino. Quatro anos depois, outra regra foi introduzida e três jogadores acima dos 23 anos podem fazer parte da equipe olímpica. Assim, o torneio olímpico passou a ser uma espécie de complemento para outros de base geridos pela FIFA, como os Mundiais Sub-20 e Sub-17.[18] Este novo formato permite que, em tese, as equipes de todo o mundo possam competir de forma igual.[19] Os países africanos, porém, acabam se aproveitando desta regra (assim como nos outros campeonatos de base), muito por conta das adulterações de idade, que acabam fazendo com que atletas se sobressaiam fisicamente.[20] Por conta disso, desde então é comum ver resultados expressivos para algumas seleções africanas no torneio olímpico. Não por acaso, 1992 entrou para a história por conta da primeira medalha de um país africano: Gana faturou o bronze após vencer a Austrália. E nos dois torneios seguintes (1996 e 2000), Nigéria e Camarões, respectivamente, conquistaram a medalha de ouro.
+Por causa do conceito de amadorismo anterior, vários dos países historicamente fortes no futebol têm campanhas modestas ou inexpressivas em Jogos Olímpicos: A primeira participação do Brasil se deu em Helsinque, em 1952, mas sua primeira medalha de ouro, no entanto, so veio quando jogou em casa, na edição do Rio de Janeiro em 2016. Os Países Baixos conquistaram o bronze nos três primeiros torneios, mas desde 1952 só se classificou aos Jogos em 2008. O Uruguai venceu o torneio em suas duas primeiras participações, em 1924 e 1928, sendo apenas essas duas aparições olímpicas até 2012, onde conseguiu a sua classificação após 84 anos sem disputar o torneio olímpico de futebol. A Itália, tetracampeã mundial de futebol, conquistou a medalha de ouro olímpica apenas uma vez em 1936, e tem mais duas medalhas de bronze em 1928 e 2004 além de ser o país que mais vezes participou no torneio olímpico de futebol com quinze presenças, apesar de estar ausente desde 2008. A Alemanha, tetracampeã mundial e tradicional potência futebolística, participou apenas nove vezes do certame (contando as participações como Alemanha Ocidental), tendo como melhor resultado a medalha de prata em 2016, coincidindo com a estreia da equipe representando a Alemanha reunificada no torneio.[21]
+Resultados[editar | editar código-fonte]
+O futebol foi torneio de exibição nos Jogos Olímpicos de Verão de 1900 e 1904, sendo posteriormente considerados pelo COI como oficiais e contando para o quadro de medalhas.[22] A FIFA não considera os torneios como oficiais já que clubes representaram os selecionados nacionais. O torneio de futebol não foi disputado apenas na primeira edição dos Jogos, em 1896, e em 1932 quando a FIFA não tinha conceitos de amadorismo claros. Em 1916 (Olimpíadas canceladas devido à I Guerra Mundial), 1940 e 1944 (II Guerra Mundial) os Jogos Olímpicos não se realizaram.
+Ano
+Sede
+Final
+Semifinalistas
+Ouro
+Placar(es)
+Prata
+Bronze
+Placar(es)
+4º lugar
+1896
+Atenas
+Torneio não realizado
+1900Detalhes
+Paris
+Grã-Bretanha
+[23]
+França
+Bélgica
+[23]
+1904Detalhes
+St. Louis
+Canadá
+[24]
+Estados Unidos
+Estados Unidos
+[24]
+1908Detalhes
+Londres
+Grã-Bretanha
+2 – 0
+Dinamarca
+Países Baixos
+2 – 0
+Suécia
+1912Detalhes
+Estocolmo
+Grã-Bretanha
+4 – 2
+Dinamarca
+Países Baixos
+9 – 0
+Finlândia
+1916
+Edição cancelada devido à Primeira Guerra Mundial.
+1920Detalhes
+Antuérpia
+Belgica
+[25]
+Espanha
+Países Baixos
+[25]
+Itália
+1924Detalhes
+Paris
+Uruguai
+3 – 0
+Suíça
+Suécia
+1 – 1 (pro) 3 – 1
+Países Baixos
+1928Detalhes
+Amsterdã
+Uruguai
+1 – 1 (pro) 2 – 1
+Argentina
+Itália
+11 – 3
+Egito
+1932
+Los Angeles
+Torneio não realizado
+1936Detalhes
+Berlim
+Itália
+2 – 1 (pro)
+Áustria
+Noruega
+3 – 2
+Polônia
+1940
+Edições canceladas devido à Segunda Guerra Mundial.
+1944
+1948Detalhes
+Londres
+Suécia
+3 – 1
+Iugoslávia
+Dinamarca
+5 – 3
+Grã-Bretanha
+1952Detalhes
+Helsinque
+Hungria
+2 – 0
+Iugoslávia
+Suécia
+2 – 0
+Alemanha Ocidental
+1956Detalhes
+Melbourne
+União Soviética
+1 – 0
+Iugoslávia
+Bulgária
+3 – 0
+Índia
+1960Detalhes
+Roma
+Iugoslávia
+3 – 1
+Dinamarca
+Hungria
+2 – 1
+Itália
+1964Detalhes
+Tóquio
+Hungria
+2 – 1
+Checoslováquia
+Equipe Alemã Unida[a]
+3 – 1
+República Árabe Unida
+1968Detalhes
+Cidade do México
+Hungria
+4 – 1
+Bulgária
+Japão
+2 – 0
+México
+1972Detalhes
+Munique
+Polônia
+2 – 1
+Hungria
+União SoviéticaAlemanha Oriental
+2 – 2[26] (pro)
+1976Detalhes
+Montreal
+Alemanha Oriental
+3 – 1
+Polônia
+União Soviética
+2 – 0
+Brasil
+1980Detalhes
+Moscou
+Checoslováquia
+1 – 0
+Alemanha Oriental
+União Soviética
+2 – 0
+Iugoslávia
+1984Detalhes
+Los Angeles
+França
+2 – 0
+Brasil
+Iugoslávia
+2 – 1
+Itália
+1988Detalhes
+Seul
+União Soviética
+2 – 1 (pro)
+Brasil
+Alemanha Ocidental[b]
+3 – 0
+Itália
+1992Detalhes
+Barcelona
+Espanha
+3 – 2
+Polônia
+Gana
+1 – 0
+Austrália
+1996Detalhes
+Atlanta
+Nigéria
+3 – 2
+Argentina
+Brasil
+5 – 0
+Portugal
+2000Detalhes
+Sydney
+Camarões
+2 – 2 (proms)5 – 3 (pen)
+Espanha
+Chile
+2 – 0
+Estados Unidos
+2004Detalhes
+Atenas
+Argentina
+1 – 0
+Paraguai
+Itália
+1 – 0
+Iraque
+2008Detalhes
+Pequim
+Argentina
+1 – 0
+Nigéria
+Brasil
+3 – 0
+Bélgica
+2012Detalhes
+Londres
+México
+2 – 1
+Brasil
+Coreia do Sul
+2 – 0
+Japão
+2016Detalhes
+Rio de Janeiro
+Brasil
+1 – 1 (pro)5 – 4 (pen)
+Alemanha
+Nigéria
+3 – 2
+Honduras
+2020Detalhes
+Tóquio
+Brasil
+2 – 1 (pro)
+Espanha
+México
+3 – 1
+Japão
+2024Detalhes
+Paris
+–
+–
+Legenda:
+pro - após a prorrogação;
+proms - após a prorrogação com morte súbita;
+pen - após a disputa por pênaltis.
+Quadro de medalhas[editar | editar código-fonte]
+Ordem
+País
+1
+HUN Hungria
+3
+1
+1
+5
+2
+GBR Grã-Bretanha
+3
+0
+0
+3
+3
+BRA Brasil
+2
+3
+2
+7
+4
+ARG Argentina
+2
+2
+0
+4
+5
+URS União Soviética
+2
+0
+3
+5
+6
+URU Uruguai
+2
+0
+0
+2
+7
+YUG Iugoslávia
+1
+3
+1
+5
+8
+ESP Espanha
+1
+3
+0
+4
+9
+POL Polônia
+1
+2
+0
+3
+10
+GDR Alemanha Oriental[a]
+1
+1
+2
+4
+11
+NGR Nigéria
+1
+1
+1
+3
+12
+TCH Checoslováquia
+1
+1
+0
+2
+FRA França
+1
+1
+0
+2
+14
+ITA Itália
+1
+0
+2
+3
+SWE Suécia
+1
+0
+2
+3
+16
+BEL Bélgica
+1
+0
+1
+2
+MEX México
+1
+0
+1
+2
+18
+CAN Canadá
+1
+0
+0
+1
+CMR Camarões
+1
+0
+0
+1
+20
+DEN Dinamarca
+0
+3
+1
+4
+21
+USA Estados Unidos
+0
+1
+1
+2
+BUL Bulgária
+0
+1
+1
+2
+GER Alemanha[b]
+0
+1
+1
+2
+24
+AUT Áustria
+0
+1
+0
+1
+SUI Suíça
+0
+1
+0
+1
+PAR Paraguai
+0
+1
+0
+1
+27
+NED Países Baixos
+0
+0
+3
+3
+28
+CHI Chile
+0
+0
+1
+1
+KOR Coreia do Sul
+0
+0
+1
+1
+GHA Gana
+0
+0
+1
+1
+JPN Japão
+0
+0
+1
+1
+NOR Noruega
+0
+0
+1
+1
+Total
+27
+27
+28
+82
+Campeões mundiais e olímpicos[editar | editar código-fonte]
+Ver artigo principal: Lista de futebolistas Campeões Olímpicos e da Copa do Mundo
+Dos oito países campeões do mundo, apenas a Alemanha não foi campeã olímpica.[27] Como país unificado, conquistou o bronze em 1964 e a prata em 2016, além de ter obtido um bronze como Alemanha Ocidental em 1988.[28] Como Alemanha Oriental, porém, ela foi ouro nos Jogos de 1976. Os alemães também foram campeões mundiais de 1954, 1974, 1990 e 2014.
+Uruguai:
+Ouro em 1924 e 1928;
+Campeões mundiais de 1930 e 1950.
+Itália:
+Ouro em 1936;
+Campeões mundiais de 1934, 1938, 1982 e 2006.
+Inglaterra:
+Ouro em 1900, 1908 e 1912 (todas como Grã-Bretanha);
+Campeões mundiais de 1966.
+França:
+Ouro em 1984;
+Campeões mundiais de 1998 e 2018.
+Espanha:
+Ouro em 1992;
+Campeões mundiais de 2010.
+Argentina:
+Ouro em 2004 e 2008;
+Campeões mundiais de 1978 e 1986.
+Brasil:
+Ouro em 2016 e 2020;
+Campeões mundiais de 1958, 1962, 1970, 1994 e 2002.
+Vice-campeões mundiais e campeões olímpicos[editar | editar código-fonte]
+Suécia:
+Ouro em 1948;
+Vice-campeões mundiais de 1958.
+Hungria:
+Ouro em 1952, 1964 e 1968;
+Vice-campeões mundiais de 1938 e 1954.
+Tchecoslováquia:
+Ouro em 1980;
+Vice-campeões mundiais de 1934 e 1962.
+Brasil no futebol olímpico[editar | editar código-fonte]
+1952: 5º colocado (Quartas de final)
+1956: Não se classificou
+1960: 6º colocado (1ª fase)
+1964: 9º colocado (1ª fase)
+1968: 10º colocado (1ª fase)
+1972: 13º colocado (1ª fase)
+1976: 4º lugar
+1980: Não se classificou
+1984: Prata
+1988: Prata
+1992: Não se classificou
+1996: Bronze
+2000: 7º colocado (Quartas de final)
+2004: Não se classificou
+2008: Bronze
+2012: Prata
+2016: Ouro
+2020: Ouro
+Portugal no futebol olímpico[editar | editar código-fonte]
+1900 a 1924: não se classificou
+1928: 7º lugar (Quartas de final)
+1932: torneio não realizado
+1936 a 1992: não se classificou
+1996: 4º lugar
+2000: não se classificou
+2004: 14º lugar (1ª fase)
+2008: não se classificou
+2016: 6º lugar (Quartas de final)
+2020: não se classificou
+Fatos sobre o torneio[editar | editar código-fonte]
+Esta página cita fontes, mas estas não cobrem todo o conteúdo. Ajude a inserir referências. Conteúdo não verificável poderá ser removido.—Encontre fontes: Google (notícias, livros e acadêmico) (Setembro de 2016)
+O Uruguai foi escolhido para primeira sede da Copa do Mundo em 1930, por ser o bicampeão olímpico de futebol, em 1924 e 1928.
+A Grã-Bretanha, apesar de tricampeã olímpica em 1900, 1908 e 1912, recusou-se a participar da FIFA e da Copa do Mundo até 1950. E assim mesmo, só concordou em participar porque conseguiram o direito tutelado pela FIFA de disputar Copa com os times nacionais de cada uma das regiões que formam o Reino Unido da Grã-Bretanha: a Inglaterra, Escócia, País de Gales e Irlanda do Norte, e por não ter uma equipe de futebol unificada; e assim permanece até hoje. Com isso, a Grã-Bretanha não pode mais disputar os Jogos Olímpicos, por não ter uma equipe de futebol unificada (apenas o Reino Unido da Grã-Bretanha possui comitê olímpico nacional filiado ao COI e pode disputar as Olimpíadas). A exceção se deu em 2012, quando os Jogos Olímpicos realizaram-se em Londres e as seleções da Grã-Bretanha puderam participar.
+O chamado gol olímpico (marcado diretamente da cobrança de corner) ganhou este nome em outubro de 1924, quando foi assinalado pelo jogador argentino Cesáreo Onzari, em um amistoso contra o Uruguai, que há poucos meses havia se sagrado campeão olímpico nos Jogos de 1924.
+O Japão e a Coreia do Sul são os únicos países asiáticos que ganharam uma medalha olímpica de futebol (bronze em 1968 na Cidade do México e bronze em 2012 em Londres, respectivamente).
+As únicas seleções anfitriãs que ganharam o torneio olímpico foram as seleções da Grã-Bretanha em 1908, Bélgica em 1920, Espanha em 1992 e Brasil em 2016.
+As únicas seleções que ganharam o bicampeonato consecutivo foram as seleções da Grã-Bretanha em 1908 e 1912, do Uruguai em 1924 e 1928, da Hungria em 1964 e 1968, da Argentina em 2004 e 2008 e do Brasil em 2016 e 2020.
+Nos Jogos Olímpicos de Verão de 1984, o time titular do Sport Club Internacional foi convocado para fazer parte da Seleção Brasileira. Os onze atletas foram a base da medalha de prata conquistada pelo Brasil.[29]
+Os húngaros Antal Dunai junto com Dezső Novák são os maiores medalhistas do futebol masculino, ambos com duas medalhas de ouro em 1964 e 1968, além de uma medalha de prata em 1972 para Dunai e uma medalha de bronze em 1960 para Novák.
+Torneio feminino[editar | editar código-fonte]
+História[editar | editar código-fonte]
+Em 1996, foi incluído o torneio feminino de futebol nos Jogos Olímpicos. Sem tempo para organizar um torneio classificatório, foi decidido que as vagas seriam das oito primeiras colocadas na Copa do Mundo de 1995, apenas substituindo a Inglaterra – que nas Olimpíadas é parte da Grã-Bretanha – pelo nono colocado Brasil. As anfitriãs dos Estados Unidos venceram o torneio inaugural em Atlanta,[30] e chegaram a todas as finais até 2012, só perdendo o ouro em Sydney 2000 para a Noruega. Por duas vezes consecutivas as norte-americanas derrotaram as brasileiras, em Atenas 2004 e Pequim 2008, e em Londres 2012, desbancaram as então campeãs mundiais do Japão. Em 2016, os Estados Unidos ficaram de fora da final pela primeira vez no futebol feminino.
+Para o futebol feminino, a FIFA permite o uso das seleções principais no torneio olímpico e chega a contar o desempenho nas Olimpíadas para o Ranking Feminino Mundial da FIFA.[31]
+Resultados[editar | editar código-fonte]
+Ano
+Sede
+Final
+Disputa pelo bronze
+Ouro
+Placar
+Prata
+Bronze
+Placar
+4º lugar
+1996Detalhes
+Atlanta
+Estados Unidos
+2 – 1
+China
+Noruega
+2 – 0
+Brasil
+2000Detalhes
+Sydney
+Noruega
+3 – 2proms
+Estados Unidos
+Alemanha
+2 – 0
+Brasil
+2004Detalhes
+Atenas
+Estados Unidos
+2 – 1pro
+Brasil
+Alemanha
+1 – 0
+Suécia
+2008Detalhes
+Pequim
+Estados Unidos
+1 – 0pro
+Brasil
+Alemanha
+2 – 0
+Japão
+2012Detalhes
+Londres
+Estados Unidos
+2 – 1
+Japão
+Canadá
+1 – 0pro
+França
+2016Detalhes
+Rio de Janeiro
+Alemanha
+2 – 1
+Suécia
+Canadá
+2 – 1
+Brasil
+2020Detalhes
+Tóquio
+Canadá
+1 – 1 (pro)3 – 2 (pen)
+Suécia
+Estados Unidos
+4 – 3
+Austrália
+2024Detalhes
+Paris
+–
+–
+Legenda:
+pro - após a prorrogação;
+proms - após a prorrogação com morte súbita;
+pen - após a disputa por pênaltis.
+Quadro de medalhas[editar | editar código-fonte]
+Ordem
+País
+1
+USA Estados Unidos
+4
+1
+1
+6
+2
+GER Alemanha
+1
+0
+3
+4
+3
+CAN Canadá
+1
+0
+2
+3
+4
+NOR Noruega
+1
+0
+1
+2
+5
+BRA Brasil
+0
+2
+0
+2
+SWE Suécia
+0
+2
+0
+2
+7
+CHN China
+0
+1
+0
+1
+JPN Japão
+0
+1
+0
+1
+Total
+7
+7
+7
+21
+Campeãs mundiais e olímpicas[editar | editar código-fonte]
+Estados Unidos: Ouro em 1996, 2004, 2008, 2012 e campeãs mundiais em 1991, 1999, 2015 e 2019.
+Alemanha: Ouro em 2016 e campeãs mundiais em 2003 e 2007.
+Noruega: Ouro em 2000 e campeãs mundiais em 1995.
+Campeãs mundiais e vice-campeãs olímpicas[editar | editar código-fonte]
+Japão: Campeãs mundiais em 2011 e prata em 2012.
+Brasil no futebol olímpico feminino[editar | editar código-fonte]
+Em 1996 e 2000, a equipe brasileira ficou em quarto lugar, sendo derrotada por Noruega e Alemanha, respectivamente, na disputa do bronze. Em 2004, liderada por Renê Simões, conquistou a medalha de prata ao perder para os Estados Unidos na final. Isso atraiu a atenção de imprensa e dirigentes para o futebol feminino, que nunca teve campeonatos organizados e tinha jogadoras que serviam apenas a seleção.[32] Quatro anos mais tarde, sob comando do técnico Jorge Barcellos, a final e o resultado se repetiram.[33] Já em 2012 foi a edição com a pior participação brasileira no futebol feminino nos Jogos Olímpicos, sendo eliminadas logo nas quartas de final pelo Japão, desempenho igualado em 2020 quando caíram nessa mesma fase para o Canadá. Em 2016, o Brasil chegou as semifinais, mas foi derrotada pela Suécia nos pênaltis e pelo Canadá na disputa pela medalha de bronze, ficando em quarto lugar.[34]
+Portugal no futebol olímpico feminino[editar | editar código-fonte]
+Até o momento, a Seleção Portuguesa não se classificou para os Jogos Olímpicos.
+Fatos sobre o torneio[editar | editar código-fonte]
+A dominância da seleção dos Estados Unidos - que chegou a todas as finais até 2012, perdendo apenas em Sydney 2000 - faz com que apenas as norte-americanas e a Noruega tenham ganho tanto o ouro olímpico quanto a Copa do Mundo de Futebol Feminino. A bicampeã Alemanha ganhou três bronzes olímpicos consecutivos e um ouro em 2016 se tornando assim mais uma seleção a ganhar tanto o ouro olímpico quanto a Copa do Mundo de Futebol Feminino, enquanto o Japão seguiu o título mundial em 2011 com a prata em 2012.
+A Grã-Bretanha participou apenas do torneio que sediou, em 2012. Porém por duas vezes a Inglaterra teria direito a uma das vagas. Para 1996, as inglesas ficaram entre as oito primeiras da Copa Feminina de 1995, mas os critérios do COI repassaram a vaga para o Brasil.[30] Para 2016, apesar de uma tentativa de formar uma seleção britânica, as três federações que complementam a Inglaterra vetaram antes mesmo da Copa de 2015, onde as inglesas terminaram em terceiro e assim encaixaram no critério de incluir as três melhores seleções europeias.[35]
+Apenas Brasil, Estados Unidos e Suécia garantiram vagas em todas as sete edições. Até a edição de 2016, das três seleções, apenas as suecas não tinham ganhado medalhas, com o melhor resultado sendo o quarto lugar em 2004. Após eliminar o Brasil nas semifinais dos jogos Rio de Janeiro 2016, a Suécia garantiu uma medalha, foi a final e acabou ficando com a prata, após ser derrotada pela Alemanha pelo placar de 2–1.
+No torneio feminino, apenas os Estados Unidos foram campeões como país sede, em 1996.
+A brasileira Formiga é a única atleta a ter participado de todos os sete torneios já realizados.[36]
+A americana Christie Rampone é a maior medalhista do futebol feminino com três medalhas de ouro em 2004, 2008 e 2012 além de uma medalha de prata em 2000.
+Recordes e estatísticas[editar | editar código-fonte]
+Gol mais rápido (futebol masculino) - Neymar, do Brasil: 14 segundos ( Brasil 6–0  Honduras, 2016)[37]
+Gol mais rápido (futebol feminino) - Janine Beckie, do Canadá aos 19 segundos ( Canadá 2–0  Austrália, 2016)[38]
+Gol mais rápido numa final - Oribe Peralta, do México aos 29 segundos ( México 2–1  Brasil, 2012)[39]
+Seleção que mais marcou gols em uma única edição dos jogos olímpicos (futebol masculino) -  Dinamarca (1908) e  Iugoslávia (1952), 26 gols marcados.
+Maior número de finais consecutivas (futebol masculino) -  Iugoslávia, 4 finais consecutivas (1948, 1952, 1956 e 1960)
+Maior número de finais consecutivas (futebol feminino) -
+Estados Unidos, 5 finais consecutivas (1996, 2000, 2004, 2008 e 2012)
+Maior número de pódios (futebol masculino e feminino) -  Brasil, com 9.
+Maior número de pódios (futebol masculino) -  Brasil, com 7.[40]
+Maior número de pódios (futebol feminino) -
+Estados Unidos, com 6.
+Maior número de vitórias -  Brasil com 38, em 14 edições.
+Maior número de participações (futebol masculino) -  Itália participou em 15 edições.
+Maior número de participações (futebol feminino) -
+Estados Unidos,
+Brasil e  Suécia participaram de todas as 7 edições do torneio.
+Única seleção a conquistar a medalha de ouro com 100% de aproveitamento e sem sofrer nenhum gol (futebol masculino) -  Argentina, (6 vitórias em 6 jogos, 17 gols marcados e nenhum gol sofrido na edição de 2004)
+Artilheira (futebol feminino) - Cristiane, do Brasil, com quinze gols.[41]
+Artilheiro (futebol masculino) - Sophus Nielsen, da Dinamarca, que marcou 14 gols[41]
+Melhor média de gols - Antal Dunai, da Hungria, com treze gols marcados em 5 jogos.
+Maior goleada - Dinamarca 17–1 França (1908)[42]
+Maior número de gols marcados por apenas 1 jogador nos Jogos Olímpicos - 10 gols: Sophus Nielsen (Dinamarca 17–1 França, 1908), e Gottfried Fuchs (Alemanha 16–0 Russia, 1912)[43]
+Mais velho a disputar o torneio olímpico de futebol - Ryan Giggs: 38 anos (2012)[44]
+Mais velho a marcar um gol no torneio olímpico de futebol - Ryan Giggs: 38 anos e 243 dias (2012)[45]
+Mais novo a marcar um gol no torneio olímpico de futebol - Ángel Uribe: 16 anos e 332 dias (1960)
+Mais participações (jogador) - Formiga, com sete Olimpíadas.[46]
+Artilharia[editar | editar código-fonte]
+Masculino
+Ano
+Jogador
+Gols
+1900
+Gaston Peltier
+John Nicholas
+2
+1904
+Alexander Hall
+Tom Taylor
+3
+1908
+Sophus Nielsen
+11
+1912
+Gottfried Fuchs
+10
+1920
+Herbert Karlsson
+7
+1924
+Pedro Petrone
+8
+1928
+Domingo Tarasconi
+9
+1936
+Annibale Frossi
+7
+1948
+John Hansen
+Gunnar Nordahl
+7
+1952
+Rajko Mitić
+Branko Zebec
+7
+1956
+Neville DSouza
+Todor Veselinović
+Dimitar Milanov
+4
+1960
+Harald Nielsen
+8
+1964
+Ferenc Bene
+12
+1968
+Kunishige Kamamoto
+7
+1972
+Kazimierz Deyna
+9
+1976
+Andrzej Szarmach
+6
+1980
+Sergey Andreyev
+5
+1984
+Borislav Cvetković
+Stjepan Deverić
+Daniel Xuereb
+5
+1988
+Romário
+7
+1992
+Andrzej Juskowiak
+7
+1996
+Bebeto
+Hernán Crespo
+6
+2000
+Iván Zamorano
+6
+2004
+Carlos Tévez
+8
+2008
+Giuseppe Rossi
+4
+2012
+Leandro Damião
+6
+2016
+Nils Petersen
+Serge Gnabry
+6
+2020
+Richarlison
+5
+Feminino
+Ano
+Jogador
+Gols
+1996
+Ann Kristin Aarønes
+Linda Medalen
+Pretinha
+4
+2000
+Sun Wen
+4
+2004
+Cristiane
+Birgit Prinz
+5
+2008
+Cristiane
+5
+2012
+Christine Sinclair
+6
+2016
+Melanie Behringer
+5
+2020
+Vivianne Miedema
+10
+Mais gols marcados[editar | editar código-fonte]
+Masculino
+Jogadores com no mínimo 8 gols (desde 1908)
+Gols
+Jogador
+13
+Sophus Nielsen
+Antal Dunai
+12
+Ferenc Bene
+11
+Domingo Tarasconi
+Pedro Petrone
+10
+Gottfried Fuchs
+Kazimierz Deyna
+9
+Harold Walden
+Vilhelm Wolfhagen
+8
+Jan Vos
+Héctor Scarone
+Carlos Tévez
+Bebeto
+Harald Nielsen
+Ibrahim Reyadh
+Feminino
+Jogadoras com no mínimo 7 gols (desde 1996)
+Gols
+Jogador
+14
+Cristiane
+13
+Marta
+12
+Christine Sinclair
+10
+Birgit Prinz
+Carli Lloyd
+Vivianne Miedema
+9
+Abby Wambach
+8
+Pretinha
+7
+Melissa Tancredi
+Sam Kerr
+Stina Blackstenius
+Quadro geral de medalhas[editar | editar código-fonte]
+Quadro de medalhas geral, considerando o torneio masculino e o torneio feminino.
+Ordem
+País
+1
+USA Estados Unidos
+4
+2
+2
+8
+2
+HUN Hungria
+3
+1
+1
+5
+3
+GBR Grã-Bretanha
+3
+0
+0
+3
+4
+BRA Brasil
+2
+5
+2
+9
+5
+ARG Argentina
+2
+2
+0
+4
+6
+URS União Soviética
+2
+0
+3
+5
+7
+CAN Canadá
+2
+0
+2
+4
+8
+URU Uruguai
+2
+0
+0
+2
+9
+YUG Iugoslávia
+1
+3
+1
+5
+10
+ESP Espanha
+1
+3
+0
+4
+11
+SWE Suécia
+1
+2
+2
+5
+12
+POL Polônia
+1
+2
+0
+3
+13
+GER Alemanha[b]
+1
+1
+4
+6
+14
+GDR Alemanha Oriental[a]
+1
+1
+2
+4
+15
+NGR Nigéria
+1
+1
+1
+3
+16
+TCH Checoslováquia
+1
+1
+0
+2
+FRA França
+1
+1
+0
+2
+18
+ITA Itália
+1
+0
+2
+3
+NOR Noruega
+1
+0
+2
+3
+20
+BEL Bélgica
+1
+0
+1
+2
+MEX México
+1
+0
+1
+2
+22
+CMR Camarões
+1
+0
+0
+1
+23
+DEN Dinamarca
+0
+3
+1
+4
+24
+BUL Bulgária
+0
+1
+1
+2
+JPN Japão
+0
+1
+1
+2
+26
+AUT Áustria
+0
+1
+0
+1
+CHN China
+0
+1
+0
+1
+PAR Paraguai
+0
+1
+0
+1
+SUI Suíça
+0
+1
+0
+1
+30
+NED Países Baixos
+0
+0
+3
+3
+31
+CHI Chile
+0
+0
+1
+1
+KOR Coreia do Sul
+0
+0
+1
+1
+GHA Gana
+0
+0
+1
+1
+Total
+34
+34
+35
+103
+Notas[editar | editar código-fonte]
+A. ^ Em 1964 a Alemanha Ocidental competiu de forma unificada com a Alemanha Oriental como EUA Equipa Alemã Unida. No torneio de futebol a equipe foi representada pela Alemanha Oriental, onde obteve a medalha de bronze.
+B. ^ Em 1988 a FRG Alemanha Ocidental obteve a medalha de bronze. Por ser considerada a sucessora histórica, a medalha é por vezes atribuída a Alemanha.
+Referências
+↑ olimpiadas.uol.com.br/ Fifa obriga clubes a liberar atletas para Olimpíada e compromete Brasileirão 2012
+↑ otempo.com.br/ O histórico da seleção brasileira nas Olimpíadas até alcançar o ouro
+↑ globoesporte.com/ Neymar faz gol relâmpago, e Brasil lutará por ouro no futebol masculino
+↑ a b c zerozero.pt/ Futebol: uma história olímpica
+↑ a b c d e f g cienciaecultura.bvs.br/ Muito mais do que um jogo: os embates entre o coi e a Fifa pelo controle do futebol olímpico
+↑ acervo.estadao.com.br/ Em 1932, futebol foi cortado da Olimpíada
+↑ a b c Bola na Área
+↑ MURRAY, Bill. p.176
+↑ «Archived copy». Consultado em 12 de agosto de 2008. Cópia arquivada em 9 de agosto de 2008
+↑ http://www.newsletter.co.uk/sport/YOUR-VIEWS-Olympic-football-threat.4327759[ligação inativa]
+↑ «Brown pays tribute to GB success». BBC News. 24 de agosto de 2008. Consultado em 2 de maio de 2010
+↑ «Nations pave way for 2012 GB team». BBC Sport. 29 de maio de 2009. Consultado em 29 de maio de 2009. Cópia arquivada em 31 de maio de 2009
+↑ «London 2012 Olympics: Gareth Bale and non-English players have legal right to play for Team GB». Daily Telegraph. 24 de março de 2011. Consultado em 28 de abril de 2011. Cópia arquivada em 28 de fevereiro de 2014
+↑ Idessane, Kheredine (29 de junho de 2012). «London 2012: No Scotland or N Ireland in Olympic football squad». BBC Sport. Consultado em 26 de agosto de 2020
+↑ Recusa em cantar hino vira polêmica no Reino Unido
+↑ Kelso, Paul (14 de agosto de 2012). «British Olympic Association chief executive Andy Hunt criticises Football Association for lack of support». London: Daily Telegraph. Consultado em 15 de agosto de 2012. Cópia arquivada em 15 de agosto de 2012
+↑ MURRAY, Bill. ibid
+↑ MURRAY, Bill. ibid
+↑ COLLI, Eduardo. p.232 e 233.
+↑ trivela.uol.com.br/ Seleções continuam enganando a si mesmas com “gatos”
+↑ Futebol nos Jogos Olímpicos, Portal Quadro de Medalhas
+↑ «Football Equipment and History». Comitê Olímpico Internacional. Consultado em 3 de julho de 2010
+↑ a b Originalmete o torneio de futebol de 1900 foi apenas de demonstração entre três equipes representadas por clubes amadores, mas posteriormente foi reconhecido como oficial pelo COI que atribuiu medalhas para as equipes.
+↑ a b Originalmete o torneio de futebol de 1904 foi apenas de demonstração entre três equipes (duas dos Estados Unidos) representadas por clubes amadores, mas posteriormente foi reconhecido como oficial pelo COI que atribuiu medalhas para as equipes.
+↑ a b Em 1920, a Checoslováquia abandonou a partida final contra a Bélgica após 40 minutos de partida e com o placar de 2–0 a favor dos belgas. A equipe foi desclassificada, e um mini-torneio foi disputado para definir as outras equipes medalhistas, com a Espanha derrotando os Países Baixos na disputa pelo segundo lugar por 3–1.
+↑ Em 1972, a disputa do terceiro lugar entre União Soviética e Alemanha Oriental terminou empatada por 2–2 após o tempo normal e prorrogação. Ambas as equipes dividiram a medalha de bronze.
+↑ «O país do futebol: Alemanha tenta ser a 1ª campeã de tudo com homens e mulheres». ESPN Brasil. 20 de agosto de 2016. Consultado em 20 de junho de 2018
+↑ «Sem estrelas abaixo e acima dos 23 anos, Alemanha não é potência olímpica no futebol». ESPN Brasil. 3 de agosto de 2016. Consultado em 20 de junho de 2018
+↑ SeleInter traz a prata para o Brasil
+↑ a b Womens Olympic Football Tournament Atlanta 1996
+↑ Fact Sheet, FIFA Womens World Ranking
+↑ Brasil cai em jogo dramático e vê sonho de ouro virar prata
+↑ Meninas encantam, mas falham na final e ficam no quase de novo
+↑ «Brasil perde do Canadá na disputa do bronze no futebol feminino». O Globo. 19 de agosto de 2016. Consultado em 29 de agosto de 2017
+↑ Great Britain’s absence from Rio Olympics is devastating, says FA director
+↑ «Record-breaking Brazil set bar high». fifa.com. Consultado em 26 de julho de 2012
+↑ rederecord.r7.com/ Arquivado em 18 de agosto de
+2016, no Wayback Machine. Neymar marca o gol mais rápido das história das Olimpíadas
+↑ globoesporte.globo.com/ Em êxtase, canadenses celebram recorde olímpico no futebol
+↑ olimpiadas.ig.com.br/ Brasil sofre gol mais rápido da história olímpica e fica com a prata no futebol
+↑ folha.uol.com.br/ Seleção brasileira de futebol masculino vai em busca de final e recorde
+↑ a b torcedores.com/
+↑ esporteinterativo.com.br/ Veja quais foram as maiores goleadas da história do torneio de futebol nos Jogos Olímpicos
+↑ correiobraziliense.com.br/ Quatro gols em um jogo? Artilheiro do futebol na Rio-2016 quebrou tabu de 44 anos
+↑ Fletcher, Paul (29 de julho de 2012). «Olympics football: Ryan Giggs inspires GB win over UAE» (em inglês). BBC Sports Online. Consultado em 1 de agosto de 2012
+↑ futebolingles.ig.com.br/ Britânicos e futebol olímpico
+↑ olimpiadas.uol.com.br/ Formiga bate recorde no Brasil e na história do futebol olímpico feminino
+Ver também[editar | editar código-fonte]
+Futebol nos Jogos Pan-Americanos
+Copa do Mundo FIFA
+Copa do Mundo de Futebol Feminino
+«Informações do futebol no site do COI» (em inglês)
+«Informações do futebol na Olympedia» (em inglês)
+vdeFutebol nos Jogos OlímpicosTorneiosParis 1900 • Saint Louis 1904 • Londres 1908 • Estocolmo 1912 • Antuérpia 1920 • Paris 1924 • Amsterdã 1928 • Berlim 1936 • Londres 1948 • Helsinque 1952 • Melbourne 1956 • Roma 1960 • Tóquio 1964 • Cidade do México 1968 • Munique 1972 • Montreal 1976 • Moscou 1980 • Los Angeles 1984 • Seul 1988 • Barcelona 1992 • Atlanta 1996 • Sydney 2000 • Atenas 2004 • Pequim 2008 • Londres 2012 • Rio de Janeiro 2016 • Tóquio 2020Elencos1900 • 1904 • 1908 • 1912 • 1920 • 1924 • 1928 • 1936 • 1948 • 1952 • 1956 • 1960 • 1964 • 1968 • 1972 • 1976 • 1980 • 1984 • 1988 • 1992 • 1996 • 2000 • 2004 • 2008 • 2012 • 2016 • 2020Lista de medalhistas • Lista de bolas oficiais
+vdeModalidades nos Jogos OlímpicosJogos de verãoAtletismo • Badminton • Basquetebol • Beisebol • Boxe • Canoagem • Caratê • Ciclismo • Escalada esportiva • Esgrima • Futebol • Ginástica • Golfe • Halterofilismo • Handebol •
+Hipismo • Hóquei sobre grama • Judô • Lutas • Natação • Natação artística • Pentatlo moderno • Polo aquático • Remo • Rugby sevens • Saltos ornamentais • Skate • Softbol • Surfe • Taekwondo • Tênis • Tênis de mesa • Tiro • Tiro com arco • Triatlo • Vela • Voleibol • Voleibol de praiaJogos de invernoBiatlo • Bobsleigh • Combinado nórdico • Curling • Esqui alpino • Esqui cross‑country • Esqui estilo livre • Hóquei no gelo • Luge • Patinação artística • Patinação de velocidade • Patinação de velocidade em pista curta • Salto de esqui • Skeleton • SnowboardEsportes passadosCabo de guerra • Críquete • Croquet • Jeu de paume • Lacrosse • Motonáutica • Patrulha militar • Pelota basca • Polo • Raquetes • Roque • Rugby unionEsportes de demonstraçãoBandy • Boliche • Budô • Corfebol • Corrida de cão e trenó • Corrida em cadeira de rodas • Esqui aquático • Esqui de velocidade • Esqui para deficientes • Futebol americano • Futebol australiano • Glíma • Hóquei em patins • Ice stock sport • Planadorismo • Pentatlo de inverno • Pesäpallo • Savate • Skijöring • Voo à velaEsportes não-oficiaisBalonismo • Boules • Columbofilia • Combate a incêndios • Competições artísticas • Cycle polo • Desportos a motor • Futebol gaélico • Hurling • Kaatsen • Longue paume • Motociclismo • Pesca • Salvamento • Tiro de canhão • Voo de pipa • Wushu
+vdeFutebol internacional
+Federação Internacional de Futebol (FIFA)
+IFFHS
+Ranking Mundial da FIFA (feminino)
+Melhor jogador do mundo pela FIFA
+Copa do Mundo de Clubes
+FIFA Ballon dOr
+Lista de clubes campeões internacionais de futebol
+Masculino
+Copa do Mundo
+Copa das Confederações
+Copa do Mundo Sub-20
+Copa do Mundo Sub-17
+Feminino
+Copa do Mundo
+Copa do Mundo Sub-20
+Copa do Mundo Sub-17
+Confederações etorneios regionaisAFCCopa da Ásia (feminina)CAFCampeonato Africano das Nações (CAN) (feminino)  · Campeonato das Nações Africanas (CHAN)CONCACAFCopa Ouro (feminina) · Liga das NaçõesCONMEBOLCopa América (feminina)OFCCopa das Nações (feminina)UEFACampeonato Europeu (feminino) · Liga das NaçõesNão FIFA
+CONIFA – Copa do Mundo CONIFA
+Copa Europeia CONIFA
+Conselho Sul-Americano de Novas Federações (CSANF)
+NF-Board – Copa do Mundo VIVA
+feminina
+Futebol nos torneiosmultidesportivos
+Jogos Asiáticos
+Jogos Olímpicos
+Jogos da Lusofonia
+Jogos do Mediterrâneo
+Jogos do Pacífico
+Jogos Pan-Americanos
+Jogos Pan-Arábicos
+Jogos Pan-Africanos
+Universíada
+Portal do futebol
+Portal dos eventos multiesportivos
+Obtida de https://pt.wikipedia.org/w/index.php?title=Futebol_nos_Jogos_Olímpicos&oldid=61975613
+Categoria: Futebol nos Jogos OlímpicosCategorias ocultas: !Artigos com ligações inativas!Predefinição Webarchive wayback links!CS1 inglês-fontes em língua (en)!Artigos que carecem de notas de rodapé desde janeiro de 2017!Artigos que carecem de notas de rodapé sem indicação de tema!Artigos que carecem de notas de rodapé desde setembro de 2016
+Esta página foi editada pela última vez às 10h23min de 3 de setembro de 2021.
+Este texto é disponibilizado nos termos da licença Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as condições de utilização.
+Política de privacidade
+Sobre a Wikipédia
+Avisos gerais
+Versão móvel
+Programadores
+Estatísticas
+Declaração sobre cookies');
+Document.create!(url: 'https://pt.wikipedia.org/wiki/Federa%C3%A7%C3%A3o_Internacional_de_Futebol', title: 'Federação Internacional de Futebol – Wikipédia, a enciclopédia livre', body: 'Federação Internacional de Futebol – Wikipédia, a enciclopédia livre
+Saltar para o conteúdo
+Alternar barra lateral
+Busca
+Links do usuário
+Criar uma conta
+Ferramentas pessoais
+expanded
+collapsed
+Criar uma conta
+Entrar
+Páginas para editores conectados saiba mais
+DiscussãoContribuições
+Navegação
+Página principalConteúdo destacadoEventos atuaisEsplanadaPágina aleatóriaPortaisInformar um erro
+Colaboração
+Boas-vindasAjudaPágina de testesPortal comunitárioMudanças recentesManutençãoCriar páginaPáginas novasContatoDonativos
+Ferramentas
+Páginas afluentesAlterações relacionadasCarregar ficheiroPáginas especiaisHiperligação permanenteInformações da páginaCitar esta páginaElemento Wikidata
+Imprimir/exportar
+Criar um livroDescarregar como PDFVersão para impressão
+Noutros projetos
+Wikimedia CommonsWikinotícias
+Espaços nominais
+ArtigoDiscussão
+Variantes
+expanded
+collapsed
+Vistas
+LerEditarEditar código-fonteVer histórico
+Mais
+expanded
+collapsed
+131 idiomas
+expanded
+collapsed
+AfrikaansAlemannischአማርኛالعربيةالدارجةمصرىঅসমীয়াAsturianuAzərbaycancaتۆرکجهBasa BaliBoarischBikol CentralБеларускаяБеларуская (тарашкевіца)БългарскиभोजपुरीবাংলাBrezhonegBosanskiCatalàНохчийнCebuanoکوردیČeštinaCymraegDanskDeutschThuɔŋjäŋडोटेलीΕλληνικάEnglishEsperantoEspañolEestiEuskaraفارسیSuomiFøroysktFrançaisGaeilgeGalegoAvañeẽગુજરાતીHausaעבריתहिन्दीHrvatskiMagyarՀայերենInterlinguaBahasa IndonesiaInterlingueIdoÍslenskaItaliano日本語JawaქართულიQaraqalpaqshaҚазақшаភាសាខ្មែរಕನ್ನಡ한국어KurdîLatinaLëtzebuergeschLombardLietuviųLatviešuमैथिलीОлык марийMinangkabauМакедонскиമലയാളംМонголमराठीBahasa MelayuMaltiမြန်မာဘာသာNapulitanoनेपालीNederlandsNorsk nynorskNorsk bokmålOromooਪੰਜਾਬੀPolskiPiemontèisپنجابیپښتوRumantschRomânăРусскийСаха тылаSarduSicilianuScotsSrpskohrvatski / српскохрватскиසිංහලSimple EnglishSlovenčinaSlovenščinaSoomaaligaShqipСрпски / srpskiSundaSvenskaKiswahiliŚlůnskiதமிழ்తెలుగుТоҷикӣไทยTürkmençeTagalogTürkçeТатарча/tatarçaУкраїнськаاردوOʻzbekcha/ўзбекчаVènetoTiếng ViệtWinaray吴语IsiXhosaმარგალურიYorùbá中文Bân-lâm-gú粵語
+Editar hiperligações
+Federação Internacional de Futebol
+Origem: Wikipédia, a enciclopédia livre.
+Nota: Se procura pela série de jogos eletrônicos, veja FIFA (série).
+Federação Internacional de Futebol
+Federação Internacional de Futebol
+Mapa dos membros da FIFA de acordo com suas confederações
+Lema
+For the Game. For the World. (Pelo jogo. Pelo mundo.)
+Tipo
+Desportiva
+Fundação
+21 de maio de 1904 (117 anos)
+Sede
+Zurique,
+Suíça
+Membros
+211 federações nacionais
+Línguas oficiais
+InglêsFrancêsItalianoAlemãoEspanhol
+Presidente
+Gianni Infantino
+Sítio oficial
+www.fifa.com
+Bandeira da FIFA
+A Federação Internacional de Futebol, por vezes referida como Federação Internacional de Futebol Associação[1] (em francês: Fédération Internationale de Football Association), mais conhecida pelo acrônimo FIFA, é uma organização sem fins lucrativos[2] internacional que dirige as associações de futsal, futebol de areia (pt-BR) ou futebol de praia (pt-PT)
+e futebol, o esporte coletivo mais popular do mundo. Filiada ao Comitê Olímpico Internacional, a FIFA foi fundada em Paris em 21 de maio de 1904 e tem sua sede em Zurique, na Suíça.
+Ao todo, possui 211 organizações esportivas privadas associadas representando o esporte em países ou territórios.[3] Com esse número, é a instituição internacional que possui a segunda maior quantidade de associados, inclusive mais associados do que a Organização das Nações Unidas e o Comitê Olímpico Internacional, que possuem, respectivamente, 193 e 205 membros cada. Ficando atrás somente da Associação Internacional de Federações de Atletismo, a IAAF, que possui 212 membros.
+A FIFA tem quatro idiomas: alemão, espanhol, francês e inglês.[4] Além delas, também apresenta atualmente notícias e informações no seu site oficial em árabe[5] e português (variante brasileira).[6] No entanto, a versão do site em português saiu do ar no final de 2014.[7] O seu atual presidente é Gianni Infantino.[8]
+Em 2 de junho de 2015, três dias após a reeleição para o quinto mandato, Joseph Blatter anunciou a realização de uma nova reunião extraordinária, entre dezembro de 2015 e março de 2016, para a eleição de um novo presidente para a entidade. Nesta nova eleição ele não concorrerá ao cargo, mas permanecerá até que o novo presidente seja conhecido.[9][10]
+Índice
+1 Regras do jogo
+2 Confederações
+3 Competições
+4 Prêmios
+5 Hino
+6 Patrocinadores
+7 Organização
+8 Ranking da FIFA
+9 Presidentes
+10 Comemorações do Centenário
+11 Corrupção e interferência legislativa
+12 Membros
+13 Ver também
+14 Referências
+15 Nota
+16 Ligações externas
+Regras do jogo[editar | editar código-fonte]
+As regras[a] do futebol que governam o jogo não são apenas de responsabilidade da FIFA. Existe um comité chamado International Football Association Board (IFAB) que discute e pondera as regras do futebol. No comitê, a FIFA é representada por quatro dirigentes (metade do comité). A outra metade do comitê é composta por representantes de Inglaterra, Escócia, País de Gales e Irlanda do Norte.
+Confederações[editar | editar código-fonte]
+Mapa representando todos os membros afiliados à FIFA
+Em conjunto com a FIFA, trabalham seis confederações continentais, que organizam competições na sua área de atuação, seguindo as especificações da FIFA.
+CONMEBOL (América do Sul)
+CONCACAF (América do Norte, América Central e Caribe)
+A Guiana e o Suriname fazem parte da CONCACAF, apesar de estarem na América do Sul
+UEFA (Europa)
+AFC (Ásia)
+A Austrália faz parte da AFC desde 2006
+CAF (África)
+OFC (Oceania)
+A FIFA reconhece um total de 209 federações nacionais masculinas e 129 federações femininas. A FIFA possui mais membros do que a Organização das Nações Unidas, sendo que a ela são afiliadas federações de 23 territórios não reconhecidos pelas Nações Unidas, como a Federação de Futebol da Palestina.[11] Apenas oito nações soberanas não possuem organizações filiadas à FIFA: Mônaco, Vaticano, Micronésia, Ilhas Marshall, Kiribati, Tuvalu, Palau e Nauru.
+Competições[editar | editar código-fonte]
+A FIFA organiza várias competições e, apesar de todas serem reconhecidas pela entidade, só algumas fazem parte do calendário oficial.
+Categorias
+Competições
+Futebol masculino
+Copa do Mundo FIFA
+Copa do Mundo de Clubes da FIFA
+Copa do Mundo FIFA Sub-20
+Copa do Mundo FIFA Sub-17
+Blue Stars/FIFA Youth Cup
+Futebol feminino
+Copa do Mundo de Futebol Feminino
+Copa do Mundo de Futebol Feminino Sub-20
+Copa do Mundo de Futebol Feminino Sub-17
+Blue Stars/FIFA Youth Cup (Feminino)[12]
+Futsal
+Copa do Mundo de Futsal da FIFA
+Copa Intercontinental de Futsal
+Futebol de areia
+Copa do Mundo de Futebol de Areia
+Copa Intercontinental de Futebol de Areia
+Mundialito de Clubes de Futebol de Areia
+Futebol eletrônico
+Copa do Mundo de Futebol Eletrônico da FIFA
+Copa do Mundo de Clubes de Futebol Eletrônico da FIFA
+Copa das Nações de Futebol Eletrônico da FIFA
+Prêmios[editar | editar código-fonte]
+Em 2004, a entidade, em comemoração ao seu centenário, organizou um jogo entre Brasil e França, os dois países mais bem sucedidos nas suas competições na última década. Além deste jogo, a entidade também promoveu a elaboração de uma lista com os 100 maiores jogadores da história da entidade, chamada FIFA 100.[13]
+Em 2010, a FIFA anunciou a unificação do prêmio para melhor jogador de futebol do mundo com o Ballon dOr, cedido pela revista francesa France Football. O novo prêmio foi chamado FIFA Ballon dOr.[14] Além da unificação, a FIFA e a revista anunciaram a criação do prêmio de melhor treinador do mundo.[15]
+No ano de 2016 a France Football e a FIFA romperam e criaram prêmios separados, Ballon dOr pela revista francesa e The Best FIFA Football Awards pela FIFA.
+Hino[editar | editar código-fonte]
+Ver artigo principal: Hino da FIFA
+Desde a Copa do Mundo de 1994, assim como a Liga dos Campeões da UEFA, a FIFA adotou um hino criado pelo compositor alemão Franz Lambert. Ele foi recentemente rearranjado e produzido por Rob May e Simon Hill.[16][17] O hino é tocado no início de uma partida e torneios oficiais sancionados pela FIFA e em amistosos internacionais, Copa do Mundo da FIFA, Copa do Mundo Feminina da FIFA, Copa do Mundo Sub-20 da FIFA, Copa do Mundo Sub-17 da FIFA, Futebol nas Olimpíadas de Verão, Copa do Mundo Feminina Sub-20 da FIFA, Copa do Mundo Sub-17 Feminina da FIFA, Copa do Mundo de Futsal da FIFA, Copa do Mundo de Futebol de Praia da FIFA e Copa do Mundo de Clubes da FIFA.[18]
+Desde 2007, a FIFA tem pedido, a seus parceiros de transmissão televisiva, tocar pequenos trechos do hino no começo e fim dos eventos transmitidos por ela e também nos comerciais de tais eventos, para ajudar a promover seus patrocinadores. Isto emula práticas há muito utilizadas por alguns outros eventos internacionais de futebol, como a Liga dos Campeões UEFA. Exceções podem ser feitas para eventos específicos; por exemplo, uma peça original de música africana foi usada para as aberturas curtas próprias durante a Copa do Mundo da FIFA de 2010.
+Patrocinadores[editar | editar código-fonte]
+Adidas[19]
+Coca-Cola[20]
+Gazprom[21]
+Hyundai/Kia Motors[22]
+Visa[23]
+Wanda Group[24]
+Qatar Airways[25]
+Organização[editar | editar código-fonte]
+Sede da FIFA, em Zurique, Suíça.
+O Congresso da FIFA, órgão mais importante da entidade, é realizado, normalmente, a cada dois anos. Desde 1998, extraordinariamente, o encontro tem ocorrido a cada ano.[26]
+Abaixo do Congresso estão os dois órgãos executivos:
+Conselho FIFA[27]
+Comitê de Emergência[28]
+O secretário geral é auxiliado por mais de 25 comitês permanentes, órgãos jurídicos, o Comitê Disciplinar e o Comitê de Recurso:[29]
+Comitês permanentes
+Audit and Compliance Committee
+Comitê de Arbitragem
+Comitê de Beach Soccer
+Comitê de Clubes
+Comitê de Desenvolvimento
+Comitê de Estádios e Segurança
+Comitê de Fair Play e Responsabilidade Social
+Comitê de Federações
+Comitê de Futebol
+Comitê de Futebol Feminino e da Copa do Mundo Feminina da FIFA
+Comitê de Futsal
+Comitê de Mídia
+Comitê de Status de Jogadores
+Comitê Estratégico
+Comitê Financeiro
+Comitê Jurídico
+Comitê Médico
+Comitê Organizador da Copa das Confederações da FIFA
+Comitê Organizador da Copa do Mundo da FIFA
+Comitê Organizador da Copa do Mundo de Clubes da FIFA
+Comitê Organizador da Copa do Mundo Feminina Sub-17 da FIFA
+Comitê Organizador da Copa do Mundo Feminina Sub-20 da FIFA
+Comitê Organizador da Copa do Mundo Sub-17 da FIFA
+Comitê Organizador da Copa do Mundo Sub-20 da FIFA
+Comitê Organizador dos Torneios Olímpicos de Futebol
+Conselho Consultivo de Marketing e Televisão
+Órgãos Jurídicos
+Comitê de Ética
+Comitê de Recurso
+Comitê Disciplinar
+Órgãos Temporários
+Comitê Organizador Local da Copa das Confederações da FIFA e Copa do Mundo da FIFA
+Comitê Organizador Local da Copa do Mundo de Clubes da FIFA
+Comitê Organizador Local da Copa do Mundo de Clubes de Futsal da FIFA
+Há, também, outros órgãos para auxílio no desempenho de suas atividades:[30]
+Centro de Pesquisa e Avaliação Médica da FIFA
+Dispute Resolution Chamber
+Formadores do Projeto Goal
+Task Force against Racism and Discrimination
+Ranking da FIFA[editar | editar código-fonte]
+Ver artigo principal: Ranking Mundial da FIFA
+O Ranking Mundial da FIFA (oficialmente Ranking Mundial FIFA/Coca-Cola) é um sistema que classifica as 210 Seleções Nacionais de Futebol Masculino associadas à organização. É utilizado desde agosto de 1993 e já passou por diversas reformulações. A mais recente, após a Copa do Mundo de 2006, na Alemanha.
+Presidentes[editar | editar código-fonte]
+Ver artigo principal: Lista de presidentes
+Ano
+Presidente
+1904 – 1906
+Robert Guérin
+1906 – 1918
+Daniel Burley Woolfall
+1921 – 1954
+Jules Rimet
+1954 – 1955
+Rodolphe Seeldrayers
+1955 – 1961
+Arthur Drewry
+1961 – 1974
+Stanley Rous
+1974 – 1998
+João Havelange
+1998 – 2015
+Joseph Blatter
+2015 – 2016
+Issa Hayatou (interino)
+2016 – atual
+Gianni Infantino
+Comemorações do Centenário[editar | editar código-fonte]
+Selo tadjique de 2004 representando Pelé em comemoração ao centenário da FIFA
+Moeda brasileira em comemoração ao centenário da FIFA
+Em 2004, a FIFA fez uma série de eventos festivos para comemorar seu centenário.
+Quatro países foram convidados pela Fifa para fazer o lançamento de moedas de comemoração ao centenário de sua fundação. A França foi convidada por ter sido a primeira sede da Fifa, a Suíça por ser a atual, o Uruguai por ter sediado a primeira copa de futebol e o Brasil por ser o único país no mundo a ter conquistado cinco copas.[31]
+Exposição de uma mostra fotográfica chamada de FIFA 100, exibida na Igreja de Santa Maria del Popolo, localizada na Piazza del Popolo. A mostra ficou por duas semanas expostas na igreja, e contou com a permanente exibição de dois quadros de Caravaggio, além de fotos dos 119 considerados melhores jogadores vivos de todos os tempos. A escolha de grande parte das fotos foi feita por Pelé, embaixador do futebol e da Fifa no mundo todo.[32]
+No dia 19 de maio (um dia antes de seu centenário), foi disputada a partida Brasil e França, os dois países mais bem sucedidos nas suas competições na última década, que foi chamado de FIFA Centennial Match.[13] Além deste jogo, a entidade também promoveu a elaboração de uma lista com os 100 maiores jogadores vivos da história da entidade (que, na verdade, inclui 125 nomes), chamada FIFA 100.[33]
+No dia 20 de maio, foi disputada uma partida de futebol feminino entre a Seleção da Alemanha, então detentora do título da Copa do Mundo, contra a Seleção do Resto do mundo.[34]
+Também no dia 20 de maio, ela abriu o congresso que celebrou seu centenário. E, para festejar, a entidade criou a Ordem do Mérito do Centenário, dividida em dez categorias e entregue durante a cerimônia realizada em Paris. Os agraciados com o prêmio foram[35]:
+Categoria
+Palmarés
+Justificativa
+Jogadores
+Pelé
+Jogador do século
+Beckenbauer
+Campeão mundial como treinador e jogador
+Copa do Mundo
+Jules Rimet
+criador da Copa do Mundo
+Uruguai
+primeiro país organizador do mundial
+Regras do futebol
+International Football Association Board
+responsável pelas regras do futebol
+Clubes
+Real Madrid
+apontado pela Fifa como o clube do século XX. Recebeu a distinção como um dos fundadores da entidade
+Sheffield FC[36]
+clube mais antigo do mundo
+Personalidade da Fifa
+João Havelange
+por ter modernizado a Fifa
+Organizações desportivas internacionais
+Comitê Olímpico Internacional (COI)
+Pelos torneios olímpicos de futebol
+Desenvolvimento do futebol
+Futebol africano
+continente de origem de muitos grandes jogadores
+Patrocinadores
+Coca Cola e Adidas
+por seu apoio ao futebol
+Torcedores
+Coreia do Sul e Japão
+por seu apoio durante a Copa de 2002
+Meios de comunicação
+International Sports Press Association (AIPS)
+Corrupção e interferência legislativa[editar | editar código-fonte]
+Ver artigo principal: Caso de corrupção na FIFA em 2015
+Em maio de 2006, o repórter investigativo britânico Andrew Jennings, autor do livro intitulado Foul! The Secret World of FIFA: Bribes, Vote-Rigging and Ticket Scandals (Falta! O Mundo Secreto da FIFA: propinas, fraude eleitoral e escândalos com ingressos, numa tradução livre do título em inglês), causou controvérsia dentro do universo futebolístico ao detalhar um escândalo internacional, que, alegadamente, envolvia a venda de contratos na sequência do colapso do parceiro encarregado dos negócios de marketing da FIFA, a International Sport and Leisure (ISL), revelando ainda como alguns altos funcionários do futebol foram forçados a reembolsar as propinas que haviam recebido no passado. O livro também alegava que a luta de Sepp Blatter pelo controle continuado da FIFA envolvia fraudes eleitorais.
+Pouco após o lançamento de Foul!, um exposé (exposição) televisivo produzido para o programa de notícias Panorama da BBC, do qual Jennings e um produtor da mesma rede televisiva, Roger Corke, participaram, foi ao ar. Durante a transmissão, de aproximadamente uma hora de duração, em 11 de junho de 2006, Jennings e o os outros participantes do Panorama concluíram que a polícia suíça estava investigando a atuação de Sepp Blatter em um acordo secreto para a devolução de mais de um milhão de libras esterlinas em propinas que haviam sido recebidas por altos funcionários do futebol. Lord Triesman, ex-presidente da Associação Inglesa de Futebol, descreveu a FIFA como uma organização que se comporta como uma família mafiosa, destacando as décadas de tradições de suborno, batedores e corrupção da associação.[37]
+Todos os depoimentos exibidos durante o exposé televisivo foram dados por indivíduos cujas vozes, a aparência, ou ambos, apresentavam-se distorcidos, com uma exceção: Mel Brennan, Antigo conferencista da Universidade de Towson, localizada nos Estados Unidos da América (e de 2001 e 2003, foi Diretor para Projetos Especiais da Confederação de Futebol da América do Norte, Central e Caribe (CONCACAF), parceiro do projeto e-FIFA e também delegado da Copa do Mundo de 2002). Mel Brennan tornou-se o primeiro insider do alto escalão do mundo do futebol a ir a público com alegações substanciais de ganância, corrupção, má-administração e malfeitorias cometidas tanto pela direção da FIFA como pela da CONCACAF. Durante a transmissão, Brennan – o afro-americano de mais alto gabarito da história da governança futebolística – juntou-se a Jennings, a jornalista de Trinidad e Tobago Lasana Liburd e a muitos outros na exposição de alegações sobre a alocação inapropriada de dinheiro dentro da CONCACAF, traçando conexões entre atividades ostensivamente criminosas da CONCACAF com outros comportamentos similares dentro da FIFA. Desde então, e sob a luz de recentes alegações de propina e corrupção contra a FIFA em 2010,[38] tanto Jennings quanto Brennan permanecem altamente críticos à FIFA, com Brennan pedindo abertamente às entidades e as pessoas que suportam o futebol mundo afora que considerem uma alternativa à FIFA.[39]
+Em outro documentário Panorama transmitido pela BBC One em 29 de novembro de 2010, Jennings alegou que três altos funcionários da FIFA, Nicolas Leoz, Issa Hayatou e Ricardo Teixeira, haviam recebido grandes subornos do parceiro de marketing da FIFA, ISL, entre 1989 e 1999. Ele alegou que eles apareceram em uma lista de 175 subornos pagos pela ISL, totalizando cerca de US$ 100 milhões. Um ex-executivo da ISL disse que havia suspeitas dentro da ISL de que a empresa recebia apenas o contrato de marketing para as sucessivas Copas do Mundo, pagando propinas a funcionários da FIFA. O programa também alegou que outro oficial atual, Jack Warner, esteve repetidamente envolvido na revenda de ingressos para a Copa do Mundo. Sepp Blatter disse que a FIFA não investigou a alegação porque não havia sido informada sobre isso via canais oficiais.
+O programa também criticou a FIFA por supostamente exigir que as nações anfitriãs da Copa concordem em implementar leis especiais para a Copa do Mundo, incluindo uma isenção de impostos para a FIFA e patrocinadores, além da limitação de leis trabalhistas. Alegando que os governos das nações participantes da licitação são obrigados a manter confidenciais os detalhes das leis exigidas durante o processo de licitação; mas que eles foram revelados pelo governo holandês, que se recusou a concordar com eles, como resultado do que foi dito pela FIFA que sua oferta poderia ser negativamente afetada. De acordo com o programa, após as investigações anteriores de Jennings, ele foi banido de todas as entrevistas coletivas da FIFA, por razões que ele diz não terem sido esclarecidas; e os funcionários acusados não responderam às perguntas sobre suas últimas alegações, seja verbalmente ou por carta.
+O primeiro-ministro britânico, David Cameron, e Andy Anson, chefe da candidatura da Copa do Mundo, criticaram o momento da transmissão, três dias antes da decisão da FIFA de sediar a Copa do Mundo de 2018, alegando que ela poderia prejudicar a candidatura da Inglaterra; os eleitores incluídos funcionários acusados pelo programa.[40][41]
+Em maio de 2010, após dois funcionários da FIFA pagarem cinco milhões e meio de francos suíços em reparações, a Procuradoria de Zug, na Suíça, arquivou um processo por peculato e por falsidade ideológica contra ambos e contra a Federação Internacional de Futebol.[42] Na época, 5 jornalistas solicitaram vistas aos documentos do processo, mas os dois funcionários da FIFA entraram na justiça, numa tentativa de impedi-los.[42] A disputa judicial pelo sigilo dos documentos foi levada até a última instância do judiciário suíço, que acabou decidindo a favor dos jornalistas.[42] Os documentos,[43] que vieram à tona em 11 de julho de 2012,[44] mostram que os funcionários usaram a FIFA em benefício próprio por muitos anos,[45] revelando ainda detalhes sobre os subornos que a empresa de marketing da FIFA, a ISL, recebeu e pagou a diversos funcionários ao redor do mundo, entre eles os brasileiros Ricardo Teixeira e João Havelange.[46] Os documentos detalham diversas transferências de propinas para as contas dos envolvidos. Em algumas delas, o volume transferido é de 1 milhão de dólares.[45]
+Em maio de 2015, quatorze pessoas foram presas, incluindo nove dirigentes da FIFA, após serem acusados por corrupção, entres eles, José Maria Marin.[47]
+Membros[editar | editar código-fonte]
+Ver artigo principal: Lista de países membros
+Ver também[editar | editar código-fonte]
+Seleção de Futebol do Século XX
+Cronologia do futebol
+NF-Board
+Copa do Mundo VIVA
+Lista dos Clubes do Século da FIFA
+Referências
+↑ «L12462». www.planalto.gov.br. Consultado em 18 de dezembro de 2016
+↑ swissinfo.ch/fh. «FIFA mantém status sem fins lucrativos e sem impostos». SWI swissinfo.ch. Consultado em 18 de maio de 2021
+↑ «Associations» (em inglês). FIFA.com. Consultado em 9 de julho de 2018  A referência emprega parâmetros obsoletos |língua3= (ajuda)
+↑ FIFA. «Your career at FIFA». FIFA. Consultado em 24 de outubro de 2014
+↑ FIFA.com. «FIFA.com». FIFA.com (em árabe). Consultado em 29 de março de 2018
+↑ FIFA.com. «Fédération Internationale de Football Association (FIFA) - FIFA.com». www.fifa.com (em inglês). Consultado em 29 de março de 2018. Arquivado do original em 28 de julho de 2012
+↑ «Um longo projeto chega ao fim - Luciano O. Monteiro, MITI - Translation Expert». www.lucianomonteiro.com. Consultado em 29 de março de 2018
+↑ «Organograma da FIFA». FIFA.com. Consultado em 28 de agosto de 2013. Arquivado do original em 23 de agosto de 2013
+↑ «Blatter renuncia ao cargo de presidente da Fifa e convoca nova eleição». UOL Esporte. Consultado em 2 de Junho de 2015
+↑ Seda, Vicente (2 de junho de 2015). «Blatter decide deixar presidência da Fifa e convoca novas eleições». Globoesporte.com. Consultado em 2 de junho de 2015
+↑ «Palestina». FIFA.com. Consultado em 28 de agosto de 2013. Arquivado do original em 15 de agosto de 2013
+↑ FIFA.com. «Blue Stars/FIFA Youth Cup 2019 - FIFA.com». www.fifa.com (em inglês). Consultado em 31 de dezembro de 2019
+↑ a b «Peles list of the greatest» (em inglês). BBC. 4 de março de 2004. Consultado em 28 de agosto de 2013
+↑ «Fifa unifica prêmio de melhor do mundo com revista francesa». Portal Terra. 5 de julho de 2010. Consultado em 6 de julho de 2010
+↑ «Após unificação, Fifa anuncia prêmio para o melhor treinador». ESPN. 5 de julho de 2010. Consultado em 6 de dezembro de 2010
+↑ Kearney, Judith; Wood, Lesley; Teare, Richard (28 de Outubro de 2015). «Designing Inclusive Pathways with Young Adults: Learning and Development for a Better World». Springer
+– via Google Books
+↑ «FIFAs 113th foundation day: 10 things you should know about world footballs governing body : Sports Arena». indiatoday.intoday.in
+↑ «FIFA anthem». YouTube
+↑ «adidas». FIFA.com
+↑ «COCA-COLA». FIFA.com
+↑ «2018 FIFA World Cup Russia™ Market Affiliates». FIFA.com
+↑ «Hyundai / Kia Motors». FIFA.com
+↑ «VISA». FIFA.com
+↑ «Wanda Group becomes Fifa partner». SportsProMedia
+↑ «Qatar Airways announced as Official Partner and Official Airline of FIFA until 2022». FIFA Website
+↑ «Congresso». FIFA.com. Consultado em 28 de agosto de 2013. Arquivado do original em 5 de março de 2014
+↑ «Fifa extingue Comitê Executivo e impõe limite de 12 anos para mandatos - Gazeta Esportiva». www.gazetaesportiva.com. Consultado em 1 de julho de 2018
+↑ «Comitê de Emergência». FIFA.com. Consultado em 28 de agosto de 2013. Arquivado do original em 8 de abril de 2014
+↑ «Comitês permanentes». FIFA.com. Consultado em 28 de agosto de 2013. Arquivado do original em 6 de setembro de 2013
+↑ «Outros órgãos da FIFA». FIFA.com. Consultado em 28 de agosto de 2013. Arquivado do original em 6 de setembro de 2013
+↑ economia.estadao.com.br/ Fifa e Portinari são homenageados em moeda
+↑ clicrbs.com.br/ Fifa celebra centenário com exposição em igreja de Roma
+↑ bbc.com/ Lista de craques de Pelé para Fifa tem maioria brasileira
+↑ esporte.uol.com.br/ Fifa chama duas brasileiras para comemoração do centenário
+↑ esportes.terra.com.br/ Fifa entrega Ordem do Mérito do Centenário
+↑ «The First Football Club in the World | Sheffield FC». www.sheffieldfc.com. Consultado em 25 de abril de 2018
+↑ «BBC News Fifa like a mafia family says former FA boss Triesman». BBC News. 11 de Junho de 2014
+↑ Ziegler, Martyn (18 de novembro de 2010). «Fifa suspend six officials» (em inglês). London: The Independent. Consultado em 18 de novembro de 2010
+↑ «BBC iPlayer – World Football: 20/11/2010» (Áudio) (em inglês). BBC. 20 de novembro de 2010. Consultado em 9 de julho de 2011
+↑ Panorama, BBC One, 29 de Novembro de 2010
+↑ Panorama: Three Fifa World Cup officials took bribe, BBC News, 29 de Novembro de 2010
+↑ a b c Knopf, Simon (11 de julho de 2012). «Fünf Journalisten gewinnen gegen die Fifa» (em alemão). Basler Zeitung on-line. Consultado em 17 de julho de 2012
+↑ «Einstellungsverfügung vom 11. Mai 2010» (PDF) (em alemão). Staatsanwaltschaft Kanton Zug. 11 de maio de 2010
+↑ Föhn, Markus (17 de julho de 2012). ««Das ist Ablasshandel»» (em alemão). Beobachter Online. Consultado em 17 de julho de 2012
+↑ a b Chade, Jamil (12 de julho de 2012). «Justiça mostra suborno milionário». O Estado de S.Paulo. Consultado em 17 de julho de 2012
+↑ Tanda, Jean François (11 de julho de 2012). «Millionenzahlungen an Fifa-Funktionäre» (em alemão). Beobachter Online. Consultado em 17 de julho de 2012
+↑ «José Maria Marin está entre dirigentes da Fifa presos na Suíça». BBC Brasil. Consultado em 29 de março de 2018
+Nota[editar | editar código-fonte]
+a. ^ Para verificar as regras actuais, veja aqui
+Ligações externas[editar | editar código-fonte]
+O Commons possui imagens e outros ficheiros sobre
+Federação Internacional de Futebol
+Sítio Oficial
+FIFA no Facebook
+FIFA no YouTube
+FIFA no Twitter
+FIFA no Instagram
+Outros
+«UEFA ASSOCIATION AND COUNTRY RANKINGS AND COEFFICIENT» (em inglês). UEFA-COEFFICIENTS.COM
+vdeFutebol internacional
+Federação Internacional de Futebol (FIFA)
+IFFHS
+Ranking Mundial da FIFA (feminino)
+Melhor jogador do mundo pela FIFA
+Copa do Mundo de Clubes
+FIFA Ballon dOr
+Lista de clubes campeões internacionais de futebol
+Masculino
+Copa do Mundo
+Copa das Confederações
+Copa do Mundo Sub-20
+Copa do Mundo Sub-17
+Feminino
+Copa do Mundo
+Copa do Mundo Sub-20
+Copa do Mundo Sub-17
+Confederações etorneios regionaisAFCCopa da Ásia (feminina)CAFCampeonato Africano das Nações (CAN) (feminino)  · Campeonato das Nações Africanas (CHAN)CONCACAFCopa Ouro (feminina) · Liga das NaçõesCONMEBOLCopa América (feminina)OFCCopa das Nações (feminina)UEFACampeonato Europeu (feminino) · Liga das NaçõesNão FIFA
+CONIFA – Copa do Mundo CONIFA
+Copa Europeia CONIFA
+Conselho Sul-Americano de Novas Federações (CSANF)
+NF-Board – Copa do Mundo VIVA
+feminina
+Futebol nos torneiosmultidesportivos
+Jogos Asiáticos
+Jogos Olímpicos
+Jogos da Lusofonia
+Jogos do Mediterrâneo
+Jogos do Pacífico
+Jogos Pan-Americanos
+Jogos Pan-Arábicos
+Jogos Pan-Africanos
+Universíada
+vdeFederações esportivas internacionaisOlímpicas de VerãoWorld Athletics (atletismo)  • BWF (badminton)  • FIBA (basquetebol)  • WBSC (beisebol e softbol)  • AIBA (boxe)  • ICF (canoagem)  • WKF (caratê)  • UCI (ciclismo)  • IFSC (escalada esportiva)  • FIE (esgrima)  • FINA (esportes aquáticos)  • WS (esportes sobre rodas)  • FIFA (futebol)  • FIG (ginástica)  • IWF (halterofilismo)  • IHF (handebol)  • IGF (golfe)  • FEI (hipismo)  • FIH (hóquei sobre a grama)  • IJF (judô)  • UWW (lutas)  • UIPM (pentatlo moderno)  • FISA (remo)  • WR (rugby)  • WTF (taekwondo)  • ITF (tênis)  • ITTF (tênis de mesa)  • ISSF (tiro esportivo)  • WA (tiro com arco)  • ITU (triatlo)  • ISA (surfe)  • WS (vela)  • FIVB (voleibol)Olímpicas de InvernoIBU (biatlo)  • IBSF (bobsleigh e skeleton)  • WCF (curling)  • FIS (esqui)  • IIHF (hóquei no gelo)  • FIL (luge)  • ISU (patinação)  Não-olímpicas reconhecidasUIAA (alpinismo)  • FIA (automobilismo)  • FIB (bandy)  • WCBS (bilhar)  • IBF (boliche)  • WBF (bridge)  • CMSB (boules)  • TWIF (cabo de guerra)  • ICU (cheerleading)  • IKF (corfebol)  • ICC (críquete)  • WDSF (dança esportiva)  • FAI (esportes aéreos)  • CMAS (esportes subaquáticos)  • FISU (esporte universitário)  • ISMF (esqui-alpinismo)  • IWWF (esqui aquático e wakeboard)  • IFF (floorball)  • WFDF (frisbee)  • IFAF (futebol americano)  • IFI (ice stock sport)  • WAKO (kickboxing)  • WL (lacrosse)  • FIM (motociclismo)  • UIM (motonáutica)  • IFMA (muay thai)  • INF (netball)  • IOF (orientação)  • FIPV (pelota basca)  • FIP (polo)  • IRF (raquetebol)  • ILS (salvamento)  • FIAS (sambo)  • WSF (squash)  • IFS (sumô)  • IWUF (wushu)  • FIDE (xadrez)OutrosIAF (aikido)  • IMMAF (artes marciais mistas)  • IDBF (barco dragão)  • IFSS (cão de trenó)  • ICSF (casting)  • FMJD (damas)  • WDF (dardos)  • IFA (faustebol)  • IFBB (fisiculturismo)  • IGF (go)  • JJIF (ju-jitsu)  • IKF (kempo)  • FIK (kendo)  • IPF (levantamento de potência)  • WAF (luta de braço)  • WMF (minigolfe)  • CIPS (pesca esportiva)  • FISav (savate)  • ISTAF (sepak takraw)  • ISTF (soft tennis)  • IPSC (tiro prático)
+Portal do futebol
+Obtida de https://pt.wikipedia.org/w/index.php?title=Federação_Internacional_de_Futebol&oldid=62088356
+Categorias: FIFAFederações esportivas internacionaisOrganizações esportivas fundadas em 1904Categorias ocultas: !Páginas que usam referências com parâmetros obsoletas!CS1 inglês-fontes em língua (en)!CS1 árabe-fontes em língua (ar)!CS1 alemão-fontes em língua (de)
+Esta página foi editada pela última vez às 03h44min de 21 de setembro de 2021.
+Este texto é disponibilizado nos termos da licença Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as condições de utilização.
+Política de privacidade
+Sobre a Wikipédia
+Avisos gerais
+Versão móvel
+Programadores
+Estatísticas
+Declaração sobre cookies');
