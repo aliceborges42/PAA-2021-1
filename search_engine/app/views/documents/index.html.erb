@@ -1,9 +1,11 @@
 <h2>Resultados da busca</h2>
 
 <h4>Fazer pesquisa:</h4>
-<%= form_tag(documents_path, method: :get) do %>
-  <%= text_field_tag(:search, params[:search]) %>
-  <%= submit_tag ("Search") %>
+
+<%= search_form_for @q do |f| %>
+  <%= f.label :title_or_body_cont %>
+  <%= f.search_field :title_or_body_cont %>
+  <%= f.submit %>
 <% end %>
 
 <ul>

@@ -3,7 +3,8 @@ class DocumentsController < ApplicationController
 
   # GET /documents or /documents.json
   def index
-    @documents = Document.search(params[:search])
+    @q = Document.ransack(params[:q])
+    @documents = @q.result(distinct: true)
   end
 
   # GET /documents/1 or /documents/1.json
