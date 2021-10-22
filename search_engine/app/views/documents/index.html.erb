@@ -1,0 +1,13 @@
+<h2>Resultados da busca</h2>
+
+<h4>Fazer pesquisa:</h4>
+<%= form_tag(documents_path, method: :get) do %>
+  <%= text_field_tag(:search, params[:search]) %>
+  <%= submit_tag ("Search") %>
+<% end %>
+
+<ul>
+  <% @documents.each do |document| %>
+      <li><%= link_to document.title, document.url, target: :_blank %></li><br>
+  <% end %>
+<ul>
