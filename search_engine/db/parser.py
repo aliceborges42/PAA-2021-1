@@ -57,6 +57,18 @@ urls = [
           'https://pt.wikipedia.org/wiki/Futebol_feminino',
           'https://pt.wikipedia.org/wiki/Futebol_nos_Jogos_Ol%C3%ADmpicos',
           'https://pt.wikipedia.org/wiki/Federa%C3%A7%C3%A3o_Internacional_de_Futebol'
+	# Links do William
+	   'https://pt.wikipedia.org/wiki/Acre'
+           'https://pt.wikipedia.org/wiki/Alagoas'
+	   'https://pt.wikipedia.org/wiki/Sergipe'
+	   'https://pt.wikipedia.org/wiki/Tocantins'
+	   'https://pt.wikipedia.org/wiki/Distrito_Federal_(Brasil)'
+	   'https://pt.wikipedia.org/wiki/Rio_de_Janeiro_(estado)'
+	   'https://pt.wikipedia.org/wiki/Bahia'
+	   'https://pt.wikipedia.org/wiki/Amazonas'
+	   'https://pt.wikipedia.org/wiki/Para'
+	   'https://pt.wikipedia.org/wiki/Rondonia'
+	   'https://pt.wikipedia.org/wiki/Roraima'	
        ]
 
 # Abrir arquivo
