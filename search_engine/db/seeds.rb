@@ -18,6 +18,21 @@ A
 A+
 Pesquisar...
 ÚltimasArtigosUnBAgendaUnBHojeUnBCiênciaRevista DarcySecom UnBClipping
+22 de Outubro de 2021
+RETOMADA
+Reitoria discute retorno ao trabalho presencial com diretores
+Palavras-chave
+retomada covid-19
+Da Ascom, Gabinete da Reitoria
+22/10/2021
+Em reunião que avaliou instrução normativa do ME, Administração Superior solicitou que unidades acadêmicas e centros sigam seus planos de contingência
+PATRIMÔNIO
+UnB amplia prazo para venda de 17 apartamentos
+Palavras-chave
+patrimônio
+Da Ascom, Gabinete da Reitoria
+22/10/2021
+Interessados têm até 19 e 22 de novembro para adquirir imóveis de três e dois quartos
 21 de Outubro de 2021
 RECONHECIMENTO
 Revista Darcy ganha destaque com publicação de artigo em coletânea internacional
@@ -89,23 +104,6 @@ covid-19
 Mateus Salomão*
 18/10/2021
 Professora da UnB assina trabalho publicado na revista The Lancet que aponta que consultas psicológicas e psiquiátricas foram abaixo do previsto na pandemia
-INCLUSÃO
-Guia orienta docentes na promoção da acessibilidade no ensino remoto
-Palavras-chave
-acessibilidade
-retomada covid-19
-Bianca Mingote*
-18/10/2021
-Documento oferece opções de recursos tecnológicos para aprendizagem de estudantes com deficiência e/ou com necessidades educacionais específicas
-15 de Outubro de 2021
-MODERNIZAÇÃO
-SIG-UnB conta com dois novos módulos
-Palavras-chave
-SIG
-Sistema Integrado de Gestão das Atividades Acadêmicas (Sigaa)
-Thaíse Torres
-15/10/2021
-A partir deste mês, pesquisas, projetos e convênios passam a tramitar com mais transparência e agilidade pelo Sistema Integrado de Gestão
 Página 1 de 393
 1234...678910
 Ensino
@@ -394,8 +392,8 @@ PREVENÇÃO
 Governo Federal lança Plano Nacional Pelo Fim da Tuberculose
 NOVO ENSINO MÉDIO
 Programa Itinerários Formativos do MEC teve adesão de todos os 27 estados brasileiros
-DEFESA CIVIL
-Governo Federal vai repassar R$ 20 milhões para combate a incêndios florestais
+RONDA PET
+Mais de 5 mil produtos veterinários são apreendidos em operação de combate à comercialização ilegal
 CÂNCER
 Governo zera Imposto de Importação de medicamentos
 CAPACITAÇÃO
@@ -660,6 +658,9 @@ Transparência
 Vacina DF
 Acompanhe todas as informações sobre a campanha de vacinação contra a Covid-19 no Distrito Federal
 #VACINADF
+Cinco regiões recebem a campanha antirrábica neste sábado (23)
+Vacina protege cães e gatos contra o vírus da raiva; confira os locais
+#VACINADF
 DF antecipa a segunda dose da Pfizer e da Astrazeneca
 Rede de saúde tem imunizantes para primeira dose, segunda dose e dose de reforço
 CORONAVÍRUS
@@ -674,9 +675,6 @@ UBS 2 do Recanto das Emas fez o Dia D do Outubro Rosa e realizou diversas açõe
 A UNIÃO FAZ A FORÇA
 Universitários podem atuar como voluntários na vacinação
 A carga horária mínima é de duas horas semanais e o voluntário recebe um certificado de reconhecimento
-OUTUBRO ROSA
-Mutirão de reconstrução mamária do HRT tem reforço de profissional de micropigmentação
-Procedimento cria imagem 3D das aréolas dos seios. Sete mulheres serão atendidas por voluntária
 Coronavírus (Covid-19)
 Informações, notícias, boletins e documentos da Secretaria sobre a doença
 Previous
@@ -696,6 +694,9 @@ Contra a covid-19, a influenza e vacinação de rotina
 #VACINADF
 Vacinômetro
 Acompanhe as informações sobre a vacinação no DF
+OUTUBRO ROSA
+Mutirão de reconstrução mamária do HRT tem reforço de profissional de micropigmentação
+Procedimento cria imagem 3D das aréolas dos seios. Sete mulheres serão atendidas por voluntária
 ASSISTÊNCIA À SAÚDE
 Terapeuta ocupacional cria mecanismo para reabilitar pacientes extubados
 O aparelho de baixo custo foi desenvolvido para devolver a força e o tônus muscular perdidos após longas internações
@@ -711,9 +712,6 @@ Mutirão de cirurgias no Outubro Rosa recupera autoestima de mulheres
 CUIDE-SE!
 Outubro Verde chama atenção para o combate à sífilis e à sífilis congênita
 Saiba como são feitos a prevenção, o diagnóstico e o tratamento da doença
-ASSISTÊNCIA À SAÚDE
-Paranoá ganha sua primeira Unidade de Pronto Atendimento (UPA)
-Com perfil de atendimento voltado a urgências, a nova UPA tem capacidade para atender 4,5 mil pessoas por mês
 veja todas as notícias
 <
 >
@@ -1014,16 +1012,16 @@ PLATAFORMA AROUCA
 Profissionais de Saúde do Brasil.
 ARES
 Acervo de Recursos Educacionais em Saúde.
-1.682.233
+1.682.269
 Usuários cadastrados
 Acesso Único UNA-SUS
-1.682.233
+1.682.269
 Usuários cadastrados
 Acesso Único UNA-SUS
 18.776
 Recursos
 publicados no ARES
-99
+100
 Cursos UNA-SUS
 com oferta aberta
 NOTÍCIAS EM DESTAQUE
@@ -13581,7 +13579,7 @@ Busca
 Links do usuário
 Criar uma conta
 Ferramentas pessoais
-expanded
+expandido
 collapsed
 Criar uma conta
 Entrar
@@ -13600,15 +13598,15 @@ Wikimedia CommonsWikilivrosWikinotíciasWikiquote
 Espaços nominais
 ArtigoDiscussão
 Variantes
-expanded
+expandido
 collapsed
 Vistas
 LerVer código-fonteVer histórico
 Mais
-expanded
+expandido
 collapsed
 215 idiomas
-expanded
+expandido
 collapsed
 АҧсшәаAcèhАдыгабзэAfrikaansAlemannischአማርኛAragonésÆngliscالعربيةالدارجةمصرىঅসমীয়াAsturianuAymar aruAzərbaycancaتۆرکجهБашҡортсаBasa BaliBoarischŽemaitėškaBikol CentralБеларускаяБеларуская (тарашкевіца)БългарскиभोजपुरीBanjarবাংলাབོད་ཡིགBrezhonegBosanskiБуряадCatalàMìng-dĕ̤ng-ngṳ̄НохчийнCebuanoکوردیCorsuQırımtatarcaČeštinaKaszëbscziСловѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟЧӑвашлаCymraegDanskDeutschThuɔŋjäŋZazakiDolnoserbskiडोटेलीΕλληνικάEnglishEsperantoEspañolEestiEuskaraEstremeñuفارسیSuomiVõroNa Vosa VakavitiFøroysktFrançaisArpetanNordfriiskFurlanFryskGaeilge贛語Kriyòl gwiyannenGàidhligGalegoAvañeẽगोंयची कोंकणी / Gõychi Konknni𐌲𐌿𐍄𐌹𐍃𐌺ગુજરાતીGaelgHausa客家語/Hak-kâ-ngîעבריתहिन्दीHrvatskiHornjoserbsceKreyòl ayisyenMagyarՀայերենԱրեւմտահայերէնInterlinguaBahasa IndonesiaInterlingueIgboIlokanoIdoÍslenskaItalianoᐃᓄᒃᑎᑐᑦ/inuktitut日本語JawaქართულიQaraqalpaqshaTaqbaylitKabɩyɛҚазақшаភាសាខ្មែរಕನ್ನಡ한국어RipoarischKurdîКомиКыргызчаLatinaLëtzebuergeschЛаккуЛезгиLingua Franca NovaLimburgsLigureLombardLingálaລາວLietuviųLatviešuमैथिलीBasa BanyumasanMalagasyОлык марийMinangkabauМакедонскиമലയാളംМонголमराठीBahasa MelayuMaltiMirandésမြန်မာဘာသာЭрзяньمازِرونیNāhuatlNapulitanoPlattdüütschNedersaksiesनेपालीLi NihaNederlandsNorsk nynorskNorsk bokmålNovialSesotho sa LeboaChi-ChewaOccitanLivvinkarjalaИронਪੰਜਾਬੀPicardDeitschPolskiپنجابیپښتوRuna SimiRumantschRomânăРусскийРусиньскыйIkinyarwandaСаха тылаᱥᱟᱱᱛᱟᱲᱤSarduSicilianuScotsسنڌيDavvisámegiellaSrpskohrvatski / српскохрватскиTaclḥitSimple EnglishSlovenčinaSlovenščinaGagana SamoaChiShonaSoomaaligaShqipСрпски / srpskiSeelterskSundaSvenskaKiswahiliŚlůnskiதமிழ்ತುಳುతెలుగుТоҷикӣไทยTürkmençeTagalogTok PisinTürkçeТатарча/tatarçaУкраїнськаاردوOʻzbekcha/ўзбекчаVènetoTiếng ViệtWest-VlamsWalonWinarayWolof吴语IsiXhosaმარგალურიייִדישYorùbáVahcuengh中文文言Bân-lâm-gú粵語IsiZulu
 Editar hiperligações
@@ -16363,6 +16361,6695 @@ Portal do futebol
 Obtida de https://pt.wikipedia.org/w/index.php?title=Federação_Internacional_de_Futebol&oldid=62088356
 Categorias: FIFAFederações esportivas internacionaisOrganizações esportivas fundadas em 1904Categorias ocultas: !Páginas que usam referências com parâmetros obsoletas!CS1 inglês-fontes em língua (en)!CS1 árabe-fontes em língua (ar)!CS1 alemão-fontes em língua (de)
 Esta página foi editada pela última vez às 03h44min de 21 de setembro de 2021.
+Este texto é disponibilizado nos termos da licença Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as condições de utilização.
+Política de privacidade
+Sobre a Wikipédia
+Avisos gerais
+Versão móvel
+Programadores
+Estatísticas
+Declaração sobre cookies');
+Document.create!(url: 'https://pt.wikipedia.org/wiki/Acre', title: 'Acre – Wikipédia, a enciclopédia livre', body: 'Acre – Wikipédia, a enciclopédia livre
+Saltar para o conteúdo
+Alternar barra lateral
+Busca
+Links do usuário
+Criar uma conta
+Ferramentas pessoais
+expanded
+collapsed
+Criar uma conta
+Entrar
+Páginas para editores conectados saiba mais
+DiscussãoContribuições
+Navegação
+Página principalConteúdo destacadoEventos atuaisEsplanadaPágina aleatóriaPortaisInformar um erro
+Colaboração
+Boas-vindasAjudaPágina de testesPortal comunitárioMudanças recentesManutençãoCriar páginaPáginas novasContatoDonativos
+Ferramentas
+Páginas afluentesAlterações relacionadasCarregar ficheiroPáginas especiaisHiperligação permanenteInformações da páginaCitar esta páginaElemento Wikidata
+Imprimir/exportar
+Criar um livroDescarregar como PDFVersão para impressão
+Noutros projetos
+Wikimedia CommonsWikinotíciasWikivoyage
+Espaços nominais
+ArtigoDiscussão
+Variantes
+expanded
+collapsed
+Vistas
+LerVer código-fonteVer histórico
+Mais
+expanded
+collapsed
+96 idiomas
+expanded
+collapsed
+AfrikaansالعربيةAsturianuAymar aruAzərbaycancaБеларускаяБеларуская (тарашкевіца)Българскиবিষ্ণুপ্রিয়া মণিপুরীBrezhonegBosanskiCatalàCebuanoQırımtatarcaČeštinaCymraegDanskDeutschΕλληνικάEmiliàn e rumagnòlEnglishEsperantoEspañolEestiEuskaraفارسیSuomiFrançaisNordfriiskGaeilgeGalegoAvañeẽעבריתहिन्दीHrvatskiMagyarՀայերենInterlinguaBahasa IndonesiaIdoÍslenskaItaliano日本語ქართული한국어KernowekLatinaLadinoLëtzebuergeschЛезгиLimburgsLietuviųLatviešuMalagasyМакедонскиമലയാളംमराठीBahasa MelayuNederlandsNorsk nynorskNorsk bokmålOccitanИронPapiamentuPolskiPiemontèisپنجابیRuna SimiRomânăРусскийScotsSrpskohrvatski / српскохрватскиSimple EnglishSlovenčinaShqipСрпски / srpskiSvenskaKiswahiliதமிழ்TetunТоҷикӣไทยTürkçeТатарча/tatarçaУкраїнськаاردوOʻzbekcha/ўзбекчаVènetoTiếng ViệtVolapükWinaray吴语Yorùbá中文Bân-lâm-gú粵語
+Editar hiperligações
+Acre
+Origem: Wikipédia, a enciclopédia livre.
+Coordenadas: 9.11° S 70.52° O
+Nota: Este artigo é sobre o estado brasileiro. Para outros significados, veja Acre
+(desambiguação).
+Este artigo cita fontes, mas estas não cobrem todo o conteúdo. Ajude a inserir referências. Conteúdo não verificável poderá ser removido.—Encontre fontes: Google (notícias, livros e acadêmico) (Junho de 2021)
+Estado do Acre
+Bandeira
+Brasão
+Lema: Nec Luceo Pluribus Impar
+(Não brilho diferente dos outros)
+Hino: Hino do Acre
+Gentílico: acriano, acriana; ou acreano, acreana.[1]
+Localização
+- Região
+Norte
+- Estados limítrofes
+Peru, Bolívia, Amazonas e Rondônia
+- Regiões geográficas   intermediárias
+2
+- Regiões geográficas   imediatas
+5
+- Municípios
+22
+Capital
+Rio Branco
+Governo
+- Governador(a)
+Gladson Cameli (PP)
+- Vice-governador(a)
+Major Rocha (PSL)
+- Deputados federais
+8
+- Deputados estaduais
+24
+- Senadores
+Mailza Gomes (PP)[2]Márcio Bittar (MDB)Sérgio Petecão (PSD)
+Área
+- Total
+164 123,738 km² (16º) [3]
+População
+2021
+- Estimativa
+906 876 hab. (25º)[4]
+- Censo 2010
+733 559 hab.[4]
+- Densidade
+5,53 hab./km² (24º)
+Economia
+2018[5]
+- PIB
+R$
+15,33 bilhões (26º)
+- PIB per capita
+R$ 17.636,88 (2018) (22º)
+Indicadores
+2010/2015[6][7]
+- Esperança de vida (2015)
+73,6 anos (15º)
+- Mortalidade infantil (2015)
+17,6‰ nasc. (8º)
+- Alfabetização (2010)
+84,8% (18º)
+- IDH (2017)
+0,719 (21º) – alto [8]
+Fuso horário
+UTC-5
+Clima
+equatorial Af, Am
+Cód. ISO 3166-2
+BR-AC
+Site governamental
+http://www.ac.gov.br
+Acre é uma das 27 unidades federativas do Brasil.[9] Localiza-se no sudoeste da Região Norte, fazendo divisa com duas unidades federativas: Amazonas ao norte e Rondônia a leste; e faz fronteira com dois países: a Bolívia a sudeste e o Peru ao sul e a oeste.[10] Sua área é de 164 123,040 km²,[3] que equivale aproximadamente ao Nepal.[11] Essa área responde inferiormente a 2% de todo o país.[12] De acordo com os geógrafos, se trata de um dos estados com menor densidade demográfica do Brasil e foi o mais recente que os brasileiros povoaram de maneira efetiva.[12] Nele localiza-se a extremidade ocidental do Brasil.[nota 1] A cidade onde estão sediados os poderes executivo, legislativo e judiciário estaduais é a capital Rio Branco.[13] Outros municípios com população superior a trinta mil habitantes são: Cruzeiro do Sul, Feijó, Sena Madureira e Tarauacá.[14]
+Somente em 1877 teve início no Acre — que naquela época pertencia à Bolívia — a chegada da quase totalidade dos migrantes que, oriundos do Nordeste do Brasil, mais precisamente do Ceará, colonizaram a região para buscar a borracha que se encontrava na Floresta Amazônica.[nota 2] Nas últimas décadas do século XIX, moravam cinquenta mil brasileiros na região.[12] Os seringueiros, lutaram com as tropas para realizar a ocupação da região e, em 1903, ao lado do último líder da Revolução Acriana, o gaúcho Plácido de Castro, foram os autores da proclamação do Estado Independente do Acre.[15] Então, a região foi ocupada militarmente pelo governo brasileiro e depois o Brasil estabeleceu diálogo diplomático com a Bolívia.[15] Em consequência, o Brasil assumiria o controle do Acre.[15]
+O governo brasileiro decidiu criar o Território Federal do Acre em 1904.[16] Por força da lei federal n.º 4 070, o presidente do Brasil João Goulart elevou o Território Federal do Acre à categoria de Estado em 1962.[17] Foi promovido pela borracha produzida que o estado tinha sido ocupado e se desenvolveu. A produção de borracha declinou desde 1913.[18] Porém, ainda em tempos atuais, o Acre é um dos estados brasileiros que mais produzem e exportam borracha (hévea-latex coagulado).[19]
+A altitude média de 200 metros, sendo uma forma de relevo com definição de planalto é o relevo dominante da maioria do território acriano.[20] Juruá, Purus, Tarauacá, Muru, Envira e Xapuri são os rios de maior importância do estado.[20] As principais atividades econômicas do estado são o trabalho de extrair borracha e castanha, a pecuária e a agricultura.[21] Com duas horas anteriores ao fuso horário de Brasília (DF), nele está localizada a última localidade brasileira a ter visão do sol nascente, na serra da Moa, na fronteira com a República do Peru. A intensidade do extrativismo vegetal, que tem atingido o ponto mais alto no século XX, constituiu-se em atração para os brasileiros que, vindos de uma variedade de regiões, chegaram ao estado. Misturando tradições vindas da Região Sul do Brasil, de São Paulo, da Região Nordeste do Brasil e dos grupos étnicos indígenas, deu-se o surgimento de uma culinária com muitas diversidades, que põe junto a carne-de-sol com o pirarucu, peixe característico da região, pratos que acompanham-se com tucupi, molho cujo ingrediente é a mandioca. O transporte fluvial, que se concentra nos rios Juruá e Moa, no oeste do estado, e Tarauacá e Envira, no noroeste, é um dos mais importantes meios de transporte, junto à BR-364, ligando de Rio Branco até Cruzeiro do Sul e que o governo brasileiro recentemente asfaltou e construiu as pontes onde antigamente era preciso atravessar por meio de balsas.[22]
+Índice
+1 Etimologia
+2 História
+2.1 Período pré-cabralino
+2.2 Colonização europeia
+2.3 Período imperial
+2.4 Revolução Acriana e anexação pelo Brasil
+2.5 Autonomia política
+2.6 Século XXI
+3 Geografia
+3.1 Clima
+3.2 Relevo
+4 Demografia
+4.1 Composição étnica
+4.2 Principais centros urbanos
+5 Política
+6 Subdivisões
+7 Economia
+7.1 Agricultura, pecuária e mineração
+7.2 Indústria
+7.3 Comércio
+8 Infraestrutura
+8.1 Educação
+8.2 Saúde
+8.3 Segurança pública
+8.4 Transportes
+8.5 Comunicações
+9 Cultura
+9.1 Artesanato
+9.2 Culinária
+10 Ver também
+11 Notas
+12 Referências
+13 Ligações externas
+Etimologia
+O Rio Acre na fronteira Bolívia-Brasil.
+O topônimo Acre, que foi passado do rio para o território federal, em 1904, e para a unidade federativa, em 1962, é derivado, talvez, da palavra tupi akir ü que significa rio verde ou de akir, do verbo ker que significa dormir, sossegar. Mas é quase certeza de que essas raízes etimológicas são as que deformam a palavra Aquiri, que é a corruptela do vocábulo do dialeto Ipurinã Umákürü, Uakiry, feita pelos exploradores que chegaram à região. Também existe a opinião da raiz etimológica de Aquiri a partir das palavras Yasiri, Ysiri, que significam água corrente, veloz.[23][24]
+Na viagem feita por João Gabriel de Carvalho ao rio Purus, em 1878, foi escrita uma carta pelo colonizador que teve como destinatário o comerciante paraense visconde de Santo Elias. Na carta que o colonizador nordestino escreveu, registra-se o pedido de mercadorias que chegaram à boca do rio Aquiri.[23] Devido à incapacidade de entendimento pela letra de João Gabriel na observação do proprietário e das pessoas que trabalhavam no estabelecimento comercial sediado em Belém, ou por causa da grafia errônea desse colonizador que escreveu às pressas como Acri ou Aqri, no lugar de Aquiri, o destino de chegada das mercadorias e das faturas foi o Rio Acre.[23][24]
+O Acre possui alguns apelidos: Extremo do Brasil, Estado das Seringueiras, Estado do Látex e Extremo Oeste.[25] Os habitantes naturais do Acre são denominados acreanos pela lei estadual,[1] embora o acordo ortográfico defina a grafia como acrianos.[26] Até a entrada em vigor do Acordo Ortográfico de 1990, a grafia correta era acreano no singular e no plural acreanos.[26] Em 2009, com o novo acordo ortográfico, a mudança do gentílico gerou polêmica entre a Academia Acriana de Letras e a Academia Brasileira de Letras, alegando que a mudança significaria a negação das raízes históricas e culturais do estado, mudando a última letra do topônimo de E para I.[27] A mudança gerou discussões sobre o assunto, e é notório que a imensa maioria da população do estado não gostou e não adotou o novo gentílico, continuaram a se autodenominarem acreanos,[25] e então foi oficializado localmente a grafia com E pelo governo do estado do Acre como patrimônio histórico e cultural.[1]
+História
+Ver artigo principal: História do Acre
+Período pré-cabralino
+Geoglifos em terras desmatadas na floresta amazônica do Acre, no Brasil
+Ver artigo principal: História pré-cabralina do Brasil
+Na região do atual estado do Acre, foram encontrados inúmeros Geoglifos (estruturas feitas no solo) com idade variável em até 2 100 anos. Pela complexidade, remetem às civilizações pré-colombianas, demonstrando de elevado grau de conhecimento em várias áreas e domínio de avançadas técnicas de movimentação de terra e água. As últimas escavações fizeram uma descoberta importante em Xapuri: um buraco de esteio em boas condições foi localizado em um geoglifo de formato redondo, reforçando a tese de que os índios daquela época poderiam ter usado fortificações paliçadas para habitação e segurança.[28]
+Colonização europeia
+As secas nordestinas e o apelo econômico da borracha — produto que, no fim do século XIX, começava sua trajetória de preços altos nos mercados internacionais — inscrevem-se entre as causas predominantes na movimentação de massas humanas em busca do Eldorado acreano.[29] As penetrações portuguesas do período colonial já haviam atingido seus pontos máximos no Brasil durante o século XVIII.[30] Consequência inevitável foi a dilatação do horizonte geográfico na direção oeste, atingindo terras de posse espanhola, fato que se tornou matéria dos tratados de Madri (1750)[31] e de Santo Ildefonso (1777).[32] Ambos os tratados, partindo das explorações feitas por Manuel Félix de Leme nas bacias do Guaporé e do Madeira, estabeleceram como linha divisória das possessões respectivas, na área em questão, os leitos do Mamoré e do Guaporé até seu limite máximo ocidental, na margem esquerda do Javari.[29][33][34]
+O povoamento da zona, estimulado pela criação da nova capitania real de Mato Grosso (1751), deu-se na direção da fronteira, surgindo alguns centros importantes: Vila Bela (1752),[35] às margens do Guaporé, Vila Maria (1778),[36] no rio Paraguai, e Casalvasco (1783).[29]
+Período imperial
+Até meados do século XIX não se pensou em povoamento sistemático da área.[29] Nessa época, o grande manancial virgem de borracha que aí se encontra atraíra o interesse mundial, provocando sua colonização de modo inteiramente espontâneo.[29]
+A política econômica do Império do Brasil, orientada para a atividade agrário-exportadora com base no café,[37] não comportava o aproveitamento e a incorporação dos territórios do extremo ocidental. Desse descaso, resultou que, no Atlas do Império do Brasil (1868), de Cândido Mendes de Almeida, modelar em seu tempo, não figurassem o Rio Acre e seus principais tributários, completamente desconhecidos dos geógrafos.[29][38]
+Apesar de tal política, alguns sertanistas brasileiros exploravam aquela região agreste e despovoada, desconhecendo se pertenciam ao Brasil, ao Peru ou à Bolívia.[29][39][40] Assim, ainda em meados do século XIX, no impulso que a procura da borracha ocasionou, solicitada que era no mercado internacional, várias expedições esquadrinharam a área, buscando facilitar a instalação dos colonos. Nessa época, João Rodrigues Cametá iniciou a conquista do rio Purus;[41] Manuel Urbano da Encarnação, índio mura grande conhecedor da região, atingiu o Rio Acre, subindo-o até as proximidades do Xapuri;[41] e João da Cunha Correia alcançou a bacia do alto Tarauacá.[42] Todo esse desbravamento se deu, na maior parte, em terras bolivianas.[29]
+As atividades exploradoras, a importância industrial das reservas de borracha e a penetração de colonos brasileiros na região suscitaram o interesse da Bolívia, que solicitou melhor fixação de limites.[29] Após várias negociações fracassadas, em 1867 assinou-se o Tratado de Ayacucho, que reconhecia o uti possidetis colonial.[43] A divisória foi estabelecida pelo paralelo da confluência dos rios Beni-Mamoré, em direção ao leste, até a nascente do Javari, embora ainda não fossem conhecidas as cabeceiras desse rio.[29]
+Revolução Acriana e anexação pelo Brasil
+Ver artigos principais: Revolução Acriana e República do Acre
+Mapa do final do século XIX, em que o Acre aparece como parte da Bolívia.
+Em 1890, um oficial boliviano, José Manuel Pando, alertou seu governo para o fato de que na bacia hidrográfica do Juruá havia mais de 300 seringais, com a ocupação dos brasileiros implantando-se cada vez mais rapidamente em solo da Bolívia.[44] A penetração brasileira avançara em profundidade para oeste do meridiano de 64º até além do de 72º, numa extensão de mais de mil quilômetros, muito embora já estivessem fixadas as fronteiras acima da confluência do Beni-Mamoré, segundo o tratado de 1867.[44]
+Em 1895, criou-se uma comissão para o ajuste da divisa.[45] O representante brasileiro, Gregório Taumaturgo de Azevedo, demitiu-se após verificar que a ratificação do tratado de 1867 iria prejudicar os seringueiros ali estabelecidos.[46][47]
+Em 1899, os bolivianos estabeleceram um posto administrativo em Puerto Alonso, cobrando impostos e lançando taxas aduaneiras sobre as atividades dos brasileiros.[48] No ano seguinte, o Brasil aceitou a soberania da Bolívia na zona, quando reconheceu oficialmente os antigos limites na confluência Beni-Mamoré.[44] Os seringueiros, alheios às tramitações diplomáticas, julgaram lesados seus interesses e iniciaram movimentos de rebeldia,[48] ocorrendo duas sérias contestações.[44]
+Palácio Rio Branco, sede do governo, e obelisco em homenagem aos heróis da Revolução Acriana.
+Em abril de 1899, um advogado cearense, José Carvalho, liderou uma ação armada, que culminou na expulsão das autoridades bolivianas. Logo depois a Bolívia iniciou negociações com um truste anglo-americano, o Bolivian Syndicate, a fim de promover, com poderes excepcionais (cobranças de impostos, força armada), a incorporação política e econômica do Acre a seu território. O governador do Amazonas, José Cardoso Ramalho Júnior, informado do ajuste por um funcionário do consulado boliviano em Belém, o espanhol Luis Gálvez Rodríguez de Arias, enviou-o à frente de contingentes militares para ocupar Puerto Alonso.[44][45] Gálvez proclamou ali a República do Acre, tornando-se seu presidente com o apoio dos seringalistas.[carece de fontes?] O novo estado tinha o objetivo de afastar o domínio boliviano para depois pedir anexação ao Brasil, a exemplo do que fizera o Texas, na América do Norte. Em março de 1900, devido protestos da Bolívia, o presidente Campos Sales extinguiu a efêmera república (oito meses após a criação).[45] Luis Gálvez teve que capitular e retirou-se para a Europa.[44] Reinstalaram-se os bolivianos na região, mas sofreram em seguida o ataque de outra expedição que se constituíra em Manaus, com a ajuda do novo governador Silvério Néri, que também se opunha, nos bastidores, ao domínio da Bolívia sobre o Acre, de onde provinham, em forma de impostos, grandes quantias para o tesouro estadual. Em dezembro de 1900, composta de moços intelectuais, da boêmia de Manaus, a Expedição dos Poetas desbaratou-se após rápido combate em frente a Puerto Alonso.[44][49]
+Por fim, comerciantes e proprietários no Rio Acre resolveram entregar a chefia de nova insurreição a um ex-aluno da Escola Militar de Porto Alegre, José Plácido de Castro, gaúcho de São Gabriel, que, à frente de um corpo improvisado de seringueiros, iniciou operações na vila de Xapuri, no alto Acre, e aí prendeu as autoridades bolivianas (agosto de 1902).[44][50] Depois de combates esparsos e bem-sucedidos, Plácido de Castro assediou Puerto Alonso, logrando a capitulação final das forças bolivianas (fevereiro de 1903).[45][50]
+Influíra no espírito de Plácido de Castro o fato de haver a Bolívia arrendado o território do Acre a um sindicato estrangeiro (chartered company), semelhante aos que operavam na Ásia e na África.[51] O Bolivian Syndicate, constituído por capitais ingleses e americanos, iria empossar-se na administração do Acre, dispondo de forças policiais e frota armada. Representantes dessa companhia chegaram à vila de Antimari (Rio Acre), abaixo de Puerto Alonso, mas desistiram da missão porque os revolucionários dominavam todo o rio, faltando pouco para o fim da resistência boliviana.[52]
+Ministro Barão do Rio Branco.
+Aclamado governador do Estado Independente do Acre, Plácido de Castro organizou um governo em Puerto Alonso. Daí por diante a questão passou à esfera diplomática. O Barão do Rio Branco assumira o Ministério do Exterior e seu primeiro ato foi afastar o Bolivian Syndicate. Os banqueiros responsáveis pelo negócio aceitaram em Nova York a proposta do Brasil: dez mil libras esterlinas como preço da desistência do contrato (fevereiro de 1903).[50][52] Subsequentemente, Rio Branco ajustou com a Bolívia um modus vivendi que previa a ocupação militar do território, até o paralelo de 10º20, por destacamentos do Exército Brasileiro, na zona que se designou como Acre Setentrional. Do paralelo 10º20, para o sul — o Acre Meridional — subsistiu a governança de Plácido de Castro, sediada em Xapuri.[50][52] Em novembro de 1903, Rio Branco e o plenipotenciário Assis Brasil assinaram com os representantes da Bolívia o Tratado de Petrópolis, pelo qual o Brasil adquiriu o Acre por compra (dois milhões de libras esterlinas, ou 36 268 contos e 870 mil-réis em moeda e câmbio da época), e cedeu uma pequena faixa do então território do Mato Grosso denominada Triângulo de Abunã,[53] com aproximadamente 2 300 km².[50][52] Em consequência, dissolveu-se o Estado Independente, passando o Acre Meridional e o Acre Setentrional a constituírem o território brasileiro do Acre, organizado, segundo os termos da lei n° 1.181, de 25 de fevereiro de 1904, e do decreto 5 188, de 7 de abril de 1904, em três departamentos administrativos: o do Alto Acre, o do Alto Purus e o do Alto Juruá, chefiados por prefeitos da livre escolha e nomeação do presidente da república.[50][52]
+Solucionada a parte da Bolívia, um outro caso tinha de ser resolvido com o Peru. O governo de Lima, alegando validez de títulos coloniais, reivindicava todo o território do Acre e mais uma extensa área do estado do Amazonas.[54] Delegações administrativas e militares desse país tentaram estabelecer-se no Alto Purus (1900, 1901 e 1903) e no Alto Juruá (1898 e 1902).[54] Os brasileiros, com seus próprios recursos, forçaram os peruanos a abandonar o Alto Purus (setembro de 1903).[55] Rio Branco, para evitar novos conflitos, sugeriu um modus vivendi para a neutralização de áreas no Alto Purus e no Alto Juruá e o estabelecimento de uma administração conjunta (julho de 1904). Isso não impediu um conflito armado entre peruanos e um destacamento do exército brasileiro em serviço no recém-criado departamento do Alto Juruá. A luta findou com a retirada das forças peruanas.[50][52] À luz dos títulos brasileiros e dos estudos das comissões mistas que pesquisaram as zonas do Alto Purus e do Alto Juruá, Rio Branco propôs ao governo do Peru o acerto de limites firmado a 8 de setembro de 1909.[56] Com esse ato completou-se a integração político-jurídica do território na comunidade brasileira.[50][56]
+Autonomia política
+Memorial dos Autonomistas, localizado na capital Rio Branco.
+Entre 1904 e 1920 o Acre não teve uma única capital, com as capitais dos três departamentos se reportando diretamente ao governo federal.[57] Essa subjugação causou intensas revoltas da população, mas que foram sufocadas pelo governo central brasileiro. Com a constituição de 1934, o Acre só obteve o direito de eleger dois deputados federais para representá-lo na Câmara Federal, sem alterar o regime de indicação dos governadores do território.[carece de fontes?]
+Durante a Segunda Guerra Mundial (1939-1945), os seringais da Malásia foram ocupados pelos japoneses e, a Tailândia um grande produtor de borracha, participou da guerra ao lado do Eixo. Assim, o Acre representou uma das principais fonte de borracha dos Aliados durante a guerra.[58] Em reconhecimento à contribuição produtiva em prol da vitória aliada, o Brasil conseguiu recursos norte-americanos para construir a Companhia Siderúrgica Nacional, e assim alavancar a industrialização estagnada do Centro-sul, sem indústrias de base.[59] Para solucionar o impasse e, também para suprir a borracha para o material bélico dos Forças Aliadas, em maio de 1941 o governo brasileiro fez acordos com o governo dos Estados Unidos, os Acordos de Washington,[59] iniciando outra operação em larga escala de extração de látex na Amazônia, a Batalha da Borracha.[59]
+Em meados da década de 1950, quando o Partido Social Democrático, do ex-governador José Guiomard dos Santos, resolveu assumir essa bandeira e elaborar um projeto de lei que transformava o Acre em Estado. Esse projeto causou grande movimentação política em todo o Acre e chegou ao Congresso Nacional em 1957, provocando uma intensa disputa política entre o PTB de Oscar Passos e o PSD de Guiomard Santos, tendo o primeiro se posicionado contra a lei de transformação do Acre em Estado. Depois de muitas disputas no Congresso Nacional, finalmente em 1962, durante a fase parlamentarista do governo João Goulart, foi assinada a lei 4 070, de autoria do então deputado Guiomard Santos.[60] Por uma ironia política, o presidente João Goulart era do Partido Trabalhista Brasileiro, o partido que, a nível nacional, se colocava contra o tal projeto. Ainda assim, o projeto foi aprovado e passou a vigorar a partir do dia 15 de junho de 1962.
+O PTB, todavia, não foi de todo derrotado. Nas primeiras eleições livres e diretas realizadas na história do Acre, o PTB foi o grande vencedor, fazendo o primeiro governador constitucional do Acre, o Professor José Augusto de Araújo, além de todas as prefeituras municipais acrianas. Na década de 1960, iniciou-se o segundo ciclo de esforços para acelerar o progresso da área amazônica, com a criação da Superintendência do Desenvolvimento da Amazônia (SUDAM,1966). Procurou-se melhor entrosar os subsetores regionais dentro do próprio Estado, concorrendo para isso os ramais da Transamazônica, que ligaram Rio Branco e Brasileia, no alto curso do Acre, e Cruzeiro do Sul, às margens do Juruá, cortando os vales do Purus e do Tarauacá. Incrementou-se a política de planejamento, destinada a corrigir as distorções demográficas, econômicas e políticas da integração nacional. Na década de 1980, o governo do Acre venceu uma ação judicial contra o Amazonas, onde reivindicava nova demarcação dos limites territoriais, sob a alegação de que deveriam ser acima da linha Cunha Gomes.[61] O Instituto Brasileiro de Geografia e Estatística (IBGE) constatou ser procedente.[61]
+Século XXI
+Trecho da BR-317, em Epitaciolândia, parte da Estrada do Pacífico, ligação entre o Brasil ao litoral do Peru
+Em 2005, foi iniciada a construção da Estrada do Pacífico, que dá ao Brasil, pelo Acre, acesso a três portos peruanos no Oceano Pacífico (Ilo, Maratani e San Juán) para facilitar as exportações para a Ásia.[62] A estrada foi concluída em 2011.[63] Em 2007, a assembleia legislativa do estado aprovou uma regularização fundiária para legitimar a posse e a alienação de propriedades públicas rurais, que beneficia 600 famílias em cerca de dez municípios acreanos, um feito inédito no país.[64] Em junho de 2008, entrou em vigor a lei que alterou os fusos horários brasileiros e o Acre passou a ter uma hora a menos, e não duas, em relação ao fuso de Brasília.[65] Apesar do referendo, o Acre mantém o antigo fuso horário.[65]
+A partir de 2008, o Brasil reforçou o efetivo do Exército na fronteira do Acre com o departamento boliviano de Pando.[66] Essa região da fronteira se tornara instável com o massacre de trinta camponeses bolivianos, feito por opositores ao referendo de aprovação de uma nova Constituição,[67] mas os conflitos se dissiparam com a realização do referendo na Bolívia, em janeiro de 2009.[68] Em abril de 2008, o Acre vence uma questão judicial com o estado do Amazonas em relação ao litígio em torno da linha Cunha Gomes,[61][69] em uma disputa territorial de 26 anos, anexando os municípios de Envira, Guajará, Boca do Acre, Pauini, Eirunepé e Ipixuna.[61] A redefinição territorial consolidou a inclusão de 1,2 milhão de hectares do complexo florestal Liberdade, Gregório e Mogno ao território do Acre, o que corresponde a 11 583,87 quilômetros quadrados. Desde 2019, Gladson de Lima Cameli (PP) é o governador do estado, tendo sido eleito com 53,71% dos votos válidos.[70]
+Geografia
+Ver artigo principal: Geografia do Acre
+Acre segundo a classificação climática de Köppen-Geiger
+O estado do Acre ocupa uma área de 152 581 km², localizado no extremo oeste do Brasil, localiza-se a 70º0000 de longitude oeste do Meridiano de Greenwich e a 09º0000 de latitude sul da Linha do Equador e com fuso horário -5 horas em relação a hora mundial GMT. Dista 10º0000 ao sul da Linha do Equador. No Brasil, o estado faz parte da região Norte, fazendo divisa com os estados do Amazonas e Rondônia e fronteira com dois países: Peru e Bolívia.
+Clima
+O clima é quente e muito úmido, do tipo Am de Köppen, e as temperaturas médias mensais variam entre 24 °C e 27 °C, sendo a menor média da Região Norte. As chuvas atingem o total anual de 2 100 mm, com uma nítida estação seca nos meses de junho, julho e agosto. A Floresta Amazônica recobre todo o território estadual. Muito rica em seringueiras da espécie mais valiosa (Hevea brasiliensis) e Castanheiras (Bertholletia excelsa), a floresta garante ao Acre o lugar de maior produtor nacional de borracha e castanha. Os principais rios do Acre, navegáveis principalmente nas cheias (Juruá, Tarauacá, Envira, Purus, Iaco e Acre), atravessam o estado com cursos quase paralelos e que só vão confluir fora de seu território.
+Relevo
+Praticamente todo o relevo do estado do Acre se integra no baixo platô arenítico, ou terra firme, unidade morfológica que domina a maior parte da Amazônia brasileira. Esses terrenos se inclinam, no Acre, de sudoeste para nordeste, com topografia, em geral, tabular. No extremo oeste se encontra a Serra da Contamana ou do Divisor, ao longo da fronteira ocidental, com as maiores altitudes do estado (609 m). Cerca de 63% da superfície estadual fica entre 200 e 300 m de altitude; 16% entre 300 e 609; e 21% entre 200 e 135.
+Demografia
+Crescimento populacional
+Censo
+Pop.
+%±
+192092 379—194079 768−13,7%1950114 75543,9%1960160 20839,6%1970218 00636,1%1980306 89340,8%1991417 16535,9%2000557 22633,6%2010733 55931,6%Est. 2017829 619[71]13,1%Fonte:[72]
+Ver artigo principal: Demografia do Acre
+De acordo com o Censo brasileiro de 2010, o Acre era habitado por 733 559 habitantes, sendo que haviam 532 279 habitantes em área urbana e 201 280 habitantes em área rural. Quanto à questão de gênero, haviam 368 324 homens e 365 235 Mulheres. Foram identificados 221 108 domicílios, sendo que apenas 191 169 deles eram ocupados, gerando um deficit habitacional de 29 939 domicílios. A média de habitantes por domicílio era de 3,82 pessoas.[73] A capital, Rio Branco, é a maior e mais populosa cidade do estado, com quase 350 mil habitantes, sendo a sexta maior cidade na Região Norte.[74]
+De 1991 a 2010, o crescimento demográfico experimentado pelo Acre foi considerado muito alto, atingindo 3,3% ao ano, acima da média nacional. Em 1991, foram contados 417 165 habitantes. 48% da população do estado vive na capital. No interior, a população vive dispersa ao longo dos rios, ocupada na extração de borracha, castanha e madeiras.[carece de fontes?]
+As densidades demográficas, em 2006, mostravam-se bastante homogêneas. Na região mais povoada, a do baixo Acre, havia 17,2 hab./km² e, na menos povoada, a do alto Purus, 1,1 hab./km². Na formação da população acriana entraram, além dos índios, os nordestinos - principalmente cearenses - que aí chegaram maciçamente durante o período áureo da borracha (1880-1913) e os sulistas, que chegaram maciçamente durante a década de 70 em diante. Houve também imigrações de árabes (principalmente sírios-libaneses) e italianos (sendo ambas as maiores na Região Norte), além de japoneses, alemães e eslavos (esses em pequena escala).[carece de fontes?]
+Composição étnica
+Segundo estimativa da Pesquisa Nacional por Amostra de Domicílios (PNAD), feita pelo Instituto Brasileiro de Geografia e Estatística (IBGE) em 2006, a população do estado é composta por pardos (57,5%), brancos (33%), negros (7,8%), além de indígenas e asiáticos.[75]
+Existem no Acre, 34 terras indígenas ocupadas por mais de 12 mil índios, que representam 2% da população total do Estado. Esse populacional pertence a 14 diferentes etnias, de línguas Pano, Aruak e Arawá: (Yaminawa, Manchineri, Kaxinawá, Ashaninka, Shanenawa, Katukina, Arara, Nukini, Poyanawa, Nawa, Jaminawa-Arara e Isolados). As etnias isoladas, sem contato com a sociedade, têm o seu território tradicional ao longo da fronteira internacional Brasil-Peru.[76][77]
+Principais centros urbanos
+verdiscutireditar Municípios mais populosos do Acre
+(estimativa 2021 do Instituto Brasileiro de Geografia e Estatística)[4]
+Rio BrancoCruzeiro do Sul
+Posição
+Localidade
+Região intermediária
+Pop.
+Posição
+Localidade
+Região intermediária
+Pop.
+1
+Rio Branco
+Rio Branco
+419 452
+11
+Rodrigues Alves
+Cruzeiro do Sul
+19 767
+2
+Cruzeiro do Sul
+Cruzeiro do Sul
+89 760
+12
+Marechal Thaumaturgo
+Cruzeiro do Sul
+19 727
+3
+Sena Madureira
+Rio Branco
+47 168
+13
+Porto Acre
+Rio Branco
+19 141
+4
+Tarauacá
+Cruzeiro do Sul
+43 730
+14
+Epitaciolândia
+Rio Branco
+18 979
+5
+Feijó
+Cruzeiro do Sul
+34 986
+15
+Acrelândia
+Rio Branco
+15 721
+6
+Brasiléia
+Rio Branco
+27 123
+16
+Porto Walter
+Cruzeiro do Sul
+12 497
+7
+Senador Guiomard
+Rio Branco
+23 446
+17
+Capixaba
+Rio Branco
+12 280
+8
+Plácido de Castro
+Rio Branco
+20 147
+18
+Bujari
+Rio Branco
+10 572
+9
+Xapuri
+Rio Branco
+19 866
+19
+Manoel Urbano
+Rio Branco
+9 701
+10
+Mâncio Lima
+Cruzeiro do Sul
+19 643
+20
+Jordão
+Cruzeiro do Sul
+8 628
+Política
+Palácio Rio Branco, primeira sede do governo do Acre. Em 1962, o antigo Território do Acre se tornou estado.
+A Assembleia Legislativa do Acre na Praça Povos da Floresta, centro de Rio Branco.
+O Acre é um estado da federação, sendo governado por três poderes, o executivo, o legislativo e o judiciário. Por meio de referendos e plebiscitos, é permitida a participação popular nas decisões de governo.[78] A atual constituição do Acre foi promulgada em 1989,[79] acrescida das alterações resultantes de posteriores Emendas Constitucionais. O poder executivo acriano está centralizado no governador do estado, que é eleito em sufrágio universal e voto direto e secreto, pela população para mandatos de até quatro anos de duração, e podem ser reeleitos para mais um mandato. Sua sede é o Palácio Rio Branco, que desde 1930 é a sede do governo acriano. O poder legislativo do estado é unicameral, constituído pela Assembleia Legislativa do Acre, localizado no centro de Rio Branco. Ela é constituída por 24 deputados, que são eleitos a cada 4 anos. No Congresso Nacional, a representação acriana é de 3 senadores e 8 deputados federais. A maior corte do poder judiciário acriano é o Tribunal de Justiça do Estado do Acre, localizado no centro de Rio Branco. Compõem o poder judiciário os desembargadores e os juízes de direito.
+Com 241 196 eleitores, Rio Branco é o município com o maior número de eleitores. É seguido por Cruzeiro do Sul, com 54,1 mil eleitores, Sena Madureira (27,5 mil eleitores), Tarauacá (24,9 mil eleitores) e Feijó, Brasiléia e Senador Guiomard, com 19,7 mil, 16,2 mil e 13,5 mil eleitores, respectivamente. O município com menor número de eleitores é Santa Rosa do Purus, com 3,1 mil.[80]
+Tratando-se sobre partidos políticos, todos os 35 partidos políticos brasileiros possuem representação no estado.[81] Conforme informações divulgadas pelo Tribunal Superior Eleitoral (TSE), com base em dados de outubro de 2016, o partido político com maior número de filiados no Acre é o Partido dos Trabalhadores (PT), com 10 297 membros, seguido do Partido do Movimento Democrático Brasileiro (PMDB), com 8 616 membros e do Partido Comunista do Brasil (PCdoB), com 8 047 filiados. Completando a lista dos cinco maiores partidos políticos no estado, por número de membros, estão o Partido da Social Democracia Brasileira (PSDB), com 5 954 membros; e o Partido Socialista Brasileiro (PSB), com 3 964 membros. Ainda de acordo com o Tribunal Superior Eleitoral, o Partido Novo (NOVO) e o Partido da Causa Operária (PCO) são os partidos políticos com menor representatividade na unidade federativa, com 4 e 25 filiados, respectivamente.[81]
+Subdivisões
+Ver também: Lista de regiões geográficas intermediárias e imediatas do Brasil e Lista de municípios do Acre
+Divisão das regiões intermediárias (vermelho) e imediatas (cinza).
+Região geográfica intermediária é, no Brasil, um agrupamento de regiões geográficas imediatas que são articuladas através da influência de uma ou mais metrópoles, capitais regionais e/ou centros urbanos representativos dentro do conjunto, mediante a análise do Instituto Brasileiro de Geografia e Estatística (IBGE).[82]
+As regiões geográficas intermediárias foram apresentadas em 2017, com a atualização da divisão regional do Brasil, e correspondem a uma revisão das antigas mesorregiões, que estavam em vigor desde a divisão de 1989. As regiões geográficas imediatas, por sua vez, substituíram as microrregiões. A divisão de 2017 teve o objetivo de abranger as transformações relativas à rede urbana e sua hierarquia ocorridas desde as divisões passadas, devendo ser usada para ações de planejamento e gestão de políticas públicas e para a divulgação de estatísticas e estudos do IBGE.[82]
+O Acre é dividido oficialmente em duas regiões geográficas intermediárias: a Região Geográfica Intermediária de Rio Branco e a Região Geográfica Intermediária de Cruzeiro do Sul. A primeira se divide em três regiões intermediárias: as de Rio Branco, Brasiléia e a de Sena Madureira. Já a segunda se divide em duas regiões imediatas: a de Cruzeiro do Sul e a de Tarauacá.
+O Acre é formado pela união de vinte e dois municípios, desde a última alteração feita em 1992, através das lei estaduais n.º 1 025, 1 026, 1 027, 1 028, 1 029, 1 030, 1 032, 1 033, 1 034, que criaram dez novos municípios no estado (Acrelândia, Bujari, Capixaba, Epitaciolândia, Jordão, Marechal Thaumaturgo, Porto Acre, Porto Walter, Rodrigues Alves e Santa Rosa do Purus).[83]
+Economia
+Rio Branco, centro político e financeiro do estado.
+O Acre era um dos estados mais isolados do país, não possuindo ligação rodoviária direta com o resto do Brasil, visto que não existiam pontes sobre alguns rios, que separam o Acre de cidades como Manaus ou Porto Velho: para se atravessar de um lado a outro, era preciso usar balsas. O estado também não possui nenhuma excepcionalidade econômica que impulsione seu desenvolvimento, como a Zona Franca de Manaus. Com isso, a economia do Estado era estagnada ao seu território. Porém, vinha sendo construída uma ponte sobre o Rio Madeira, na região da Ponta do Abunã, em Porto Velho, a ser concluída em março de 2021. Com sua conclusão, o Acre sairia do isolamento rodoviário com o resto do país.[84]
+O Estado só conseguiu se tornar oficialmente interligado ao resto da malha rodoviária do Brasil em maio de 2021, com a inauguração da Ponte do Abunã, construída sobre o Rio Madeira. A falta desta ligação limitava enormemente o desenvolvimento econômico do Estado. [85][86][87]
+Exportações do Acre - (2012)[88][89]
+O Acre possui o 25.º maior Produto Interno Bruto (PIB) do país, baseado principalmente na exploração de recursos naturais e no setor primário. De acordo com dados do IBGE, relativos a 2014, o PIB acriano era de 13 459 000 bilhões, enquanto o PIB per capita era de 17 034 reais.[90] Apesar de possuir uma das maiores taxas de aumento de economia (4,4% em 2014) e um PIB per capita tido como alto, este último é o segundo menor valor entre os estados de sua macrorregião, superando apenas o Pará. Além disto, a economia do estado é avaliada como a terceira pior entre todas as unidades federativas brasileiras e sua capital, Rio Branco, está na última posição entre as capitais estaduais no quesito PIB per capita.[91][92][93]
+A pauta de exportação do Acre é composta, principalmente, por coco, castanha e caju (29,80%), madeira serrada (23,34%), madeira perfilada (19,71%), madeira compensada (9,31%) e produtos farmacêuticos de origem animal (4,97%).[88]
+Agricultura, pecuária e mineração
+Extração de látex da seringueira.
+Um dos principais produtores de borracha (Hevea brasiliensis) no país, o Acre apresentou em 2008 a produção de 845 t,[94] representando pouco mais de um quarto do total nacional. Na região de Abunã, um seringueiro chega a produzir 1,5 t de borracha por safra. Os tipos produzidos são caucho, cernambi caucho, cernambi rama e cernambi seringa. A coagulação ainda é feita pelo processo da defumação. A produtividade média é de dois quilos de látex por hévea. A coleta de Castanha-do-Brasil é também atividade importante, realizada, em geral, pelo seringueiro, como ocupação subsidiária, na época das chuvas. Sua safra não é regular. A produção acriana em 2009 foi de 20 t, representando 20% de toda a produção nacional, sendo a maior do Brasil.[95] A madeira tem também importância econômica na região, sendo a produção de lenha em 2008 de 679 077 m³.[94] O método de extração é rudimentar, sendo usadas serras manuais e, assim mesmo, só nos centros mais adiantados. A lavoura é, em geral, de subsistência, não tendo condições para se manter diante dos altos rendimentos da atividade extrativa. Os principais produtos agrícolas do Acre, em 2008, apresentaram os seguintes resultados: arroz (28 569 t),[96] cana-de-açúcar (52 609 t),[96] feijão (5 779 t),[96] mandioca (730 434 t)[96] e milho (61 088 t).[96]
+A pecuária começou a ser desenvolvida só a partir da década de 1970. O solo utilizado nos plantios desgasta-se pelas derrubadas e queimadas e passa a construir área de magra pastagem. Não há campos naturais e os que são abertos na mata, se ainda não esgotados pela lavoura, são facilmente invadidos pela capoeira. Em 2008, contava o Acre com 155 861 suínos,[97] 2 425 687bovinos,[97] 77 623 ovinos,[97] 7 201 muares,[97] 60 668 equinos[97] e 15 433 caprinos.[97] A pesca é praticada em pequena escala, sendo na maioria dos casos de subsistência. Em 2005, foram produzidas 3 510 t de pescado,[98] a antepenúltima produção do país. A mineração é escassa e caracterizada pela garimpagem mais primitiva — feita através de bateias —, sendo desconhecidos dados estatísticos de sua produção.
+Indústria
+Parque industrial do município de Xapuri
+O Acre tinha em 2018 um PIB industrial de 1,1 bilhão de reais, equivalente a 0,1% da indústria nacional e empregando 13.025 trabalhadores na indústria. Os principais setores industriais são: Construção (47,6%), Serviços Industriais de Utilidade Pública, como Energia Elétrica e Água (24,6%), Alimentos (18,8%), Minerais não metálicos (2,0%) e Madeira (1,5%). Estes 5 setores concentram 94,5% da indústria do estado.[99]
+A indústria do estado, em 2009, ocupava 13 mil pessoas[100] em 1416 estabelecimentos e unidades,[101] que produziram bens no valor de R$ 773 milhões. A indústria ainda é de pouca escala no estado, sendo em grande parte de produtos alimentícios, como queijos, manteiga, refrigerantes e outros; e à transformação rudimentar de alguns produtos agrícolas, como a farinha de mandioca e o açúcar bangüê. O estado também possui indústrias na produção de barcos, carrocerias de caminhões, laminados e pisos de madeira, móveis, vidros temperados, preservativos (sendo a única do mundo a usar borracha natural proveniente de látex nativo), dentre outros produtos. Nas colônias mais importantes do Alto Juruá e do Alto Purus, ou mesmo em locais que possam atender em várias colônias, estão instalados conjuntos mecânicos, pertencentes quase todos ao governo. Nos conjuntos mecânicos encontram-se máquinas para debulhar o milho, descorticar o arroz, ralar, prensar e cozer a mandioca, além de moendas e tochas para o fabrico de açúcar de cana. A potência instalada das usinas geradoras em 2004 é de 331 GWh, com um consumo mínimo de 405 GWh.[102] Atualmente o estado possui 2 Distritos Industriais: 1 na capital Rio Branco e outro no município de Acrelândia.
+No estado está sendo criada a chamada ZPE (Zona de Processamento para Exportação), um Distrito Industrial incentivado, onde as empresas localizadas operam com redução/suspensão de impostos e contribuições federais e liberdade cambial (podem manter no exterior 100% das divisas obtidas nas exportações), com a condição de destinarem pelo menos 80% de sua produção de bens e serviços ao mercado externo, pretendendo levar os produtos fabricados no Acre para os mercados da Bolívia, Peru e os países asiáticos, quando concluída a Estrada do Pacífico. A ZPE do Acre será localizada na BR-317, entre a capital Rio Branco e o município de Senador Guiomard.[103]
+Comércio
+A quase totalidade do comércio do estado é feita por via fluvial e em pequena escala por via aérea. O Acre exporta quase tudo o que produz e importa praticamente tudo que consome. A pauta de exportação resume-se na madeira compensada e perfilada (49%),[104] madeira serrada ou em folha (27%),[104] frutas (21%)[104] e outros (3%),[104] convergindo na totalidade para os estados do Amazonas e Pará, de preferência para Belém, origem também da maioria de suas compras. O comércio com o limita-se a compra de gado em pé e gêneros alimentícios da Bolívia, frequentemente de caráter ilegal. Em março de 2010 o valor da exportação por cabotagem foi de US$ 15 727 499[105] e a importação de US$ 15 059 156.[105]
+Infraestrutura
+Educação
+Resultados no ENEM
+Ano
+Português
+Redação
+2006[106]Média
+31,05 (25.º)36,90
+47,97 (24.º)52,08
+2007[107]Média
+43,60 (25.º)51,52
+54,78 (17.º)55,99
+2008[108]Média
+35,15 (25.º)41,69
+57,62 (17.º)59,35
+O ensino fundamental contava em 2008 com 1 593 escolas, com o corpo docente de 7 476 professores e 164 043 alunos matriculados. Contava o ensino médio com 111 escolas, 1 594 professores e 33 113 matrículas. O ensino infantil calculava 275 pré-escolas, 1 052 professores e 22 104 alunos. O ensino superior era ministrado em 2007, em 9 estabelecimentos, com 17 840 alunos matriculados.
+Em 2008, a taxa de analfabetismo no estado é de 13%, uma das mais equilibradas do Brasil. Da população, 36,2% dos acrianos são analfabetos funcionais.
+As principais universidades do Acre são: Instituto Federal do Acre, Universidade Federal do Acre (públicas), União Educacional do Norte e Instituição de Ensino Superior do Acre (particulares).
+Saúde
+Hospital Epaminondas Jacome, em Xapuri
+Em 2005, havia no estado 337 estabelecimentos hospitalares, sendo 282 públicos e 55 particulares, com um total de 1.561 leitos. Dos 337 hospitais, 227 eram de finalidade geral e 221 eram especializados. Dos 7 municípios existentes em 1970, apenas Rio Branco possuía abastecimento de água encanada, embora não possuía serviço de esgoto, o que impede o controle de disenteria amebiana endêmica. Em 2005, o estado possuía 48% de acesso à água 44,3% de acesso à rede de esgoto. Em 2006, a mortalidade infantil era de 20,7 por 1 000 nascidos vivos, sendo a malária a principal causa de morte. Povoações distantes entre si por dia de caminhada na floresta, e que por vezes, no período das chuvas, ficam completamente isoladas, dificultam a irradiação da saúde pública.
+Uma pesquisa promovida pelo IBGE em 2008 revelou que 73,4% da população do estado avalia sua saúde como boa ou muito boa; 61% da população realiza consulta médica periodicamente; 35,6% dos habitantes consultam o dentista regularmente e 5,8% da população esteve internado em leito hospitalar nos últimos doze meses.[109] Ainda conforme dados da pesquisa, 24,2% dos habitantes declararam ter alguma doença crônica e apenas 12,6% possuíam plano de saúde. Menos da metade dos domicílios particulares no estado são cadastrados no programa Unidade de Saúde da Família: 46,7%.[109]
+Na questão da saúde feminina, 27% das mulheres com mais de 40 anos fizeram exame clínico das mamas nos últimos doze meses; 30,4% das mulheres entre 50 e 69 anos fizeram exame de mamografia nos últimos dois anos; e 77,7% das mulheres entre 25 e 59 anos fizeram exame preventivo para câncer do colo do útero nos últimos três anos.[109]
+Segurança pública
+Quartel da Polícia Militar do Estado do Acre, em Rio Branco
+Segundo o Exército Brasileiro, o Acre integra o Comando Militar da Amazônia, que tem sede em Manaus, destacando os pelotões de fronteira.De acordo com a Força Aérea Brasileira, o estado integra o VII Comando Aéreo Regional (VII COMAR), também sediado em Manaus, se destacando o Destacamento de Controle de Espaço Aéreo de Rio Branco (DTCEA-RB) e o Destacamento de Controle de Espaço Aéreo de Cruzeiro do Sul (DTCEA-CZ), ambos pertencentes ao Centro Integrado de Defesa Aérea e Controle de Tráfego Aéreo IV (CINDACTA IV), o estado não possui uma Base Aérea. Não existem, no estado, unidades da Marinha.
+A Polícia Militar do Estado do Acre (PMAC) tem por função primordial o policiamento ostensivo e a preservação da ordem pública no Estado do Acre. Para fins de organização é uma Força Auxiliar e Reserva do Exército Brasileiro, assim como suas coirmãs e integra o Sistema de Segurança Pública e Defesa Social brasileiro e está subordinada ao Governo do Estado do Acre. Seus integrantes são denominados militares estaduais (artigo 42 da CRFB), assim como os membros do Corpo de Bombeiros Militar do Estado do Acre. A Polícia Civil do Estado do Acre, é uma das polícias do estado do Acre, Brasil, órgão do sistema de segurança pública ao qual compete, nos termos do artigo 144, § 4.º, da Constituição Federal e ressalvada competência específica da União, as funções de polícia judiciária e de apuração das infrações penais, exceto as de natureza militar. A mais importante instituição penitenciária é a Colônia Penal e Agrícola Evaristo de Morais, em Rio Branco.
+O Corpo de Bombeiros Militar do Estado do Acre (CBMAC) é uma Corporação cuja principal missão consiste na execução de atividades de Defesa Civil, Prevenção e Combate a Incêndios, Buscas, Salvamentos e Socorros Públicos no âmbito do estado do Acre. Ele é Força Auxiliar e Reserva do Exército Brasileiro, e integra o Sistema de Segurança Pública e Defesa Social do Brasil. Seus integrantes são denominados Militares dos Estados pela Constituição Federal de 1988, assim como os membros da Polícia Militar do Estado do Acre.
+Transportes
+As principais rodovias do Acre são:
+Acesso a Senador Guiomard pela rodovia estadual AC-040.
+Trevo BR-364 no Acre
+BR-364 - Juntamente com a BR-317 é a principal rodovia do Acre. A leste liga Rio Branco ao estado de Rondônia e ao restante do país. A oeste corta todo o estado, ligando a capital do estado a Cruzeiro do Sul, segunda principal cidade do estado, passando pelos municípios de Bujari, Sena Madureira, Manoel Urbano, Feijó, Tarauacá e Rodrigues Alves.
+BR-317 - Tem extensão de 330 km, liga a capital ao sul do estado, passando pelos municípios de Senador Guiomard, Capixaba, Brasileia na fronteira com a República da Bolívia, a partir de Brasileia a estrada continua por mais 110 km até chegar na cidade de Assis Brasil, já na fronteira com o Peru. A rodovia tornar-se-á um importante eixo de exportação do Brasil, pois quando a estrada no lado peruano estiver concluída (estima-se que em 2011), o Brasil estará totalmente ligado a Cuzco e aos dois principais portos do país vizinho.
+AC-040 - Possui extensão de 100 km, liga Rio Branco até a cidade de Plácido de Castro também fazendo fronteira com a Bolívia.
+AC-401 - Também chamada de estrada do agricultor, com extensão de 50 km, liga a cidade de Plácido de Castro à cidade de Acrelândia, já próxima da BR-364.
+AC-010 - Tem extensão de 55 km, Ligando Rio Branco até a cidade história de Porto Acre, já na divisa com o Amazonas.
+Comunicações
+Os principais jornais do estado são os diários A Gazeta, O Rio Branco, A Tribuna, Jornal Opinião, Jornal Página 20 e o semanal O Estado. Entre as principais estações de televisão do estado se destacam a TV Rio Branco, a Rede Amazônica, a TV5 e a TV Gazeta,[110] e entre as rádios se destacam a Gazeta FM, a Rádio CBN e a Rádio Cidade FM.[111]
+Cultura
+A cultura do Acre é muito parecida com a dos outros Estados da Região Norte, porém há um alto consumo de cultura nordestina. Em Rio Branco encontra-se uma comunidade religiosa chamada Alto Santo (Centro de Iluminação Cristã Universal) que pratica o Ritual do Santo Daime, típico do Acre, de origem indígena, que usa o Daime, um chá natural feito com folhas e cipó, usado pelos índios como forma de aproximação a Deus. Todos tomam o chá, inclusive as crianças e os idosos. Os integrantes usam fardas e cantam o hinário.
+O Acre já foi retratado como cenário histórico no cinema e na televisão, interpretado por um numeroso elenco de atores consagrados na minissérie Amazônia, de Galvez a Chico Mendes (2007), da mesma autora das telenovelas América (2005) e Caminho das Índias (2009), a acriana Glória Perez.
+Artesanato
+Usina de arte João Donato, importante polo de produção e difusão cultural em Rio Branco
+No artesanato os artigos são confeccionados com materiais extraídos da floresta amazônica. Do seringal surgiu a figura do seringueiro, que colaborou em momentos importantes da história brasileira para o desenvolvimento do país, trabalhando duro na extração do látex na floresta amazônica. Da floresta também surgiu Chico Mendes, que hoje é considerado referência internacional na luta em defesa da Amazônia; Chico Mendes foi assassinado em 22 de dezembro de 1988 e ganhou um prêmio único da ONU, o Prêmio Global 500 Anos, por defender e proteger a floresta amazônica.[carece de fontes?]
+Culinária
+A comida típica utiliza o pato e o pirarucu, que herdou dos índios, e o bobó de camarão, vatapá e carne de sol com macaxeira, trazido do Nordeste brasileiro logo quando iniciou a extração do látex, já que muitos nordestinos migraram para o Acre tentando uma melhor qualidade de vida.[carece de fontes?]
+Ver também
+Naturais do Acre
+República do Acre
+Lista de municípios do Acre
+Lista de municípios do Acre por população
+Lista de governadores do Acre
+Lista de museus do Acre
+Revolução Acriana
+Notas
+↑ Os pontos extremos do Brasil são:
+Ao norte, a nascente do Rio Ailá, na Serra do Caburá, no Estado de Roraima.
+Ao sul, o Arroio Chuí, no Estado do Rio Grande do Sul.
+A leste, a Ponta do Seixas, no Estado da Paraíba.
+A oeste, a Serra de Contamana, no Estado do Acre.
+↑ No ano de 1877 o nordeste brasileiro sofria com as consequências da seca. Muitos nordestinos, principalmente do Ceará, foram estimulados a migrarem para o Acre, para assim trabalharem na extração do látex.
+Referências
+↑ a b c «Lei institui termo acreano como gentílico oficial no Acre». 28 de julho de 2016. Consultado em 15 de outubro de 2016
+↑ «Senadores em Exercício – 56ª Legislatura (2019 - 2023)». Consultado em 11 de junho de 2020
+↑ a b Instituto Brasileiro de Geografia e Estatística (IBGE). «Área Territorial Oficial - Consulta por Unidade da Federação». Consultado em 29 de agosto de 2021
+↑ a b c IBGE, IBGE (27 de agosto de 2021). «Estimativa Populacional 2021» (PDF). ibge.gov.br. Consultado em 28 de agosto de 2021
+↑ «Sistema de Contas Regionais: Brasil - 2018». IBGE. Consultado em 30 de agosto de 2021
+↑ «Tábua completa de mortalidade para o Brasil – 2015» (PDF). IBGE. Consultado em 2 de dezembro de 2016
+↑ «Sinopse do Censo Demográfico 2010». IBGE. Consultado em 2 de dezembro de 2016
+↑ IPEA -Instituto de Pesquisa Econômica Aplicada. «Evolução do IDHM e de Seus Índices Componentes no período de 2012 a 2017» (PDF). Consultado em 18 de abril de 2019
+↑ Grupo Virtuous (2010). «ESTADOS BRASILEIROS». Só Geografia. Consultado em 10 de novembro de 2011
+↑ PIMENTA, Rosângela. «Acre». Brasil República. Consultado em 10 de novembro de 2011
+↑ «3. Population by sex, rate of population increase, surface area and density» (PDF) (em inglês). United Nations Statistics Division. 2007. p. 59. Consultado em 5 de setembro de 2010
+↑ a b c «Acre». Enciclopédia Delta Universal. volume 1. Rio de Janeiro: Delta. 1982. 52 páginas
+↑ «Estados e Capitais do Brasil». Sua Pesquisa. 2011. Consultado em 10 de novembro de 2011
+↑ «Dados do Censo 2010 publicados no Diário Oficial da União do dia 04/11/2010» (PDF). Instituto Brasileiro de Geografia e Estatística. 4 de novembro de 2010. Consultado em 30 de outubro de 2010
+↑ a b c Rodrigo Gurgel (2011). «Revolução Acriana: Bolívia e Brasil disputam o Acre». UOL Educação. Consultado em 11 de novembro de 2011
+↑ Francisco de Paula Rodrigues Alves (30 de abril de 1904). «Decreto n.º 5.206». Câmara dos Deputados do Brasil. Consultado em 30 de outubro de 2013
+↑ Agência de Notícias do Acre. «Acre comemora elevação à Estado nesta segunda-feira». Agência de Notícias do Acre. Consultado em 11 de novembro de 2011
+↑ Eduardo Carneiro. «A Borracha no Acre». Historianet. Consultado em 11 de novembro de 2011
+↑ Pesquisa Agrícola Municipal (2010). «Área plantada, área colhida, quantidade produzida e valor da produção da lavoura permanente». Sistema IBGE de Recuperação Automática
+↑ a b Eduardo de Freitas. «Aspectos naturais do Acre». Brasil Escola
+↑ Wagner de Cerqueira e Francisco. «Economia do Acre». Brasil Escola. Consultado em 30 de outubro de 2013
+↑ «Guia do estado do Acre». Encontraac.com,br. Consultado em 11 de novembro de 2011
+↑ a b c GIRARDI, Giovani (fevereiro de 2007). «Índios, santos e geografia». Revista Galileu. Consultado em 28 de setembro de 2013
+↑ a b ANDRADE, Fernando Moretzsohn de; GUIMARÃES, André Passos. ACRE. In: Enciclopédia Mirador Internacional. São Paulo: Encyclopædia Britannica do Brasil Publicações, 1993. v. 2, p. 87.
+↑ a b «Etimologia». Cidades.in. Consultado em 11 de novembro de 2011. Arquivado do original em 29 de Outubro de 2013
+↑ a b UOL Educação (2011). «Veja gentílicos dos Estados do Brasil». UOL Educação. Consultado em 11 de novembro de 2011
+↑ PICHONELLI, Matheus (24 de março de 2009). «Novo acordo ortográfico gera polêmica no Acre». Folha Online. Consultado em 5 de junho de 2010
+↑ Agência de Notícias do Acre - http://www.agencia.ac.gov.br/index.php?Itemid=26&id=9715&option=com_content&task=view
+↑ a b c d e f g h i j «Acre: História». Nova Enciclopédia Barsa volume 11 ed. São Paulo: Encyclopædia Britannica do Brasil Publicações Ltda. 1998. 57 páginas
+↑ Cola da Web (2011). «Expansão Territorial do Brasil». Cola da Web. Consultado em 14 de novembro de 2011
+↑ Antonio Gasparetto Junior (4 de dezembro de 2010). «Tratado de Madrid». História Brasileira. Consultado em 14 de novembro de 2011. Arquivado do original em 12 de dezembro de 2012
+↑ Giulianna Oliveira Santos (4 de janeiro de 2010). «Tratado de Santo Ildefonso». Info Escola. Consultado em 14 de novembro de 2011
+↑ André Ferrand de Almeida (2009). «A viagem de José Gonçalves da Fonseca e a cartografia do rio Madeira (1749‑1752)» (PDF). The Scientific Electronic Library Online. Consultado em 14 de novembro de 2011
+↑ Rondônia Agora (13 de novembro de 2009). «A formação do Território de Rondônia». Rondônia Agora. Consultado em 14 de novembro de 2011
+↑ FERREIRA, João Carlos Vicente. «História da Vila Bela da Santíssima Trindade». Secretaria de Estado de Planejamento e Coordenação Geral de Mato Grosso. Consultado em 15 de setembro de 2010. Arquivado do original em 22 de Agosto de 2010
+↑ «Cáceres». BrasilViagem.com. Consultado em 15 de setembro de 2010. Arquivado do original em 8 de julho de 2011
+↑ LCC Publicações Eletrônicas (2011). «O Apogeu do Império e o Rei Café (1850 – 1870)». Cultura Brasil. Consultado em 14 de novembro de 2011. Arquivado do original em 24 de Dezembro de 2011
+↑ Cândido Mendes de Almeida (1868). «Atlas do Imperio do Brazil» (PDF). Senado Federal do Brasil. Consultado em 14 de novembro de 2011
+↑ Pertiñez, Dom Joaquín. «O Acre, o Nordeste e os nordestinos». Site Oficial da Diocese de Rio Branco. Consultado em 15 de setembro de 2010. Arquivado do original em 6 de Julho de 2011
+↑ Governo do Acre (2011). «Seringueiros e Ribeirinhos». Biblioteca da Floresta. Consultado em 14 de novembro de 2011 [ligação inativa]
+↑ a b SILVA, Hiram Reis e (7 de julho de 2009). «João Rodrigues Cametá». Roraima em Foco. Consultado em 14 de novembro de 2011. Arquivado do original em 15 de Julho de 2011
+↑ Escola Rosaura Maranhão (23 de abril de 2011). «TARAUACÁ: Ontem, hoje e amanhã». Blog da Escola. Consultado em 14 novembro de 2011
+↑ «O Tratado de Madrid e o Tratado de Ayacucho». GrupoEscolar.com. Consultado em 15 de setembro de 2010
+↑ a b c d e f g h «Acre: História». Nova Enciclopédia Barsa volume 11 ed. São Paulo: Encyclopædia Britannica do Brasil Publicações Ltda. 1998. 58 páginas
+↑ a b c d GURGEL, Rodrigo. «Revolução Acriana: Bolívia e Brasil disputam o Acre». UOL Educação. Consultado em 15 de setembro de 2010
+↑ ALBUQUERQUE, Kátya Fernandez. «A Questão do Acre» (PDF). Site Oficial do Círculo Fluminense de Estudos Filológicos e Linguísticos. Consultado em 15 de setembro de 2010
+↑ SILVA, Hiram Reis e (20 de junho de 2009). «Tenente-Coronel Gregório Taumaturgo de Azevedo». Roraima em Foco. Consultado em 15 de setembro de 2010. Arquivado do original em 15 de Julho de 2011
+↑ a b «História de Porto Acre» (PDF). Biblioteca do IBGE. Consultado em 15 de setembro de 2010
+↑ SCHILLING, Voltaire. «A Expedição dos Poetas». Terra Educação:História. Consultado em 15 de setembro de 2010. Arquivado do original em 14 de maio de 2011
+↑ a b c d e f g h «Acre: História». Nova Enciclopédia Barsa volume 11 ed. São Paulo: Encyclopædia Britannica do Brasil Publicações Ltda. 1998. 59 páginas
+↑ Luiz Alberto Moniz Bandeira (setembro de 2000). «O Barão de Rothschild e a questão do Acre». Revista Brasileira de Política Internacional. Consultado em 14 de novembro de 2011
+↑ a b c d e f PIRES, M; DA NOBREGA, N. As capitais do acre: a cidade e os poderes. Scripta Nova. Revista electrónica de geografía y ciencias sociales. Barcelona: Universidad de Barcelona, 1 de agosto de 2005, vol. IX, núm. 194 (106). <http://www.ub.es/geocrit/sn/sn-194-106.htm> [ISSN: 1138-9788]
+↑ Journal of the American Geographical Society of New York, Volume 42. [S.l.: s.n.] 1910. pp. pág. 93
+↑ a b Brasil Channel (2007). «Acre: História». Brasil Channel. Consultado em 14 de novembro de 2011
+↑ Departamento Cultural do MRE (2011). «O Estado do Acre» (PDF). Ministério das Relações Exteriores do Brasil. Consultado em 14 de novembro de 2011. Arquivado do original (PDF) em 16 de Maio de 2011
+↑ a b PMAC (2011). «História da PMAC». Polícia Militar do Acre. Consultado em 14 de novembro de 2011. Arquivado do original em 30 de Setembro de 2011
+↑ «Historia do Acre AC - Ache Tudo e Região». www.achetudoeregiao.com.br
+↑ Maria Letícia Corrêa (2015). «Os Acordos de Washington de 1942, a organização da Companhia Vale do Rio Doce e as dinâmicas nacional e internacional» (PDF). XVII Encontro de História da Anapuh Rio. Universidade Federal de Goiás. Consultado em 9 de março de 2018
+↑ a b c Ariadne Araújo. «Batalha da Borracha». História do Brasil. Portal São Francisco. Consultado em 5 de março de 2018
+↑ «L4070». www.planalto.gov.br. Consultado em 26 de junho de 2021
+↑ a b c d «Mudança geografica (2): Decisão do STF determina limite entre Acre e Amazonas». 10 de abril de 2008
+↑ O Estado de S. Paulo (8 de setembro de 2005). «Começa construção de Rodovia Interoceânica». Site Oficial do Jornal. Consultado em 15 de novembro de 2011
+↑ Governo do Estado do Acre (2 junho de 2013). «Estrada do Pacífico integra economia e cultura com o Peru». Agência de Notícias do Acre (AGEC). Consultado em 23 de maio de 2015. Arquivado do original em 30 de Junho de 2015
+↑ Viviane Teixeira (2007). «Regularização fundiária». Agência de Notícias do Acre (AGEC). Consultado em 15 de novembro de 2011
+↑ a b Jean-Philip Struck (28 de fevereiro de 2011). «Quatro meses após referendo, fuso horário do Acre continua o mesmo». Folha de S. Paulo. Consultado em 15 de novembro de 2011
+↑ Altino Machado (19 de setembro de 2008). «Exército brasileiro ocupa pontes na fronteira após massacre na Bolívia». Blog da Amazônia. Consultado em 15 de novembro de 2011. Arquivado do original em 21 de Janeiro de 2012
+↑ PCdoB (14 de setembro de 2008). «Governador boliviano acusado de chacinar 30 camponeses». Partido Comunista do Brasil. Consultado em 15 de novembro de 2011
+↑ José Renato Salatiel (28 de janeiro de 2009). «Referendo na Bolívia: Nova Constituição é aprovada, mas nação segue dividida». UOL Educação. Consultado em 15 de novembro de 2011
+↑ Assessoria de Comunicação do Tribunal de Justiça do Estado do Acre (TJAC). «TJs do Acre e Amazonas discutem a nova divisão territorial entre os dois estados». Poder Judiciário do Estado do Acre. Consultado em 20 de março de 2018
+↑ G1 Acre (7 de outubro de 2018). «Gladson Cameli, do PP, é eleito governador do Acre». Globo News. Consultado em 8 de setembro de 2021
+↑ ftp://ftp.ibge.gov.br/Estimativas_de_Populacao/Estimativas_2017/estimativa_dou_2017.pdf
+↑ https://ww2.ibge.gov.br/home/estatistica/populacao/censo2010/tabelas_pdf/Brasil_tab_1_4.pdf
+↑ «Sinopse do Censo Demográfico 2010». Instituto Brasileiro de Geografia e Estatística (IBGE). Consultado em 23 de março de 2012
+↑ «Estimativa Populacional 2011» (PDF). Estimativa Populacional 2011. Instituto Brasileiro de Geografia e Estatística (IBGE). Consultado em 6 de setembro de 2011
+↑ «Síntese de indicadores sociais: uma análise das condições de vida da população brasileira 2007» (PDF). Arquivado do original (PDF) em 19 de Março de 2015
+↑ «Povos Indígenas do Acre» (PDF). Arquivado do original (PDF) em 12 de Junho de 2009
+↑ Kaxinawá, Joaquim Paulo Maná et al. 2002. Índios no Acre: História e organização. 2.ª ed. Rio Branco: Comissão Pró-Índio do Acre / Organização dos Professores Indígenas do Acre - OPIAC / Ministério da Educação.
+↑ Supremo Tribunal Federal (STF) (10 de novembro de 1999). «Lei n.º 9.868 de 10 de novembro de 1999». Consultado em 15 de outubro de 2016
+↑ «Constituição do estado do Acre»
+↑ JUS Eleitoral (setembro de 2016). «Consulta Quantitativo - Acre (AC)». Tribunal Superior Eleitoral (TSE). Consultado em 15 de outubro de 2016
+↑ a b «Filiados - Tribunal Superior Eleitoral (TSE)». Tribunal Superior Eleitoral (TSE). Outubro de 2016. Consultado em 15 de outubro de 2016
+↑ a b Instituto Brasileiro de Geografia e Estatística (IBGE) (2017). «Divisão Regional do Brasil». Consultado em 17 de agosto de 2017. Cópia arquivada em 17 de agosto de 2017
+↑ «História do Acre». Ache tudo e região. Consultado em 12 de janeiro de 2017
+↑ «Obra da ponte entre Rondônia e Acre deve ficar pronta em março de 2021, diz Dnit». G1. Consultado em 26 de junho de 2021
+↑ Inaugurada a Ponte do Abunã
+↑ No AC, preço de produtos e alimentos devem ficar até 6% mais barato com ponte sobre o Rio Madeira
+↑ Economia acreana já é beneficiada pela ponte do Rio Madeira após um mês de inauguração
+↑ a b «Exportações do Acre (2012)». Plataforma DataViva. Consultado em 13 de janeiro de 2014. Arquivado do original em 16 de Janeiro de 2014
+↑ Governo do Estado do Acre (9 de Março de 2010). «Acre em Números 2009». Consultado em 2 de Agosto de 2010. Arquivado do original em 2 de Dezembro de 2010
+↑ «Contas Regionais 2014: cinco estados responderam por quase dois terços do PIB do país». Instituto Brasileiro de Geografia e Estatística (IBGE). Consultado em 12 de janeiro de 2017
+↑ «IBGE aponta Acre sendo um dos com maior crescimento do PIB». Acre 24 horas. 28 de novembro de 2016. Consultado em 12 de janeiro de 2017
+↑ «Economia do Acre está entre as três piores do pais, diz IBGE». Acre 24 horas. 30 de novembro de 2016. Consultado em 12 de janeiro de 2017
+↑ «Rio Branco é a capital brasileira com menor PIB per capita, diz IBGE: Dados foram divulgados pelo IBGE nesta terça-feira (17). No país, 55 municípios concentram cerca de 50% do PIB brasileiro». Acre 24 horas. 18 de novembro de 2013. Consultado em 12 de janeiro de 2017
+↑ a b «Extração vegetal e silvicultura 2008». Instituto Brasileiro de Geografia e Estatística. Consultado em 26 de abril de 2010
+↑ «Castanha-do-Acre». Agência de Notícias do Acre. Consultado em 4 de abril de 2009
+↑ a b c d e «Lavoura Temporária 2008». Instituto Brasileiro de Geografia e Estatística. Consultado em 26 de abril de 2010
+↑ a b c d e f «Pecuária 2008». Instituto Brasileiro de Geografia e Estatística. Consultado em 26 de abril de 2010
+↑ «Produção total de pescado estimada, por ano, segundo as regiões e unidades da Federação» (PDF). Ministério da Pesca e Aquicultura. Consultado em 26 de abril de 2010. Arquivado do original (PDF) em 6 de Julho de 2011
+↑ «CNI - Perfil da Indústria nos Estados». perfil.portaldaindustria.com.br. Consultado em 26 de junho de 2021
+↑ «Indústria acriana em pleno vapor». Agência de Notícias do Acre. Consultado em 26 de abril de 2010
+↑ «Acre em números 2009». Governo do Acre. Consultado em 26 de abril de 2010. Arquivado do original em 2 de Dezembro de 2010
+↑ TOSCANO, Fernando. «Brasil - Acre». Portal Brasil. Consultado em 26 de abril de 2010. Arquivado do original em 8 de Julho de 2009
+↑ «Cópia arquivada» (PDF). Consultado em 3 de Setembro de 2010. Arquivado do original (PDF) em 29 de Outubro de 2013
+↑ a b c d CIVITA, Victor (2010). Almanaque Abril. São Paulo: Abril. 668 páginas
+↑ a b «Balança comercial por Unidade da Federação». Ministério de Estado do Desenvolvimento, Indústria e Comércio Exterior. Consultado em 26 de abril de 2010
+↑ «Cópia arquivada». Consultado em 22 de Maio de 2009. Arquivado do original em 22 de Maio de 2011
+↑ «Fora do ar». download.uol.com.br
+↑ Imprensa, Núcleo Web/Assessoria de. «Inep - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira Legislação e Documentos». www.inep.gov.br
+↑ a b c PNAD (2008). «Acesso e Utilização dos Serviços, Condições de Saúde e Fatores de Risco e Proteção à Saúde 2008». Instituto Brasileiro de Geografia e Estatística (IBGE). Consultado em 24 de novembro de 2012
+↑ «Rio Branco-AC». Portal BSD. Consultado em 30 de janeiro de 2020
+↑ «Guia de Rádios AM / FM Rio Branco». Tudo Rádio. Consultado em 30 de janeiro de 2021
+Ligações externas
+Outros projetos Wikimedia também contêm material sobre este tema:
+Definições no Wikcionário
+Textos originais no Wikisource
+Imagens e media no Commons
+Guia turístico no Wikivoyage
+Commons
+Wikisource
+Wikcionário
+Wikivoyage
+Página oficial do governo do Acre
+Procuradoria-Geral do Estado do Acre
+Assembleia Legislativa do Estado do Acre
+Tribunal de Justiça do Estado do Acre
+Geografia e biodiversidade
+Índios no Acre
+JuruáOnline, Portal de Notícias de Cruzeiro do Sul, Estado do Acre
+Tribunal Superior Eleitoral
+Acrevde Acre Portal — Geografia, Política, Cultura, EsportesCapitalRio BrancoDivisão regional vigente (desde 2017)Regiões geográficas intermediárias e imediatasDivisão regional extinta (vigente até 2017)Mesorregiões e microrregiõesMais de 100.000 habitantesRio BrancoMais de 40.000 habitantesCruzeiro do Sul • Sena Madureira • TarauacáMais de 20.000 habitantesFeijó • Brasiléia
+• Senador GuiomardNorte, Brasil vde Regiões e unidades federativas do Brasil
+Subdivisões do Brasil
+Unidades da FederaçãoRegião Norte
+Acre
+Amapá
+Amazonas
+Pará
+Rondônia
+Roraima
+Tocantins
+Região Nordeste
+Alagoas
+Bahia
+Ceará
+Maranhão
+Paraíba
+Pernambuco
+Piauí
+Rio Grande do Norte
+Sergipe
+Região Centro-Oeste
+Distrito Federal
+Goiás
+Mato Grosso
+Mato Grosso do Sul
+Região Sudeste
+Espírito Santo
+Minas Gerais
+Rio de Janeiro
+São Paulo
+Região Sul
+Paraná
+Rio Grande do Sul
+Santa Catarina
+Arquipélagos
+Anavilhanas
+Fernando de Noronha
+Atol das Rocas
+Arquipélago de São Pedro e São Paulo
+Trindade e
+Martim Vaz
+Geoeconômicas
+Amazônica
+Centro-Sul
+Nordeste
+Propostas de criação de unidades federativas do Brasil
+vde Fronteiras do BrasilComissões demarcadoras de fronteira1 PCDL • 2 PCDLPaíses limítrofesArgentina • Bolívia • Colômbia • Guiana Francesa (França) • Guiana • Paraguai • Peru • Suriname • Uruguai • VenezuelaMacrorregiões fronteiriçasCentro-Oeste • Norte • SulEstados fronteiriçosAcre • Amapá • Amazonas • Mato Grosso • Mato Grosso do Sul • Pará • Paraná • Rio Grande do Sul • Rondônia • Roraima • Santa CatarinaMunicípios fronteiriçosSocioeconômicoÁrea • Área urbana • População • Densidade demográfica • PIB • PIB per capita • renda per capita • IDH • GiniBifronteiriços ou tríplices fronteirasAtalaia do Norte • Assis Brasil • Barra do Quaraí • Corumbá • Foz do Iguaçu • Laranjal do Jari • Oriximiná • São Gabriel da Cachoeira • Uiramutã • UruguaianaFronteira simplesAceguá • Acrelândia • Alecrim • Almeirim • Alta Floresta dOeste • Alto Alegre • Alto Alegre dos Parecis • Amajari • Antônio João • Aral Moreira • Arroio Grande • Bagé • Bandeirante • Barcelos • Barracão • Bela Vista • Belmonte • Benjamin Constant • Bom Jesus do Sul • Bonfim • Brasileia •
+Cabixi •
+Cáceres • Capanema • Capixaba • Caracaraí • Caracol • Caroebe • Chuí • Comodoro • Coronel Sapucaia • Costa Marques • Crissiumal • Cruzeiro do Sul • Derrubadas • Dionísio Cerqueira • Dom Pedrito • Doutor Maurício Cardoso • Entre Rios do Oeste • Epitaciolândia • Esperança do Sul • Feijó • Garruchos • Guaíra • Guajará • Guajará-Mirim • Guaraciaba • Herval • Iracema • Itaipulândia • Itapiranga • Itaqui • Jaguarão • Japorã • Japurá • Jordão • Mâncio Lima • Manoel Urbano • Marechal Cândido Rondon • Marechal Thaumaturgo • Mercedes • Mundo Novo • Normandia • Novo Machado • Nova Mamoré • Óbidos • Oiapoque • Pacaraima • Paraíso • Paranhos • Pato Bragado • Pedras Altas • Pérola dOeste • Pimenteiras do Oeste • Pirapó • Plácido de Castro • Planalto • Poconé • Ponta Porã • Porto Esperidião • Porto Lucena • Porto Mauá • Porto Murtinho • Porto Velho • Porto Vera Cruz • Porto Walter • Porto Xavier • Pranchita • Princesa • Quaraí • Rodrigues Alves • Roque Gonzales • Santa Helena (PR) • Santa Helena (SC) • Santa Isabel do Rio Negro • Santa Rosa do Purus • Santa Vitória do Palmar • Santa Terezinha de Itaipu • Santana do Livramento • Santo Antônio do Içá • Santo Antônio do Sudoeste • São Borja • São Francisco do Guaporé • São José do Cedro • São Miguel do Iguaçu • São Nicolau • Sena Madureira • Serranópolis do Iguaçu • Sete Quedas • Tabatinga • Tiradentes do Sul • Tunápolis • Vila Bela da Santíssima Trindade Brasil
+Controle de autoridade
+: Q40780
+WorldCat
+VIAF: 145416817
+EBID: ID
+GEC: 0000600
+GND: 4000408-9
+LCCN: n80113129
+NKC: ge531773
+OSM: 326266
+MusicBrainz: ID
+GeoNames: 3665474
+TGN: 1001822
+Identificadores taxonómicos
+ISC: 108626
+Portal do Acre
+Portal do Brasil
+Portal da região Norte do Brasil
+Obtida de https://pt.wikipedia.org/w/index.php?title=Acre&oldid=62148098
+Categoria: AcreCategorias ocultas: !Páginas com argumentos formatnum não numéricos!CS1 inglês-fontes em língua (en)!Artigos com ligações inativas!Artigos que carecem de notas de rodapé desde junho de 2021!Artigos do Brasil que carecem de notas de rodapé!Artigos que carecem de notas de rodapé!Artigos que carecem de notas de rodapé sem indicação de tema!Páginas que utilizam Nobold com segundo parâmetro sem nome
+Esta página foi editada pela última vez às 03h02min de 30 de setembro de 2021.
+Este texto é disponibilizado nos termos da licença Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as condições de utilização.
+Política de privacidade
+Sobre a Wikipédia
+Avisos gerais
+Versão móvel
+Programadores
+Estatísticas
+Declaração sobre cookies');
+Document.create!(url: 'https://pt.wikipedia.org/wiki/Alagoas', title: 'Alagoas – Wikipédia, a enciclopédia livre', body: 'Alagoas – Wikipédia, a enciclopédia livre
+Saltar para o conteúdo
+Alternar barra lateral
+Busca
+Links do usuário
+Criar uma conta
+Ferramentas pessoais
+expanded
+collapsed
+Criar uma conta
+Entrar
+Páginas para editores conectados saiba mais
+DiscussãoContribuições
+Navegação
+Página principalConteúdo destacadoEventos atuaisEsplanadaPágina aleatóriaPortaisInformar um erro
+Colaboração
+Boas-vindasAjudaPágina de testesPortal comunitárioMudanças recentesManutençãoCriar páginaPáginas novasContatoDonativos
+Ferramentas
+Páginas afluentesAlterações relacionadasCarregar ficheiroPáginas especiaisHiperligação permanenteInformações da páginaCitar esta páginaElemento Wikidata
+Imprimir/exportar
+Criar um livroDescarregar como PDFVersão para impressão
+Noutros projetos
+Wikimedia CommonsWikinotíciasWikivoyage
+Espaços nominais
+ArtigoDiscussão
+Variantes
+expanded
+collapsed
+Vistas
+LerEditarEditar código-fonteVer histórico
+Mais
+expanded
+collapsed
+94 idiomas
+expanded
+collapsed
+AcèhAfrikaansالعربيةAsturianuAymar aruAzərbaycancaБеларускаяБеларуская (тарашкевіца)Българскиবিষ্ণুপ্রিয়া মণিপুরীBrezhonegBosanskiCatalàCebuanoQırımtatarcaČeštinaCymraegDanskDeutschΕλληνικάEmiliàn e rumagnòlEnglishEsperantoEspañolEestiEuskaraفارسیSuomiFrançaisNordfriiskGaeilgeGalegoAvañeẽעבריתहिन्दीHrvatskiMagyarՀայերենInterlinguaBahasa IndonesiaIdoÍslenskaItaliano日本語ქართულიҚазақша한국어KernowekLatinaLadinoLimburgsLietuviųLatviešuMalagasyМакедонскиमराठीBahasa MelayuNederlandsNorsk nynorskNorsk bokmålOccitanИронPolskiPiemontèisپنجابیRuna SimiRomânăРусскийScotsSrpskohrvatski / српскохрватскиSimple EnglishSlovenčinaShqipСрпски / srpskiSvenskaKiswahiliதமிழ்TetunТоҷикӣไทยTürkçeТатарча/tatarçaУкраїнськаاردوOʻzbekcha/ўзбекчаVènetoTiếng ViệtVolapükWinaray吴语Yorùbá中文Bân-lâm-gú粵語
+Editar hiperligações
+Alagoas
+Origem: Wikipédia, a enciclopédia livre.
+Coordenadas: 9.57° S 36.55° O
+Nota: Este artigo é sobre um estado brasileiro. Para outros significados, veja Alagoas (desambiguação).
+Esta página cita fontes, mas estas não cobrem todo o conteúdo. Ajude a inserir referências. Conteúdo não verificável poderá ser removido.—Encontre fontes: Google (notícias, livros e acadêmico) (Setembro de 2020)
+Estado de Alagoas
+Bandeira
+Brasão
+Lema: AD BONUM ET PROSPERITATEM(traduzido do latim, significa: Para o bem e para a prosperidade)
+Hino: Hino de Alagoas
+Gentílico: Alagoano(a)
+Localização
+- Região
+Nordeste
+- Estados limítrofes
+Sergipe, Pernambuco e Bahia
+- Regiões geográficas   intermediárias
+2
+- Regiões geográficas   imediatas
+11
+- Municípios
+102
+Capital
+Maceió -9.66625 -35.7351
+Governo
+- Governador(a)
+Renan Filho (MDB)
+- Deputados federais
+9
+- Deputados estaduais
+27
+- Senadores
+Fernando Collor (PROS)Renan Calheiros (MDB)Rodrigo Cunha (PSDB)
+Área
+- Total
+27 848,140 km² (25º) [1]
+População
+2021
+- Estimativa
+3 365 351 hab. (18º)[2]
+- Densidade
+120,85 hab./km² (4º)
+Economia
+2017[3]
+- PIB
+R$ 52,843 bilhões (20º)
+- PIB per capita
+R$ 15.653,51 (2017) (24º)
+Indicadores
+2010/2017[4][5]
+- Esperança de vida (2017)
+72,0 anos (23º)
+- Mortalidade infantil (2015)
+14,45‰ nasc. (5º)
+- Alfabetização (2016)
+80,6% (27º)
+- IDH (2017)
+0,683 (27º) – médio [6]
+Fuso horário
+UTC -3
+Clima
+Tropical As
+Cód. ISO 3166-2
+BR-AL
+Site governamental
+http://www.governo.al.gov.br/
+Alagoas é uma das 27 unidades federativas do Brasil. Está situado no leste da região Nordeste e tem como limites Pernambuco (N e NO), Sergipe (S), Bahia (SO) e o Oceano Atlântico (L). Ocupa uma área de 27 778,506 km², sendo ligeiramente maior que o Haiti. Sua capital é Maceió e a sede administrativa é o Palácio República dos Palmares. O atual governador é Renan Filho (MDB).
+Inicialmente, o território alagoano constituía a parte sul da Capitania de Pernambuco, só vindo a conquistar sua autonomia em 1817, como punição imposta por D. João VI aos pernambucanos pela chamada Revolução Pernambucana, movimento separatista.[7] Sua ocupação decorreu da expansão para o sul da lavoura de cana-de-açúcar da Capitania de Pernambuco, que necessitava de novas áreas de cultivo. Surgiram, assim, Porto Calvo, Alagoas (atual Marechal Deodoro) e Penedo, núcleos que orientaram, por muito tempo, a colonização e a vida econômica e social da região. A invasão holandesa em Pernambuco estendeu-se a Alagoas em 1631. Os invasores foram expulsos em 1645, depois de intensos combates em Porto Calvo, deixando a economia local totalmente desorganizada. A fuga de escravos negros durante a invasão holandesa criou um sério problema de falta de mão de obra nas plantações de cana. Agrupados em aldeamentos denominados quilombos, os negros só foram dominados completamente no final do século XVII, com a destruição do quilombo mais importante, o de Palmares.
+Durante o Império, a Confederação do Equador (1824) movimento separatista e republicano, recebeu o apoio de destacadas figuras alagoanas. Na década de 1840, a vida política local foi marcada pelo conflito entre os lisos, conservadores, e os cabeludos, liberais. No início do século XX, o sertão alagoano viveu a experiência pioneira de Delmiro Gouveia, empresário cearense que instalou, em Pedra (atualmente, Delmiro Gouveia), a fábrica de linhas Estrela, que chegou a produzir 200 mil carretéis diários. Delmiro Gouveia foi assassinado em outubro de 1917 em circunstâncias até hoje não esclarecidas, depois de ser pressionado, segundo consta, a vender sua fábrica a firmas concorrentes estrangeiras. Depois de sua morte, suas máquinas teriam sido destruídas e atiradas na cachoeira de Paulo Afonso.
+Penúltimo estado brasileiro em área (mais extenso apenas que Sergipe) e 16º em população, é um dos maiores produtores de cana-de-açúcar e coco-da-baía do país e tem na agropecuária a base de sua economia. Terra do sururu, marisco das lagoas que serve de alimento à população do litoral, e da água de coco, Alagoas possui também um dos folclores mais ricos do país. O estado possui um dos menores índice de desenvolvimento humano (IDH) e índice de alfabetização do país, embora tenha se destacando cada vez mais para melhoramento dos índices, como é o caso da mortalidade infantil no estado, saindo do último lugar para o décimo sexto em todo o país, devido a políticas voltadas a saúde dos recém-nascidos no interior de Alagoas. O estado ainda possui o maior índice de evasão escolar.
+Índice
+1 Etimologia
+2 História
+2.1 Descobrimento pelos europeus
+2.2 A guerra holandesa
+2.3 Palmares
+2.4 Criação da comarca
+2.5 Capitania independente
+2.6 República
+2.7 Século XXI
+3 Geografia
+4 Demografia
+4.1 Composição étnica
+4.2 Cidades mais populosas
+4.3 Religiões
+5 Subdivisões
+6 Economia
+7 Infraestrutura
+7.1 Segurança pública
+7.2 Comunicações
+7.3 Transportes
+7.4 Energia elétrica
+8 Cultura
+8.1 Pontos turísticos
+9 Ver também
+10 Referências
+11 Ligações externas
+Etimologia[editar | editar código-fonte]
+O latim lacus, tanque, lago é a fonte, no acervo vocabular primitivo, do português, espanhol e italiano lago[8] e do francês lac;[9] um seu derivado, o latim lacuna, fojo, buraco, falta, carência, omissão, explica o espanhol e italiano laguna.[10][11] O português lagoa,[8] coincidente com a variante espanhola lagona e o mirandês llagona, supõe mudança de sufixo,[12] documentada já em 938 num documento de Valencia, sob a grafia lacona,[8] e noutro de 1094, de Sahagún, sob a grafia lagona.[8] Sob a grafia lagona (talvez lagõna), é documentado no século XIV,[8] tendo alternado com a forma lago por longo tempo. Já a prótese (incorporação do artigo a, formando alagoa) ocorreu sobretudo a partir de locuções (na lagoa, vindo da lagoa)[8] ou por regularização morfológica com os derivados do verbo alagar (alagadiço, alagado, alagador, alagamento etc.).[8] O dicionário Aurélio registra alagoa como uma variação de lagoa.[13]
+A forma alagoa aparece nos nomes concorrentes das lagoas Manguaba e Mundaú (aquela, alagoa do sul, e
+esta, alagoa do norte) já no século XVI, quando se fundam, perto, os núcleos de povoamento de Alagoa do Norte e Alagoa do Sul, chamados as Alagoas, com inclusão dos demais núcleos de povoamento da área.[14]
+O sufixo do gentílico é o característico da área gentílica de -ano do Brasil (paraibano, pernambucano, alagoano, sergipano, baiano, goiano, a que viria juntar-se acriano).[8]
+História[editar | editar código-fonte]
+Ver artigo principal: História de Alagoas
+Descobrimento pelos europeus[editar | editar código-fonte]
+Vista de Penedo, cuja origem data do governo do primeiro donatário da Capitania de Pernambuco, Duarte Coelho.
+Barra Grande deve ter sido o primeiro ponto do território das Alagoas visitado pelos descobridores europeus, por ocasião da viagem de Américo Vespúcio em 1501.[15] Embora não haja referência àquele porto, excelente para a acolhida de navios, como a expedição vinha do norte para o sul, cabe crer que tenha ocorrido ali o primeiro contato com a terra alagoana. A 29 de setembro, Vespúcio assinalou um rio a que chamou São Miguel, no território percorrido;[16] a 4 de outubro denominou São Francisco o rio então descoberto, hoje limite de Alagoas com Sergipe.[17][18]
+Sem sombra de dúvida, nas décadas seguintes, os franceses andaram pela costa alagoana, no tráfico do pau-brasil com os nativos dos arredores. Até hoje, o porto do Francês documenta a presença, ali, daquele povo.[19]
+Duarte Coelho, primeiro donatário da capitania de Pernambuco,[16] realizou uma excursão ao sul; não há documentos que a comprove, mas há evidências de que tenha sido realizada em 1545 e de que dela resulte a fundação de Penedo, às margens do rio São Francisco.[20]
+Em 1556, voltava da Bahia para Portugal o bispo dom Pero Fernandes Sardinha, quando seu navio naufragou defronte da enseada do hoje pontal do Coruripe. Sardinha foi morto e devorado pelos caetés, uma das numerosas tribos indígenas então existentes na região.[21] Perdura a crença popular de que a ira divina secou e esterilizou todo o chão manchado pelo sangue do religioso. Para vingá-lo, Jerônimo de Albuquerque comandou uma expedição guerreira contra os caetés, destruindo-os quase completamente.[22]
+Em 1570, uma segunda bandeira enviada por Duarte Coelho, comandada por Cristóvão Lins, explorou o norte de Alagoas, onde fundou Porto Calvo e cinco engenhos, dos quais subsistem dois, o Buenos Aires e o Escurial.[23] Neste último, repousou, em 1601, o corsário inglês Anthony Knivet, que viajara por terra após fugir da Bahia, onde estivera prisioneiro dos portugueses.[22]
+A guerra holandesa[editar | editar código-fonte]
+Filipe Camarão
+No princípio do século XVII, Penedo, Porto Calvo e Alagoas já eram freguesias,[24] admitindo-se que tais títulos lhes tivessem sido conferidos ainda no século anterior. Foram vilas, porém, em 1636.[24] Repousando a economia regional na atividade açucareira, tornaram-se os engenhos de açúcar os núcleos principais da ocupação da terra.[22] A partir de 1630, Alagoas, atingida pela invasão holandesa,[25] teve povoados, igrejas e engenhos incendiados e saqueados.[22]
+Os portugueses reagiram duramente.[22] Batidos por sucessivos reveses, os holandeses já desanimavam, pensando em retirar-se, quando para eles se passa o mameluco Domingos Fernandes Calabar, de Porto Calvo.[26] Grande conhecedor do terreno, orientou os holandeses em uma nova expedição a Alagoas.[26] Os invasores aportaram à Barra Grande, de onde passaram a vários pontos, sempre com bom êxito.[22] Em Santa Luzia do Norte, a população, prevenida, ofereceu resistência.[27] Após encarniçada peleja, os holandeses recuaram e retornaram a Recife. Mas, caindo em seu poder o arraial do Bom Jesus, entre Recife e Olinda, obtiveram várias vitórias.[22]
+Alagoas, Penedo e Porto Calvo: eis os pontos principais onde se trava a luta em terras alagoanas.[22] Por fim, os portugueses retomaram Porto Calvo e aprisionaram Calabar, que morreu na forca em 1635.[26] Clara Camarão, uma porto-calvense de sangue indígena, também se salientou na luta contra os holandeses.[28] Acompanhou o marido, o índio Filipe Camarão, em quase todos os lances e arregimentou outras mulheres, tomando-lhes a frente.[22]
+Palmares[editar | editar código-fonte]
+Por volta de 1641, afirmava um chefe holandês estar quase despovoada a região.[29] João Maurício de Nassau pensou em repovoá-la,[29] mas o projeto não foi adiante. Na época também se produzia fumo em Alagoas, considerado de excelente qualidade o de Barra Grande.[22] Em 1645, a população participou da reação nacionalista, integrando-se na luta sob o comando de Cristóvão Lins, neto e homônimo do primeiro povoador de Porto Calvo. Expulsos os holandeses do território alagoano, em setembro de 1645,[30] prossegue a população em sua luta contra eles, já agora, todavia, em território pernambucano.[22]
+Em fins do século XVII, intensificam-se as lutas contra os quilombos negros reunidos nos Palmares.[31] Frustradas as primeiras tentativas de Domingos Jorge Velho, sobretudo em 1692,[32] dois anos depois o quilombo é derrotado,[33] com o ataque simultâneo de três colunas: uma, dos paulistas de Domingos Jorge; outra, de pernambucanos, sob o comando de Bernardo Vieira de Melo; e a terceira, de alagoanos, comandados por Sebastião Dias.[22] Palmares começara a formar-se ainda nos fins do século XVI, e resistiu a sucessivos ataques durante quase um século.[34]
+Réplica da sede administrativa do Quilombo dos Palmares, o maior quilombo do período colonial.
+Um dos maiores redutos de escravos foragidos do Brasil colonial,[35] Palmares ocupava, inicialmente, a vasta área que se estendia, coberta de palmeiras, do cabo de Santo Agostinho ao rio São Francisco. A superfície do quilombo, progressivamente reduzida com o passar do tempo, concentrar-se-ia, em fins do século XVII, na ainda extensa região delimitada pelas vilas de Una e Serinhaém, em Pernambuco, e Porto Calvo, Alagoas e São Francisco (Penedo), em Alagoas. Os escravos haviam organizado no reduto um verdadeiro estado, segundo os moldes africanos, com o quilombo constituído de povoações diversas (mocambos), pelo menos 11, governadas por oligarcas, sob a chefia suprema do rei Ganga-Zumba. A partir de 1667, amiudaram-se as entradas contra os negros, a princípio com a finalidade de recapturá-los, em seguida com a de conquistar as terras de que se haviam apoderado.[34]
+As investidas do sargento-mor Manuel Lopes (1675) e de Fernão Carrilho (1677)[36] seriam desastrosas para os quilombolas, obrigados a aceitar a paz em condições desfavoráveis. Apesar desse revés, a luta prosseguiria, liderada por Zumbi, sobrinho de Ganga Zumba, contra cujas hostes aguerridas, em seguida a uma primeira expedição punitiva, em 1679,[22] e a diferentes entradas sem maiores consequências, se voltaria finalmente o bandeirante paulista Domingos Jorge Velho, para tanto contratado pelo governador de Pernambuco, João da Cunha Souto Maior.[37]
+Nos primeiros meses de 1694, aliado a destacamentos alagoanos e pernambucanos, sob o comando, respetivamente, de Sebastião Dias e Bernardo Vieira de Melo, Velho liquidaria a derradeira resistência do quilombo.[38] Zumbi lograria escapar, arregimentando novos combatentes, mas, traído, ver-se-ia envolvido por forças inimigas, com cerca de vinte de seus homens, perecendo em luta, a 20 de novembro de 1695.[39] Desaparecia, após mais de sessenta anos, o quilombo dos Palmares, o maior protesto ao despotismo que uma raça infeliz traçou à face do mundo, no dizer de Craveiro Costa.[40]
+Criação da comarca[editar | editar código-fonte]
+Mapa de Alagoas, c.1903
+Já então apresentavam as Alagoas indícios de prosperidade e desenvolvimento, quer do ponto de vista econômico, quer do cultural. Sua principal riqueza era o açúcar, sendo além disso produzidos, embora em menor escala, mandioca, fumo e milho; couros, peles e pau-brasil eram exportados. As matas abundantes forneciam madeira para a construção de naus. Nos conventos de Penedo e das Alagoas os franciscanos mantinham cursos e publicavam sermões e poesias.[40] Tudo isso justificou o ato régio de 9 de outubro de 1710, criando a comarca das Alagoas,[41] que somente se instalou em 1711.[42] Daí em diante, a organização judiciária restringia o arbítrio feudal dos senhores, e até o dos representantes da metrópole. A comarca desenvolvia-se.[40]
+Já em 1730, o governador de Pernambuco, propondo a el-rei a extinção da decadente capitania da Paraíba, assinalava a prosperidade de Alagoas, com seus quase cinquenta engenhos, dez freguesias, e apreciável renda para o erário real.[43] Ao lado do açúcar, incrementou-se a cultura do algodão. Seu cultivo foi introduzido na década de 1770; em 1778, já se exportavam para Lisboa amostras de algodão tecido nas Alagoas.[40] Em Penedo e Porto Calvo, fabricava-se pano ordinário, para uso, sobretudo, de escravos. Em 1754, frei João de Santa Ângela publicou, em Lisboa, seu livro de sermões e poesias; é a primeira obra de um alagoano.[44] A população crescia, distribuindo-se em várias atividades. Um cômputo demográfico mandado realizar em 1816 pelo ouvidor Antônio Ferreira Batalha registrava uma população de 89 589 pessoas.[40]
+Capitania independente[editar | editar código-fonte]
+D. João VI de Portugal
+Três anos depois, em 1819, novo recenseamento acusou uma população de 111 973 pessoas.[40] Contavam-se, então, na província, oito vilas.[40] Alagoas já se constituíra capitania independente da de Pernambuco, criada pelo alvará de 16 de setembro de 1817.[45] A repercussão da Revolução Pernambucana desse ano contribuiu para facilitar o processo de emancipação. O ouvidor Batalha foi o principal mentor da gente alagoana. Aproveitando-se da situação e infringindo as próprias leis régias, desmembrou a comarca da jurisdição de Pernambuco e nela constituiu um governo provisório. Esses atos foram suficientes para abrir caminhos que levaram D. João a sancionar o desmembramento.[40] Sebastião Francisco de Melo e Póvoas, governador nomeado, só assumiu o governo a 22 de janeiro de 1819.[46]
+Acentuou-se, a partir de então, o surto de prosperidade de Alagoas.[40] Em 17 de agosto de 1831, apareceu o Íris Alagoense, primeiro jornal publicado na província, assim considerada a partir da independência do Brasil e organização do império.[47] É certo que os primeiros anos de independência não foram fáceis. Uma sequência de movimentos abalou a vida provincial: em 1824, a Confederação do Equador; em 1832-1835, a Cabanada; em 1844, a rebelião conhecida como Lisos e Cabeludos; em 1849, a repercussão da revolução praieira.[40]
+República[editar | editar código-fonte]
+O alagoano Deodoro da Fonseca foi o primeiro Presidente da República do Brasil.
+O movimento republicano, intensificado pela abolição, traduziu-se nas atividades da imprensa e clubes de propaganda. O mais importante destes foi o Centro Republicano Federalista, também, de certo, o mais antigo; outros foram o Clube Federal Republicano e o Clube Centro Popular Republicano Maceioense, ambos existentes na capital no momento da proclamação. No interior havia igualmente outros clubes de propaganda. O Gutenberg era o órgão de imprensa mais veemente na difusão da ideia republicana.[18]
+No mesmo dia em que no Rio de Janeiro era proclamada a república, em Maceió assumia a presidência o dr. Pedro Ribeiro Moreira, último delegado do governo imperial para a província. Confirmada a mudança do regime, organizou-se a princípio uma junta governativa, mas a 19 de novembro o marechal Deodoro designou o irmão, Pedro Paulino da Fonseca, para governar o novo estado.[18] Foi ele também o primeiro governador eleito após promulgada a constituição estadual, em 12 de junho de 1891.[48]
+Perturbados e incertos decorreram os primeiros dez anos de vida republicana, na província. Governos se sucediam, nomeados pelo poder central ou eleitos pelo povo, mas quase sempre substituídos ou depostos. Constituíram-se várias juntas governativas, numa ou noutra oportunidade.[18] Somente no fim do século XIX, ou melhor, já nos primeiros anos do século XX, a situação se consolidou com os governos do barão de Traipu e de Euclides Malta, o primeiro da chamada oligarquia Malta, que se prolongou até 1912.[25] Euclides governou de 1900 a 1903; sucedeu-lhe o irmão, Joaquim Paulo, no período de 1903 a 1906; Euclides voltou ao poder de 1906 a 1909, e, reelegendo-se nesse ano, permaneceu por mais um triênio, até 1912.[18]
+Vista de Maceió, 1905. Arquivo Nacional.
+Os 12 primeiros anos do século se assinalaram por lutas partidárias. Contudo, não houve paralisação nas diferentes atividades do estado. Maceió ganhou numerosos prédios públicos, como o palácio do governo, inaugurado a 16 de setembro de 1902, o Teatro Deodoro e o edifício da municipalidade, ainda hoje existentes. Com a atividade pedagógica de Alfredo Rego, procedeu-se à reforma do ensino, atualizando a anterior, ainda dos fins do império, orientada por Manuel Baltasar Pereira Diegues Júnior, criador do Instituto de Professores, posteriormente chamado Pedagogium, iniciativa pioneira na época. Nova remodelação do ensino se fez em 1912-1914, sob a orientação do segundo daqueles educadores. Criou-se o primeiro grupo escolar.[18]
+Em 1912, o Partido Democrata conseguiu derrotar a oligarquia Malta depois de enérgica campanha, em que se registraram ferrenhas lutas de rua, inclusive com a morte do poeta Bráulio Cavalcanti, em praça pública, quando participava de um comício democrático. Clodoaldo da Fonseca, governador eleito, embora não fosse alagoano, ligava-se ao estado através da família: era sobrinho de Deodoro e filho de Pedro Paulino e, assim, parente do marechal Hermes, então presidente da república.[18]
+As lutas contra os Malta envolveram igualmente os grupos do culto afro-brasileiro. Xangôs e candomblés, diziam os jornais da oposição, tinham o governador Malta como estimulador.[18][49] Entre papéis de orações, de panos com símbolos desenhados de Ogum, de Ifá, de Exu, foram encontrados retratos dos chefes democratas da oposição. O grupo que apoiava o governador era chamado de Leba, por alusão a uma das figuras do orixá dos xangôs. O que valeu de tudo isso é que o acervo apreendido pela polícia se preservou — peças, objetos, insígnias e símbolos do culto, conservados no museu do Instituto Histórico como uma das coleções mais preciosas do culto afro-brasileiro.[49]
+Floriano Peixoto, alagoano, foi o segundo Presidente da República do Brasil.
+Até 1930, o Partido Democrata manteve a situação, através dos governadores que sucederam a Clodoaldo. Cada um deles deu uma contribuição para o progresso do estado. Abriram-se estradas de rodagem em direção ao norte e ao centro, e posteriormente o trecho de Atalaia e a Palmeira dos Índios, estrada de penetração para a zona sertaneja; construíram-se grupos escolares em quase todos os municípios; Maceió renovou-se com a abertura de ruas e avenidas; combateu-se a criminalidade, principalmente com o movimento contra o banditismo, que culminaria, em 1938, com o extermínio do grupo de Lampião; promoveram-se pesquisas petrolíferas. As sucessões políticas praticamente se fizeram sem luta, pois quase sempre predominava o candidato único, oriundo do Partido Democrata.[49]
+Com a vitória da revolução de outubro de 1930, também sem luta armada no estado, iniciou-se o sistema de interventores (com breve interrupção entre 1935 e 1937) até 1947, quando a redemocratização do país propiciou a promulgação de uma nova constituição para o estado. O chamado período das interventorias foi igualmente fecundo, malgrado a falta de continuidade nas administrações, quase sempre de curtos períodos. Nesse período, entre outros fatos marcantes destacaram-se os trabalhos de pesquisa do petróleo;[49] a construção do porto de Maceió, inaugurado em 1940;[50] o incremento das atividades econômicas, sobretudo com a diversificação da produção agrícola e a implantação da indústria leiteira em Jacaré dos Homens, constituindo-se a cooperativa de laticínios para a produção de leite, manteiga e queijo; o incremento do ensino rural e a ampliação do cooperativismo. Tal desenvolvimento possibilitou que, no período da segunda guerra mundial, Alagoas contribuísse, de maneira efetiva, para o abastecimento de estados vizinhos, sem prejuízo de sua colaboração para o esforço de guerra. Constituiu-se, com a criação da usina Caeté, a primeira cooperativa de plantadores de cana.[49]
+As atividades intelectuais também se desenvolveram, não apenas com o Instituto Histórico, mas ainda com a criação da Academia Alagoana de Letras, em 1919,[51] e a formação de centros literários de jovens como a Academia dos Dez Unidos, o Cenáculo Alagoano de Letras e o Grêmio Literário Guimarães Passos.[49] Em 1931, fundou-se a Faculdade de Direito,[52] e em 1954 a Faculdade de Ciências Econômicas.[53] Depois essas duas faculdades, e mais as de odontologia, medicina, engenharia e serviço social uniram-se para formar a Universidade Federal de Alagoas.[49]
+As lutas políticas estaduais ganharam força na década de 1950. Quando da tentativa de impeachment do governador Muniz Falcão, em 1957, um tiroteio na assembleia legislativa causou a morte do deputado Humberto Mendes, sogro do governador. E em toda a segunda metade do século XX manteve-se a tensão política, enquanto os ganhos oriundos do sal-gema, do açúcar e do petróleo não beneficiavam a população.[49]
+Em 1979, o ex-governador Arnon de Melo, então senador, conseguiu do governo militar a nomeação de seu filho Fernando Afonso Collor de Melo, para prefeito de Maceió.[54] Em 1988, um acordo entre Collor, já então governador, e as usinas de açúcar e álcool, principais contribuintes do Imposto de Circulação de Mercadorias e Serviços no estado, permitiu que estas reduzissem sua carga tributária.[49] A queda de receita agravou a histórica crise social e econômica do estado e gerou um quadro falimentar que levou o governo federal a uma intervenção não oficial em 1997.[55] Depois de nomeado um novo secretário de Fazenda, o governador Divaldo Suruagy se afastou, cedendo o posto ao vice-governador.[55]
+Século XXI[editar | editar código-fonte]
+Após o escândalo que levou Renan Calheiros a renunciar à presidência do Senado Federal do Brasil, em 2007,[56] seu filho, Renan Filho (PMDB), foi eleito prefeito de Murici, em outubro de 2008.[57] O prefeito Cícero Almeida (PP), foi reeleito com 81,49% dos votos.[58]
+Em setembro de 2008, o presidente da Assembleia Legislativa de Alagoas, Antonio Albuquerque (PT do B), foi destituído do cargo.[59] Ele foi o principal suspeito do desvio de R$ 280 milhões do poder legislativo, investigado na Operação Taturana.[60] Catorze deputados foram indiciados.[61] O deputado Fernando Toledo (PSDB) assumiu a presidência da Casa.[62] Em julho de 2009, o presidente do Supremo Tribunal Federal, ministro Gilmar Mendes, determinou que oito dos 14 deputados retornassem à Assembleia, entre eles Antonio Albuquerque.[63]
+Em outubro de 2006, Teotônio Vilela (PSDB) foi eleito governador do estado, sendo reeleito, em outubro de 2010, com 52,74% dos votos, em segundo turno, contra o seu adversário, o candidato Ronaldo Lessa (PDT), que ficou com 47,26%.[64]
+Geografia[editar | editar código-fonte]
+Praia de carro quebrado
+Cânion de Xingó, no Rio São Francisco
+Praia do gunga
+Alagoas segundo a classificação climática de Köppen-Geiger
+Cerca de 86% do território alagoano se encontra abaixo de 300 m de altitude,[65] e 61% abaixo de 200 m.[66] Apenas um por cento fica acima de 600 m.[65] Cinco unidades compõem o quadro morfológico:[65]
+a baixada litorânea,[65] com extensos areais (praias e restingas) dominados por elevações de topo plano (tabuleiros areníticos);[67]
+uma faixa de colinas e morros argilosos,[65] imediatamente a oeste, com solos espessos e relativamente ricos;
+o pediplano,[65] ocupando todo o interior,[68] com solos ricos,[68] porém rasos, e uma topografia levemente ondulada,[68] da qual despontam as serras de Mata Grande e Água Branca,[68] no extremo oeste do estado;[68]
+a encosta meridional do planalto da Borborema,[65] no centro-norte, parte mais elevada de Alagoas;[68]
+e planícies aluviais (várzeas), ao longo dos rios,[68] inclusive o delta e a várzea do baixo São Francisco (margem esquerda), com solos anualmente renovados por cheias periódicas.[68]
+A rede hidrográfica do estado é constituída por rios que correm diretamente para o oceano Atlântico[65] (como, por exemplo, o Camaragibe,[68] o Mundaú,[65] o Paraíba do Meio[65] e o Coruripe) e por rios que deságuam no São Francisco (como o Marituba,[69] o Traipu,[69] o Ipanema,[69] o Capiá[69] e o Moxotó).[69]
+Três tipos de cobertura vegetal,[69] em grande medida modificados pela ação do homem,[69] revestiam o território alagoano: a floresta tropical na porção úmida do estado (microrregião da mata alagoana);[65] o agreste, vegetação de transição para um clima mais seco, no centro;[69] e a caatinga, no oeste.[65] Toda a metade oriental do estado possui clima do tipo As, de Köppen,[68] quente (médias anuais superiores a 24 °C),[65] com chuvas de outono-inverno relativamente abundantes (mais de 1 400 milímetros).[65] No interior dominam condições semiáridas,[65] clima BSh,[65] caindo a pluviosidade abaixo de 1 000 milímetros;[69] essa região está incluída no chamado Polígono das Secas.[69] As estações do ano são perfeitamente definidas pela periodicidade das chuvas.[69] O verão tem início em setembro e termina em fevereiro e o inverno começa aproximadamente em março,[69] terminando em agosto.[69] A temperatura não sofre grandes oscilações, variando, no litoral,[69] entre 22,5 e 28 °C,[69] e no sertão,[69] entre 17 e 33 °C.[69]
+O estado encontra-se com 44,36% de seu território dentro do polígono das secas, segundo dados da Organização das Nações Unidas para Agricultura e Alimentação (FAO).[70] O relevo alagoano sofreu ao longo do tempo variações de suas interpretações, algumas foram feitas com base em estudos de campo (visita as áreas retratadas), outra com base em instrumentos modernos (fotografia, imagem de satélite).
+Considerado nos traços gerais, este relevo tem aspectos particulares no conjunto de suas formas variadas, podendo ser dividido em: planalto, planície (baixada litorânea e tabuleiros costeiros) e depressões (nelas ocorrem formações mamelonares). O Litoral (Planície Litorânea) é formado por uma extensa baixada. A paisagem apresenta dunas e mangues na foz dos rios e riachos. Nessa faixa de terra encontram-se também as lagoas costeiras. A região dos Tabuleiros é muito ondulada, pouco elevada, e se estende para o interior. A cidade de Maceió encontra-se na base desses tabuleiros. Enquanto a região litorânea é cortada por pequenos rios que deságuam no mar ou no rio São Francisco, o interior do estado apresenta áreas mais elevadas, onde se destaca o planalto do Borborema, que se estende do Agreste até o Sertão.
+Demografia[editar | editar código-fonte]
+Crescimento populacional
+Censo
+Pop.
+%±
+1872348 0091890511 44047,0%1900649 27326,9%1920978 74850,7%1940951 300−2,8%19501 093 13714,9%19601 258 10715,1%19701 588 10926,2%19801 982 59124,8%19912 512 99126,8%20002 819 17212,2%20103 120 92210,7%Est. 20213 365 351[2]7,8%Fonte: IBGE[71][72]
+As pessoas na faixa etária de 0 a 14 anos representam 40,3% do total da população; os habitantes na faixa etária de 15 a 59 anos respondem por 53,3% do total e aqueles de 60 anos ou mais representam apenas 6,4% da população. Um total de 58,3% da população vive nas zonas urbanas, enquanto 41,7% encontram-se na zona rural. A população de mulheres corresponde a 51,2% do total de habitantes e os homens somam 48,8%. O índice de mortalidade do Estado é de 6,2 por mil habitantes e a taxa de mortalidade infantil em 2017 foi de 13,40 para cada mil crianças nascidas vivas.[73]
+Alagoas apresenta o IDH de 0,683 em relação ao ano de 2017.[74]. As cidades litorâneas e Zona da Mata do estado apresentam em geral IDH maior que as localizadas no Agreste e no Sertão Alagoano. A capital Maceió possui o maior IDH (0,735), enquanto o menor é de Inhapi (0,484), no Alto Sertão.[75]
+Composição étnica[editar | editar código-fonte]
+De acordo com ados obtidos por meio de autodeclaração pela Pesquisa Nacional por Amostra de Domicílios, 36% da população alagoana é formada por brancos, 59% por pardos e 3% por negros.
+A população branca do estado é descendente em sua grande parte de portugueses. Os pardos são compostos da mistura entre negros, índios e brancos.
+Os autodeclarados negros perfazem o menor grupo étnico alagoano. De acordo com um estudo genético de 2013, a composição genética da população de Alagoas é 54,7% europeia, 26,6% africana e 18,7% ameríndia.[76]
+Os índios não apareceram na pesquisa, embora haja presença indígena no interior do estado. Os principais povos indígenas do estado são: aconã, carapotó, kariri-xocó, caruazu, catokinn, jeripancó, kalankó, koiupanká, tingui-botó, uassu-cocal e xukuru-kariri
+Cidades mais populosas[editar | editar código-fonte]
+verdiscutireditar Municípios mais populosos de Alagoas
+(estimativa 2019 do Instituto Brasileiro de Geografia e Estatística)[77]
+MaceióArapiraca
+Posição
+Localidade
+Região intermediária
+Pop.
+Posição
+Localidade
+Região intermediária
+Pop.
+1
+Maceió
+Maceió
+1 018 948
+11
+Marechal Deodoro
+Maceió
+51 901
+2
+Arapiraca
+Arapiraca
+231 747
+12
+Santana do Ipanema
+Arapiraca
+47 654
+3
+Rio Largo
+Maceió
+75 120
+13
+Atalaia
+Maceió
+47 185
+4
+Palmeira dos Índios
+Arapiraca
+73 218
+14
+Teotônio Vilela
+Maceió
+44 169
+5
+União dos Palmares
+Maceió
+65 611
+15
+Girau do Ponciano
+Arapiraca
+40 917
+6
+Penedo
+Maceió
+63 683
+16
+Pilar
+Maceió
+35 111
+7
+São Miguel dos Campos
+Maceió
+61 251
+17
+São Luís do Quitunde
+Maceió
+34 555
+8
+Campo Alegre
+Maceió
+57 063
+18
+São Sebastião
+Arapiraca
+34 152
+9
+Coruripe
+Maceió
+56 933
+19
+Maragogi
+Maceió
+32 704
+10
+Delmiro Gouveia
+Arapiraca
+52 016
+20
+São José da Tapera
+Arapiraca
+32 260
+Religiões[editar | editar código-fonte]
+Estado
+Católicos (%)
+Evangélicos/Protestantes (%)
+Espíritas (%)
+Afro-brasileira (%)
+Outras (%)
+Sem Religião (%)
+Religiões asiáticas (%)
+Alagoas
+72,2%
+15,9%
+0,5%
+0,1%
+1,5%
+9,7%
+0,1%
+Além disso, o Estado possui 13.454 Testemunhas de Jeová no Estado, 0,43% da população.
+Fonte: IBGE, Censo 2010.[78]
+Subdivisões[editar | editar código-fonte]
+Ver também: Lista de regiões geográficas intermediárias e imediatas de Alagoas e Lista de municípios de Alagoas
+Divisão das regiões intermediárias em vermelho e das imediatas em cinza em Alagoas.
+Região geográfica intermediária é, no Brasil, um agrupamento de regiões geográficas imediatas que são articuladas através da influência de uma ou mais metrópoles, capitais regionais e/ou centros urbanos representativos dentro do conjunto, mediante a análise do Instituto Brasileiro de Geografia e Estatística (IBGE).[79]
+As regiões geográficas intermediárias foram apresentadas em 2017, com a atualização da divisão regional do Brasil, e correspondem a uma revisão das antigas mesorregiões, que estavam em vigor desde a divisão de 1989. As regiões geográficas imediatas, por sua vez, substituíram as microrregiões. A divisão de 2017 teve o objetivo de abranger as transformações relativas à rede urbana e sua hierarquia ocorridas desde as divisões passadas, devendo ser usada para ações de planejamento e gestão de políticas públicas e para a divulgação de estatísticas e estudos do IBGE.[79] Alagoas está dividida oficialmente em duas regiões geográficas intermediárias: a Região Geográfica Intermediária de Maceió e a Região Geográfica Intermediária de Arapiraca.
+Economia[editar | editar código-fonte]
+Praia do gunga
+Galés de Maragogi.
+Entre os principais produtos agrícolas cultivados no Estado, encontram-se o abacaxi, o coco, a cana-de-açúcar, o feijão, o fumo, a mandioca, o algodão,o arroz e o milho. O estado Alagoas é o maior produtor de cana-de-açúcar do nordeste e um dos maiores produtores de açúcar do mundo, A Rússia é seu maior comprador, 75% do açúcar consumido na Rússia é alagoano. Na pecuária, destacam-se as criações de aves, equinos, bovinos, bubalinos, caprinos, ovinos e suínos. Existem, também, no estado, reservas minerais de sal-gema. Alagoas é o maior produtor de gás natural do Brasil ALGÁS, além do petróleo já mencionado.
+Alagoas tinha em 2018 um PIB industrial de R$ 5,9 bilhões, equivalente a 0,4% da indústria nacional e empregando 92.723 trabalhadores na indústria. Os principais setores industriais são: Construção (34,2%), Alimentos (24,9%), Serviços Industriais de Utilidade Pública, como Energia Elétrica e Água (22,6%), Químicos (8,1%) e Bebidas (3,3%). Estes 5 setores concentram 93,1% da indústria do estado. [80]
+A atividade industrial tem, como subsetores predominantes, o químico, a produção de açúcar e álcool, de cimento, e o processamento de alimentos. Ultimamente tem crescido bastante a instalação de novas indústrias em Alagoas (em apenas 1 ano chegaram 12). Atualmente, as empresas que se instalam em Alagoas estão em um franco desenvolvimento, caracterizando um estado sólido para investimento na região Nordeste. Em Alagoas é possível observar um aumento da diversividade industrial, embarcações, PVC, etanol de segunda geração, alimentícia, Borracha, plástico e entre outros são responsáveis pelo crescimento industrial alagoano. A participação da indústria da cultura canavieira na economia do estado atinge 45 por cento. As outras atividades que possuem contribuição significativa são o turismo, com 23%, a indústria alimentícia, com 20% e a de química e mineração, com 12%.
+Nos últimos anos, Alagoas se destaca por ser um dos estados mais procurados no Brasil pelos turistas, inclusive estrangeiros vindos sobretudo da Itália, Inglaterra, Estados Unidos, Alemanha e Argentina. O turismo tem crescido nas praias do estado com a chegada de brasileiros e também de estrangeiros, graças a melhorias no aeroporto de Maceió e na infraestrutura hoteleira. O litoral norte, especialmente Maragogi e Japaratinga tem recebido nos últimos anos grandes empreendimentos de resorts. Segundo a maior companhia de viagens da América Latina CVC, Maceió é a terceira capital mais procurada do Brasil.
+O estado do Alagoas tem uma pauta de exportação bastante concentrada tendo, em 2012, negociado com o exterior, principalmente açúcar in natura (91,45%) e álcool etílico (7,47%).[81]
+Infraestrutura[editar | editar código-fonte]
+Segurança pública[editar | editar código-fonte]
+Segundo os dados de 2018, Alagoas ocupa a oitava posição no ranking dos estados mais violentos do país,[82] já tendo sido o primeiro colocado desse ranking no ano de 2011.
+Comunicações[editar | editar código-fonte]
+O estado de Alagoas possui 3 410 693 de linhas de telefonia móvel ativas e 244 625 de linhas de telefones fixos.[83] Todas as linhas do estado possuem apenas um código de área que é o 82.[84]
+Transportes[editar | editar código-fonte]
+VLT de Maceió
+O Aeroporto Internacional Zumbi dos Palmares está localizado na Região Metropolitana de Maceió, entre a capital e a cidade de Rio Largo e é um dos maiores (tamanho do terminal de passageiros) aeroportos do Nordeste.
+Foi o desenvolvimento econômico e comercial do Porto de Jaraguá, próximo às margens da lagoa Mundaú, chamada maçaio, que fez surgir uma grande povoação que recebeu o nome de Maceió. O Porto de Jaraguá é considerado um porto natural que facilita o atracamento de embarcações, por onde os produtos mais exportados na época da colonização foram açúcar, fumo, coco e especiarias. E, hoje, o porto de Maceió é o 3º principal porto do nordeste, e o 8º do Brasil. Planos do Governo federal pretendem ampliar o espaço para navios cargueiros e os cruzeiros que sempre atracam na cidade.
+Números divulgados em 2018, revela que, em média, o estado do Alagoas possuí 342 194 automóveis, de um total de 6 624 227 de veículos no Nordeste.[carece de fontes?]
+Energia elétrica[editar | editar código-fonte]
+Usina Hidrelétrica de Xingó
+A Usina Hidrelétrica de Xingó está localizada entre os estados de Alagoas e Sergipe, situando-se a 12 quilômetros do município de Piranhas e a 6 quilômetros do município de Canindé de São Francisco.
+A Usina de Xingó está instalada no São Francisco, principal rio da região nordestina, com área de drenagem de 609 386 km², bacia hidrográfica da ordem de 630 mil km², com extensão de 3,2 mil km, desde sua nascente, na Serra da Canastra, em Minas Gerais, até sua foz, em Piaçabuçu/AL e Brejo Grande/SE.
+A posição da usina, com relação ao São Francisco, é de cerca de 65 km à jusante do Complexo de Paulo Afonso, constituindo-se o seu reservatório, face as condições naturais de localização, num canyon, uma fonte de turismo na região, através da navegação no trecho entre Paulo Afonso e Xingó, além de prestar-se ao desenvolvimento de projetos de irrigação e ao abastecimento d’água para a cidade de Canindé/SE.
+Cultura[editar | editar código-fonte]
+Pontos turísticos[editar | editar código-fonte]
+Cidade histórica de Piranhas
+Cânion do Rio São Francisco
+Os destinos mais procurados atualmente são: Maceió, Maragogi, Japaratinga, Barra de São Miguel, Piaçabuçu, Marechal Deodoro, Piranhas e Penedo esse último tem um grande potencial turístico e histórico. Além dos festejos de Bom Jesus dos Navegantes que começam de 8 a 15 janeiro com balsas que atravessam desde Alagoas até Sergipe e voltam a Penedo, depois em terra começam os fogos sinalizando a chegada das embarcações e assim as festas com os shows de bandas musicais.
+Outros pontos visados pelos turistas são as praias do estado. Dentre as mais procuradas estão: Praia de Pajuçara, Praia de Ipioca, Praia da Sereia e Praia de Cruz das Almas, todas em Maceió. Além disso, um dos destinos mais procurados na cidade são: Mercado do Artesanato, Museu Pierre Chalita, Museu Théo Brandão de Antropologia e Folclore e Museu do Esporte.[85]
+Outros locais procurados pelos turistas incluem: Passeio às Galés, em Maragogi, Igreja de Nossa Senhora do Livramento, Ecopark, Foz do Rio São Francisco, Mirante da Praia do Gunga, Museu da Imagem e do Som, Catedral Metropolitana, Teatro Deodoro e Mirante, ambos em Maceió.[86][87][88]
+Outras cidades que recebem intensa movimentação turística são: Cajueiro, Quebrangulo, Santana do Ipanema, Santana do Mundaú, São Miguel dos Campos, Satuba, Taquarana, União dos Palmares, Viçosa, Paripueira, Boca da Mata, Barra de Santo Antônio, Branquinha, Capela, Lagoa da Canoa, Delmiro Gouveia, Olivença, Olho dÁgua das Flores, Murici, Maravilha e Coruripe. Todas elas atraem turistas de várias partes do mundo e fazendo sua economia alavancar, sendo esse setor o que mais emprega e gera renda para diversas cidades do estado.
+Maragogi é uma das cidades mas conhecidas de Alagoas, distante 131 km de Maceió, com uma população de 25 mil habitantes, é o segundo destino mais procurado de Alagoas. Devido ao rio que banha o local, Maragogi que significa “rio livre” deu nome ao povoado em 1892. A excelente infraestrutura turística, vários hotéis, pousadas, hotéis fazenda, restaurantes, centros de artesanato e várias opções de lazer agregam a qualidade dos serviços do município.
+Praia do Toque em noite de lua cheia, Alagoas, Brasil.
+Cenários como vilas de pescadores, fazendas com reservas e trilhas de mata atlântica, abundância de coqueirais, praias belíssimas de águas cristalinas, como as praias de São Bento, Peroba, Burgalhau, Barra Grande, além das galés formadas por recifes de corais a 6 km da costa, são algumas das riquezas naturais do município.
+Maragogi tem um dos ecossistemas mais importantes do Brasil, a diversificada fauna e flora de espécies marinhas são locais ideais
+para mergulhos. Navegar pelos rios onde se encontra os preservados manguezais, praias, praticar esportes, tomar banhos de bicas, cachoeiras, todas essas cidades tem um contato com a natureza. Alagoas é conhecida por paraíso das águas justamente devido os ricos aquíferos no estado, bem como cachoeiras, rios, mar, lagoas. Algumas praias são geralmente comparadas às do Caribe.
+Ver também[editar | editar código-fonte]
+Municípios de Alagoas
+Ordem alfabética
+Área territorial
+Área urbanizada
+Lista de municípios de Alagoas por população
+Biografias de alagoanos notórios, separados por município de nascimento
+Governadores de Alagoas
+Referências
+↑ Instituto Brasileiro de Geografia e Estatística (IBGE). «Área Territorial Oficial - Consulta por Unidade da Federação». Consultado em 29 de agosto de 2021
+↑ a b IBGE, IBGE (27 de agosto de 2021). «Estimativas da população residente no Brasil e Unidades da Federação com data de referência em 1º de julho de 2021» (PDF). ibge.gov.br. Consultado em 28 de agosto de 2021
+↑ «Contas Regionais 2017». IBGE. Consultado em 16 de novembro de 2019
+↑ «Tábua completa de mortalidade para o Brasil – 2015» (PDF). IBGE. Consultado em 2 de dezembro de 2016
+↑ «Sinopse do Censo Demográfico 2010». IBGE. Consultado em 2 de dezembro de 2016
+↑ IPEA -Instituto de Pesquisa Econômica Aplicada. «Evolução do IDHM e de Seus Índices Componentes no período de 2012 a 2017» (PDF). Consultado em 18 de abril de 2019
+↑ «Revolução Pernambucana de 1817». InfoEscola. Consultado em 21 de junho de 2015
+↑ a b c d e f g h ANDRADE, Fernando Moretzsohn de; GUIMARÃES, André Passos. ALAGOAS. In: Enciclopédia Mirador Internacional. São Paulo: Encyclopædia Britannica do Brasil Publicações, 1993. v. 2, p. 258.
+↑ «Verbete Lac». Linternaute.com. Consultado em 24 de setembro de 2010
+↑ «Verbete Laguna». Diccionario de la Lengua Española. Consultado em 2 de outubro de 2010
+↑ «Verbete Laguna». Dizionario Italiano. Consultado em 2 de outubro de 2010
+↑ «Verbete Lhagona». Dicionário da Língua Mirandesa. Consultado em 2 de outubro de 2010
+↑ FERREIRA, A. B. H. Novo dicionário da língua portuguesa. 2ª edição. Rio de Janeiro. Nova Fronteira. 1986. p. 1 003.
+↑ «Por que Alagoas?». Site Oficial do Gabinete Civil do Estado de Alagoas. Consultado em 2 de outubro de 2010. Arquivado do original em 2 de Agosto de 2012
+↑ Biblioteca do IBGE. «História da Cidade da Barra de São Miguel». Instituto Brasileiro de Geografia e Estatística. Consultado em 3 de novembro de 2011
+↑ a b «Alagoas: História». Nova Enciclopédia Barsa volume 1 ed. São Paulo: Encyclopædia Britannica do Brasil Publicações Ltda. 1998. p. 176
+↑ «História do Rio São Francisco». Rota Brasil Oeste. 1 de novembro de 2001. Consultado em 2 de outubro de 2010
+↑ a b c d e f g h «Alagoas: História». Nova Enciclopédia Barsa volume 1 ed. São Paulo: Encyclopædia Britannica do Brasil Publicações Ltda. 1998. p. 179
+↑ «História da Praia do Francês». Guia Praia do Francês. Consultado em 3 de novembro de 2011
+↑ «História de Penedo». Visite o Brasil. Consultado em 2 de outubro de 2010. Arquivado do original em 27 de Maio de 2011
+↑ «Dom Pero Fernandes Sardinha». Só Biografias. Consultado em 2 de outubro de 2010. Arquivado do original em 6 de Julho de 2011
+↑ a b c d e f g h i j k l m «Alagoas: História». Nova Enciclopédia Barsa volume 1 ed. São Paulo: Encyclopædia Britannica do Brasil Publicações Ltda. 1998. p. 177
+↑ FATORELLI, Carlos (25 de Março de 2010). «OS TERRATENENTES DO BRASIL (18): Termos Pejorativos Usados para Designar os Povos da América». Blog do Historiador. Consultado em 2 de outubro de 2010
+↑ a b FRIGOLETTO DE MENEZES, Eduardo. «Evolução dos Municípios de Alagoas». Site Oficial do Autor. Consultado em 2 de outubro de 2010
+↑ a b PIMENTEL, Jair Barbosa. «A História de Alagoas». Mais Alagoas UOL. Consultado em 2 de outubro de 2010
+↑ a b c SILVA, Vilsemar. «FERNANDES CALABAR TRAIDOR OU HERÓI? O SURGIMENTO DE UMA NOVA VISÃO DE UMANTIGO HABITANTE DA COLÔNIA PORTUGUESA NA AMÉRICA DO SUL». Scribd. Consultado em 3 de novembro de 2011
+↑ «História da Cidade de Santa Luzia do Norte». Municípios Alagoanos. Consultado em 2 de outubro de 2010. Arquivado do original em 6 de Julho de 2011
+↑ «Refinaria do RN se chamará Clara Camarão». NoMinuto.com. 10 de setembro de 2008. Consultado em 2 de outubro de 2010
+↑ a b DIÉGUES JÚNIOR, Manuel (2006). «O banguê nas Alagoas: traços da influência do sistema econômico do engenho». Universidade Federal de Alagoas. Consultado em 9 de outubro de 2010
+↑ Prefeitura Municipal de Porto Calvo. «História de Porto Calvo». Site Oficial do Município de Porto Calvo. Consultado em 9 de outubro de 2010. Arquivado do original em 6 de Julho de 2011
+↑ «Quilombos». Sua pesquisa.com. Consultado em 9 de outubro de 2010
+↑ VILELA, Túlio. «Quilombo dos Palmares». UOL Educação. Consultado em 9 de outubro de 2010
+↑ «Cronologia da História do Brasil». Ache Tudo e Região. 27 de junho de 2010. Consultado em 10 de outubro de 2010
+↑ a b «Quilombo dos Palmares». Memorial Pernambuco. Consultado em 9 de outubro de 2010. Arquivado do original em 9 de Março de 2009
+↑ «A Abolição». VivaBrasil.com. Consultado em 9 de outubro de 2010
+↑ «Linha do Tempo - Século 17». Portal Vermelho. Consultado em 9 de outubro de 2010
+↑ ORLANDINI, Ricardo. «O Bandeirante Domingos Jorge Velho é contratado pelo governo colonial, para destruir o Quilombo dos Palmares». Site Oficial do Autor. Consultado em 9 de outubro de 2010
+↑ «Guerra dos Palmares». Info Escola. Consultado em 9 de outubro de 2010
+↑ SILVA, Fernando Correia da. «Biografia de Zumbi dos Palmares». Vidas Lusófonas. Consultado em 9 de outubro de 2010. Arquivado do original em 11 de junho de 2010
+↑ a b c d e f g h i j «Alagoas: História». Nova Enciclopédia Barsa volume 1 ed. São Paulo: Encyclopædia Britannica do Brasil Publicações Ltda. 1998. p. 178
+↑ «Eventos do ano de 1710». Ponteiro.com.br. Consultado em 9 de outubro de 2010
+↑ «A Criação da Comarca». Destino Maceió. Consultado em 9 de outubro de 2010. Arquivado do original em 6 de Julho de 2011
+↑ MENEZES, Mozart Vergetti (2005). Colonialismo em ação: Fiscalismo, Economia e Sociedade na Capitania da Paraíba. São Paulo: Universidade de São Paulo. 122 páginas
+↑ «Prêmio: Frei João de Santa Ângela Alagoas». 16º Concurso Nacional de Poesias. Consultado em 9 de outubro de 2010. Arquivado do original em 13 de dezembro de 2013
+↑ Prefeitura Municipal (2011). «Origem». Site Oficial do Município de Marechal Deodoro. Consultado em 19 de março de 2011. Arquivado do original em 20 de janeiro de 2011
+↑ «8 de outubro: Dia do Nordestino». Cá Estamos Nós. Consultado em 9 de outubro de 2010
+↑ SODRÉ, Nelson Werneck (1998). «História da imprensa no Brasil». Mauad Editora. Consultado em 9 de outubro de 2010
+↑ «Lista de Governadores de Alagoas». Mais Alagoas UOL. Consultado em 10 de outubro de 2010
+↑ a b c d e f g h i «Alagoas: História». Nova Enciclopédia Barsa volume 1 ed. São Paulo: Encyclopædia Britannica do Brasil Publicações Ltda. 1998. p. 180
+↑ Administração do Porto de Maceió (2011). «História do Porto». Administração do Porto de Maceió. Consultado em 6 de novembro de 2011. Arquivado do original em 24 de outubro de 2011
+↑ «Site Oficial da Academia Alagoana de Letras». Consultado em 10 de outubro de 2010
+↑ Elaine Pimentel (15 de junho de 2011). «A Faculdade de Direito de Alagoas». Universidade Federal de Alagoas. Consultado em 6 de novembro de 2011
+↑ «FACULDADE DE CIÊNCIAS ECONOMICAS DE ALAGOAS». ABC das Alagoas. 2011. Consultado em 6 de novembro de 2011. Arquivado do original em 2 de Novembro de 2011
+↑ MENDES, Edja Jordan (17 de agosto de 2010). «Hereditariedade política e econômica». Observatório da Imprensa. Consultado em 25 de outubro de 2010. Arquivado do original em 19 de Agosto de 2010
+↑ a b «Em 97, greve de policiais provocou renúncia de Suruagy». Folha de S. Paulo. 19 de julho de 2007. Consultado em 6 de novembro de 2011
+↑ Redação (4 de dezembro de 2007). «Renan Calheiros renuncia ao cargo de presidente do Senado». UOL Notícias. Consultado em 6 de novembro de 2011
+↑ Valderi Melo (6 de outubro de 2011). «Renan Filho é reeleito em Murici». Alagoas 24 Horas. Consultado em 6 de novembro de 2011
+↑ «Cícero Almeida ganha com 81,49 % dos votos». O Estado de S. Paulo. 6 de outubro de 2008. Consultado em 6 de novembro de 2011
+↑ FREIRE, Sílvia (17 de setembro de 2008). «Presidente da Assembleia de Alagoas é destituído do cargo». Folha de S. Paulo. Consultado em 6 de novembro de 2011
+↑ OLIVEIRA, Deh (4 de julho de 2008). «Justiça afasta mais dois deputados de Alagoas indiciados na Operação Taturana». Folha Online. Consultado em 6 de novembro de 2011
+↑ PC do B (10 de fevereiro de 2009). «Ministério Público pede prisão de deputados alagoanos». Partido Comunista do Brasil. Consultado em 6 de novembro de 2011
+↑ «Fernando Toledo é eleito presidente da Assembleia de Alagoas». Alagoas Notícias. Consultado em 6 de novembro de 2011. Arquivado do original em 30 de Junho de 2015
+↑ MADEIRO, Carlos (13 de julho de 2009). «STF determina retorno de 8 deputados de Alagoas afastados por suspeita de corrupção». UOL Notícias Política. Consultado em 6 de novembro de 2011
+↑ Eleições 2010 (31 de outubro de 2010). «Teotônio Vilela bate ex-governadores e é reeleito em Alagoas». Terra Notícias. Consultado em 6 de novembro de 2011. Arquivado do original em 15 de Dezembro de 2012
+↑ a b c d e f g h i j k l m n o p FREITAS, Eduardo de. «Aspectos naturais do Estado de Alagoas». Brasil Escola. Consultado em 24 de setembro de 2010
+↑ «Alagoas: Quadro Natural». Brasil Channel. Consultado em 24 de setembro de 2010
+↑ «Ecossistema de Restinga». Site Oficial da Universidade Federal de Alagoas. Consultado em 24 de setembro de 2010. Arquivado do original em 9 de março de 2010
+↑ a b c d e f g h i j «Alagoas: Geografia». Nova Enciclopédia Barsa volume 1 ed. São Paulo: Encyclopædia Britannica do Brasil Publicações Ltda. 1998. p. 174
+↑ a b c d e f g h i j k l m n o p q «Alagoas: Geografia». Nova Enciclopédia Barsa volume 1 ed. São Paulo: Encyclopædia Britannica do Brasil Publicações Ltda. 1998. p. 175
+↑ Organização das Nações Unidas para Agricultura e Alimentação - FAO
+↑ «IBGE»
+↑ «Cópia arquivada». Consultado em 31 de maio de 2019. Arquivado do original em 5 de outubro de 2013
+↑ «Alagoas reduz mortalidade infantil em 2016, diz Ministério da Saúde». G1. Consultado em 22 de março de 2016
+↑ IPEA -Instituto de Pesquisa Econômica Aplicada. «Evolução do IDHM e de Seus Índices Componentes no período de 2012 a 2017» (PDF). Consultado em 18 de abril de 2019
+↑ «Ranking IDHM Unidades da Federação 2010». Atlas de Desenvolvimento Humano no Brasil. Consultado em 22 de março de 2016
+↑ [1]
+↑ «Panorama do estado de Alagoas». Instituto Brasileiro de Geografia e Estatística (IBGE). Consultado em 9 de maio de 2020
+↑ [2]
+↑ a b Instituto Brasileiro de Geografia e Estatística (IBGE) (2017). «Divisão Regional do Brasil». Consultado em 17 de agosto de 2017. Cópia arquivada em 17 de agosto de 2017
+↑ Perfil da Indústria de Alagoas
+↑ «Exportações de Alagoas (2012)». Plataforma DataViva. Consultado em 13 de janeiro de 2014. Arquivado do original em 16 de Janeiro de 2014
+↑ G1
+↑ «Quantidade de linhas telefônicas em Alagoas (2016)». Anatel. Consultado em 25 de janeiro de 2016
+↑ «Códigos DDD do estado de Alagoas». Códigos DDD. Consultado em 25 de janeiro de 2016
+↑ Brasil escola. «Pontos Turísticos de Maceió». Consultado em 17 de janeiro de 2013. Arquivado do original em 21 de outubro de 2013
+↑ QYPE. «Pontos Turísticos em Alagoas». Consultado em 17 de janeiro de 2013
+↑ Férias Brasil. «DICAS DE PONTOS TURÍSTICOS». Consultado em 17 de janeiro de 2013
+↑ Suapesquisa.com (Estados brasileiros). «Estado de Alagoas». Consultado em 13 de janeiro de 2013
+Ligações externas[editar | editar código-fonte]
+O Commons possui uma categoria com imagens e outros ficheiros sobre
+Alagoas
+O Wikivoyage possui o guia Alagoas
+Governo do estado de Alagoas
+Tribunal de Justiça do Estado do Alagoas
+vde Alagoas Portal — Geografia, História, Política, Cultura — ImagensCapitalMaceióDivisão regional vigente (desde 2017)Regiões geográficas intermediárias e imediatasDivisão regional extinta (vigente até 2017)Mesorregiões e microrregiõesRegiões Metropolitanase RIDEsAgreste • Caetés • Maceió • Médio Sertão • Palmeira dos Índios • São Francisco • Sertão • Vale do Paraíba • Zona da MataCidades com mais de50.000 habitantesArapiraca Palmeira dos Índios • Rio Largo • União dos Palmares• Penedo • São Miguel dos Campos • Coruripe •
+Atalaia • Delmiro GouveiaLista de municípios de Alagoas por população
+vdeRegião Nordeste do BrasilEstados
+Alagoas
+Bahia
+Ceará
+Maranhão
+Paraíba
+Pernambuco
+Piauí
+Rio Grande do Norte
+Sergipe
+História
+Invasões holandesas
+Guerra dos Bárbaros
+Guerra Luso-Holandesa
+Insurreição do Crato
+Confederação do Equador
+Sedição de Juazeiro
+Imigração italiana
+Litígio de limites entre Ceará e Piauí
+Geografia
+Municípios por área
+Seca
+Hidrovia do São Francisco
+Bacia do rio São Francisco
+Sub-regiões
+Agreste
+Meio-Norte
+Sertão
+Zona da Mata
+Outras áreas específicas
+Nordeste Oriental
+Polígono das secas
+Seridó
+Vale do São Francisco
+Economia
+Aeroportos
+Municípios mais ricos
+Infraestrutura
+Região geoeconômica
+Turismo
+Outros tópicos
+Cultura
+ALANE
+Esportes
+Futebol
+Demografia
+Povos indígenas
+Migração
+Retirante
+Municípios mais populosos
+Problemas sociais
+Política
+Fórum dos Governadores
+Consórcio Nordeste
+vde Regiões e unidades federativas do Brasil
+Subdivisões do Brasil
+Unidades da FederaçãoRegião Norte
+Acre
+Amapá
+Amazonas
+Pará
+Rondônia
+Roraima
+Tocantins
+Região Nordeste
+Alagoas
+Bahia
+Ceará
+Maranhão
+Paraíba
+Pernambuco
+Piauí
+Rio Grande do Norte
+Sergipe
+Região Centro-Oeste
+Distrito Federal
+Goiás
+Mato Grosso
+Mato Grosso do Sul
+Região Sudeste
+Espírito Santo
+Minas Gerais
+Rio de Janeiro
+São Paulo
+Região Sul
+Paraná
+Rio Grande do Sul
+Santa Catarina
+Arquipélagos
+Anavilhanas
+Fernando de Noronha
+Atol das Rocas
+Arquipélago de São Pedro e São Paulo
+Trindade e
+Martim Vaz
+Geoeconômicas
+Amazônica
+Centro-Sul
+Nordeste
+Propostas de criação de unidades federativas do Brasil
+Controle de autoridade
+: Q40885
+WorldCat
+VIAF: 127829407
+BNF: 11969954p
+EBID: ID
+GEC: 0001536
+GND: 4444584-2
+LCCN: n79064759
+OSM: 303781
+MusicBrainz: ID
+GeoNames: 3408096
+TGN: 7016581
+Identificadores taxonómicos
+ISC: 108627
+Portal do Brasil
+Portal de Alagoas
+Portal da região Nordeste do Brasil
+Obtida de https://pt.wikipedia.org/w/index.php?title=Alagoas&oldid=62147386
+Categorias: AlagoasFundações no Brasil em 1817Categorias ocultas: !Artigos que carecem de notas de rodapé desde setembro de 2020!Artigos que carecem de notas de rodapé sem indicação de tema!Páginas que utilizam Nobold com segundo parâmetro sem nome!Artigos que carecem de notas de rodapé desde junho de 2021
+Esta página foi editada pela última vez às 00h43min de 30 de setembro de 2021.
+Este texto é disponibilizado nos termos da licença Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as condições de utilização.
+Política de privacidade
+Sobre a Wikipédia
+Avisos gerais
+Versão móvel
+Programadores
+Estatísticas
+Declaração sobre cookies');
+Document.create!(url: 'https://pt.wikipedia.org/wiki/Sergipe', title: 'Sergipe – Wikipédia, a enciclopédia livre', body: 'Sergipe – Wikipédia, a enciclopédia livre
+Saltar para o conteúdo
+Alternar barra lateral
+Busca
+Links do usuário
+Criar uma conta
+Ferramentas pessoais
+expandido
+collapsed
+Criar uma conta
+Entrar
+Páginas para editores conectados saiba mais
+DiscussãoContribuições
+Navegação
+Página principalConteúdo destacadoEventos atuaisEsplanadaPágina aleatóriaPortaisInformar um erro
+Colaboração
+Boas-vindasAjudaPágina de testesPortal comunitárioMudanças recentesManutençãoCriar páginaPáginas novasContatoDonativos
+Ferramentas
+Páginas afluentesAlterações relacionadasCarregar ficheiroPáginas especiaisHiperligação permanenteInformações da páginaCitar esta páginaElemento Wikidata
+Imprimir/exportar
+Criar um livroDescarregar como PDFVersão para impressão
+Noutros projetos
+Wikimedia CommonsWikinotíciasWikivoyage
+Espaços nominais
+ArtigoDiscussão
+Variantes
+expandido
+collapsed
+Vistas
+LerEditarEditar código-fonteVer histórico
+Mais
+expandido
+collapsed
+90 idiomas
+expandido
+collapsed
+AfrikaansالعربيةAsturianuAymar aruAzərbaycancaБеларускаяБеларуская (тарашкевіца)Българскиবিষ্ণুপ্রিয়া মণিপুরীBrezhonegBosanskiCatalàCebuanoQırımtatarcaČeštinaCymraegDanskDeutschΕλληνικάEmiliàn e rumagnòlEnglishEsperantoEspañolEestiEuskaraفارسیSuomiFrançaisGaeilgeGalegoAvañeẽעבריתहिन्दीHrvatskiMagyarՀայերենInterlinguaBahasa IndonesiaIdoÍslenskaItaliano日本語ქართულიҚазақша한국어KernowekLatinaLadinoLimburgsLietuviųLatviešuMalagasyМакедонскиमराठीBahasa MelayuNederlandsNorsk nynorskNorsk bokmålOccitanИронPolskiPiemontèisپنجابیRuna SimiRomânăРусскийScotsSrpskohrvatski / српскохрватскиSimple EnglishSlovenčinaСрпски / srpskiSvenskaKiswahiliTetunТоҷикӣไทยTürkçeТатарча/tatarçaУкраїнськаاردوOʻzbekcha/ўзбекчаVènetoTiếng ViệtVolapükWinaray吴语Yorùbá中文Bân-lâm-gú粵語
+Editar hiperligações
+Sergipe
+Origem: Wikipédia, a enciclopédia livre.
+Nota: Para outros significados, veja Sergipe (desambiguação).
+Estado de Sergipe
+Bandeira
+Brasão
+Lema: SUB LEGE LIBERTAS (traduzido do latim, significa: Sob a Lei a Liberdade)
+Hino: Hino do estado de Sergipe
+Gentílico: sergipano, sergipense, serigy ou aperipê
+Localização
+- Região
+Nordeste
+- Estados limítrofes
+Bahia e Alagoas
+- Regiões geográficas   intermediárias
+2
+- Regiões geográficas   imediatas
+6
+- Municípios
+75
+Capital
+Aracaju
+Governo
+- Governador(a)
+Belivaldo Chagas (PSD)
+- Vice-governador(a)
+Eliane Aquino (PT)
+- Deputados federais
+8
+- Deputados estaduais
+24
+- Senadores
+Maria do Carmo Alves (DEM)Alessandro Vieira (Cidadania)Rogério Carvalho (PT)
+Área
+- Total
+21 915,116 km² (26º) [1]
+População
+2021
+- Estimativa
+2 338 474 hab. (22º)[2]
+- Densidade
+106,71 hab./km² (5º)
+Economia
+2017[3]
+- PIB
+R$ 40,704 bilhões (23º)
+- PIB per capita
+R$ 17 789,21 (2017) (20º)
+Indicadores
+2010/2015[4][5]
+- Esperança de vida (2015)
+72,4 anos (20º)
+- Mortalidade infantil (2015)
+17,0‰ nasc. (12º)
+- Alfabetização (2010)
+83,0% (21º)
+- IDH (2017)
+0,702 (23º) – alto [6]
+Fuso horário
+UTC−3
+Clima
+Tropical As
+Cód. ISO 3166-2
+BR-SE
+Site governamental
+http://www.se.gov.br/
+Sergipe é uma das 27 unidades federativas do Brasil. Está situado na Região Nordeste e tem por limites o oceano Atlântico a leste e os estados da Bahia, a oeste e a sul, e de Alagoas, a norte, do qual está separado pelo Rio São Francisco. Está dividido em 75 municípios e é o menor dos estados brasileiros, ocupando uma área total de 21 910 km², tornando-o pouco maior que El Salvador. Em 2021, sua população foi recenseada em 2,3 milhões de habitantes.[2] Sua capital e cidade mais populosa é Aracaju, sendo a mesma sede da Região Metropolitana de Aracaju, que inclui os municípios de Barra dos Coqueiros, Nossa Senhora do Socorro e São Cristóvão.
+Sergipe emancipou-se politicamente da Bahia em 8 de julho de 1820. A então capitania de Sergipe del-Rey viria a ser elevada à categoria de província quatro anos depois, e, finalmente, a estado após a proclamação da República em 1889. A atividade agrícola é um fator da economia sergipana. Em destaque nesse ramo, encontra-se o cultivo da cana-de-açúcar. A laranja e o coco também são produzidos pelo estado. O extrativismo mineral é outra atividade do setor primário. Petróleo, gás natural, calcário e potássio são os principais.[7]
+Índice
+1 Etimologia
+2 História
+2.1 Pré-história
+2.2 Período colonial
+2.3 Século XIX
+2.4 Século XX
+3 Geografia
+3.1 Relevo
+3.2 Hidrografia
+3.3 Clima
+4 Demografia
+4.1 Religiões
+4.2 Municípios mais populosos
+5 Política
+6 Subdivisões
+7 Economia
+7.1 Turismo
+8 Infraestrutura
+8.1 Saúde
+8.2 Mídia
+8.3 Energia
+8.4 Transportes
+8.5 Segurança pública
+8.6 Educação
+9 Cultura
+9.1 Literatura
+9.2 Música
+9.3 Cinema e teatro
+9.4 Folclore
+9.5 Esportes
+9.6 Eventos
+10 Ver também
+11 Referências
+12 Bibliografia
+13 Ligações externas
+Etimologia[editar | editar código-fonte]
+O nome do estado vem da antiga língua tupi e significa no rio dos siris (referindo-se ao Rio Sergipe), através da junção das palavras siri (siri), y (rio) e pe (em) que na linguagem dos colonizadores tornou-se Sergipe.[8]
+História[editar | editar código-fonte]
+Pré-história[editar | editar código-fonte]
+Os primeiros indícios da ocupação humana do território que hoje corresponde ao estado de Sergipe são datados de 9000 a.C.[9] Esses primeiros povos não conheciam a escrita, sendo objeto de estudo da Pré-História, que no caso do continente americano compreende o período que antecede a chegada dos europeus. Por não haver registros escritos, o estudo é feito por achados arqueológicos: pinturas rupestres, ossos, restos de cerâmica e outros artefatos.[10] E através da análise dessa cultura material que os arqueólogos identificaram a existência de três culturas ou tradições arqueológicas: Canindé, Aratu e Tupi-guarani.[9]
+Período colonial[editar | editar código-fonte]
+Carta da Sub-Capitânia de Sergipe dEl-Rey (Çîrîiî) até Itabaiana (Itapuáma), do rio São Francisco até o Rio Vaza-Barris (Obra do cartógrafo Joan Blaeu, Holanda, 1665)
+Situado entre os rios São Francisco e Real, o litoral sergipano foi visitado em expedição em 1501 por Gaspar de Lemos. Em 1534, o Brasil foi dividido em capitanias hereditárias e o território de Sergipe fazia parte da capitania da Baía de Todos os Santos. Na segunda metade do século XVI, houve maior contato entre franceses e indígenas locais, iniciando-se escambo de objetos diversos por produtos da terra (pau-brasil, algodão, pimenta-da-terra). Garcia d’Ávila, proprietário de terras na região, iniciou a conquista do território. Contava com a ajuda dos jesuítas para catequizar os nativos. A conquista desse território e sua colonização facilitariam as comunicações entre Bahia e Pernambuco e impediriam também as invasões francesas.
+Entre o final do século XVI e as primeiras décadas do século XVII, a atuação dos missionários e de algumas expedições militares afastaram franceses e venceram a resistência indígena em 1590, com a destruição das aldeias do cacique Serigy. Depois da conquista, os portugueses fundaram a cidade de São Cristóvão, às margens do rio Sergipe, num outeiro próximo ao rio Poxim. A cidade é realocada mais duas vezes até o ponto onde se encontra atualmente, a partir de 1608. São Cristóvão não passava de um conglomerado de casas de taipa com cobertura de palha e uma pequena igreja dedicada a Nossa Senhora das Vitórias (1609). Ocorre grande miscigenação entre portugueses e índios, bem como o surgimento de outras povoações: Santa Luzia do Itanhí, Santo Amaro das Brotas, Itabaiana, Tomar do Geru, Japaratuba, Pacatuba e Propriá, dentre outras. Inicia-se a introdução da cultura canavieira nos vales dos rios São Francisco, Japaratuba, Sergipe, Vaza-Barris, Piauí e Real; a existência de áreas inadequadas à plantação de cana-de-açúcar no litoral e no sertão favorece o surgimento da pecuária (possuindo um dos maiores rebanhos do Brasil colonial, sendo esse um dos principais motivos para a invasão holandesa dessa capitania, segundo Felisbelo Freire em História de Sergipe, publicado em 1891). Sergipe torna-se, então, um fornecedor de animais de tração para as fazendas da Bahia e de Pernambuco. Houve também uma significativa produção de couro.
+Quando das invasões holandesas em Sergipe (1637-45), houve grande prejuízo à economia,[carece de fontes?] vindo a se recuperar quando os portugueses retomaram a região.[carece de fontes?] O território, que na época fazia parte da Bahia, foi responsável em 1723 por um terço da produção de açúcar da Bahia.[carece de fontes?].
+Século XIX[editar | editar código-fonte]
+Decreto real, assinado pelo rei D. João VI, concedendo a emancipação administrativa da Capitania de Sergipe em 8 de julho de 1820.
+Somente em 8 de julho de 1820, D. João VI assinou decreto que isolou Sergipe da Bahia. O brigadeiro Carlos César Burlamárqui foi nomeado o primeiro governador do estado. Depois da Independência, Sergipe recupera sua autonomia, tendo sua independência
+reconhecida por D. Pedro I, desmembrando-se da capitania da Bahia e tornando-se a capitania de Sergipe. Em 1822, após a independência do Brasil, tornou-se uma província. Logo o progresso da província é pequeno durante o Império, com exceção de um breve surto algodoeiro na segunda metade do século XIX.
+Em 17 de março de 1855, o presidente da província de Sergipe, Inácio Barbosa, efetivou a mudança da capital de São Cristóvão para o povoado de Santo Antônio do Aracaju. Essa mudança ocorreu pela destruição do porto de Santo Amaro e principalmente as defesas de São Cristovão e Laranjeiras, elevando-o à categoria de cidade.
+Século XX[editar | editar código-fonte]
+Mapa de Sergipe em 1937
+Com a Proclamação da República, Sergipe passou a ser Estado da Federação tendo sua primeira Constituição promulgada em 1892. O quadro permanece assim em todo o primeiro período republicano, com setores das camadas médias urbanas sendo as únicas forças a enfrentar a oligarquia local, como nas revoltas tenentistas em 1924.
+A costa de Sergipe foi palco de três naufrágios entre 15 e 16 de agosto de 1942, durante a Segunda Guerra Mundial. Os navios Baependi, Araraquara e Aníbal Benévolo foram torpedeados pelo submarino alemão U-507, comandado por Harro Schacht, causando quase 600 mortes. Os ataques foram em resposta ao rompimento das relações entre Brasil e os países do Eixo.[11][12][13]
+As comunidades alemãs e italianas foram perseguidas, sendo notório o caso do italiano Nicola Mandarino, que foi acusado de espião pela população e teve sua casa incendiada em Aracaju.[14] Protestos seguiram-se no estado e em todo o país, e em 22 de agosto do mesmo ano, o Presidente Getúlio Vargas declarou guerra à Alemanha e Itália.[11][12][13]
+Geografia[editar | editar código-fonte]
+Parque Nacional Serra de Itabaiana.
+Orla de Atalaia em Aracaju.
+Cânyon de Xingó, no Rio São Francisco.
+Relevo[editar | editar código-fonte]
+Cerca de 85% do território está a menos de 300 m de altitude, com predominância de terras planas ou levemente onduladas. As poucas e maiores elevações constam-se em serras e colinas mais próximas à fronteira com o Estado da Bahia, como é o caso da Serra Negra, no município de Poço Redondo, onde localiza-se o ponto mais alto do Estado, com 742 metros de altitude.
+Hidrografia[editar | editar código-fonte]
+Ver também: Lista de rios de Sergipe
+São Francisco, Vaza-Barris, Sergipe, Japaratuba, Piauí e Real são os rios principais (veja a lista de rios de Sergipe). O estado encontra-se com 47,26% de seu território dentro do polígono das secas, segundo dados da Organização das Nações Unidas para Agricultura e Alimentação (FAO).[15]
+Aracaju possui várias praias, como as de Atalaia, Aruana, Refúgio, Náufragos, Robalo e Mosqueiro, todas no litoral sul do estado. Caueira no município de Itaporanga dAjuda ao Sul e para Pirambu a trinta quilômetros ao norte de Aracaju, que conta com uma base do Projeto Tamar cujo acesso ficou facilitado pela construção no ano de 2006 da Ponte Construtor João Alves, que liga a capital Aracaju ao município de Barra dos Coqueiros. Esta tem destaque o povoado chamado Atalaia Nova, que é banhado pelo rio Sergipe e pelo oceano Atlântico, proporcionando excelente lazer e diversão, num local de tranquilidade e bastante contato com a natureza.
+A cidade de Canindé de São Francisco, distante 186 quilômetros da capital, é um dos pontos turísticos mais atrativos do estado de Sergipe. Aqui, o Rio São Francisco foi represado para a construção da Usina Hidrelétrica de Xingó, formando um lago de raríssima beleza. Além disso, o turista pode entrar em contato direto com a história da civilização local através dos achados que estão expostos à visitação pública no Museu de Arqueologia de Xingó, que é administrado pela Universidade Federal de Sergipe. A visita ao Paraíso do Talhado no lago da hidrelétrica é obrigatória a todos aqueles que vão conhecer o Cânion de Xingó, que se situa na divisa dos estados de Sergipe, Bahia e Alagoas.
+Clima[editar | editar código-fonte]
+O clima é tropical, mais úmido próximo ao litoral (pluviosidade média anual de 1 600 mm na capital, com maior intensidade de chuvas entre março e julho) e semiárido no sertão. Em algumas ocasiões, a seca no Oeste do estado pode se prolongar por quase um ano.
+Demografia[editar | editar código-fonte]
+Segundo estimativas de 2013 da ONU,
+a capital sergipana, Aracaju, possui o maior IDH da Região Nordeste, registrando na pesquisa um IDH de 0,770. Apesar disso, o estado está em 23ª lugar em âmbito nacional, com um IDH de 0,702, considerado alto.[16] Espera-se que dentro de alguns anos seja o primeiro do nordeste com uma cidade a entrar no grupo com IDH muito alto, categoria onde só estão inseridos até agora cidades das regiões Sul, Sudeste e Centro-Oeste.[17]
+Dados do PNAD revelou que a composição étnica da população sergipana corresponde a: pardos (63%), brancos (30%), negros (5%), indígenas (1%) e outros (1%).
+Religiões[editar | editar código-fonte]
+Religiões em Sergipe (2010)[18]
+Religião
+Porcentagem
+Catolicismo romano
+76,37%
+Protestantismo
+11,76%
+Sem religião
+8,58%
+Espiritismo
+1,07%
+Outras
+1,77%
+De acordo com o censo demográfico de 2010, da população total do estado, existiam 1 579 480 católicos apostólicos romanos, 243 330 evangélicos, 22 266 espíritas, 14 755 Testemunhas de Jeová, 6 500 outras religiosidades cristãs, 5 394 católicos apostólicos brasileiros, 4 371 umbandistas e candomblecistas, 2 326 mórmons, 709 católicos ortodoxos, 509 budistas, 501 espiritualistas, 493 esotéricos, 435 pertencentes a tradições indígenas, 433 novos religiosos orientais, 184 judaístas e 22 islâmicos. Existiam ainda
+177 620 pessoas sem religião, 5 005 com religião indeterminada (mal definida) ou múltiplo pertencimento, 3 240 não souberam e 405 não declararam.[19]
+Municípios mais populosos[editar | editar código-fonte]
+verdiscutireditar Municípios mais populosos de Sergipe
+(Estimativa 2019 do Instituto Brasileiro de Geografia e Estatística)[20]
+Aracaju
+Posição
+Localidade
+Região intermediária
+Pop.
+Posição
+Localidade
+Região intermediária
+Pop.
+1
+Aracaju
+Aracaju
+657 013
+11
+Poço Redondo
+Itabaiana
+34 775
+2
+N. S. do Socorro
+Aracaju
+183 628
+12
+Itaporanga dAjuda
+Aracaju
+34 356
+3
+Lagarto
+Itabaiana
+104 408
+13
+Capela
+Aracaju
+34 213
+4
+Itabaiana
+Itabaiana
+95 427
+14
+Barra dos Coqueiros
+Aracaju
+30 407
+5
+São Cristóvão
+Aracaju
+90 072
+15
+Canindé de São Francisco
+Itabaiana
+29 900
+6
+Estância
+Aracaju
+69 184
+16
+Laranjeiras
+Aracaju
+29 826
+7
+Tobias Barreto
+Itabaiana
+52 191
+17
+Propriá
+Aracaju
+29 626
+8
+Itabaianinha
+Aracaju
+41 928
+18
+Porto da Folha
+Itabaiana
+28 596
+9
+Simão Dias
+Itabaiana
+40 484
+19
+Boquim
+Aracaju
+26 816
+10
+N. S. da Glória
+Itabaiana
+36 924
+20
+N. S. das Dores
+Aracaju
+26 629
+Política[editar | editar código-fonte]
+Ver artigos principais: Lista de governadores de Sergipe e Lista de deputados estaduais de Sergipe
+Palácio Olímpio Campos, ex-sede do Poder Executivo
+O poder executivo é exercido pelo governador de Sergipe. O atual governador é Belivaldo Chagas Silva, do PSD, que era vice de Jackson Barreto e assumiu o posto após este abdicar do cargo para concorrer ao Senado. Barreto foi eleito vice-governador em 2006 na chapa de Marcelo Déda (Partido dos Trabalhadores) para o período de quatro anos (2007 - 2010) e reeleito para um novo mandato (2011–2014). Com a morte de Déda, em 2 de dezembro de 2013, Jackson Barreto assumiu o Governo do Estado, e foi reeleito nas eleições de 2014.
+O poder legislativo é exercido pela Assembleia Legislativa do Estado de Sergipe, que é composta por 24 deputados. A TV Alese é um órgão de comunicação da Assembleia Legislativa que divulga as ações desta instituição.
+O poder judiciário de Sergipe possui sede no Tribunal de Justiça do Estado de Sergipe, e é composto por treze desembargadores.[21] Representações deste poder estão espalhadas por todo o estado por meio de comarcas, classificadas em primeira, segunda ou terceira entrância; ao todo, existem 47 comarcas instaladas em Sergipe.
+Subdivisões[editar | editar código-fonte]
+Ver artigos principais: Lista de regiões geográficas intermediárias e imediatas de Sergipe e Lista de municípios de Sergipe
+Divisão das regiões intermediárias (vermelho) e imediatas (cinza).
+Sergipe é a vigésima primeira unidade da federação em número de municípios, com 75 no total. O município com a maior área é Poço Redondo, localizado na região geográfica imediata de Nossa Senhora da Glória, com 1 220 km² de extensão. O menor é General Maynard, com apenas 18,1 km², localizado na região geográfica imediata de Aracaju.
+Os municípios são agrupados pelo IBGE em regiões geográficas intermediárias e regiões geográficas imediatas. As regiões geográficas intermediárias foram apresentadas em 2017, com a atualização da divisão regional do Brasil, e correspondem a uma revisão das antigas mesorregiões, que estavam em vigor desde a divisão de 1989. As regiões geográficas imediatas, por sua vez, substituíram as microrregiões.[22]
+As regiões geográficas intermediárias congregam diversos municípios de uma área geográfica com similaridades econômicas e sociais, não constituindo uma entidade política ou administrativa, sendo utilizada apenas para fins estatísticos. As duas regiões geográficas intermediárias de Sergipe são: Região Geográfica Intermediária de Aracaju e a Região Geográfica Intermediária de Itabaiana. Uma subdivisão da região intermediaria é a região imediata. O território sergipano é dividido em 6 regiões geográficas imediatas, são elas: Aracaju, Estância, Propriá, Itabaiana, Lagarto, Nossa Senhora da Glória.
+Economia[editar | editar código-fonte]
+Exportações de Sergipe - (2012)[23]
+Os dados de 2008 do governo apontam que a economia do estado de Sergipe tem participação de 0,6 por cento no produto interno bruto nacional. A composição do produto interno bruto está dividida em: Agropecuária, que corresponde a 5,2%; Indústria, 33%; e Serviços, que corresponde a 61,8% do total. O produto interno bruto está em R$ 9 779
+per capita. Na pauta de exportação, o estado de Sergipe exportou o equivalente a US$ 60 700 000 (sessenta milhões e setecentos mil dólares). Os principais produtos exportados são: suco de laranja (33%), cimento (17%), açúcar (14%), outros sucos de fruta (13%), calçados (13%) e outros (10%).
+O volume total de exportações do estado aumentou consideravelmente desde 2009, atingindo a marca de US$ 149 000 000,00 (cento e quarenta e nove milhões de dólares) no último em 2012. Este montante é representado, principalmente por suco de frutas (63,79%), açúcar in natura (10%), calçados de borracha (9,86%), secantes preparados para pintura (5,52%) e calçados de couro (2,14%)[23]. Já na pauta de importação, o estado importou o equivalente a US$ 153 300 000 (cento e cinquenta e três milhões e trezentos mil dólares). Os principais produtos importados são: máquinas e equipamentos (34%), trigo (14%), adubos e fertilizantes (12%), fios e tecidos (9%), coque de petróleo (8%), produtos das indústrias químicas (4%), plástico e seus produtos (3%), obras de ferro e aço (3%) e outros (13%), segundo dados de 2009. A Federação das Indústrias do Estado de Sergipe é a entidade sindical dos donos das empresas. A entidade congrega a maioria dos donos e dirigentes industriais.
+Centro financeiro de Aracaju, o maior centro financeiro de Sergipe
+A principal atividade agrícola de Sergipe é o cultivo de cana-de-açúcar (mais de 2 milhões de toneladas produzidas em 2018, para a fabricação de açúcar e etanol).[24] Além da cana, são cultivados coco (2º maior produtor do Brasil em 2017, com 234 milhões de frutos),[25] laranja (6º maior produtor do Brasil em 2018, com 354 mil toneladas)[26] e mandioca (153 mil toneladas produzidas em 2018).[27] Ao contrário de muitos estados brasileiros, a criação de gado não é muito importante. Uma pequena indústria de couro também existe.
+Sergipe tinha em 2018 um PIB industrial de R$ 7,5 bilhões, equivalente a 0,6% da indústria nacional e empregando 65 327 trabalhadores na indústria. Os principais setores industriais são: Serviços Industriais de Utilidade Pública, como Energia Elétrica e Água (36,6%), Construção (24,7%), Alimentos (8,8%), Químicos (3%) e Minerais não metálicos (2,3%). Estes 5 setores concentram 75,4% da indústria do estado.[28]
+A exploração de recursos minerais é uma atividade muito importante para o estado, sendo explorado o petróleo, gás natural, calcário e potássio. A Petrobras explora campos de petróleo e gás natural no estado, tanto em terra como no mar, sendo o quinto estado brasileiro em produção de petróleo, com uma produção de 41 647 barris por dia, ficando atrás do Rio de Janeiro, Rio Grande do Norte, Bahia e Espírito Santo. Recentemente foi descoberto no litoral da Barra dos Coqueiros um campo de petróleo, que, segundo estimativas da Petrobras, pode corresponder a um terço do volume de petróleo produzido na bacia de Campos(que é a maior do país em produção).[29] Em 2011, problemas ambientais e trabalhistas fizeram a Petrobras cogitar o fechamento de 25 das 26 plataformas que se encontram na costa sergipana,[30] o que não chegou a ocorrer de fato. A Vale S.A. explora a maior mina de potássio do Hemisfério Sul, localizado no município de Rosário do Catete.
+Shopping Jardins, em Aracaju.
+Em Aracaju existem dois shopping centers: RioMar e Jardins. O Shopping Prêmio é o primeiro fora da capital, localizado em Nossa Senhora do Socorro e explora também o potencial consumidor de sua Região Metropolitana.[31] Em Aracaju, existe ainda a Rua do Turista, fechada em 2003 e reaberta em dezembro de 2010 , o local interliga a Praça Olímpio Campos e a rua de Laranjeiras, no centro comercial da cidade.[32]
+Foi no estado de Sergipe, o local de fundação da quarta maior rede de supermercado do Brasil, o G.Barbosa.[33] A rede que tem sua sede localizada em Sergipe opera também na Bahia em Alagoas e, mais recentemente, no Ceará.[34] Além da citada anteriormente, operam no estado as seguintes redes de supermercados: Bompreço (fundada pelo Sergipano João Carlos Paes Mendonça em Casa Amarela, Recife, posteriormente vendido ao Wal-Mart), Extra, Makro e Atacadão.
+Turismo[editar | editar código-fonte]
+Praça São Francisco na cidade histórica de São Cristóvão.
+Além das praias e atrações do principal polo turístico do estado, a capital Aracaju, as cidades históricas de Sergipe também são pontos turísticos relevantes. A cidade de São Cristóvão, quarta cidade mais antiga do país, foi tombada pelo Instituto do Patrimônio Histórico e Artístico Nacional desde janeiro de 1967,
+preserva prédios históricos e conta com vários museus onde há importantes partes da história sergipana. Recentemente a Praça São Francisco, tornou-se Patrimônio Cultural da Humanidade. Outra cidade histórica de Sergipe, é o município de Laranjeiras, conhecido por também possuir construções antigas que aos poucos estão sendo recuperadas, alguns desses prédios são igrejas datadas dos séculos XVII e XVIII, como por exemplo a Igreja Matriz Sagrado Coração de Jesus. O município também é conhecido por seus eventos culturais, como por exemplo o Encontro Cultural de Laranjeiras, o qual conta com teatro de rua, grupos folclóricos, cordel, palestras, seminários e bandas culturais e populares.
+A cerca de seis quilômetros da sede do município de Japaratuba, encontra-se o Banho do Prata, uma nascente de águas cristalinas onde as pessoas podem banhar-se nas águas do Rio do Prata, recomenda-se logo após, saborear a moqueca de peixe em um dos quiosques ou acampar com amigos. Outro ponto turístico importante da cidade é a Gruta do Capim Branco, localizada próximo ao povoado São José. A gruta serviu de refúgio para os índios das redondezas no período da colonização dessas terras. O local também é conhecido como Gruta da Mulata. Um fato interessante são as raízes que caem dentro da caverna, em um formato que mais parece com um provador de roupas. A luz que vem da superfície provoca um imagem ainda mais surpreendente. Ainda no município de Japaratuba, há a Festa das Cabacinhas, a mais tradicional das festividades da cidade, sempre realizada na primeira semana de Janeiro. Nessa festa, o intuito é acertar os participantes com a cabacinha onde coloca-se água.
+Infraestrutura[editar | editar código-fonte]
+Saúde[editar | editar código-fonte]
+Sala de Cirurgia do Hospital Regional de Estância
+O Hospital de Urgência de Sergipe é o maior hospital público do estado. Dos hospitais particulares, os maiores são o Hospital São Lucas, localizado no bairro São José e o Hospital Primavera, localizado no Bairro Jardins.
+Existem nos bairros e conjuntos, tanto da capital, quanto do interior, 45 unidades de saúde, as quais realizam atendimentos considerados de baixa densidade tecnológica, como por exemplo, consultas de enfermagem, médicas, imunização, curativos, reuniões, rodas de conversa, entre outros serviços que compõem a atenção primária à saúde.
+Mídia[editar | editar código-fonte]
+A primeira emissora de televisão do estado foi a TV Sergipe, inaugurada em novembro de 1971 como afiliada da extinta Rede Tupi. Em 1973, passou a integrar a Rede Globo de Televisão.[35] Em 2009, a TV Atalaia fez a primeira transmissão do sinal de televisão digital no estado.[36] A TV Sergipe dá início à transmissão de Tv Digital em março de 2010.[37]
+Em Sergipe, há sete emissoras de televisão, sendo cinco por televisão aberta e duas por televisão por assinatura. As abertas são a TV Aperipê, TV Sergipe, TV Atalaia, a TV Canção Nova Aracaju e a Rede Gênesis. As por assinatura são a TV Cidade e TV Alese. Em relação a afiliadas das cinco principais redes de televisão comercial aberta, o estado conta com afiliadas a Rede Globo (TV Sergipe) e a Record TV (TV Atalaia). Existe também, uma emissora pública, a TV Aperipê, afiliada a TV Cultura, e a legislativa, a TV Alese. Há uma emissora geradora de programação católica, a TV Canção Nova Aracaju. Ainda há uma concorrência para geradora comercial na capital Aracaju, em curso desde dezembro de 2009.
+Energia[editar | editar código-fonte]
+Parque eólico Barra dos Coqueiros.
+A Usina Hidrelétrica de Xingó está instalada no Rio São Francisco, na divisa com Alagoas. Em janeiro de 2013 foi inaugurada o Parque eólico Barra dos Coqueiros no município da Barra dos Coqueiros, com produção para contemplar mais de 120 mil habitantes, e cerca de 35 MW.[38]
+Transportes[editar | editar código-fonte]
+Em Aracaju, há o Sistema Integrado de Transporte, que compreende terminais de ônibus para integração e linhas alimentadoras, que levam os passageiros dos bairros para os terminais, onde embarcam em outros ônibus, que os levam para seus destinos. Há linhas que passam por dois ou três terminais, levando os passageiros ao centro da capital ou até a Região Metropolitana. As empresas que fazem parte do sistema de transporte público integrado da capital e da Região Metropolitana são: Viação Progresso/Transporte Tropical/AVP - Auto Viação Paraíso (Grupo Progresso), Viação Modelo/Capital Transportes/Viação Halley (Grupo FretCar) e Viação Atalaia(Grupo Itamaracá).
+Os táxis de Aracaju pertencem tanto a cooperativas quanto a particulares e são caracterizados por sua cor branca, uma placa acima do veículo e adesivos nas latarias. Em Aracaju, a atividade dos mototaxistas ainda não foi regulamentada e não há previsão para que ocorra. Duas rodovias federais cortam o estado, a BR-101, no sentido sul-norte, em fase de duplicação em toda sua extensão desde o ano de 2010, com previsão de entrega no final do ano de 2014 havendo alguns trechos já entregues em especial no sentido sul até o município de Estância, e ao norte até a entrada do município de Riachuelo e a BR-235, no sentido oeste-leste.[39]
+O Aeroporto Internacional de Aracaju (Aeroporto Santa Maria) é o único do estado administrado pela Empresa Brasileira de Infraestrutura Aeroportuária. Nele, circulam, diariamente, 6 000 pessoas e há operações de helicópteros que transportam passageiros para plataformas de petróleo no litoral do estado.[40]
+Ponte Aracaju-Barra dos Coqueiros
+Segurança pública[editar | editar código-fonte]
+A Polícia Civil do Estado de Sergipe, também subordinada ao Governador por meio da Secretaria de Segurança Pública, tem a missão, dentro do território sergipano, de exercer, com exclusividade, as funções de Polícia Judiciária, procedendo a investigação pré-processual e a formalização de atos investigatórios relacionados com a apuração de infrações penais, especialmente inquéritos policiais, termos circunstanciados de ocorrência e outros procedimentos correlatos, bem como praticar atos necessários a assegurar a apuração de infrações penais, inclusive o cumprimento de mandado de prisão, a realização de diligências requisitadas, fundamentadamente, pelo Poder Judiciário ou Ministério Público, e o fornecimento de informações para a instrução processual. Possui, como estrutura operacional, a Coordenadoria de Polícia Civil da Capital (COPCAL), responsável pelas delegacias na cidade de Aracaju e sua região metropolitana, e a Coordenadoria de Polícia Civil do Interior (COPCIN), responsável pelas delegacias de polícia do interior do estado. Possui, ainda, o Centro de Operações Policiais Especiais, ao qual estão subordinados a Divisão de Telecomunicações (DITEL) e a Divisão de Inteligência e Planejamento Policial (DIPOL).
+Policiamento de trânsito da Polícia Militar do Estado de Sergipe.
+A Polícia Militar do Estado de Sergipe foi criada em 1835 com a denominação de Corpo Policial da Província.[41] Historicamente a Corporação seguiu o mesmo percurso das demais Polícias Militares. Em 1917 passou a Força Auxiliar do Exército.[42] E em 1920[43] foi reestruturada como um Batalhão Policial, com uma Seção de Bombeiros. A partir de 1946 passou a desenvolver a configuração atual, constituindo progressivamente as atuais modalidades de policiamento. A Polícia Militar conta com: Comando-Geral, Estado-Maior e oito batalhões em todo o estado: três na Grande Aracaju (1º, 5º e 8º) e os demais no interior (2º, 3º, 4º, 6º e 7º). Além do Batalhão Especial de Segurança Patrimonial, de Operações Especiais e de Policiamento de Guardas. Fazem parte, ainda, as companhias de Polícia Rodoviária, de Trânsito, de Choque, Fazendária, Escolar, Radiopatrulha, Ambiental e dez companhias de Polícia Comunitária.[44]
+O Corpo de Bombeiros Militar do Estado de Sergipe foi criado em outubro de 1920, com a denominação de Seção de Sapadores Bombeiros, subordinado à Força Pública do Estado, atual Polícia Militar. Em 1936, passou a designar-se como Companhia de Bombeiros, e foi transferido para a administração do Município de Aracaju. Em 1955, foi transformado no Corpo de Bombeiros Municipal de Aracaju. Em 1984 a Corporação foi transferida do Município para o Estado, e incorporada à Polícia Militar com a estrutura operacional de batalhão. Em 1999, desvinculou-se da PMSE, passando a dispor de autonomia administrativa e financeira própria. Possui, ao todo, cinco Grupamentos no estado, distribuídos dessa forma: 1º GBM - Aracaju; 2º GBM - Estância; 3º GBM - Itabaiana; 4º GBM - Grupamento de Salvamento Marítimo (com viaturas de salvamento e combate à incêndio) - Aracaju; e 5º GBM - Nossa Senhora do Socorro.
+A Coordenadoria Geral de Perícias do Estado de Sergipe foi criada em 29 de janeiro de 1991, como um órgão de natureza operacional integrante da estrutura administrativa da Secretaria de Estado da Segurança Pública e subordinada diretamente ao Secretário de Segurança Pública. Tem como principais atribuições a promoção, execução e coordenação das perícias criminais, médico-legais e odonto-legais, dos serviços de identificação, do desenvolvimento de estudos e pesquisas, e demais ações e atividades relativas à sua área de atuação, assim como promover ações de polícia técnico-científica para atender às requisições da Polícia Civil, do Poder Judiciário e do Ministério Público. A estrutura organizacional básica é composta pelos seguintes órgãos operacionais: Instituto Médico Legal (IML), Instituto de Criminalística (IC), Instituto de Identificação (ID) e Instituto de Análises e Pesquisas Forenses (IAPF).
+Educação[editar | editar código-fonte]
+Campus da Universidade Federal de Sergipe em Laranjeiras
+A educação em Sergipe, é provida, como em todo o Brasil de escolas públicas e privadas. Administrada pela Secretaria de Estado da Educação possui orçamento de R$ 1 053 000 000,00[45] em 2016 e com projeção de redução
+de 30 milhões para 2017. O IDEB é considerado abaixo da média nacional e de maneira mais acentuada no ensino médio.[46] O ensino fundamental ainda é gerido prioritariamente pela rede estadual suprindo as necessidades locais dos municípios descumprindo o que é claramente determinado pela LDB.[47]
+Nos bairros e conjuntos, há as escolas públicas, administradas pela prefeitura ou pelo estado. Uma das mais antigas, em que estudaram importantes políticos do estado, é o Colégio Atheneu, localizado no Bairro São José próximo ao centro de Aracaju. Das escolas particulares, as que mais se destacam, são: Colégio do Salvador, Colégio Arquidiocesano, Colégio Amadeus, Colégio de Ciências Pura e Aplicada, Colégio Master, Colégio Ideal, IDFG, SESI e Colégio Salesiano, as quais fazem parte das que tiveram melhores desempenhos no Exame Nacional do Ensino Médio no estado de Sergipe.
+Cultura[editar | editar código-fonte]
+Literatura[editar | editar código-fonte]
+Museu da Gente Sergipana.
+Dentre os principais escritores sergipanos se destaca Tobias Barreto, fundador do condoreirismo brasileiro e patrono da cadeira 38 da Academia Brasileira de Letras.[48] A localidade onde nasceu, a Vila de Campos do Rio Real, foi posteriormente rebatizada com o seu nome e hoje é o município de Tobias Barreto.
+Música[editar | editar código-fonte]
+Evento musical em Aracaju.
+Praticamente inexistiu, até a década de 1970, a chamada música popular sergipana, que surgiu trazendo temática local para as letras. Cantores como Chiko Queiroga e Antônio Rogério trazem em suas canções elementos do folclore sergipano.[49]
+A música contemporânea traz uma mistura de ritmos folclóricos nordestinos com o reggae, romantismo, rock e a música eletrônica. Nessa vertente estão as bandas e cantores Sulanca, Lacertae, NaurÊa e Maria Scombona.[49] Outros nomes importantes da música no estado são a cantora de Arrocha Manuh Araújo, a banda de rock The Baggios, Callazares do Asfalto, a cantora Amorosa e a banda de forró Calcinha Preta.
+Quadrilha junina no estado de Sergipe.
+A Orquestra Sinfônica de Sergipe foi fundada em 1985, mas somente a partir de 2006 passou a ter uma temporada regular de concertos. Seu diretor artístico é o maestro Guilherme Mannis. Além disso, o estado também possui a filarmônica mais antiga do Brasil, Filarmônica Nossa Senhora da Conceição, localizada no município de Itabaiana (Sergipe). O estado de Sergipe foi traduzido na canção Sergipe é o país do Forró pelo cantor e cantor sergipano Rogério. Este, um dos artistas sergipanos que alcançaram sucesso no âmbito nacional com várias músicas.
+Cinema e teatro[editar | editar código-fonte]
+Em Sergipe existem três complexos de cinemas localizados na capital do estado, dois pertencentes à rede Cinemark, e o Cinema Vitória, (Sala Avenida Brasil), localizado no Mini Shopping Rua do Turista, reinaugurado em 13 de maio de 2013, um projeto da Casa Curta-Se em parceria com a Secretaria de Estado da Cultura e Ministério da Cultura. O Cine Vitória (Sala Avenida Brasil), é o único Cinema de Rua existente no estado, que exibe uma programação diferenciada, privilegiando a diversidade cinematográfica mundial. No dia 25 de janeiro de 2013, foi inaugurado o primeiro complexo de cinemas fora da capital, localizado no shopping de Nossa Senhora do Socorro. A cidade de Nossa Senhora da Glória será a terceira cidade do estado a ter salas de cinema.
+Eventualmente, são encenadas peças teatrais em Sergipe, são apresentações de grupos locais e também de sucessos de público nacionais. Os teatros mais importantes do estado são o Teatro Tobias Barreto, O Teatro Lourival Batista e o Teatro Atheneu, este último foi aberto depois das reformas.
+Folclore[editar | editar código-fonte]
+O folclore sergipano[50] é rico e diversificado, reunindo elementos da cultura indígena, africana e europeia.[51][52] Dentre as muitas manifestações folclóricas destacam-se o Reisado, Parafusos, Guerreiros, Lambe-Sujos e Caboclinhos, Cacumbi, Taieira, Samba de Parelha e São Gonçalo. Anualmente é realizado o Encontro Cultural de Laranjeiras, um evento que reúne musicais, apresentações de grupos folclóricos, grupos de discussão e exposições sobre o folclore no estado.[53]
+Esportes[editar | editar código-fonte]
+Mais informações: Futebol em Sergipe
+Ex-futebolista Clodoaldo, campeão mundial com a Seleção Brasileira na Copa do Mundo de 1970
+O futebol é o esporte mais popular. Inaugurado em 1969 o Estádio Estadual Lourival Baptista, também conhecido como Batistão em homenagem a renomado locutor desportivo local, é a maior arena de futebol de Sergipe e abriga as principais partidas de clubes sergipanos em competições nacionais e regionais. Além disso em conjunto com o estádio apresenta-se o
+principal ginásio em Sergipe, Ginásio Constâncio Vieira. Trata-se do principal complexo desportivo do Estado que se encontra na área nobre da capital Aracaju. No futebol, merece destaque Clodoaldo, campeão mundial com a Seleção Brasileira na Copa do Mundo de 1970, no México.
+Atualmente o estado desponta como um dos maiores promissores na gestação de atletas que se projetam não só nacionalmente como mundialmente. Nascido na cidade de Lagarto, o fenômeno Diego Costa tem ganhado cada vez mais a atenção da modalidade futebolística a nível mundial.[54][55]
+Historicamente, o estado sempre apresentou tradição na modalidade esportiva do handebol servindo muitas vezes como base para a seleção nacional. Ademais, nas artes marciais, a karateca Mariana Dantas conquistou o campeonato mundial júnior da modalidade.[56] e o ex-pugilista Adilson José Rodrigues, conhecido como Maguila, foi o primeiro brasileiro campeão mundial peso pesado.[57]
+Eventos[editar | editar código-fonte]
+O Forró caju é um dos maiores eventos juninos do nordeste do Brasil,[carece de fontes?] com cerca de 140 atrações locais e nacionais reunidas durante 14 noites na praça de eventos entre os mercados Albano Franco e Thales Ferraz. O evento é gratuito e faz parte do calendário junino brasileiro. Organizada pela Prefeitura de Aracaju, a festa atrai um público de 1 milhão de pessoas em cada edição.[58]
+Criado em 1992, o Pré-Caju era uma prévia carnavalesca que reunia bandas de axé, pagode e outros ritmos. O evento foi encerrado em 2014.[59] Outras micaretas famosas são: o Micabã e a Festa de Senhora Sant´ana ambos realizados no município de Aquidabã e a Micarana, no município de Itabaiana. Há também a Festa de Zé Pereira comemorada no Carnaval, na cidade ribeirinha de Neópolis, que faz divisa com Penedo, Alagoas, que ocorre em todos os dias de carnaval; acompanhada de músicas carnavalescas toda a população brinca, um melando os outros com diversas coisas.
+Ver também[editar | editar código-fonte]
+A Wikipédia possui a categoria: Sergipe
+Culinária de Sergipe
+Lista de governadores de Sergipe
+Lista de municípios de Sergipe
+Ordem alfabética
+Área territorial
+Área urbanizada
+População
+IDH-M
+Lista de museus de Sergipe
+Referências
+↑ Instituto Brasileiro de Geografia e Estatística (IBGE). «Área Territorial Oficial - Consulta por Unidade da Federação». Consultado em 29 de agosto de 2021
+↑ a b IBGE, IBGE (27 de agosto de 2021). «Estimativas da população residente no Brasil e Unidades da Federação com data de referência em 1º de julho de 2021» (PDF). ibge.gov.br. Consultado em 28 de agosto de 2021
+↑ «Contas Regionais 2017». IBGE. Consultado em 16 de novembro de 2019
+↑ «Tábua completa de mortalidade para o Brasil – 2015» (PDF). IBGE. Consultado em 2 de dezembro de 2016
+↑ «Sinopse do Censo Demográfico 2010». IBGE. Consultado em 2 de dezembro de 2016
+↑ IPEA -Instituto de Pesquisa Econômica Aplicada. «Evolução do IDHM e de Seus Índices Componentes no período de 2012 a 2017» (PDF). Consultado em 18 de abril de 2019
+↑ https://www.sogeografia.com.br/Conteudos/Estados/Sergipe/ Consultado em 28 de fevereiro de 2020.
+↑ NAVARRO, E. A. Método Moderno de Tupi Antigo. Terceira edição. São Paulo: Global, 2005. p. 232
+↑ a b Carvalho (2003), p. 55.
+↑ Carvalho (2003), p. 21.
+↑ a b O Globo. «Alemanha de Hitler ataca navio Baependi, no Nordeste, e mata 270 brasileiros». Consultado em 7 de setembro de 2017
+↑ a b G1. «Há 75 anos, Brasil declarava guerra à Alemanha». Consultado em 7 de setembro de 2017
+↑ a b Universidade Federal de Sergipe. «Aracaju sob ataque? Como a vida na cidade foi afetada pela Segunda Guerra Mundial». Consultado em 7 de setembro de 2017
+↑ Socurtição.net. «O Sangue de Agosto na História de Sergipe». Consultado em 7 de setembro de 2017
+↑ J. Jarbas S. Gurgel. «Organização das Nações Unidas para Agricultura e Alimentação». DNOCS, Fortaleza, Ceará, Brasil: FAO. Consultado em 11 de novembro de 2016
+↑ Saulo Pereira Guimarães (4 de agosto de 2013). «Os melhores estados para se viver no Brasil, segundo a ONU». Exame. Consultado em 11 de novembro de 2016
+↑ Amanda Previdelli (30 de julho de 2013). «Os estados que subiram e caíram no ranking da ONU». Exame. Consultado em 11 de novembro de 2016
+↑ «Censo Demográfico 2010: Religião - Amostra». Instituto Brasileiro de Geografia e Estatística. Consultado em 24 de novembro de 2016
+↑ «Censo Demográfico 2010: Religião - Amostra». Instituto Brasileiro de Geografia e Estatística. Consultado em 24 de novembro de 2016
+↑ «Panorama do estado de Sergipe». Instituto Brasileiro de Geografia e Estatística (IBGE). Consultado em 13 de maio de 2020
+↑ «tjse.jus.br.». tjse.jus.br. 4 de dezembro de 1996. Consultado em 5 de junho de 2013. Arquivado do original em 24 de maio de 2017
+↑ Instituto Brasileiro de Geografia e Estatística (IBGE) (2017). «Divisão Regional do Brasil». Consultado em 20 de janeiro de 2018. Cópia arquivada em 20 de janeiro de 2018
+↑ a b «Exportações de Sergipe (2012)». Plataforma DataViva. Consultado em 13 de janeiro de 2014
+↑ Produção de cana de açúcar no Nordeste
+↑ PRODUÇÃO DE COCO: O NORDESTE É DESTAQUE NACIONAL
+↑ Produção brasileira de laranja em 2018
+↑ Produção brasileira de mandioca em 2018
+↑ Perfil da Indústria de Sergipe
+↑ «O governador comemora descoberta de petróleo na Barra dos Coqueiros». Portos e Navios. 2 de novembro de 2010. Consultado em 2 de novembro de 2010
+↑ «Petrobras busca acordo para garantir produção em águas rasas em SE». Essas plataformas produzem, diariamente, 3.600 barris de óleo e 1,2 milhão de metros cúbicos de gás natural. Infonet. 27 de julho de 2011. Consultado em 2 de novembro de 2010
+↑ «Socorro é destaque na VEJA como um dos municípios que mais crescem no país». 6 de setembro de 2010. Consultado em 19 de outubro de 2010
+↑ «Rua 24 Horas em Sergipe voltará a funcionar após reforma». Globo.com. 21 de maio de 2009. Consultado em 19 de outubro de 2010
+↑ «Pão de Açúcar é o maior supermercado varejista do Brasil». Exame.com (Grupo Abril). 15 de abril de 2010. Consultado em 8 de maio de 2011
+↑ «Rede Gbarbosa chega a Fortaleza». Coisas de Maceió. 9 de março de 2010. Consultado em 8 de maio de 2011 [ligação inativa]
+↑ «História da TV Sergipe». emsergipe.com. Consultado em 15 de novembro de 2010
+↑ Thaís Bezerra (25 de janeiro de 2009). «TV Atlaaia Digital». Jornal da Cidade. Consultado em 10 de agosto de 2010
+↑ «Transmissão de TV Digital da TV Sergipe». emsergipe.com. Consultado em 1 de março de 2010
+↑ Fredson Navarro; Flávio Antunes (2 de novembro de 2010). «Parque Eólico consolida-se como marco da energia limpa em Sergipe». G1. Consultado em 2 de novembro de 2010  A referência emprega parâmetros obsoletos |coautor= (ajuda)
+↑ «Sergipe - Infraestrutura». CODISE. Consultado em 10 de agosto de 2010
+↑ «Aeroporto de Aracaju — Santa Maria». Infraero. Consultado em 6 de setembro de 2010
+↑ Lei de 28 de fevereiro de 1835.
+↑ Decreto n° 658, de 26
+de dezembro de 1917.
+↑ Lei nº 791, de 1 de outubro de 1920.
+↑ Dilson Ferraz de Souza. «A PMSE na atualidade». Polícia Militar do Estado de Sergipe. Consultado em 14 de setembro de 2010
+↑ «Governo corta R$ 30 milhões da educação». Infonet - Sua internet com muito mais vantagens. Consultado em 21 de dezembro de 2016
+↑ «Sergipe não atinge meta do ensino médio, diz Ideb». Sergipe. 8 de setembro de 2016
+↑ «L9394». www.planalto.gov.br. Consultado em 21 de dezembro de 2016
+↑ «Tobias Barreto - Biografia». Academia Brasileira de Letras. Consultado em 10 de agosto de 2010
+↑ a b «Breve história da música em Sergipe». Portal de Sergipe. Consultado em 10 de agosto de 2010
+↑ «Folclore Sergipano - Saiba tudo sobre o folclore sergipano com esse guia.». Sergipe Turismo
+↑ Janaina Cruz (Agosto de 2005). «Especial Folclore: A riqueza dos grupos de Sergipe». Portal Infonet. Consultado em 9 de agosto de 2010
+↑ «COnheça Sergipe - Folclore». conhecasergipe.com.br. Consultado em 9 de agosto de 2010
+↑ «Começa o 35º Encontro Cultural de Laranjeiras». Portal Infonet. 7 de janeiro de 2010. Consultado em 9 de agosto de 2010
+↑ «Cidade de Lagarto para ao assistir estreia de Diego Costa na Seleção.Atacante entra no segundo tempo do amistoso contra a Itália e moradores do município do interior de Sergipe comemoram, entre eles o primeiro treinador». Globo.com. 21 de março de 2013. Consultado em 4 de abril de 2013
+↑ «Diego Costa supera Messi e CR7, e acirra disputa entre Brasil e Espanha». Técnicos de ambas as seleções já admitiram que contam com o futebol do atacante. Jogador do Atlético de Madrid ainda não revelou por onde vai atuar. GE Sergipe. 20 de outubro de 2013. Consultado em 13 de janeiro de 2014
+↑ «Mariana Dantas ganha dois ouros». Jornal da Cidade. 6 de maio de 2009. Consultado em 9 de agosto de 2010
+↑ João Gabriel Rodrigues (5 de junho de 2009). «Inspirado em Zeca Pagodinho e Almir Guineto, Maguila revela lado sambista». Globo.com. Consultado em 9 de agosto de 2010
+↑ «Festas em Sergipe - Saiba mais sobre as festividades em todo o estado.». Sergipe Turismo
+↑ infonet.com.br. «Pré-caju - História». Consultado em 14 de setembro de 2010
+Bibliografia[editar | editar código-fonte]
+Carvalho, Fernando Lins de (2003). A pré-história sergipana (PDF) 1 ed. Aracaju: Museu de Arqueologia de Xingó, Universidade Federal de Sergipe. 159 páginas. Consultado em 12 de agosto de 2010. Arquivado do original (PDF) em 6 de julho de 2011
+Freire, Felisbelo (1891). História de Sergipe.
+Alves, Francisco José (2005). Contribuições à Arqueologia de Sergipe Colonial. web.archive.org - ihgse.org.br - pdf Revista do IHGSE nº 34, Pgs. 39-53. Aracaju.
+Ligações externas[editar | editar código-fonte]
+Outros projetos Wikimedia também contêm material sobre este tema:
+Livros e manuais no Wikilivros
+Citações no Wikiquote
+Imagens e media no Commons
+Commons
+Wikiquote
+Wikilivros
+O Wikivoyage possui o guia Sergipe
+«Página oficial do Governo de Sergipe»
+«Assembleia Legislativa de Sergipe»
+«Tribunal de Justiça de Sergipe»
+vde Sergipe Portal — Geografia, Política, Cultura, EsportesCapitalAracajuDivisão regional vigente (desde 2017)Regiões geográficas intermediárias e imediatasDivisão regional extinta (vigente até 2017)Mesorregiões e microrregiõesRegiões metropolitanas e RIDEsAracajuMais de 150.000 habitantesAracaju • Nossa Senhora do SocorroMais de 100.000 habitantesLagartoMais de 80.000 habitantesItabaiana • São CristóvãoMais de 50.000 habitantesEstância • Tobias BarretoNordeste, Brasil
+vdeRegião Nordeste do BrasilEstados
+Alagoas
+Bahia
+Ceará
+Maranhão
+Paraíba
+Pernambuco
+Piauí
+Rio Grande do Norte
+Sergipe
+História
+Invasões holandesas
+Guerra dos Bárbaros
+Guerra Luso-Holandesa
+Insurreição do Crato
+Confederação do Equador
+Sedição de Juazeiro
+Imigração italiana
+Litígio de limites entre Ceará e Piauí
+Geografia
+Municípios por área
+Seca
+Hidrovia do São Francisco
+Bacia do rio São Francisco
+Sub-regiões
+Agreste
+Meio-Norte
+Sertão
+Zona da Mata
+Outras áreas específicas
+Nordeste Oriental
+Polígono das secas
+Seridó
+Vale do São Francisco
+Economia
+Aeroportos
+Municípios mais ricos
+Infraestrutura
+Região geoeconômica
+Turismo
+Outros tópicos
+Cultura
+ALANE
+Esportes
+Futebol
+Demografia
+Povos indígenas
+Migração
+Retirante
+Municípios mais populosos
+Problemas sociais
+Política
+Fórum dos Governadores
+Consórcio Nordeste
+vde Regiões e unidades federativas do Brasil
+Subdivisões do Brasil
+Unidades da FederaçãoRegião Norte
+Acre
+Amapá
+Amazonas
+Pará
+Rondônia
+Roraima
+Tocantins
+Região Nordeste
+Alagoas
+Bahia
+Ceará
+Maranhão
+Paraíba
+Pernambuco
+Piauí
+Rio Grande do Norte
+Sergipe
+Região Centro-Oeste
+Distrito Federal
+Goiás
+Mato Grosso
+Mato Grosso do Sul
+Região Sudeste
+Espírito Santo
+Minas Gerais
+Rio de Janeiro
+São Paulo
+Região Sul
+Paraná
+Rio Grande do Sul
+Santa Catarina
+Arquipélagos
+Anavilhanas
+Fernando de Noronha
+Atol das Rocas
+Arquipélago de São Pedro e São Paulo
+Trindade e
+Martim Vaz
+Geoeconômicas
+Amazônica
+Centro-Sul
+Nordeste
+Propostas de criação de unidades federativas do Brasil
+Controle de autoridade
+: Q43783
+WorldCat
+VIAF: 148919553
+BNF: 11938655b
+EBID: ID
+GEC: 0061952
+GND: 4241568-8
+LCCN: n80046754
+OSM: 303940
+MusicBrainz: ID
+GeoNames: 3447799
+TGN: 1001955
+Portal de Sergipe
+Portal do Brasil
+Portal da região Nordeste do Brasil
+Obtida de https://pt.wikipedia.org/w/index.php?title=Sergipe&oldid=62264240
+Categoria: SergipeCategorias ocultas: !Páginas com argumentos formatnum não numéricos!Artigos com ligações inativas!Páginas que usam referências com parâmetros obsoletas!Páginas com erro de uso da predefinição Fmtn!Artigos que carecem de notas de rodapé!Artigos que carecem de notas de rodapé sem indicação de tema!Páginas que utilizam Nobold com segundo parâmetro sem nome!Artigos que carecem de notas de rodapé desde setembro de 2011
+Esta página foi editada pela última vez às 22h37min de 18 de outubro de 2021.
+Este texto é disponibilizado nos termos da licença Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as condições de utilização.
+Política de privacidade
+Sobre a Wikipédia
+Avisos gerais
+Versão móvel
+Programadores
+Estatísticas
+Declaração sobre cookies');
+Document.create!(url: 'https://pt.wikipedia.org/wiki/Tocantins', title: 'Tocantins – Wikipédia, a enciclopédia livre', body: 'Tocantins – Wikipédia, a enciclopédia livre
+Saltar para o conteúdo
+Alternar barra lateral
+Busca
+Links do usuário
+Criar uma conta
+Ferramentas pessoais
+expandido
+collapsed
+Criar uma conta
+Entrar
+Páginas para editores conectados saiba mais
+DiscussãoContribuições
+Navegação
+Página principalConteúdo destacadoEventos atuaisEsplanadaPágina aleatóriaPortaisInformar um erro
+Colaboração
+Boas-vindasAjudaPágina de testesPortal comunitárioMudanças recentesManutençãoCriar páginaPáginas novasContatoDonativos
+Ferramentas
+Páginas afluentesAlterações relacionadasCarregar ficheiroPáginas especiaisHiperligação permanenteInformações da páginaCitar esta páginaElemento Wikidata
+Imprimir/exportar
+Criar um livroDescarregar como PDFVersão para impressão
+Noutros projetos
+Wikimedia CommonsWikinotíciasWikivoyage
+Espaços nominais
+ArtigoDiscussão
+Variantes
+expandido
+collapsed
+Vistas
+LerEditarEditar código-fonteVer histórico
+Mais
+expandido
+collapsed
+90 idiomas
+expandido
+collapsed
+AfrikaansالعربيةAsturianuAymar aruAzərbaycancaБеларускаяБеларуская (тарашкевіца)Българскиবিষ্ণুপ্রিয়া মণিপুরীBrezhonegBosanskiCatalàCebuanoQırımtatarcaČeštinaCymraegDanskDeutschཇོང་ཁΕλληνικάEmiliàn e rumagnòlEnglishEsperantoEspañolEestiEuskaraفارسیSuomiFrançaisGaeilgeGalegoAvañeẽעבריתहिन्दीHrvatskiMagyarՀայերենInterlinguaBahasa IndonesiaIdoItaliano日本語ქართულიҚазақша한국어KernowekLatinaLadinoLimburgsLietuviųLatviešuMalagasyМакедонскиमराठीBahasa MelayuNederlandsNorsk nynorskNorsk bokmålOccitanИронPolskiPiemontèisپنجابیRuna SimiRomânăРусскийScotsSrpskohrvatski / српскохрватскиSimple EnglishSlovenčinaСрпски / srpskiSvenskaKiswahiliTetunТоҷикӣไทยTürkçeТатарча/tatarçaУкраїнськаاردوVènetoTiếng ViệtVolapükWinaray吴语მარგალურიYorùbá中文Bân-lâm-gú粵語
+Editar hiperligações
+Tocantins
+Origem: Wikipédia, a enciclopédia livre.
+Coordenadas: 10.19° S 48.17° O
+Nota: Para outros significados, veja Tocantins (desambiguação).
+Nota: Não confundir com Tonantins.
+Este artigo cita fontes, mas estas não cobrem todo o conteúdo. Ajude a inserir referências. Conteúdo não verificável poderá ser removido.—Encontre fontes: Google (notícias, livros e acadêmico) (Setembro de 2021)
+Estado do Tocantins
+Bandeira
+Brasão
+Lema: Co yvy ore retama
+Este solo é a nossa terra [1]
+Hino: Hino do Tocantins
+Gentílico: tocantinense
+Localização
+- Região
+Norte
+- Estados limítrofes
+Goiás (S), Mato Grosso (O e SO), Pará (O e NO), Maranhão (N, NE e L), Piauí (L) e Bahia (L e SE)
+- Regiões geográficas   intermediárias
+3
+- Regiões geográficas   imediatas
+11
+- Municípios
+139
+Capital
+Palmas
+Governo
+- Governador(a)
+Mauro Carlesse (PSL)
+- Vice-governador(a)
+Wanderlei Barbosa (sem partido)
+- Deputados federais
+8
+- Deputados estaduais
+24
+- Senadores
+Irajá Abreu (PSD)Kátia Abreu (PP)Eduardo Gomes (MDB)
+Área
+- Total
+277 620,914 km² (10º) [2]
+População
+2021
+- Estimativa
+1 607 363 hab. (24º)[3]
+- Densidade
+5,79 hab./km² (23º)
+Economia
+2018[4]
+- PIB
+R$ 35.666.000 bilhões (24º)
+- PIB per capita
+R$ 22.933,07 (15º)
+Indicadores
+2010/2016[5][6]
+- Esperança de vida (2017)
+73,7 anos (18º)
+- Mortalidade infantil (2017)
+15,3‰ nasc. (14º)
+- Alfabetização (2019)
+90,3% (17º)
+- IDH (2017)
+0,743 (13º) – alto [7]
+Fuso horário
+UTC−3
+Clima
+Tropical seco e tropical úmido Aw, Am
+Cód. ISO 3166-2
+BR-TO
+Site governamental
+http://portal.to.gov.br/
+Tocantins é uma das 27 unidades federativas do Brasil, sendo o seu mais novo estado.[8] Está localizado a sudeste da Região Norte e tem como limites Goiás a sul, Mato Grosso a oeste e sudoeste, Pará a oeste e noroeste, Maranhão a norte, nordeste e leste, Piauí a leste e Bahia a leste e sudeste. Sua capital é a cidade planejada de Palmas que, dentre as capitais estaduais brasileiras, é a menos populosa. Na bandeira nacional e no selo nacional do Brasil, o Tocantins é representado pela estrela Adhara (ε Canis Majoris).
+Ocupa uma área de 277 720,520 km², pouco maior que o Equador e a Nova Zelândia, sendo a décima maior unidade federativa em área territorial no Brasil. Com mais de 1,6 milhão de habitantes, é o quarto estado mais populoso da Região Norte e o vigésimo quarto mais populoso do Brasil. Apenas dois de seus municípios possuem população acima de 100 mil habitantes: Palmas, a capital e sua maior cidade com quase 290 mil habitantes em 2017, e Araguaína, com cerca de 175 mil habitantes. Tocantins possui um dos mais baixos índices de densidade demográfica no país, superior apenas ao dos estados de Roraima, Amazonas, Mato Grosso e Acre. Conforme dados do Instituto Brasileiro de Geografia e Estatística, em 2017 a densidade demográfica equivale a 5,58 habitantes por quilômetro quadrado.[9]
+Além de Palmas e Araguaína, outras cidades importantes no estado são Gurupi, Porto Nacional e Paraíso do Tocantins. Juntos, estes cinco municípios abrigavam, em 2015, cerca de 42,22 por cento da população total do estado.[10] O relevo apresenta chapadas ao centro, ao sul e ao leste, a Serra Geral a sudeste, a Serra das Traíras (ou das Palmas) ao sul, e a planície do Araguaia, com a Ilha do Bananal, nas regiões norte, oeste e sudoeste. São importantes o Rio Tocantins (incluindo o Rio Maranhão), o Rio Araguaia, o Rio Javaés, o Rio do Sono, o Rio das Balsas, o Rio Manuel Alves e o rio Paranã. O clima é tropical. Veja lista de rios do Tocantins.
+A economia tocantinense se baseia no comércio, na agricultura (arroz, milho, feijão, soja, melancia), na pecuária e em criações. No setor terciário suas principais atividades estão concentradas em Palmas e também nos municípios que estão localizados às margens da Rodovia Belém-Brasília, principal via de ligação da capital federal com a parte norte do Brasil. Possui o segundo maior Índice de Desenvolvimento Humano (IDH) e o quarto maior PIB per capita entre todos os estados do Norte do Brasil. A Serra das Traíras, localizada no município de Paranã e na divisa com Goiás, é o ponto mais elevado no estado, com 1 340 metros de altitude.[11]
+Índice
+1 Etimologia
+2 História
+2.1 Primeiros movimentos emancipacionistas
+2.2 Constituição de 1988
+3 Geografia
+3.1 Relevo
+3.2 Clima
+3.3 Hidrografia
+3.4 Unidades de Conservação
+4 Demografia
+4.1 Religião
+4.2 Grupos étnicos
+4.3 Cidades mais populosas
+5 Governo e política
+6 Subdivisões
+6.1 Regiões geográficas intermediárias
+7 Economia
+8 Infraestrutura
+8.1 Transportes
+8.2 Educação
+9 Cultura
+9.1 Esportes
+10 Ver também
+11 Referências
+12 Ligações externas
+Etimologia[editar | editar código-fonte]
+O nome Tocantins é uma referência ao rio Tocantins, que corta o estado de sul ao norte. Trata-se de um termo oriundo do tupi antigo, onde significa bicos de tucanos, através da junção dos termos tukana (tucanos) e tim (bicos). O nome do rio, por sua vez, é uma referência à tribo indígena que habitava a região na época da chegada dos primeiros colonizadores portugueses.[12]
+História[editar | editar código-fonte]
+Ver artigo principal: História do Tocantins
+Ver também: História de Goiás
+Primeiros movimentos emancipacionistas[editar | editar código-fonte]
+Mapa da Província do Araguaia que seria criada durante o Império do Brasil onde hoje seria o Tocantins, 1873. Arquivo Nacional.
+Ruínas da Igreja de Nossa Senhora do Rosário dos Pretos em Natividade
+Em 1821, o Desembargador
+Dr. Joaquim Teotônio Segurado chegou a proclamar um governo autônomo, mas o movimento foi reprimido e a luta pela emancipação do norte goiano ficou estagnada, até que em 13 de maio de 1956, o Dr. Feliciano Machado Braga, Juiz de Direito de Porto Nacional — juntamente com o Prof. Fabrício César Freire, o Bioquímico Dr. Oswaldo Ayres da Silva, o Jornalista João Matos Quinaud, o Advogado Dr. Francisco Mascarenhas, o Escrivão Pethion Pereira Lima e o Odontólogo Dr. Severo Gomes, com a adesão das entidades: ATI – Associação Tocantinense de Imprensa, CENOG – Casa do Estudante do Norte Goiano e UAO – União Artística e Operária —, lançou o Movimento Pró-Criação do Estado do Tocantins, como uma expressão do desejo emancipacionista do norte de Goiás. Formaram-se comissões para estudar as formas de implantação do novo estado, sendo criados, então uma bandeira e um hino.
+Durante quatro anos, foram realizadas paradas cívicas no dia 13 de maio alusivas à data de lançamento do movimento.
+Em sinal de sua dedicação à causa, o juiz Feliciano Machado Braga passou a despachar documentos oficiais como: Porto Nacional, Estado do Tocantins. O juiz Feliciano Machado Braga foi transferido de Porto Nacional e assim, o movimento perdeu sua força e seu líder maior de então. A ocorrência de intensos conflitos agrários na região do Bico do Papagaio, na divisa entre o norte de Tocantins, o Pará e o Maranhão, a partir de 1960, alimentou a causa dos que defendiam a emancipação da região, ao longo das décadas seguintes.
+Constituição de 1988[editar | editar código-fonte]
+Em 1982, houve rumores no qual se afirmava que o governo federal estaria disposto a criar o Território Federal do Tocantins de modo a contrabalançar a influência do Partido do Movimento Democrático Brasileiro na Região Norte do país, tendo em vista a conquista dos governos do Amazonas, Pará e Acre pela legenda oposicionista, restando ao Partido Democrático Social o controle, por nomeação presidencial, do estado de Rondônia e dos territórios federais do Amapá e Roraima. Tal alarido logo foi desmentido. Entretanto, o movimento autonomista já havia se articulado e, em 1985, o então senador Benedito Vicente Ferreira, pertencente ao Partido da Frente Liberal (PFL) de Goiás, protocolou no Senado Federal um projeto de lei que propunha a criação do estado do Tocantins, este sob o número Nº 201. Depois de ter seu projeto vetado por José Sarney, que ocupava a Presidência da República, José Wilson Siqueira Campos, membro do Partido Democrático Social e deputado federal por Goiás, apresentou ao Congresso Nacional um projeto de lei criando o estado do Tocantins. Aprovado pelos parlamentares em março, foi encaminhado ao presidente José Sarney, que novamente o vetou em 3 de abril de 1985. À época, José Sarney afirmou que tal matéria deveria ser submetida à Constituinte, que elaboraria a nova Constituição nacional.[13]
+Durante a Assembleia Nacional Constituinte, ocorreu uma nova tentativa de emancipação da região. O artigo 13 do Ato das Disposições Constitucionais Transitórias, estabeleceu condições para a criação do novo estado no bojo de uma reforma que extinguiu os territórios federais existentes e concedeu plena autonomia política ao Distrito Federal. Dessa forma, em 5 de outubro de 1988, o norte do estado de Goiás foi emancipado, passando a se chamar Tocantins, com sua instalação definitiva ocorrendo em 1º de janeiro de 1989. Após sua instalação, o Tocantins foi inserido na Região Norte do Brasil, uma vez que, enquanto pertencente à Goiás, era parte da Região Centro-Oeste brasileira.[14]
+Geografia[editar | editar código-fonte]
+Relevo[editar | editar código-fonte]
+O Morro da Pedra Furada em Ponte Alta do Tocantins.
+Vista da cidade de Lizarda.
+Morro do Segredo, no Parque Estadual do Lajeado
+Cachoeira da Formiga, no Parque Estadual do Jalapão
+O relevo do estado do Tocantins é sóbrio. Pertence ao Planalto Central Brasileiro. Caracteriza-se, sobretudo, pelo solo sob cerrados, predominando, na sua maioria, superfícies tabulares e aplainadas, resultantes dos processos de pediplanação. As principais regiões geográficas do estado são a Chapada da Bahia do Meio-Norte, com altitudes variadas de 300 a 600 metros e
+representadas pela Serra da Cangalha e Mangabeira no Município de Itacajá; Chapada da Bacia de São Francisco, um divisor das águas das Bacias São Francisco/Tocantins, com altitude média de 900 metros e representada pela Serra Geral de Goiás; Planalto do Tocantins, com altitude médias de 700 metros; e a Peneplanície do Araguaia, constituída por um peneplano de colinas suaves com altitudes de 300 a 400 metros, ao longo dos vales dos rios Araguaia e das Mortes. O estado, num todo, é caracterizado por variadas gamas de rochas ígneas e metamórficas do complexo cristalino e unidades sedimentares de diversas idades.[11]
+O ponto culminante do estado fica localizado na nascente do Rio Claro, no extremo sul do município de Paranã, numa serra conhecida como Serra das Traíras (ou das Palmas). O local possui uma altitude aproximada de 1 340 metros, segundo o Instituto Brasileiro de Geografia e Estatística (IBGE) e a Diretoria de Serviço Geográfico do Exército Brasileiro, estando a apenas 2,5 km da divisa com o estado de Goiás.[15][16] Pode-se chegar até a região através da TO-130, da GO-241 e da GO-464 que é a rodovia asfaltada mais próxima (via Minaçu - Goiás). As localidades mais próximas do local são o povoado do Mocambo (ou Baliza) e o povoado do Campo Alegre, em Paranã, além do povoado São José e da UHE Cana Brava, em Goiás.[11]
+Já o ponto mais baixo do estado, está localizado na extremidade oeste da Ilha dos Bois em Esperantina, na tríplice divisa com os estados do Pará e do Maranhão. Este ponto possui noventa metros de altitude, estando situado bem próximo à cidade paraense de São João do Araguaia. A Ilha dos Bois se encontra localizada logo após a confluência entre os rios Tocantins e Araguaia, sendo que toda a bacia hidrográfica do estado (Bacia do Tocantins-Araguaia) segue em direção à ilha.
+Clima[editar | editar código-fonte]
+O clima do estado é o tropical de savana (Aw, em Köppen), que é caracterizado por uma estação chuvosa (de outubro a abril) e outra seca (de maio a setembro). É condicionado fundamentalmente pela sua ampla extensão latitudinal e pelo relevo de altitude gradual e crescente de norte a sul, que variam desde as grande planícies fluviais até as plataformas e cabeceiras elevadas entre duzentos e seiscentos metros, especialmente pelo relevo mais acidentado, acima de seiscentos metros de altitude, ao sul. Há uma certa homogeneidade climática no Tocantins. Porém, por sua grande extensão de contorno vertical definem-se duas áreas climáticas distintas.
+Ao Norte do paralelo 6ºS, onde o relevo é suavemente ondulado, coberto pela Floresta Fluvial Amazônica, o clima é mais úmido, segundo Köppen, sem inverno seco. Com temperaturas médias anuais variando entre 24 °C e 28 °C, as máximas ocorrem em agosto/setembro com 38 °C e a média mínima mensal em julho, com 22 °C, sendo que a temperatura média anual é de 26 °C. Em geral as precipitações pluviométricas são variáveis entre 1 500 e 2 100 mm, com chuvas de novembro a março.
+Ao Sul do paralelo 6º S, onde o clima predominante é semiúmido ou sazonalmente seco, os meses chuvosos e os secos se equilibram e as temperaturas médias anuais diminuem lentamente, à medida que se eleva a altitude. As máximas coincidem com o rigor das secas em setembro/outubro com ar seco e enfumaçado das queimadas de pastos e cerrados. Assim, a temperatura compensada no extremo sul, varia de 22 °C e 23 °C, no centro varia de 26 °C a 27 °C e no norte, de 22 °C a 23 °C. As chuvas ocorrem de outubro a abril.
+Hidrografia[editar | editar código-fonte]
+O Rio Javaés e a Ilha do Bananal, Formoso do Araguaia, no Parque Nacional do Araguaia, a maior ilha fluvial do mundo.[17]
+A hidrografia do estado do Tocantins é delimitada a oeste pelo Rio Araguaia e ao centro pelo Rio Tocantins.[18] Ambos correm de sul para norte e se unem no município de Esperantina, banhando boa parte do território tocantinense. O
+Projeto de Desenvolvimento Integrado da Bacia do Araguaia-Tocantins (PRODIAT) dividiu a hidrografia do estado em duas sub-bacias: Sub-bacia do Rio Araguaia: formada pelo Rio Araguaia e seus afluentes, tendo um terço de seu volume no estado; Sub-bacia do Rio Tocantins: formada pelo Rio Tocantins e seus afluentes, ocupando dois terços de seu volume aproximadamente no Estado.[19][20]
+O Rio Araguaia nasce nas vertentes da Serra do Caiapó e corre de sul para norte, formando a maior ilha fluvial do mundo, a Ilha do Bananal e lança suas águas no Tocantins, depois de percorrer 1 135 km engrossado por seus afluentes. O rio Tocantins nasce em Goiás, com o nome de Rio Padre Souza, no limite entre os municípios de Ouro Verde de Goiás (GO), Anápolis (GO) e Petrolina de Goiás (GO). O Rio Tocantins só passa a receber o seu nome após a confluência entre o Rio das Almas e o Rio Maranhão, localizada entre os municípios tocantinenses de Paranã e São Salvador do Tocantins. Sendo um rio de planalto, lança suas águas barrentas em plena baía de Guajará, no Pará.[19] O regime hídrico da Bacia Araguaia-Tocantins é bem definido, apresentando um período de estiagem, que culmina em setembro-outubro e um período de cheias, de fevereiro a abril. Há anos em que as enchentes ocorrem mais cedo, em dezembro, dependendo da antecipação das chuvas nas cabeceiras. (MINTER/1988).[19]
+Unidades de Conservação[editar | editar código-fonte]
+Parque Estadual do Cantão
+O estado do Tocantins possui várias Unidades de Conservação de âmbito Federal e Estadual.[21] As unidades de conservação federais são: Parque Nacional das Nascentes do Rio Parnaíba;[22] Parque Nacional do Araguaia;[23] Estação Ecológica da Serra Geral do Tocantins;[24] Área de Proteção Ambiental dos Meandros do Rio Araguaia; Área de Proteção Ambiental Serra da Tabatinga[25] e Reserva Extrativista do Extremo Norte do Tocantins.[26]
+As unidades de conservação estaduais são: Parque Estadual do Cantão; Parque Estadual do Jalapão; Parque Estadual do Lajeado; Monumento Natural das Árvores Fossilizadas do Estado do Tocantins; Área de Proteção Ambiental das Nascentes de Araguaína; Área de Proteção Ambiental do Rio Taquari; Área de Proteção Ambiental Foz do Rio Santa Teresa; Área de Proteção Ambiental Ilha do Bananal/Cantão; Área de Proteção Ambiental Jalapão; Área de Proteção Ambiental Lago de Peixe-Angical; Área de Proteção Ambiental Lago de Palmas; Área de Proteção Ambiental Lago de Santa Isabel; Área de Proteção Ambiental Lago de São Salvador do Tocantins, Paranã e Palmeirópolis; Área de Proteção Ambiental Sapucaia e Área de Proteção Ambiental Serra do Lajeado. Em 5 de abril de 2005, através da Lei Estadual nº 1.560, o Governo do Estado do Tocantins instituiu o Sistema Estadual de Unidades de Conservação (SEUC), estabelecendo os critérios e normas para a criação e gestão das unidades estaduais.
+Vista panorâmica do Parque Estadual do Jalapão
+Demografia[editar | editar código-fonte]
+Religião[editar | editar código-fonte]
+O Tocantins é um dos Estados mais religiosos do Brasil, mostra a pesquisa Novo Mapa das Religiões, divulgado pela Fundação Getulio Vargas (FGV), no Rio de Janeiro, no dia 24 de agosto. Tanto no índice de católicos, quanto no de evangélicos, o Estado está bem posicionado no ranking nacional, conforme mostra a pesquisa. Segundo o levantamento, 70,6% dos tocantinenses, ou seja 969 727 pessoas, são católicos, o que garante ao Estado 14º lugar no ranking. O Estado está em 10º lugar em número de protestantes, com 21,96% de sua população, ou seja 301 631 pessoas. Desses protestantes, 15,51% são pentecostais e 5,19% pertencem a outras correntes, entre elas as tradicionais. Contudo, a pesquisa da FGV revela que o Tocantins está menos católico hoje do que quando foi realizado o último levantamento, em 2003. Naquele ano, os católicos representavam 79,83% da população (hoje são 70,6%).[27]
+Grupos étnicos[editar | editar código-fonte]
+Grupos étnicos
+do Tocantins[28]
+Etnia
+% aprox.
+Pardos
+68,8%%
+Brancos
+24,2%
+Pretos
+6,8%
+Amarelos ou Indígenas
+0,3%
+No Tocantins, assim como no restante do país, foram os índios os seus primeiros habitantes, sendo de assinalar que, após o descobrimento, houve um genocídio da raça indígena, uma vez que eram em número superior a 150 mil os que povoaram especialmente a zona litorânea. Mesmo assim, até hoje ainda existe no Tocantins um pequeno grupo de índios isolados da tribo Avá-Canoeiro, que vivem sem nenhum tipo de contato com a civilização na região da Mata do Mamão, localizada no interior da Ilha do Bananal.
+Até hoje estes índios continuam rejeitando qualquer tentativa de contato, sendo que já foram encontrados diversos vestígios que indicam a presença deles na Mata do Mamão. Entre os principais grupos étnicos indígenas do estado, estão:apinayé; krahô; xerente; xambioá; karajá; javaé; avá-Canoeiro (incluindo os Isolados da Mata do Mamão); Krahô-Kanela; Tapirapé; Pankararu.
+Cidades mais populosas[editar | editar código-fonte]
+verdiscutireditar Municípios mais populosos do Tocantins
+(Estimativa 2019 do Instituto Brasileiro de Geografia e Estatística)[29]
+PalmasAraguaína
+Posição
+Localidade
+Região intermediária
+Pop.
+Posição
+Localidade
+Divisão administrativa
+Pop.
+1
+Palmas
+Palmas
+299 127
+11
+Formoso do Araguaia
+Gurupi
+18 440
+2
+Araguaína
+Araguaína
+180 470
+12
+Augustinópolis
+Araguaína
+18 412
+3
+Gurupi
+Gurupi
+86 647
+13
+Miracema do Tocantins
+Palmas
+18 248
+4
+Porto Nacional
+Palmas
+53 010
+14
+Taguatinga
+Gurupi
+16 683
+5
+Paraíso do Tocantins
+Palmas
+51 252
+15
+Pedro Afonso
+Araguaína
+13 578
+6
+Araguatins
+Araguaína
+35 761
+16
+Miranorte
+Palmas
+13 426
+7
+Colinas do Tocantins
+Araguaína
+35 424
+17
+Lagoa da Confusão
+Palmas
+13 357
+8
+Guaraí
+Araguaína
+25 923
+18
+Goiatins
+Araguaína
+13 019
+9
+Tocantinópolis
+Araguaína
+22 870
+19
+São Miguel do Tocantins
+Araguaína
+12 139
+10
+Dianópolis
+Gurupi
+22 139
+20
+Nova Olinda
+Araguaína
+11 819
+Governo e política[editar | editar código-fonte]
+Palácio do Araguaia, sede do governo do estado
+O Tocantins é um estado da federação, sendo governado por três poderes, o executivo, representado pelo governador, o legislativo, representado pela Assembleia Legislativa do Tocantins, e o judiciário, representado pelo Tribunal de Justiça do Estado do Tocantins e outros tribunais e juízes. Também se permite, nas decisões do governo, a participação popular, que dar-se-á sob a forma de referendos e plebiscitos.[30]
+O município de Palmas é quem detém o maior número de eleitores, com 172 344 mil destes. Em seguida aparecem Araguaína, com 102,8 mil eleitores, Gurupi (55,2 mil eleitores), Porto Nacional (37,1 mil eleitores) e Paraíso do Tocantins, Colinas do Tocantins e Araguatins, com 31,5 mil, 21,6 mil e 21,1 mil eleitores, respectivamente. O município com menor número de eleitores é São Félix do Tocantins, com 1,3 mil.[31]
+Tratando-se sobre partidos políticos, 34 dos 35 partidos políticos brasileiros possuem representação no estado.[32] Conforme informações divulgadas pelo Tribunal Superior Eleitoral (TSE), com base em dados de outubro de 2016, o partido político com maior número de filiados no Tocantins é o Partido do Movimento Democrático Brasileiro (PMDB), com 32 824 membros, seguido do Partido Progressista (PP), com 19 083 membros e do Democratas (DEM), com 18 304 filiados. Completando a lista dos cinco maiores partidos políticos no estado, por número de membros, estão o Partido da Social Democracia Brasileira (PSDB), com 17 197 membros; e o Partido da República (PR), com 12 926 membros. Ainda de acordo com o Tribunal Superior Eleitoral, o Partido Novo (NOVO) e o Partido Socialista dos Trabalhadores Unificado (PSTU) são os partidos políticos com menor representatividade na unidade federativa, com 4 e 9 filiados, respectivamente.[32] Não há membros do Partido da Causa Operária (PCO) no Tocantins, na data de divulgação supracitada.[32]
+O estado foi governado, de 1.º de janeiro de 2015 a 22 de março de 2018, e de 6 a 19 de abril do mesmo ano, por Marcelo Miranda (PMDB), tendo como vice-governadora Cláudia Lelis (PV). O Tribunal Superior Eleitoral cassou os mandatos de ambos e uma eleição suplementar foi marcada para o dia 3 de junho. O Tocantins passou a ser governado por Mauro Carlesse (PHS) até 31 de dezembro de 2018.[33][34]
+Subdivisões[editar | editar código-fonte]
+Divisão das regiões intermediárias em vermelho e imediatas em cinza.
+Ver artigos principais: Lista de regiões geográficas intermediárias e imediatas do Tocantins e Lista de municípios do Tocantins por população
+O Tocantins é dividido em três regiões intermediárias e onze regiões imediatas.[35]
+Regiões geográficas intermediárias[editar | editar código-fonte]
+Região geográfica intermediária[35]
+Código
+Número de municípios
+Regiões geográficas imediatas
+Código
+Número de municípios
+Palmas
+1701
+42
+Palmas
+170001
+10
+Porto Nacional
+170002
+13
+Paraíso do Tocantins
+170003
+14
+Miracema do Tocantins
+170004
+5
+Araguaína
+1702
+65
+Araguaína
+170005
+21
+Guaraí
+170006
+14
+Colinas do Tocantins
+170007
+9
+Tocantinópolis
+170008
+8
+Araguatins
+170009
+13
+Gurupi
+1703
+32
+Gurupi
+170010
+18
+Dianópolis
+170011
+14
+Economia[editar | editar código-fonte]
+Exportações do Tocantins - (2012)[36]
+O Tocantins é conhecido como uma terra nova, de novas possibilidades e oportunidades, atrativa para migrantes e propícia ao aporte de novos investimentos com uma série de incentivos fiscais: a economia tocantinense está assentada em um agressivo modelo expansionista de agroexportações e é marcada por seguidos records de hiper-superávits primários: a maioria de sua pauta de exportação é soja em grão e carne bovina, revelando sua forte inclinação agropecuária.
+Em 2005, Tocantins exportou 158,7 milhões de dólares e importou 14,3 milhões. Sua indústria é principalmente a agroindústria, centralizada em seis distritos instalados em cinco cidades-polo: Palmas, Araguaína, Gurupi, Porto Nacional e Paraíso do Tocantins. Sua indústria é ainda pequena e voltada principalmente para consumo próprio. Observa-se uma economia, que com sucesso consegue reter capitais com sua pequena indústria (reduzindo a necessidade de importações), uma população com renda per capita em posição mediana, uma potência agrícola em expansão com um PIB cada vez maior e com deficiências principalmente no setor secundário (indústrias).
+Palmas, a capital e maior cidade do estado do Tocantins.
+Arroz irrigado em Formoso do Araguaia.
+Fazenda de criação de Gado bovino em Formoso do Araguaia.
+O valor bruto da produção agrícola do estado foi estimado em mais de R$ 7,6 bilhões em 2019.[37] Na soja, o Tocantins é o maior produtor da Região Norte do Brasil. Na safra de 2019, o Tocantins colheu 3 milhões de toneladas.[38][39] No milho, o estado colheu perto de 1 milhão de toneladas em 2019.[40] Em 2019, o Tocantins foi líder na produção de arroz na região Norte, tornando-se o terceiro maior produtor do Brasil. Colheram mais de 670 mil toneladas na safra 2016/2017.[41] Em relação ao abacaxi, em 2018, o Tocantins foi o sexto maior estado produtor do Brasil, com 69 milhões de frutas.[42] Em 2019, o rebanho bovino do estado era de 8 milhões de animais. [43]
+Sobre a indústria, o Tocantins teve um PIB industrial de R$ 4,5 bilhões em 2017, equivalente a 0,4% da indústria nacional. Emprega 30.234 trabalhadores no setor. Os principais setores industriais são: Construção (34,1%), Serviços Industriais de Utilidade Pública, como Eletricidade e Água (28,4%), Alimentos (22,5%), Minerais não metálicos (5,2%) e Químicos (1,5%). Esses 5 setores concentram 91,7% da indústria do estado.[44]
+O potencial exportador do estado vem aumentando consideravelmente, tendo o Tocantins, em 2012, exportado aproximadamente 644 milhões de dólares, divididos principalmente em soja (69,37%), carne bovina congelada (20,29%), álcool etílico (3,35%), carne bovina (2,58%) e miúdos comestíveis (1,34%).[36] Boa parte de suas importações é de maquinário, material de construção, ferro e aeronaves de pequeno porte, produtos que representam a base de um expansionismo econômico. Não se observa a importação de produtos produtíveis em solo estadual: o que representa uma contenção de evasão econômica, garantindo um superávit na balança comercial, retendo mais divisas dentro do estado.[carece de fontes?]
+A produção de borracha natural (látex in-natura) após anos de incentivo dos órgãos agropecuários estaduais, estabilizou-se em três regiões, norte (Araguaína), centro (Pium) e sul (Palmeirópolis), com a região sul possuindo a maior área plantada do estado. Uma importante ajuda à economia estadual, como ocorre com a maioria das prefeituras do país, consiste no recebimento de verbas federais, principalmente através do FPM – Fundo de Participação dos Municípios.[carece de fontes?]
+No setor terciário (comércio e serviços) suas principais atividades estão concentradas na capital Palmas e também nas cidades que estão localizadas à beira da Rodovia Belém-Brasília (BRs 153 e 226). Faz-se importante frisar a relevância dessa rodovia para o Tocantins, pois ela corta o estado de norte a sul e possibilita um melhor desempenho no crescimento econômico das cidades localizadas às suas margens, servindo como entreposto de transportes rodoviários e de serviços a viajantes. Além disso, a Rodovia Belém-Brasília também facilita o escoamento da produção do Tocantins para outros estados e para portos no litoral.[carece de fontes?]
+Infraestrutura[editar | editar código-fonte]
+Transportes[editar | editar código-fonte]
+Trecho da BR-153 em Tabocão.
+As principais rodovias federais do Tocantins são a BR-153 e a BR-226, que juntas formam o eixo viário da Rodovia Belém-Brasília. As demais são a BR-010, a BR-230 (Rodovia Transamazônica), a BR-235 e a BR-242. Estas últimas rodovias, com a exceção da BR-230, ainda possuem muitos trechos sem pavimentação ou até mesmo incompletos. No Tocantins, a Rodovia Belém-Brasília (BR-153 e BR-226) foi a primeira rodovia a ter sido construída e pavimentada no estado, tendo sido construída durante o final da década de 1950 (governo Juscelino Kubitschek),[45]
+Aeroporto de Palmas
+O Tocantins possui três aeroportos servidos por voos regulares: Aeroporto de Palmas, Aeroporto de Araguaína e Aeroporto de Gurupi. Todos os demais aeroportos do estado são servidos apenas por empresas de táxi aéreo. A Ferrovia Norte-Sul (ou EF-151) está em processo de construção, sendo operada de forma regular desde Aguiarnópolis até Porto Nacional pela VLI enquanto que a Ferrovia de Integração Oeste-Leste (ou EF-334) ainda está em fase de planejamento no trecho que passará pelo estado. Vale ressaltar que a ferrovia já liga Açailândia - MA a Anápolis - GO, mas o trecho a sul de Porto Nacional - TO não é operado de forma regular pois não há patios para carregamento/descarregamento de vagões. A Valec ainda estuda o modelo de concessão para a ferrovia.
+As principais hidrovias do estado são as hidrovias do rio Tocantins e do rio Araguaia.
+Educação[editar | editar código-fonte]
+Vista aérea do Campus I da Universidade de Gurupi (UNIRG).
+Há demasiadas instituições educacionais no Tocantins, com a capital estadual, Palmas, abrigando as principais destas. A educação tocantinense possui um índice, de acordo com dados de 2010, de 0,624 pontos, ocupando a décima quarta melhor colocação no país, comparada à dos demais estados brasileiros. Na Região Norte, fica atrás do Amapá (0,629) e de Roraima (0,628), e à frente de Rondônia (0,577), Amazonas (0,561), do Acre (0,559) e do Pará (0,528).[46]
+Sobre o analfabetismo, a lista de estados brasileiros por taxa de alfabetização, mostra o Tocantins com a décima sétima maior taxa, com 88,11% de sua população considerada alfabetizada. Em números absolutos, o Tocantins possui um total de
+1 129 733 pessoas com mais de 10 anos de idade alfabetizadas, sendo 894 078 na área urbana e 235 655 na área rural.[47]
+Cultura[editar | editar código-fonte]
+Esportes[editar | editar código-fonte]
+No Futebol a primeira divisão do Campeonato Tocantinense de Futebol é disputada por 8 times, o atual campeão de 2019 é O Palmas Futebol e Regatas, os maiores campeões é o Palmas Futebol e Regatas, com 7 títulos, em seguida vem o Gurupi Esporte Clube com 6 títulos, na Copa Tocantins o Kaburé Esporte Clube é o maior campeão com 3 títulos.[carece de fontes?]
+Na Copa do Brasil de 2004, o Palmas Futebol e Regatas surpreendeu chegando até as quartas de finais eliminando times bem mais tradicionais do futebol brasileiro, na primeira fase eliminou o Clube do Remo na primeira fase, na segunda fase eliminou Nacional Futebol Clube de Manaus , nas Oitavas de finais eliminou o (Sociedade Esportiva do Gama), nas quartas de finais foi eliminado por outra surpresa que foi Clube 15 de Novembro de Campo Bom-RS, time que na época era treinado por Mano Menezes, nessa mesma edição teve ainda como maior surpresa Esporte Clube Santo André , vencendo na final o Clube de Regatas Flamengo por 2 a 0 em pleno Estádio do Maracanã.[carece de fontes?]
+Ver também[editar | editar código-fonte]
+Fórum de Governadores do Brasil Central
+Listas de municípios do Tocantins
+Ordem alfabética
+Área territorial
+Área urbanizada
+População
+Lista de governadores do Tocantins
+Referências
+↑ NAVARRO, E. A. Dicionário de Tupi Antigo: a Língua Indígena Clássica do Brasil. São Paulo. Global. 2013.
+↑ Instituto Brasileiro de Geografia e Estatística (IBGE). «Área Territorial Oficial - Consulta por Unidade da Federação». Consultado em 29 de agosto de 2021
+↑ IBGE, IBGE (27 de agosto de 2021). «Estimativa Populacional 2021» (PDF). ibge.gov.br. Consultado em 28 de agosto de 2021
+↑ «Sistema de Contas Regionais - SCR». Instituto Brasileiro de Geografia e Estatística (IBGE). 2018. Consultado em 15 de novembro de 2019
+↑ «Tábua completa de mortalidade para o Brasil – 2015» (PDF). IBGE. Consultado em 2 de dezembro de 2016
+↑ «Sinopse do Censo Demográfico 2010». IBGE. Consultado em 2 de dezembro de 2016
+↑ IPEA -Instituto de Pesquisa Econômica Aplicada. «Evolução do IDHM e de Seus Índices Componentes no período de 2012 a 2017» (PDF). Gráfico 7 - página 25. Consultado em 18 de abril de 2019
+↑ Pacievitch, Thais. «História de Tocantins». InfoEscola. Consultado em 2 de junho de 2017
+↑ «Estado do Tocantins - Dados Econômicos, Geografia, Pontos turísticos, Bandeira». Sua Pesquisa. Consultado em 10 de abril de 2018
+↑ [1]Estimativas das populações residentes em 1º de julho de 2009, segundo os municípios - Instituto Brasileiro de Geografia e Estatística
+↑ a b c «Geografia do Tocantins: Características geográficas do Tocantins, área, relevo, clima, recursos naturais, problemas ambientais». Sua Pesquisa. Consultado em 10 de abril de 2018
+↑ NAVARRO, E. A. Dicionário de Tupi Antigo: a Língua Indígena Clássica do Brasil. São Paulo. Global. 2013. p. 603
+↑ «Criação do Estado de Tocantins». Instituto de Pesquisa e Formação de Educação e Religião. Consultado em 10 de abril de 2018
+↑ Governo Estadual do Tocantins. «Criação do Estado do Tocantins - 1988». Tocantins - História. Secretaria de Desenvolvimento Econômico, Ciência, Tecnologia, Turismo e Cultura. Consultado em 2 de junho de 2017
+↑ Secretaria de Indústria e Comércio do Estado de Goiás. «Carta topográfica da região da Serra das Traíras» (PDF). ISSN 0100-1299. Consultado em 16 de abril de 2010. Arquivado do original (PDF) em 6 de julho de 2011  Acesso em 16/04/2010.
+↑ Instituto Brasileiro de Geografia e Estatística. «Anuário Estatístico do Brasil - volume 66 - 2006». ISSN 0100-1299. Consultado em 16 de abril de 2010. Arquivado do original (PDF) em 6 de julho de 2011  Rio de Janeiro: 2007. Tabela 1.3.2.2, pág. 1-29.
+Acesso em 16/04/2010.
+↑ Editores da Britannica (2008). «Bananal Island». Encycl. Britannica. Consultado em 3 de setembro de 2015
+↑ «Rio Araguaia: Localização, informações, nascente, dados, foz, principais afluentes, comprimento». Sua Pesquisa. Consultado em 10 de abril de 2018
+↑ a b c «Bacia do Araguaia-Tocantins: Localização, características, principais rios, resumo, bacia hidrográfica, importância, afluentes, hidrelétricas instaladas, economia». Sua Pesquisa. Consultado em 10 de abril de 2018
+↑ «Principais rios do estado do Tocantins: Lista com o nome dos principais rios do Tocantins, hidrografia do estado, foto do principal rio». Sua Pesquisa. Consultado em 10 de abril de 2018
+↑ «Unidades de Conservação do Tocantins». Secretaria de Meio Ambiente e Recursos Hídricos do Tocantins. Consultado em 10 de abril de 2018
+↑ «Parque Nacional das Nascentes do Rio Parnaíba». Secretaria de Meio Ambiente e Recursos Hídricos do Tocantins. Consultado em 10 de abril de 2018
+↑ «Parque Nacional do Araguaia». Secretaria de Meio Ambiente e Recursos Hídricos do Tocantins. Consultado em 10 de abril de 2018
+↑ «Estação Ecológica da Serra Geral do Tocantins». Secretaria de Meio Ambiente e Recursos Hídricos do Tocantins. Consultado em 10 de abril de 2018
+↑ «Área de Proteção Ambiental Serra da Tabatinga». Secretaria de Meio Ambiente e Recursos Hídricos do Tocantins. Consultado em 10 de abril de 2018
+↑ «Reserva Extrativista Extremo Norte do Estado do Tocantins». Secretaria de Meio Ambiente e Recursos Hídricos do Tocantins. Consultado em 10 de abril de 2018
+↑ https://arquidiocesedepalmas.org.br/tocantins-e-um-dos-estados-mais-religiosos-do-brasil.html
+↑ [2] Arquivado agosto 22, 2011 no WebCite
+Instituto Brasileiro de Geografia e Estatística
+↑ «Panorama do estado do Tocantins». Instituto Brasileiro de Geografia e Estatística (IBGE). Consultado em 13 de maio de 2020
+↑ Supremo Tribunal Federal (STF) (10 de novembro de 1999). «Lei nº 9.868 de 10 de novembro de 1999». Consultado em 15 de outubro de 2016
+↑ JUS Eleitoral (setembro de 2016). «Consulta Quantitativo - Tocantins (TO)». Tribunal Superior Eleitoral (TSE). Consultado em 15 de outubro de 2016
+↑ a b c «Filiados - Tribunal Superior Eleitoral (TSE)». Tribunal Superior Eleitoral (TSE). Outubro de 2016. Consultado em 15 de outubro de 2016
+↑ COUTINHO, Mateus (22 de março de 2018). «TSE cassa mandatos do governador e vice do Tocantins». O Globo. Consultado em 22 de março de 2018
+↑ Redação do G1 Tocantins (19 de abril de 2018). «Carlesse assume governo e afirma que vai recontratar secretários escolhidos em março». G1. Consultado em 19 de abril de 2018
+↑ a b Instituto Brasileiro de Geografia e Estatística (IBGE) (2017). «Base de dados por municípios das Regiões Geográficas Imediatas e Intermediárias do Brasil». Consultado em 12 de janeiro de 2018
+↑ a b «Exportações do Tocantins (2012)». Plataforma DataViva. Consultado em 13 de janeiro de 2014
+↑ Produção sustentável e tecnificação impulsionam o desenvolvimento do setor agropecuário tocantinense. Seagro. Acessado em 30 de setembro de 2021.
+↑ Rondônia deve produzir 1,2 milhão de toneladas de soja na safra 2019/2020
+↑ Especialistas e produtores debatem sobre a expansão da soja no Pará
+↑ Produção sustentável e tecnificação impulsionam o desenvolvimento do setor agropecuário tocantinense. Seagro. Acessado em 30 de setembro de 2021.
+↑ Produção sustentável e tecnificação impulsionam o desenvolvimento do setor agropecuário tocantinense. Seagro. Acessado em 30 de setembro de 2021.
+↑ Produção brasileira de abacaxi em 2018, Embrapa. Embrapa. Acessado em 30 de setembro de 2021.
+↑ Produção sustentável e tecnificação impulsionam o desenvolvimento do setor agropecuário tocantinense. Seagro. Acessado em 30 de setembro de 2021.
+↑
+Perfil industrial do Tocantins. Portal da Indústria. Acessado em 30 de setembro de 2021.
+↑ Gurupi. IBGE. Acessado em 30 de setembro de 2021.
+↑ Programa das Nações Unidas para o Desenvolvimento (PNUD-Brasil). «Índice de Desenvolvimento Humano Municipal, 2010 - Todos os Estados do Brasil». Consultado em 13 de janeiro de 2017
+↑ Instituto Brasileiro de Geografia e Estatística (IBGE) (2010). «Tabela 8.2 - Taxa de alfabetização das pessoas de 10 anos ou mais de idade, por cor ou raça, segundo as Grandes Regiões, Unidades da Federação e Regiões Metropolitanas - 2010». Consultado em 2 de maio de 2011
+Ligações externas[editar | editar código-fonte]
+O Commons possui uma categoria com imagens e outros ficheiros sobre
+Tocantins
+«Governo do Estado do Tocantins»
+«Assembleia Legislativa do Estado do Tocantins»
+«Tribunal de Justiça do Estado do Tocantins»
+Tocantinsvde Tocantins Portal — Geografia, Política, Cultura, EsportesCapitalPalmasDivisão regional vigente (desde 2017)Regiões geográficas intermediárias e imediatasDivisão regional extinta (vigente até 2017)Mesorregiões e microrregiõesRegiões Metropolitanas e RIDEsGurupi • PalmasMais de 100.000 habitantesPalmas • AraguaínaMais de 50.000 habitantesGurupi • Porto NacionalMais de 25.000 habitantesParaíso do Tocantins • Araguatins • Colinas do Tocantins • Guaraí • Tocantinópolis • DianópolisNorte, Brasil vde Regiões e unidades federativas do Brasil
+Subdivisões do Brasil
+Unidades da FederaçãoRegião Norte
+Acre
+Amapá
+Amazonas
+Pará
+Rondônia
+Roraima
+Tocantins
+Região Nordeste
+Alagoas
+Bahia
+Ceará
+Maranhão
+Paraíba
+Pernambuco
+Piauí
+Rio Grande do Norte
+Sergipe
+Região Centro-Oeste
+Distrito Federal
+Goiás
+Mato Grosso
+Mato Grosso do Sul
+Região Sudeste
+Espírito Santo
+Minas Gerais
+Rio de Janeiro
+São Paulo
+Região Sul
+Paraná
+Rio Grande do Sul
+Santa Catarina
+Arquipélagos
+Anavilhanas
+Fernando de Noronha
+Atol das Rocas
+Arquipélago de São Pedro e São Paulo
+Trindade e
+Martim Vaz
+Geoeconômicas
+Amazônica
+Centro-Sul
+Nordeste
+Propostas de criação de unidades federativas do Brasil
+Controle de autoridade
+: Q43695
+WorldCat
+VIAF: 130296360
+EBID: ID
+GEC: 0256355
+GND: 4726737-9
+OSM: 336819
+MusicBrainz: ID
+GeoNames: 3474575
+TGN: 7012828
+Portal do Brasil
+Portal da região Norte do Brasil
+Portal do Tocantins
+Obtida de https://pt.wikipedia.org/w/index.php?title=Tocantins&oldid=62276252
+Categoria: TocantinsCategorias ocultas: !Páginas com argumentos formatnum não numéricos!Artigos que carecem de notas de rodapé desde setembro de 2021!Artigos que carecem de notas de rodapé sem indicação de tema!Páginas que utilizam Nobold com segundo parâmetro sem nome!Artigos que carecem de notas de rodapé
+Esta página foi editada pela última vez às 19h22min de 20 de outubro de 2021.
+Este texto é disponibilizado nos termos da licença Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as condições de utilização.
+Política de privacidade
+Sobre a Wikipédia
+Avisos gerais
+Versão móvel
+Programadores
+Estatísticas
+Declaração sobre cookies');
+Document.create!(url: 'https://pt.wikipedia.org/wiki/Distrito_Federal_(Brasil)', title: 'Distrito Federal (Brasil) – Wikipédia, a enciclopédia livre', body: 'Distrito Federal (Brasil) – Wikipédia, a enciclopédia livre
+Saltar para o conteúdo
+Alternar barra lateral
+Busca
+Links do usuário
+Criar uma conta
+Ferramentas pessoais
+expanded
+collapsed
+Criar uma conta
+Entrar
+Páginas para editores conectados saiba mais
+DiscussãoContribuições
+Navegação
+Página principalConteúdo destacadoEventos atuaisEsplanadaPágina aleatóriaPortaisInformar um erro
+Colaboração
+Boas-vindasAjudaPágina de testesPortal comunitárioMudanças recentesManutençãoCriar páginaPáginas novasContatoDonativos
+Ferramentas
+Páginas afluentesAlterações relacionadasCarregar ficheiroPáginas especiaisHiperligação permanenteInformações da páginaCitar esta páginaElemento Wikidata
+Imprimir/exportar
+Criar um livroDescarregar como PDFVersão para impressão
+Noutros projetos
+Wikimedia CommonsWikinotíciasWikivoyage
+Espaços nominais
+ArtigoDiscussão
+Variantes
+expanded
+collapsed
+Vistas
+LerEditarEditar código-fonteVer histórico
+Mais
+expanded
+collapsed
+74 idiomas
+expanded
+collapsed
+AfrikaansالعربيةAzərbaycancaБеларускаяБългарскиBrezhonegCatalàCebuanoQırımtatarcaČeštinaCymraegDanskDeutschΕλληνικάEmiliàn e rumagnòlEnglishEsperantoEspañolEestiEuskaraفارسیSuomiFrançaisGalegoAvañeẽעבריתHrvatskiՀայերենInterlinguaBahasa IndonesiaÍslenskaItaliano日本語ქართული한국어KernowekLatinaLadinoLimburgsLatviešuМакедонскиमराठीBahasa MelayuNederlandsNorsk bokmålИронPolskiPiemontèisپنجابیRuna SimiRomânăРусскийScotsSrpskohrvatski / српскохрватскиSimple EnglishSlovenčinaShqipСрпски / srpskiSvenskaKiswahiliதமிழ்ТоҷикӣไทยTürkçeУкраїнськаاردوOʻzbekcha/ўзбекчаVènetoTiếng ViệtWinaray吴语Yorùbá中文粵語
+Editar hiperligações
+Distrito Federal (Brasil)
+Origem: Wikipédia, a enciclopédia livre.
+Coordenadas: 15º 47 S 47º 45 W
+Distrito Federal
+Bandeira
+Brasão
+Lema: VENTVRIS VENTIS(Aos Ventos Vindouros)
+Hino: Hino do Distrito Federal (Brasil)
+Gentílico: brasiliense ou candango[carece de fontes?]
+Localização
+- Região
+Centro-Oeste
+- Estados limítrofes
+Goiás (S, O, N e L) e Minas Gerais (SE)
+- Regiões geográficas   intermediárias
+1
+- Regiões geográficas   imediatas
+1
+- Regiões administrativas
+33
+Sede de governo
+Brasília[1]
+Governo
+- Governador(a)
+Ibaneis Rocha (MDB)
+- Vice-governador(a)
+Paco Britto (Avante)
+- Deputados federais
+8
+- Deputados distritais
+24
+- Senadores
+Reguffe (PODE)Leila Barros (Cidadania)Izalci Lucas (PSDB)
+Área
+- Total
+5 760,784 km² (27º) [2]
+População
+2021
+- Estimativa
+3 094 325 hab. (20º)[3]
+- Censo 2010
+2 570 160 hab.
+- Densidade
+537,14 hab./km² (1º)
+Economia
+2017[4]
+- PIB
+R$ 244.683 bilhões (8º)
+- PIB per capita
+R$ 80.502,47 (1º)
+Indicadores
+2014/2016[5][6]
+- Esperança de vida (2016)
+78,1 anos (3º)
+- Mortalidade infantil (2016)
+10,5‰ nasc. (22º)
+- Alfabetização (2016)
+97,4% (1º)
+- IDH (2018)
+0,850 (1º) – muito alto [7]
+Fuso horário
+UTC−3
+Clima
+tropical Aw
+Cód. ISO 3166-2
+BR-DF
+Site governamental
+http://www.df.gov.br/
+O Distrito Federal é uma das 27 unidades federativas do Brasil. Situado na Região Centro-Oeste, é a menor unidade federativa brasileira e a única que não tem municípios, sendo dividida em 33 regiões administrativas, totalizando uma área de 5 760,784 km².[3] Em seu território, está localizada a capital federal do Brasil, Brasília, que é também a sede de governo do Distrito Federal.
+O Distrito Federal é praticamente um enclave no estado de Goiás, não fosse a pequena divisa de pouco mais de dois quilômetros de extensão com o estado de Minas Gerais, marcada pela passagem da rodovia DF-285. Por via terrestre, o Distrito Federal se conecta a Minas Gerais por uma pequena ponte de 130 metros sobre o rio Preto.[8][9]
+Durante o Império, o predecessor ao Distrito Federal atual era o Município Neutro, onde se situava a corte, na cidade do Rio de Janeiro. Depois da proclamação da república, a cidade do Rio de Janeiro tornou-se a capital federal, que, no início da década de 1960, foi transferida para Brasília, no centro do Brasil, no leste do estado de Goiás e a oeste do estado de Minas Gerais, no atual Distrito Federal. Quando de sua transferência, o território onde se localizava anteriormente o antigo Distrito Federal, onde a cidade do Rio de Janeiro se situava, passou a ser o estado da Guanabara (de 1960 a 1975).[10]
+Com a reordenação republicana do território brasileiro, as províncias passaram a estados e cada um deles passou a ser uma unidade da federação. Quase todos os estados surgiram das províncias de mesmos nomes, exceto o Distrito Federal e outros estados criados pela divisão territorial.[10] O atual Distrito Federal foi idealizado por um projeto do então presidente Juscelino Kubitschek de mudança da capital nacional da cidade do Rio de Janeiro para o centro do país.[10]
+Índice
+1 Etimologia
+2 História
+2.1 Primórdios da ocupação humana
+2.2 Antecedentes
+2.3 Interiorização da capital federal
+2.4 Construção de Brasília e era contemporânea
+3 Geografia
+3.1 Biodiversidade
+3.2 Relevo
+3.3 Hidrografia
+3.4 Clima
+4 Demografia
+4.1 Região integrada
+4.2 Religião
+4.3 Desigualdade social e criminalidade
+5 Governo e política
+5.1 Definição territorial e administrativa
+6 Regiões administrativas
+6.1 Por população
+7 Economia
+8 Infraestrutura
+8.1 Saúde
+8.2 Transportes
+8.3 Educação
+9 Cultura
+9.1 Esportes
+10 Ver também
+11 Notas e referências
+11.1 Notas
+11.2 Referências
+12 Bibliografia
+13 Ligações externas
+Etimologia[editar | editar código-fonte]
+O topônimo Distrito Federal (pronúncia em português: /d(ʒ)isˈtɾitu fedeˈɾaw/) é uma versão brasileira de distrito federal, utilizada normalmente em países que se organizam de forma federal. No Brasil Império, a cidade do Rio de Janeiro passou a compreender-se em um Município Neutro a partir de 1834.[11] Após a Proclamação da República, em 1891, quando da promulgação da Constituição Federal de 1891, este ente transformou-se em Distrito Federal, mantendo a antiga capital imperial como sede do novo regime político.[12] Com a mudança dos três poderes do Sudeste para o Centro-Oeste do Brasil, o novo Distrito Federal passou a sediar a nova capital, Brasília, de acordo com a Constituição de 1946.[12]
+Um dos gentílicos tanto do Distrito Federal como de Brasília é brasiliense, que significa brasileiro. O termo candango, que é também utilizado para designar tanto os habitantes quanto os nascidos em Brasília, foi originalmente usado pelo presidente Juscelino Kubtschek para se referir aos trabalhadores que, em sua maioria provenientes da Região Nordeste do Brasil, foram contratados ou migravam à região da futura capital para sua construção, com o passar do tempo passou a representar também seus descendentes nascidos na cidade. Uma das interpretações sobre seu significado diz que o termo candango era usado pelos africanos para designar os portugueses. A denominação é derivada de uma língua africana e possuía originalmente a conotação de ordinário, ruim,[carece de fontes?] embora alguns dicionários apontem como de origem duvidosa.[13] Assim como o termo gaúcho, também de origem depreciativa, mas que com o tempo tornou-se razão de orgulho para os nascidos na região Sul do Brasil, além de Uruguay e Argentina, também o gentílico candango é utilizado por muitos habitantes de Brasília, nascidos ou não na capital, por significar ainda aqueles que continuam a contribuir para construir o presente e o futuro da capital de todos os brasileiros.
+História[editar | editar código-fonte]
+Primórdios da ocupação humana[editar | editar código-fonte]
+Até a chegada dos portugueses ao litoral do Brasil, no século XVI, a porção central do país, na qual se inclui o atual Distrito Federal, era ocupada por indígenas do tronco linguístico macro-jê, como os acroás, os xacriabás, os xavantes, os caiapós, os javaés, etc.[14] No século XVIII, a atual região ocupada pelo Distrito Federal, que era cortada pela linha do Tratado de Tordesilhas que dividia os domínios portugueses dos espanhóis, tornou-se rota de passagem para os garimpeiros de origem portuguesa em direção às minas de Mato Grosso e Goiás.[15] Data dessa época a fundação do povoado de São Sebastião de Mestre dArmas (atual região administrativa de Planaltina, no Distrito Federal).[16]
+Antecedentes[editar | editar código-fonte]
+Gustave Hastoy: Assinatura do projeto da Constituição de 1891, c. 1891. Fundação Casa de Rui Barbosa, Rio de Janeiro.
+A cidade de Salvador foi a primeira sede administrativa do Brasil durante o período que vai de 1549 a 1763, quando foi transferida para o Rio de Janeiro.[17] Os participantes da Conjuração Mineira de 1789 defendiam que a capital do país deveria ser a cidade de São João del-Rei, enquanto os nordestinos da Revolução Pernambucana defendiam que a capital do Brasil deveria ficar no Nordeste e nas proximidades do mar.[18] Mesmo com todas essas divergências, havia o consenso de que o Brasil deveria ter, como sede administrativa, uma cidade que facilitasse tanto o desenvolvimento do país como sua defesa. Havia preferências para que esta sede funcionasse no interior do país, pois isto estimularia a ocupação do interior do Brasil, bem como tornaria a capital menos predisposta às invasões estrangeiras, que aconteciam com mais frequência na zona litorânea.[19]
+Henrique Morize: acampamento da Comissão Exploradora às margens do Rio Paranaíba, em 1894.
+A pedra fundamental de Brasília, assentada pelo presidente Epitácio Pessoa em 1922, ano das comemorações dos cem anos da independência do Brasil, está localizada no Morro do Centenário, em Planaltina.
+O sonho com Brasília, a capital federal, começou a existir a partir de 1823, na primeira Constituinte no Império Brasileiro, com uma proposta feita por José Bonifácio de Andrada e Silva, que defendeu a mudança da capital para uma região mais central no país, mostrando as vantagens de se construir a capital em uma das vertentes do Rio São Francisco. Durante a defesa de sua proposta, ele até sugeriu o nome da cidade tal qual conhecemos hoje. Porém, somente partir de 1839 iniciou-se uma reflexão sobre a construção de uma cidade no cerrado do planalto central, nas proximidades do rio São Francisco. Em 1852, essa questão despertou o interesse do historiador Varnhagen, que defendeu essa ideia em vários artigos, reunidos em um pequeno bloco de textos, com o nome A Questão da Capital Marítima ou no Interior. Para a sua satisfação pessoal, Varnhagen, em 1877, fez a primeira visita prática ao local, onde definiu o lugar mais apropriado para a construção da futura capital: um triângulo formado pelas lagoas Feia, Formosa e Mestre dArmas. A construção da Capital Federal ficou consolidada no artigo 3.º da Constituição da República de 1891, que estabelece:[19]
+Fica pertencente à União, no Planalto Central, uma zona de 14 000 km², que será oportunamente demarcada, para nela estabelecer-se a futura Capital Federal— Artigo 3.º da Constituição da República dos Estados Unidos do Brasil de 1891
+Floriano Peixoto, o segundo presidente da república, pretendendo dar continuidade ao que tinha sido determinado pelo texto da Constituição, estabeleceu, em 1892, a Comissão Exploradora do Planalto Central do Brasil que foi chefiada pelo geógrafo Luís Cruls. Este, após seu retorno, apresentou um relatório, no qual delimitava uma área retangular, no mesmo ponto definido por Varnhagen, a qual ficou conhecida como Retângulo Cruls. Após essa expedição, devido às dimensões desse empreendimento, o plano de construção foi um pouco esquecido, porém, com a vitória da Revolução de 1930, o assunto voltou à tona.[19]
+Em 1922, uma comissão do governo federal estabeleceu a localização no cerrado goiano, mas o projeto ficou engavetado. No dia do centenário da Independência, o presidente Epitácio Pessoa mandou erigir no Morro do Centenário, em Planaltina, um obelisco com os seguintes dizeres:[19]
+Sendo Presidente da República o Exmo. Sr. Dr. Epitácio da Silva Pessôa, em cumprimento ao disposto no decreto 4494 de 18 de janeiro de 1922, foi aqui collocada em 7 de setembro de 1922, ao meio-dia, a Pedra Fundamental da Futura Capital Federal dos Estados Unidos do Brasil— Pedra fundamental de Brasília[20]
+Interiorização da capital federal[editar | editar código-fonte]
+Plano Piloto de Brasília.
+Em 1946, uma comissão chefiada por Poli Coelho atestou a excelente qualidade do lugar já preestabelecido para a construção. Em 1954, outra comissão, chefiada pelo general José Pessoa, finalizou os estudos já realizados e definiu que a área da futura capital seria o espaço delimitado pelos rios Preto e Descoberto e pelos paralelos 15°30 e 16°03, que abrangia áreas territoriais de três municípios goianos: Formosa, Luziânia e Pirenópolis.[19]
+Em 1955, durante um comício na cidade goiana de Jataí, Juscelino Kubitschek (JK), que em seus discursos sempre defendia o respeito à Constituição e às leis, foi perguntado se respeitaria, se eleito, a Constituição e mudaria a capital federal para o Planalto, de acordo com o que ela determinava. Juscelino respondeu que cumpriria com o que a Constituição decretava. Em 1956, após ser eleito para a presidência da República, JK, por iniciativa própria, enviou ao congresso uma mensagem propondo a criação da Companhia Urbanizadora na Nova Capital (Novacap). Após a aprovação desse projeto pelo congresso, em setembro do mesmo ano, o presidente sancionou a lei que criou a empresa.[19]
+Com isso, a Novacap, empresa de caráter público, foi incumbida de planejar e executar a construção da capital federal na região delimitada pelo general José Pessoa. Após um concurso público que selecionaria o plano-piloto da cidade, uma comissão julgadora escolheu o projeto urbanístico do arquiteto Lúcio Costa, que foi aprovado, como lei, por unanimidade na Câmara e no Senado. Com isso, também foi oficializado o nome Brasília, bem como a escolha de Oscar Niemeyer como arquiteto e de Joaquim Cardozo como engenheiro estrutural. Em 2 de outubro de 1956, Juscelino Kubitschek assinou, no local da futura capital federal, o primeiro ato, nomeando Mário Meneghetti como ministro da Agricultura, ocasião em que proclamou o seguinte:[19]
+Deste planalto central desta solidão que em breve se transformará em cérebro das altas decisões nacionais, lanço os olhos sobre o amanhã do meu país e ante vejo esta alvorada com fé inquebrantável e uma confiança sem limites no seu grande destino— Juscelino Kubitschek
+Construção de Brasília e era contemporânea[editar | editar código-fonte]
+Ver artigo principal: História de Brasília
+Construção da Esplanada dos Ministérios em 1959.
+Nesse mesmo ano deu-se início às obras, sob a fiscalização de Oscar Niemeyer e Israel Pinheiro. Formou-se, então, o Núcleo Bandeirante, com candangos (trabalhadores que atuaram na construção de Brasília vindos, inicialmente, de Goiás, Minas Gerais e principalmente do Nordeste). Os trabalhos de terraplenagem foram iniciados em novembro de 1956. Trinta mil operários construíram Brasília em 41 meses. Israel Pinheiro foi nomeado o primeiro prefeito do Distrito Federal em 17 de abril de 1960, um pouco antes da sua inauguração, ocorrida em 21 de abril de 1960, data escolhida em homenagem a Tiradentes, por Juscelino Kubitschek. Quando o cargo foi transformado em governador, o indicado pelo presidente da República, foi Hélio Prates.[19]
+Em 1987, ano em que Brasília é declarada Patrimônio Histórico e Cultural da Humanidade, pela Organização das Nações Unidas para a Educação, a Ciência e a Cultura, a Comissão de Sistematização da Assembleia Nacional Constituinte aprovou a autonomia política do Distrito Federal, o que resultou, pela promulgação da Constituição em 1988, nas eleições diretas para governador, vice-governador e 24 deputados distritais. O primeiro governador eleito pelo voto direto foi Joaquim Roriz, que teve o seu mandato compreendido de 1988 a 1990.[19]
+Geografia[editar | editar código-fonte]
+Brasília vista da Estação Espacial Internacional.
+O Distrito Federal se localiza a 15°50’16 de latitude sul e a 47°42’48 de longitude oeste, com altitudes entre 1 000 e 1 200 metros acima do nível do mar, no chamado Planalto Central, cujo relevo é, na maior parte, plano, apresentando algumas leves ondulações. A flora corresponde à predominantemente típica do domínio do cerrado. Em alguns lugares da cidade é possível observar espécies de gimnospermas, como os pinheiros, e também diversos tipos de árvores provenientes de outros biomas brasileiros. As espécies não nativas da região têm sido retiradas pela empresa pública arborizadora da cidade (a Novacap) e substituídas por espécies nativas, como ipês.[carece de fontes?]
+Biodiversidade[editar | editar código-fonte]
+A vegetação do Distrito Federal, caracterizada pelo cerrado, é o resultado de um longo processo de evolução, no qual as plantas buscaram adaptar-se às difíceis condições ambientais como: pouca água, falta de umidade no ar e acidez no solo. Em virtude disso, as principais vegetações do Distrito Federal são o cerrado, vegetação composta por árvores de galhos e caules grossos e retorcidos, distribuídos de uma forma esparsa, onde também existem gramíneas, várias espécies de capins, que se desenvolvem embaixo das árvores e umas espécies semiarbustivas; a mata ciliar composta por florestas estreitas e densas, formadas ao longo do leito dos rios e riachos, por encontrarem solos mais férteis e com boa umidade, o que proporcionam o bom desenvolvimento dessas espécies, e os brejos, que são localizados nas nascentes de água onde desenvolve-se em grandes proporções o buriti.[21]
+Parque Nacional de Brasília
+Um ipê-roxo no Parque Nacional
+O DF possui grande variedade de vegetação, reunindo 150 espécies. A maioria é nativa, típica do cerrado, e de porte médio, com altura de 15 a 25 m.[21] Muitas são tombadas pelo Patrimônio Ecológico do Distrito Federal, para garantir sua preservação.[21] Algumas das principais: pindaíba, paineira, ipê-roxo, ipê-amarelo, pau-brasil e buriti.[22] Diferentemente de outras regiões brasileiras, durante o período dos meses de verão, o Distrito Federal adquire uma paisagem muito verde, porém, durante os meses de inverno, o capim seca e praticamente todas as árvores mudam suas folhagens, cada árvore ao seu tempo, de modo que não acontece de todas as árvores de uma mesma espécie trocarem de folhas, todas ao mesmo tempo.[23]
+A preservação da vegetação no DF é um tema recorrente, principalmente pela preocupação em conservar a flora original. O desmatamento provocado pela expansão da agricultura é um dos problemas enfrentados no Distrito Federal, sendo que, segundo a Unesco, desde sua criação, nos anos 1950, 57% da vegetação original não existe mais.[24] Para colaborar com a preservação, são realizados programas de conscientização e de reformas estruturais para diminuir a degradação da vegetação e também da fauna e rios da região.[25]
+Durante a elaboração do projeto para a Construção de Brasília houve uma grande preocupação e cuidado com a relação ao trinômio cidade-natureza-homem, para que nessa cidade houvesse equilíbrio ambiental entre esses três elementos, objetivando o mantimento de um alto padrão na qualidade de vida dos seus habitantes Isto é evidente quando observamos que a relação área verde por habitante é a maior do país. Desde sua construção até os dias de hoje, há uma série de medidas adotadas para que seja mantido equilíbrio ambiental e para que sejam preservados os recursos naturais existentes em todo o Distrito Federal. Essas medidas resultaram na criação de várias unidades de conservação ambiental, bem como em áreas protegidas ambientalmente e reservas ecológicas, além da criação do Parque Nacional de Brasília. Chega a apresentar uma fauna com mais de 60 000 espécies diferentes, destacando-se a onça-pintada, suçuarana, veado-campeiro, lobo-guará, tamanduá-bandeira e tatu-canastra.[23]
+Relevo[editar | editar código-fonte]
+Mapa topográfico do Distrito Federal
+Cachoeira na Chapada Imperial
+O Distrito Federal está localizado no Planalto Central do Brasil, onde se localizam as cabeceiras de afluentes de três dos maiores rios brasileiros - o Rio Maranhão (afluente do Rio Tocantins), o Rio Preto (afluente do Rio São Francisco) e os rios São Bartolomeu e Descoberto (tributários do Rio Paraná).[23] O seu relevo é constituído por planaltos, planícies e várzeas[desambiguação necessária], características típicas do cerrado, que possui terreno bem plano ou com suaves ondulações. Sua altitude varia de 600 a 1 100 metros acima do nível do mar, e o ponto mais alto é o Pico do Roncador, com 1 341 metros, localizado na Serra do Sobradinho.[23]
+Situado na denominada Província Hidrogeológica do Escudo Central,[26] a qual inclui parcialmente a Faixa de Dobramentos Brasília e se estende para norte/noroeste, ocupando a Faixa de dobramentos Paraguai/Araguaia e a parte sul do Cráton Amazônico. Esta província é amplamente dominada por aquíferos fraturados cobertos por mantos de intemperismo (solos e rochas alteradas) com características físicas e espessuras variáveis.
+Hidrografia[editar | editar código-fonte]
+Imagem aérea do Lago Paranoá
+O território do Distrito Federal está situado em um alto regional que não apresenta grandes drenagens superficiais, sendo um divisor natural de três grandes bacias hidrográficas. Por isso, as águas subterrâneas têm função estratégica na manutenção de vazões dos cursos superficiais e no abastecimento de núcleos rurais, urbanos e condomínios.[27] Em 2010, por meio de decreto administrativo, o Distrito Federal foi dividido em três Comitês de Bacias Hidrográficas (CBH).[28]
+Os rios do DF estão bem supridos pelos lençóis freáticos, razão pela qual não secam, mesmo durante o período da estação seca.[29] A fim de aumentar a quantidade de água disponível para a região, foi realizado o represamento de um dos rios da região, o rio Paranoá, para a construção de um lago artificial, o Lago Paranoá, que tem 40 quilômetros quadrados de extensão, profundidade máxima de 48 metros e cerca de 80 quilômetros de perímetro. O lago possui uma grande marina e é frequentado por praticantes de wakeboard, windsurf e pesca profissional.
+Clima[editar | editar código-fonte]
+Mapa do DF de acordo com a classificação climática de Köppen-Geiger
+O clima do DF é o tropical com estação seca (do tipo Aw na classificação climática de Köppen-Geiger), com temperaturas médias mensais sempre superiores a 18 °C e índice pluviométrico de aproximadamente 1 480 milímetros (mm) anuais, concentrados entre os meses de outubro e abril.[30] As precipitações ocorrem sob a forma de chuva e, algumas vezes, de granizo,[31] podendo ainda virem acompanhadas de raios e trovoadas.[32]
+Durante a estação seca (maio a setembro), é comum que os níveis de umidade relativa do ar fiquem muitas vezes abaixo de 30%, bem abaixo do ideal considerado pela Organização Mundial da Saúde (OMS), de 60%.[33]
+Em 10 de junho de 1985, foi registrada pela primeira vez a ocorrência de geada, quando a temperatura mínima chegou a 3,3 °C, a mais baixa registrada em um mês de junho.[34] Na tarde do dia 1 de outubro de 2014, também foi registrada pela primeira vez a formação de um tornado, observado na região do Aeroporto JK, onde os ventos atingiram a velocidade de 95 km/h.[35]
+Dados climatológicos para Brasília
+Mês
+Jan
+Fev
+Mar
+Abr
+Mai
+Jun
+Jul
+Ago
+Set
+Out
+Nov
+Dez
+Ano
+Temperatura máxima recorde (°C)
+32,6
+31,4
+32,1
+31,6
+30,2
+31,6
+30,8
+33
+35,8
+36,4
+34,5
+33,7
+36,4
+Temperatura máxima média (°C)
+26,5
+27
+26,7
+26,6
+25,9
+25
+25,3
+26,9
+28,4
+28,2
+26,7
+26,3
+26,6
+Temperatura média compensada (°C)
+21,6
+21,7
+21,6
+21,3
+20,2
+19
+19
+20,6
+22,2
+22,4
+21,5
+21,4
+21,4
+Temperatura mínima média (°C)
+18,1
+18
+18,1
+17,5
+15,6
+13,9
+13,7
+15,2
+17,2
+18,1
+18
+18,1
+16,8
+Temperatura mínima recorde (°C)
+12,2
+11
+14,5
+10,7
+3,2
+3,3
+1,6
+5
+9
+10,2
+11,4
+13,5
+1,6
+Precipitação (mm)
+209,4
+183
+211,8
+133,4
+29,7
+4,9
+6,3
+24,1
+46,6
+159,8
+226,6
+241,5
+1 477,4
+Dias com precipitação (≥ 1 mm)
+17
+14
+14
+8
+3
+1
+1
+2
+5
+11
+17
+19
+112
+Umidade relativa compensada (%)
+76,2
+74,7
+76,8
+72,2
+66,2
+58,7
+52,7
+46,8
+50,3
+62,8
+74,5
+78
+65,8
+Horas de sol
+150,9
+158,9
+166,5
+204,6
+239,5
+254,3
+268,9
+264,4
+210,5
+183,1
+139,9
+126,8
+2 368,3
+Fonte: Instituto Nacional de Meteorologia (INMET) (normal climatológica de 1981-2010;[30] recordes de temperatura a partir de 21/08/1961)[36][37]
+Demografia[editar | editar código-fonte]
+Crescimento populacional
+Censo
+Pop.
+%±
+1960141 742—1970546 015285,2%19801 203 333120,4%19911 598 41532,8%20002 043 16927,8%20102 570 16025,8%Est. 20213 094 325Erro de citação: Elemento de fecho </ref> em falta para o elemento <ref>[38]20,4%
+Parte do Distrito Federal à noite vista da Estação Espacial Internacional
+O crescimento demográfico se situa em 2,82%. A densidade média é de 410,8 hab./km² e a taxa de urbanização, uma das mais altas do país, alcança 94,7%. Relativamente ao desenvolvimento socioeconômico são significativos os valores dos seguintes indicadores: a mortalidade infantil é de 17,8 por mil nascimentos; a taxa de analfabetismo alcança 4,7 por cento entre as pessoas maiores de 15 anos e o número de leitos hospitalares é de 3 777. Além disso, quase a totalidade da população tem acesso à água corrente e à rede de esgoto.[23] Segundo dados da Pesquisa Nacional por Amostra de Domicílio, a população brasiliense em 2006 era composta por brancos (49,15 por cento), negros (4,80 por cento), pardos (44,77 por cento), asiáticos (0,39 por cento) e indígenas (0,35 por cento).[39]
+O ritmo de crescimento populacional na primeira década foi de 14,4% ao ano, com um aumento populacional de 285%. Na década de 1970, o crescimento médio anual foi de 8,1%, com um incremento total de 115,52%. A população total do Distrito Federal, que não deveria ultrapassar 500 000 habitantes em 2000, atingiu esta cota no início da década de 1970, e, entre 1980 e 1991, a população expandiu em mais 32,8%. O Plano Piloto, que, na inauguração, concentrava 48% da população do Distrito Federal, gradativamente perdeu importância relativa, chegando a 13,26% em 1991, passando o predomínio para as cidades-satélite.[40] Em 2010, o Instituto Brasileiro de Geografia e Estatística indicou 2 570 160 habitantes.[3] O Índice de Desenvolvimento Humano em 2020 era de 0,850, o maior do país.[7] e a taxa de analfabetismo em 2010 era de 4,35%.[41] Brasília também se caracteriza pela sua desigualdade social, sendo a quarta área metropolitana mais desigual do Brasil e a décima sexta do mundo, segundo um relatório divulgado pela Organização das Nações Unidas.[41]
+A população local é formada por migrantes de todas as regiões brasileiras, sobretudo do Nordeste e do Sudeste,[42] além de estrangeiros que trabalham nas embaixadas espalhadas pela capital.[43] Dados de 2010 apontavam que quase metade da população não nasceu ali, sendo que 1 380 873 eram brasilienses (53,73%) e 1 189 287 (46,27%) de outros locais (incluindo 8 577 estrangeiros, ou 0,33% da população), principalmente de Goiás, Minas Gerais e Bahia.[44][42]
+Região integrada[editar | editar código-fonte]
+Mapa da Região Integrada de Desenvolvimento do Distrito Federal e Entorno.
+Ver artigo principal: Região Integrada de Desenvolvimento do Distrito Federal e Entorno
+Conhecida como RIDE, a Região Integrada de Desenvolvimento do Distrito Federal e Entorno compreende o Distrito Federal mais os municípios goianos de Abadiânia, Água Fria de Goiás, Águas Lindas de Goiás, Alexânia, Alto Paraíso de Goiás, Alvorada do Norte, Barro Alto, Cabeceiras, Cavalcante, Cidade Ocidental, Cocalzinho de Goiás, Corumbá de Goiás, Cristalina, Flores de Goiás, Formosa, Goianésia, Luziânia, Mimoso de Goiás, Niquelândia, Novo Gama, Padre Bernardo, Pirenópolis, Planaltina, Santo Antônio do Descoberto, São João dAliança, Simolândia, Valparaíso de Goiás, Vila Boa e Vila Propício, e os municípios mineiros de Arinos, Buritis, Cabeceira Grande e Unaí.[45] Segundo estimativa do IBGE para julho de 2021, o DF contava com 3 094 325 habitantes.[3]
+Segundo a geógrafa Nelba Azevedo Penna, do Departamento de Geografia da Universidade de Brasília, em consequência dos processos de ordenamento de seu território, ocorreu uma intensa expansão da urbanização para a periferia limítrofe ao Distrito Federal, que deu origem a formação da região metropolitana de Brasília (atualmente institucionalizada como Região Integrada de Desenvolvimento do Distrito Federal e Entorno – RIDE).[46]
+Religião[editar | editar código-fonte]
+Catedral Metropolitana de Brasília
+Tal qual a variedade cultural verificável no Distrito Federal, são diversas as manifestações religiosas presentes.[39] Embora tenha se desenvolvido sobre uma matriz social eminentemente católica, tanto devido à colonização quanto à imigração — e ainda hoje a maioria dos brasilienses declara-se católica —, é possível encontrar atualmente no Distrito Federal dezenas de denominações protestantes diferentes, assim como a prática do budismo, do islamismo, espiritismo, umbanda, candomblé, entre outras.[39]
+De acordo com dados do censo de 2000 realizado pelo Instituto Brasileiro de Geografia e Estatística, a população do Distrito Federal era composta naquele ano por: católicos (66,16 por cento), protestantes (19,50 por cento), pessoas sem religião (8,64 por cento), espíritas (2,69 por cento), budistas (0,14 por cento), muçulmanos (0,03 por cento), umbandistas (0,15 por cento) e judeus (0,03 por cento).[39]
+Desigualdade social e criminalidade[editar | editar código-fonte]
+Viatura da Polícia Militar do Distrito Federal.
+Brasília possui a maior desigualdade de renda entre as capitais brasileiras,[47] além de ser uma das capitais em que mais se registram homicídios para cada cem mil habitantes no país.[48] Na região administrativa de Ceilândia, está localizada a segunda mais populosa favela do Brasil, a comunidade do Sol Nascente,[49] com 61 mil habitantes[50] — segundo estimativas de lideranças locais, no entanto, a população seria de 100 mil pessoas, que superaria a da Rocinha, no Rio de Janeiro.[50]
+Os índices de criminalidade são altos principalmente no Entorno do Distrito Federal.[51][52] Segundo sociólogos, a criminalidade no Distrito Federal, principalmente nas cidades-satélites, é uma herança do crescimento desordenado, ainda que assentado em núcleos urbanos planejados. Os níveis de criminalidade no DF estão entre os maiores do Brasil, chegando ao ponto de haver uma média de até dois assassinatos diários.[53] Em 2012, houve 1031 homicídios, com taxa de 38,9 por 100 mil habitantes, a 478º maior do país.[54] Existem diversas propostas para tentar diminuir a criminalidade na capital: entre elas, um maior policiamento, medida esta que, aplicada, tem levado a uma retração da violência.[52]
+Governo e política[editar | editar código-fonte]
+Palácio do Buriti, sede do governo do Distrito Federal.
+Edifício-sede da Câmara Legislativa do Distrito Federal.
+A política e a administração do Distrito Federal distinguem-se das demais unidades da federação em alguns pontos particulares, conforme definido na Constituição do Brasil de 1988:[55]
+O Distrito Federal rege-se por lei orgânica, típica de municípios, e não por uma constituição distrital. Acumula as competências legislativas reservadas aos estados e municípios, não vedadas pela Constituição.
+O caráter híbrido do Distrito Federal é observável por sua Câmara Legislativa, mistura de Câmara Municipal (Poder Legislativo Municipal) e Assembleia Legislativa (Poder Legislativo Estadual).
+O Poder Legislativo do Distrito Federal é exercido pela câmara legislativa, com 24 deputados distritais eleitos; sendo que o chefe do Poder Executivo é o governador.
+O Distrito Federal é pessoa jurídica de direito público interno, ente da estrutura político-administrativa do Brasil de natureza sui generis, pois não é nem um estado nem um município, mas sim um ente especial que acumula as competências legislativas reservadas aos estados e aos municípios, conforme dispõe o art. 32, § 1º da CF, o que lhe dá uma natureza híbrida de estado e município.[55]
+O artigo 32 da Constituição Federal de 1988 proíbe expressamente que o Distrito Federal seja dividido em municípios, sendo considerado uno.[55][56] O poder executivo do Distrito Federal foi representado pelo prefeito do Distrito Federal até 1969, quando o cargo foi transformado em governador do Distrito Federal.[57][58]
+O poder legislativo do Distrito Federal é representado pela Câmara Legislativa do Distrito Federal, cuja nomenclatura representa uma mescla de assembleia legislativa (poder legislativo das demais unidades da federação) e de câmara municipal (legislativo dos municípios). A Câmara Legislativa é formada por 24 deputados distritais.[59]
+O poder judiciário que atende ao Distrito Federal também atende a territórios federais. O Brasil não possui territórios atualmente, portanto, o Tribunal de Justiça do Distrito Federal e dos Territórios só atende ao Distrito Federal.[nota 1]
+Definição territorial e administrativa[editar | editar código-fonte]
+No Brasil, por definição legal, cidade é a sede de um município.[61] A partir do Estado Novo, pelo decreto-lei nº 311, todas as sedes dos municípios passaram a ser cidades, sendo que, até então, as menores sedes de municípios eram denominadas vilas. No Distrito Federal, porém, são chamados de cidades os diversos núcleos urbanos, sendo o principal deles a região administrativa de Brasília, que por sua vez também se confunde com a ideia do Plano Piloto. O Distrito Federal acumula competências estaduais e municipais [62][63] e, portanto, não pode ser, juridicamente, dividido em municípios, de acordo com a Constituição da República.[64][56][65] Assim, os outros núcleos, que são oficialmente regiões administrativas aparecem ora como bairros[66] distantes da capital do país além de aparecer com a nomenclatura coloquial de cidades. Brasília é constituída por toda a área urbana do Distrito Federal e não apenas a parte tombada pela Organização das Nações Unidas para a Educação, a Ciência e a Cultura (UNESCO) ou a região administrativa central, pois a cidade é polinucleada, constituída por várias regiões administrativas, de modo que as regiões afastadas estão articuladas às centrais.[55][67]
+Edifício-sede do Congresso Nacional.
+Há quem argumente que por todo o Brasil há regiões metropolitanas, onde cidades afastadas acabam articuladas em relação às cidades principais, sem que deixem por isso de ser consideradas cidades. A diferença é que elas são sedes de município. Apesar disso, outros núcleos urbanos do Distrito Federal, hoje chamados regiões administrativas, sempre foram conhecidos por cidades-satélites. Alguns, atualmente, entendem como Brasília apenas a região administrativa de Brasília (formada por parte do Plano Piloto e pelo Parque Nacional de Brasília), e não todo o Distrito Federal. Contundo alguns destes núcleos urbanos, como Planaltina e Brazlândia, são mais antigos do que a própria Brasília. Planaltina já existia como município de Goiás, antes de perder parte de seu território ao Distrito Federal.[55][65][68]
+Por outro lado, a lei de organização do Distrito Federal é uma lei orgânica, típica de municípios e não uma constituição, como ocorre nos estados da federação brasileira, embora esta lei orgânica regule tanto matérias típicas de leis orgânicas municipais quanto de constituições estaduais.[69] Ademais, todas as regiões administrativas do Distrito Federal dispõem de certa autonomia administrativa, sendo seus administradores regionais indicados pela população local de cada região administrativa, através de um processo seletivo dos candidatos indicados pelas entidades representativas dos diversos segmentos da sociedade.[carece de fontes?] Mas vale esclarecer que órgãos oficiais de pesquisa, como o IBGE, o Dieese e o IPEA, não distinguem Brasília do Distrito Federal para efeitos de contagem e estatística pois seus dados são sempre elaborados levando-se em conta o município. Como o Distrito Federal não possui municípios, é considerado como um único ente.[55][56]
+Entre 1989 e 2017, com a vigência das divisões regionais em mesorregiões e microrregiões, a unidade federativa era formada unicamente pela mesorregião do Distrito Federal, composta apenas pela microrregião de Brasília.[70] Em 2017, o IBGE extinguiu as mesorregiões e microrregiões, criando um novo quadro regional brasileiro, com novas divisões geográficas denominadas, respectivamente, regiões geográficas intermediárias e imediatas.[71] Segundo a divisão vigente a partir de então, a entidade é composta pela Região Geográfica Intermediária do Distrito Federal, que por sua vez abrange a Região Geográfica Imediata do Distrito Federal.[72]
+Regiões administrativas[editar | editar código-fonte]
+Ver também: Regiões administrativas do Distrito Federal (Brasil)
+A Constituição de 1988, em seu artigo 32, veda expressamente a divisão do Distrito Federal em municípios.[55] O Distrito Federal é dividido em 33 regiões administrativas, sendo a região administrativa de Brasília a principal delas; dessas apenas dezenove são reconhecidas pelo IBGE,[73] pelo fato de os limites das regiões restantes ainda não terem passado por aprovação na Câmara Legislativa do Distrito Federal.[74]
+No Brasil, a ideia de cidade está intimamente ligada à de sede de município. Porém, no Distrito Federal, são chamados de cidades os diversos núcleos urbanos sedes das regiões administrativas. Alguns destes núcleos são mais antigos do que a própria Brasília, como Planaltina, que era município de Goiás antes de ser incorporado ao Distrito Federal, e Brazlândia, fundada na década de 1930.[carece de fontes?]
+Por população[editar | editar código-fonte]
+verdiscutireditar Regiões administrativas mais populosas do Distrito Federal
+Pesquisa Distrital por Amostra de Domicílios para 2015/2016 da CODEPLAN[75]
+CeilândiaSamambaia
+Posição
+Localidade
+Pop.
+1
+Ceilândia
+479 713
+2
+Samambaia
+258 457
+3
+Plano Piloto
+210 067
+4
+Taguatinga
+207 045
+5
+Planaltina
+190 495
+6
+Recanto das Emas
+146 906
+7
+Águas Claras
+138 562
+8
+Gama
+134 111
+9
+Guará
+133 171
+10
+Santa Maria
+125 559
+Economia[editar | editar código-fonte]
+Setor Bancário Sul de Brasília
+Principais exportações do Distrito Federal - (2012).[76]
+Além de abrigar o centro político, o Distrito Federal também é um importante centro econômico, sendo a sétima unidade federativa com o maior produto interno bruto (PIB) do Brasil (171,2 bilhões de reais - 2012)[77] e o maior PIB per capita do país, 64.653 reais (2012).[78]
+A principal atividade econômica da capital federal resulta de sua função administrativa. Por isso seu planejamento industrial é estudado com muito cuidado pelo Governo do Distrito Federal. Por ser uma cidade tombada pelo IPHAN e que recebeu o Título de Patrimônio Cultural da Humanidade pela Unesco a ocupação do território do Distrito Federal tem características diferenciadas para preservação da cidade. Assim, o Governo do Distrito Federal tem optado em incentivar o desenvolvimento de indústrias não poluentes como a de software, cinema, vídeo, gemologia, entre outras, com ênfase na preservação ambiental e na manutenção do equilíbrio ecológico, preservando o patrimônio da cidade.[79]
+Brasília foi construída em terreno totalmente livre, portanto ainda existem muitos espaços nos quais se pode construir novos edifícios. À medida que a cidade recebe novos moradores, a demanda pelo setor terciário aumenta, motivo pelo qual Brasília tem uma grande quantidade de lojas, com destaque para o shopping Conjunto Nacional, localizado no centro da capital. A agricultura e a avicultura ocupam lugar de destaque na economia brasiliense. Um cinturão verde na Região Integrada de Desenvolvimento do Distrito Federal e Entorno abastece a cidade e já exporta alimentos para outros locais.[80]
+A economia do Distrito Federal também está baseada na pecuária (criação de bovinos, suínos, equinos, asininos, muares, bubalinos, coelhos, ovinos, aves e apicultura); agricultura permanente (plantação de abacate, banana, café, goiaba, laranja, limão, mamão, manga, maracujá, tangerina, urucum e uva) e temporária (cultivo de abacaxi, algodão, alho, amendoim, arroz, batata-doce, batata-inglesa, cana-de-açúcar, cebola, feijão, mandioca, melancia, milho, soja, sorgo granífero, tomate e trigo); indústria alimentícia, pesqueira, extrativistas, de transformação, produção e distribuição elétrica e de gás, indústria de transporte e imobiliária; comércio e serviço.[23] A pauta de exportação em 2012 foi baseada principalmente em Carne de Aves (64,04%) e Soja (8,24%).[76]
+Infraestrutura[editar | editar código-fonte]
+Saúde[editar | editar código-fonte]
+Hospital Sarah Kubitschek
+Segundo informações do Instituto Brasileiro de Geografia e Estatística, o Distrito Federal dispunha de um total de 1 756 estabelecimentos de saúde em 2009, sendo 148 públicos e 1 608 privados, os quais dispunham no seu conjunto de 5 294 leitos para internação, sendo que quase 3 700 são públicos. O Distrito Federal também conta com atendimento médico ambulatorial em especialidades básicas, atendimento odontológico com dentista e presta serviço ao Sistema Único de Saúde (SUS).[81]
+A região administrativa de Brasília possui diversos hospitais públicos, como o Hospital de Base do Distrito Federal (HBDF), o Hospital Regional da Asa Norte (HRAN), o Hospital Regional da Asa Sul (HRAS), da Secretaria de Saúde do Distrito Federal, além do Hospital Universitário de Brasília, da Universidade de Brasília (UnB). Algumas das demais regiões administrativas também possuem hospitais públicos da Secretaria de Saúde do Distrito Federal, em um total de 12. O Distrito Federal tem um dos maiores projetos de informatização do sistema de saúde no Brasil.[82][39] A região administrativa de Brasília possui quatro setores hospitalares: Setor Hospitalar Local Norte (SHLN) - fim da Asa Norte; Setor Hospitalar Local Sul (SHLS) - fim da Asa Sul; Setor Médico Hospitalar Norte (SMHN) - Zona Central Norte, onde está o HRAN; Setor Médico Hospitalar Sul (SMHS) - Zona Central Sul, onde está o HBDF.
+Quanto a doenças comuns, o Distrito Federal teve 3.147 ocorrências de dengue de janeiro a agosto de 2008, quase duas vezes mais ddata=19380302o que o registrado no mesmo período de 2007.[83] O Distrito Federal tem uma das maiores taxas de ocorrência de câncer do Brasil. Em 2005, o Distrito Federal foi o recordista nacional de mortes de mulheres por câncer de mama, e os novos casos não diminuíram no ano seguinte.[84] Também são numerosos os casos de câncer de pulmão, devido aos altos índices de tabagismo.[85]
+Transportes[editar | editar código-fonte]
+Rodoviária do Plano Piloto
+Estação Central do Metrô do Distrito Federal.
+O Distrito Federal, por estar localizada no centro do Brasil, serve como ligação terrestre e aérea para o país. O Aeroporto Internacional Presidente Juscelino Kubitschek é um dos mais movimentados do Brasil por número de passageiros, recebendo quase 20 milhões de passageiros em 2015, tornando-o o segundo mais movimentado do país.[86] Oito rodovias radiais fazem a ligação da capital federal com outras regiões do Brasil.[87]
+A atual conjuntura do sistema de transportes do Distrito Federal gera um quadro de pouca mobilidade urbana, com um serviço de ônibus notadamente caro e ineficiente, e uma infraestrutura que privilegia o automóvel particular. Isso gera uma tendência de aumento no número de carros a níveis para os quais a cidade não foi projetada. A cada mês, 5 mil veículos entram em circulação no Distrito Federal, existindo um veículo para 2,3 habitantes do Distrito Federal.[87]
+Em março de 2008 a frota do Distrito Federal chegou a 995 903 veículos,[88] correspondente a uma taxa de motorização de 390 veículos por cada 1 000 habitantes, e esta taxa é ainda maior na área central de Brasília (Plano Piloto, Sudoeste, Lago Sul e Norte). Começaram a surgir inúmeros engarrafamentos na cidade e alguns lugares se tornam intransitáveis nas horas de pico (rush). Os ônibus transportam pouco mais de 14 milhões de passageiros por mês,[89] mas a maior parte da frota já ultrapassou os sete anos limite impostos por lei.[90]
+Para tentar amenizar esse quadro, foi construído um metrô, mas devido à sua extensão limitada e ao próprio crescimento da cidade, ele não alterou significativamente o problema de trânsito na cidade e desde o início da sua construção em 1991, gera prejuízos da ordem de 60 milhões de reais anuais ao governo.[90] Das 29 estações planejadas, 24 estão em funcionamento, ligando o centro do Plano Piloto (rodoviária) ao Guará, Águas Claras, Taguatinga, Ceilândia e Samambaia. O Metrô do Distrito Federal transporta cerca de 150 mil usuários por dia.[91] Em 1 de fevereiro de 2009, entrou em funcionamento a integração dos sistemas de micro-ônibus e metrô, com bilhetes eletrônicos.[92] Ainda está em implementação o projeto Brasília Integrada, que contempla a criação de corredores especiais para ônibus e a integração destes com o metropolitano.[93] Um novo terminal rodoviário interestadual foi inaugurado em julho de 2010, ao lado da Estação Shopping do metrô.[94]
+Educação[editar | editar código-fonte]
+Biblioteca Nacional de Brasília
+Instituto Central de Ciências da Universidade de Brasília.
+O fator educação do Índice de Desenvolvimento Humano do Distrito Federal em 2020 atingiu a marca de 0,850 – o maior do país, em conformidade aos padrões do Programa das Nações Unidas para o Desenvolvimento (PNUD).[7] A taxa de alfabetização da população acima dos dez anos indicada pelo último censo demográfico foi de 96,7%, acima da média nacional (91%).[95]
+No ensino superior, destacam-se importantes universidades públicas e privadas, muitas delas consideradas centros de referência em determinadas áreas. Dentre as principais instituições de ensino superior da unidade federativa, estão a Universidade de Brasília (UnB), Universidade do Distrito Federal Jorge Amaury (UnDF), Instituto Federal de Brasília (IFB), Universidade Católica de Brasília (UCB), Centro Universitário de Brasília (UniCEUB), Centro Universitário do Distrito Federal (UDF), Instituto de Educação Superior de Brasília (IESB), Universidade Paulista (UNIP) e União Pioneira da Integração Social (UPIS).
+No entanto, há uma concentração extrema de instituições de ensino superior no Plano Piloto. Em 2006, foi instalado um novo campus da Universidade de Brasília em Planaltina. Existem também campi da UnB nas regiões administrativas de Ceilândia e Gama.[96] O número de bibliotecas não é proporcional ao tamanho da população na área central. As principais bibliotecas públicas do Distrito Federal se localizam no Plano Piloto, como a biblioteca da Universidade de Brasília, a Biblioteca da Câmara e do Senado, a Biblioteca Demonstrativa de Brasília e a Biblioteca Nacional Leonel de Moura Brizola, também conhecida como Biblioteca Nacional de Brasília, inaugurada em 2006.[97]
+Quanto ao Índice de Desenvolvimento da Educação Básica (IDEB) de 2003, a capital brasileira obteve notas de 5,9 na primeira fase do ensino fundamental, 4,4 na segunda fase do ensino fundamental e 4,0 no ensino médio.[98] Na classificação geral do Exame Nacional do Ensino Médio (ENEM) de 2008, duas escolas particulares da unidade federativa figuraram entre as 50 melhores do ranking, sendo os colégios Olimpo e Sigma os respectivos sexto e quadragésimo nono colocados.[99]
+Cultura[editar | editar código-fonte]
+Em função da construção de Brasília e em busca de melhores condições de vida, muitas pessoas vieram de todas as regiões do país. Por conta disso, o Distrito Federal possui diferentes costumes, sotaques e culturas. O Distrito Federal não possui uma cultura de características próprias, porém dessa mistura, e com o passar do tempo surgiu sua identidade cultural. Muitas pessoas acreditam que particularmente Brasília possui atributos místicos. Os religiosos, por exemplo, acreditam que a capital federal é resultado de uma profecia, mostrada a Dom Bosco em 30 de agosto de 1883, através de um sonho, no qual ele relata que entre os paralelos 15° e 20° havia uma depressão bastante larga e comprida, partindo de um ponto onde se formava um lago. Então, repetidamente, uma voz assim falou que quando vierem escavar as minas ocultas, no meio destas montanhas, surgirá aqui a terra prometida, vertendo leite e mel.[carece de fontes?]
+A segurança pública do Distrito Federal é a que possui maior efetivo e é mais moderna do país. No Distrito Federal, o metro quadrado de área residencial é um dos mais caros do país. E particularmente, em Brasília, por ser uma cidade planejada, possui um vasto patrimônio arquitetônico que compreende desde a própria estrutura da cidade até seus prédios públicos e monumentos. Brasília possui outros destaques, como a torre de TV com vista panorâmica, a Catedral, o Catetinho, as feiras de artesanato, o Jardim Botânico e o Autódromo Internacional Nelson Piquet.[100]
+Esportes[editar | editar código-fonte]
+Estádio Nacional de Brasília Mané Garrincha, uma das sedes da Copa do Mundo FIFA de 2014.
+Estádio Walmir Campelo Bezerra em Gama.
+O Distrito Federal é sede de dois clubes de futebol reconhecidos nacionalmente: o Brasiliense Futebol Clube (de Taguatinga) e a Sociedade Esportiva do Gama (ou simplesmente Gama), que chegaram a participar da primeira divisão do Campeonato Brasileiro de Futebol, sendo que o melhor resultado da história foi o vice-campeonato do Brasiliense na Copa do Brasil na edição de 2002. Os principais estádios de futebol são o Estádio Nacional de Brasília Mané Garrincha, o Estádio Elmo Serejo Farias (Serejão) e o Estádio Walmir Campelo Bezerra (Bezerrão). O Estádio Edson Arantes do Nascimento (Pelezão) foi o primeiro e principal estádio da cidade à época de sua inauguração, mas foi abandonado e demolido em 2009.[carece de fontes?]
+Brasília foi uma das seis cidades-sede dos jogos da Copa das Confederações de 2013 e uma das doze da Copa do Mundo de 2014, cujos jogos ocorreram no Estádio Nacional de Brasília Mané Garrincha. Inicialmente, a FIFA vetou o nome Mané Garrincha para as partidas da Copa das Confederações e da Copa do Mundo da FIFA, mas uma forte pressão popular fez ela voltar atrás e reconhecê-lo como Estádio Nacional de Brasília Mané Garrincha.[101] O estádio está localizado no Complexo Poliesportivo Ayrton Senna (antigo Setor Esportivo), que possui ainda o Ginásio de Esportes Nilson Nelson, que já recebeu partidas da seleções masculina e feminina de vôlei e do Campeonato Mundial de Futsal de 2008, o Autódromo Internacional de Brasília Nelson Piquet, entre outras estruturas. Localizado às margens do Eixo Monumental, no Setor de Recreação Pública Norte (SRPN), é um dos mais completos centros poliesportivos do Brasil. Brasília foi postulante a sede dos Jogos Olímpicos de Verão de 2000, mas teve sua candidatura retirada,[102] e também se candidatou a Universíada de Verão de 2017, quando perdeu para Taipei.[103][104]
+A cidade iria sediar a Universíada de Verão de 2019 após a renúncia das duas outras candidatas Baku e Budapeste poucos dias antes da escolha da sede do evento.[105] Em 23 de dezembro de 2014, o então futuro secretário da casa civil Hélio Doyle anunciou que o governador eleito Rodrigo Rollemberg foi forçado a desistir de sediar o evento devido ao calote de 23 milhões de euros que o governo anterior havia dado na FISU e que o governo local não poderia assumir tal compromisso.[106]
+Por ser uma unidade federativa localizada em altitude superior a mil metros do nível do mar, O Distrito Federal tem revelado atletas de alto nível, corredores de fundo e meio fundo como: o campeão olímpico Joaquim Cruz e Hudson de Souza (800 e 1500 mts rasos); Carmem de Oliveira e Lucélia Peres (5 000, 10 000 e maratona); Valdenor Pereira dos Santos (5000 e 10 000 m); Marilson Gomes dos Santos (5000, 10 000, meia-maratona e maratona). No tênis, o principal torneio é o Aberto de Brasília, disputado em oito quadras da Academia de Tênis Resort, às margens do Lago Paranoá. Com o fechamento da Academia, o torneio que faz parte do ATP Challenger Tour, circuito que acontece em cerca de 40 países, com 178 eventos atuais, foi transferido para o Iate Clube.[107] O Distrito Federal é também a sede do UniCeub/BRB/Brasília, um dos maiores times do basquete nacional e campeão brasileiro.[108]
+Ver também[editar | editar código-fonte]
+Fórum de Governadores do Brasil Central
+Lista de regiões administrativas do Distrito Federal por população
+Lista de governadores do Distrito Federal
+Notas e referênciasNotas
+↑ Órgão integrante do Poder Judiciário da União, o Tribunal de Justiça do Distrito Federal e dos Territórios é um tribunal único entre as unidades federativas. Conforme estabelecido na Constituição Federal de 1988, em seu art. 21, XIII - compete à União, organizar e manter o Poder Judiciário, o Ministério Público e a Defensoria Pública do Distrito Federal e dos Territórios.[60]
+Referências
+↑ Governo do Distrito Federal, ed. (1988). «Lei Orgânica do Distrito Federal de 1988». Consultado em 6 de abril de 2019
+↑ Instituto Brasileiro de Geografia e Estatística (IBGE). «Área Territorial Oficial - Consulta por Unidade da Federação». Consultado em 29 de agosto de 2021
+↑ a b c d IBGE, IBGE (27 de agosto de 2021). «Estimativas da população residente no Brasil e Unidades da Federação com data de referência em 1º de julho de 2021». ibge.gov.br. Consultado em 28 de agosto de 2021
+↑ «Contas Regionais 2017». IBGE. Consultado em 16 de novembro de 2019
+↑ «Tábua completa de mortalidade para o Brasil – 2015» (PDF). IBGE. Consultado em 2 de dezembro de 2016
+↑ «Sinopse do Censo Demográfico 2010». Consultado em 2 de dezembro de 2016
+↑ a b c Renata Rios (29 de setembro de 2020). «Distrito Federal tem o maior IDH do país, revela Ipea». Correio Braziliense. Consultado em 17 de março de 2020
+↑ «IBGE: Geografia do Distrito Federal». Consultado em 10 de fevereiro de 2014. Arquivado do original em 17 de outubro de 2013
+↑ Pequena Divisa entre o Distrito Federal e Minas Gerais
+↑ a b c Guia do Turista (2010). «Distrito Federal - Apresentação». Guia do Turista. Consultado em 4 de fevereiro de 2012
+↑ Klick Educação (2006). «Rio, município neutro». Klick Educação. Consultado em 4 de fevereiro de 2012
+↑ a b Governo do Distrito Federal (2010). «História do Distrito Federal». Governo do Distrito Federal. Consultado em 4 de fevereiro de 2012 [ligação inativa]
+↑ «Dicionário Priberam». Consultado em 15 de outubro de 2010
+↑ CHAIM, M.M. Aldeamentos Indígenas (Goiás 1749–1811). Segunda edição. São Paulo: Nobel, 1983. p. 48
+↑ «Cópia arquivada». Consultado em 16 de setembro de 2012. Arquivado do original em 31 de março de 2013
+↑ http://www.planaltina.df.gov.br/
+↑ «Distrito Federal: História». Enciclopédia Barsa Universal. volume 3. São Paulo: Barsa Planeta Internacional. 2009. 1012 páginas
+↑ «Distrito Federal: História». Enciclopédia Barsa Universal. volume 3. São Paulo: Barsa Planeta Internacional. 2009. pp. 1012–1013
+↑ a b c d e f g h i «Distrito Federal: História». Enciclopédia Barsa Universal. volume 3. São Paulo: Barsa Planeta Internacional. 2009. p. 1013
+↑ SENRA, Nelson. (org.) Veredas de Brasília: as expedições geográficas em busca de um sonho. Rio de Janeiro: IBGE, 2010.
+↑ a b c «Correio Braziliense». Brasília, DF, BR: Diários associados. 11 de julho de 2003. Consultado em 22 de novembro de 2008 [ligação inativa]
+↑ «Flora». Aspectos físicos. BR: Guia de Brasília. Consultado em 22 de novembro de 2008. Arquivado do original em 27 de maio de 2012
+↑ a b c d e f «Distrito Federal: Geografia». Enciclopédia Barsa Universal. volume 3. São Paulo: Barsa Planeta Internacional. 2009. p. 1012
+↑ «Meio Ambiente». DF, BR: Secretaria de Comunicação da UnB. Consultado em 22 de novembro de 2008 [ligação inativa]
+↑ «Governo». Distrito Federal, BR. Consultado em 22 de novembro de 2008 [ligação inativa]
+↑ Província Hidrogeológica do Escudo Central (PDF), BR: Projeto Pé na Água, adaptado de MMA/SRH, 2007, consultado em 11 de maio de 2019, arquivado do original (PDF) em 23 de fevereiro de 2014
+↑ Revista Brasileira de Geociências, Volume 34, 2004
+↑ Comitê de Bacias Hidrográficas, BR: Agência Nacional de Águas - ANA
+↑ «Ambientebrasil». Consultado em 23 de novembro de 2008. Arquivado do original em 11 de abril de 2008
+↑ a b Instituto Nacional de Meteorologia (INMET). «NORMAIS CLIMATOLÓGICAS DO BRASIL». Consultado em 12 de outubro de 2020
+↑ «Chuvas de granizo caem no DF neste sábado e surpreendem brasilienses». Correio Braziliense. 3 de janeiro de 2015. Consultado em 5 de março de 2014. Cópia arquivada em 5 de março de 2015
+↑ Marcelo Pinheiro (9 de abril de 2014). «Chuva, raios e trovoadas em Brasília, DF». Climatempo. Consultado em 5 de março de 2014. Cópia arquivada em 23 de outubro de 2015
+↑ Graça Adjuto (ed.). «DF entra em estado de atenção por causa da baixa umidade do ar». Agência Brasil. Consultado em 5 de março de 2014. Cópia arquivada em 5 de março de 2015
+↑ Josélia Pegorim (9 de junho de 2015). «Frio pode ser recorde em Brasília nesta quarta-feira». Climatempo. Consultado em 13 de junho de 2014. Cópia arquivada em 13 de junho de 2015
+↑ Bom Dia Brasil (2 de outubro de 2014). «Tornado atinge Brasília pela primeira vez na história e assusta moradores». G1. Consultado em 2 de outubro de 2014
+↑ INMET. «Banco de dados meteorológicos». Consultado em 12 de outubro de 2020
+↑ INMET. «Estação: BRASÍLIA (83377)». Consultado em 12 de outubro de 2020
+↑ «Tabela 2.7 - População residente, por situação do domicílio e sexo, segundo os municípios – 2010». Instituto Brasileiro de Geografia e Estatística. 2010. Consultado em 29 de agosto de 2014
+↑ a b c d e Roberto Cavararo (2006). «Síntese de Indicadores Sociais» (PDF). Instituto Brasileiro de Geografia e Estatística. Consultado em 23 de agosto de 2011. Cópia arquivada (PDF) em 23 de agosto de 2011
+↑ Bursztyn, Marcel & Araújo, Carlos Henrique. Da utopia à exclusão: vivendo nas ruas em Brasília. Labor et Fides, 1997. pp. 26–31
+↑ a b «Brasília contrasta riqueza e desigualdade após quase 50 anos de existência». Brasil: UOL. Consultado em 15 de outubro de 2010
+↑ a b «Tabela 631 - População residente, por sexo e lugar de nascimento». Instituto Brasileiro de Geografia e Estatística. 2010. Consultado em 29 de agosto de 2014
+↑ «Lista do Corpo Diplomático e Organismos Internacionais». Consultado em 31 de maio de 2011. Arquivado do original em 8 de outubro de 2010
+↑ «Tabela 1505 - População residente, por naturalidade em relação ao município e à unidade da federação - Resultados Gerais da Amostra». Instituto Brasileiro de Geografia e Estatística. 2010. Consultado em 29 de agosto de 2014
+↑ «LEI COMPLEMENTAR Nº 163, DE 14 DE JUNHO DE 2018». Portal da Legislação. Consultado em 8 de agosto de 2018. Cópia arquivada em 1 de julho de 2018
+↑ PENNA, Nelba Azevedo. A questão urbano ambiental: política urbana e gestão de cidade. 2003. 10 f. Tese (Doutorado) - Curso de Geografia, Departamento de Geografia, Universidade de Brasília, Brasília, 2003.
+↑ Gazeta do Povo, ed. (19 de setembro de 2009). «Brasília é a cidade mais desigual». Consultado em 4 de agosto de 2013
+↑ R7, ed. (18 de janeiro de 2012). «Rio cai 18 posições e é a capital com a 5ª menor taxa de homicídios, diz pesquisa». Consultado em 4 de agosto de 2013. Arquivado do original em 13 de julho de 2012
+↑ Folha de S.Paulo, ed. (22 de abril de 2012). «Com 52 anos, Brasília registra altos índices de violência e desigualdade social». Consultado em 4 de agosto de 2013
+↑ a b Saulo Araújo (8 de maio de 2013).
+Correio Braziliense, ed. «Distrito Federal está a um passo de ter a maior favela da América Latina». Consultado em 4 de agosto de 2013
+↑ «Seleção inaugura palco sem futuro». Gazeta do Povo. BR: RPC. Consultado em 22 de novembro de 2008
+↑ a b «Segurança - A visão de um Especialista». Brasília 45 anos. Brasília, DF, BR: Correio Braziliense. Consultado em 22 de novembro de 2008. Arquivado do original em 8 de julho de 2009
+↑ «Áreas nobres sob o manto do medo». Mais comunidade. 31 de julho de 2009. Consultado em 17 de setembro de 2009. Arquivado do original em 27 de maio de 2012
+↑ Número e taxas (por 100 mil) de homicídio em municípios com mais de 20.000 mil habitantes.
+↑ a b c d e f g Governo do Brasil, ed. (1988). «Constituição da República Federativa do Brasil de 1988 - Título III, Capítulo V: Do Distrito Federal e dos Territórios». Consultado em 4 de agosto de 2013
+↑ a b c Supremo Tribunal Federal, ed. (1988). «Constituição do Brasil - Art. 145» 🔗. Consultado em 4 de agosto de 2013
+↑ «A História de Brasília». BR: Info Brasília. Consultado em 11 de maio de 2019. Arquivado do original em 12 de abril de 2010
+↑ Portal Terra, ed. (25 de agosto de 2010). «Por que Brasília não tem prefeito?». Consultado em 4 de agosto de 2013
+↑ Câmara Legislativa do Distrito Federal (ed.). «Sobre a Câmara Legislativa». Consultado em 4 de agosto de 2013
+↑ http://www.planalto.gov.br/ccivil_03/Constituicao/Constituicao.htm
+↑ Decreto-Lei nº 311, de 2 de Março de 1938
+↑ Gabriel, Ivana Mussi (janeiro de 2010). «O Município na Constituição brasileira: competência legislativa». jus.com. Consultado em 6 de dezembro de 2019
+↑ «Qual a competência legislativa do Distrito Federal?». Consultado em 6 de dezembro de 2019
+↑ «Distrito Federal». só geografia. Consultado em 6 de dezembro de 2019
+↑ a b Governo do Distrito Federal (ed.). «Regiões Administrativas, Datas Importantes e Legislação». Consultado em 4 de agosto de 2013
+↑ «Para os Correios, todo DF agora é Brasília e as regiões administrativas são bairros». Jornal de Brasília. Consultado em 6 de dezembro de 2019
+↑ Governo do Distrito Federal (ed.). «Dossiê Regiões Administrativas». Consultado em 4 de agosto de 2013. Arquivado do original em 26 de julho de 2013
+↑ Histórico do município de Planaltina - Goiás
+↑ Supremo Tribunal Federal, ed. (6 de março de 2008). «Ação Direta de Inconstitucionalidade 980-0 Distrito Federal». Consultado em 4 de agosto de 2013
+↑ Instituto Brasileiro de Geografia e Estatística (IBGE) (2016). «Divisão Territorial Brasileira 2016». Consultado em 17 de janeiro de 2019
+↑ Instituto Brasileiro de Geografia e Estatística (IBGE) (2017). «Divisão Regional do Brasil». Consultado em 17 de janeiro de 2019. Cópia arquivada em 17 de janeiro de 2019
+↑ Instituto Brasileiro de Geografia e Estatística (IBGE) (2017). «Base de dados por municípios das Regiões Geográficas Imediatas e Intermediárias do Brasil». Consultado em 17 de janeiro de 2019
+↑ Instituto Brasileiro de Geografia e Estatística (IBGE). Unidade Territorial: 53 - Distrito Federal
+↑ Mader, H. (2011). DF pode ganhar novo mapa. Correio Braziliense, 28 de setembro de 2011. Reproduzido em Clipping do Ministério do Planejamento[ligação inativa] de 28 de setembro de 2011 (acesso em 28 de setembro de 2011).
+↑ «Densidades Urbanas nas Regiões Administrativas do Distrito Federal» (PDF). Companhia de Planejamento do Distrito Federal (CODEPLAN). Fevereiro de 2017. Consultado em 9 de maio de 2020
+↑ a b «Exportações do Distrito Federal (2012)». Plataforma DataViva. Consultado em 13 de janeiro de 2014. Arquivado do original em 16 de janeiro de 2014
+↑ IBGE. Contas Regionais do Brasil - 2002 - 2012: Tabela 1 - Produto Interno Bruto - PIB e participação das Grandes Regiões e Unidades da Federação - 2002 - 2012. Acessado em 12 de novembro de 2014.
+↑ IBGE. Contas Regionais do Brasil - 2012: Tabela 4 - Produto Interno Bruto, população residente e Produto Interno Bruto per capita, segundo as Grandes Regiões e as Unidades da Federação - 2011. Acessado em 14 de novembro de 2014.
+↑ Sérgio Ulisses Jatobá.
+IPEA, ed. «Brasília e sua crescente influência». Consultado em 27 de outubro de 2012
+↑ Portal de Notícias do Senado Federal, ed. (23 de maio de 2011). «Rollemberg exalta agricultura de Brasília e presta solidariedade às vítimas de naufrágio no Lago Paranoá». Consultado em 27 de outubro de 2012
+↑ «Serviços de saúde». IGBE. Consultado em 7 de julho de 2012
+↑ «Inter Systems» (PDF). Consultado em 22 de novembro de 2008 [ligação inativa]
+↑ «Tribuna do Brasil». Consultado em 22 de novembro de 2008. Arquivado do original em 4 de agosto de 2013
+↑ «Globo». Consultado em 22 de novembro de 2008
+↑ «JB online». Consultado em 22 de novembro de 2008 [ligação inativa]
+↑ «Aeroporto de Brasília recebe 19,8 milhões de passageiros em 2015». Distrito Federal. 12 de janeiro de 2016
+↑ a b «Brasília e Região - Trânsito e Transportes». Anuário do DF. Consultado em 15 de outubro de 2010 [ligação inativa] [ligação inativa]
+↑ «DENATRAN». Departamento Nacional de Trânsito. Consultado em 11 de maio de 2008. Arquivado do original em 21 de julho de 2013
+↑ «Departamento de Trânsito do Distrito Federal». Consultado em 12 de março de 2007
+↑ a b «Correio Braziliense». Consultado em 12 de março de 2007 [ligação inativa]
+↑ Estrutura do metrô do Distrito Federal[ligação inativa]
+↑ «Integração metrô/micro-ônibus começa neste domingo». Consultado em 1 de março de 2015. Arquivado do original em 13 de julho de 2009
+↑ «Secretaria de Estado de Transportes» (PDF). Consultado em 1 de março de 2015. Arquivado do original (PDF) em 6 de março de 2009
+↑ «Brasília inaugura nova rodoviária». Webtranspo. Consultado em 15 de outubro de 2010. Arquivado do original em 6 de julho de 2011
+↑ «Tabela 1383 - Taxa de alfabetização das pessoas de 10 anos ou mais de idade por sexo». Instituto Brasileiro de Geografia e Estatística. 2010. Consultado em 10 de setembro de 2014
+↑ «Plano diretor físico do campus universitário Darcy Ribeiro» (PDF). UnB [ligação inativa]
+↑ «Biblioteca de Brasília será 1ª do país com 100% de acervo digital, diz GDF». G1. Consultado em 7 de julho de 2012
+↑ IDEB - Resultados e Metas
+↑ Bem Paraná (19 de julho de 2010). «Só UTFPR aparece na lista das 50 melhores escolas do País». Consultado em 19 de fevereiro de 2011
+↑ «Distrito Federal: Geografia». Enciclopédia Barsa Universal. volume 3. São Paulo: Barsa Planeta Internacional. 2009. 1014 páginas
+↑ «Fifa nega ter vetado nome de Mané Garrincha para estádio de Brasília». Consultado em 30 de Maio de 2013
+↑ Globo Esporte, ed. (30 de setembro de 2009). «Pela quarta vez, Brasil tenta receber os Jogos Olímpicos». Consultado em 21 de setembro de 2013
+↑ Cláudia Gutemberg, Marcelo Araújo, Leocádio Guimarães, Rodrigo Ledo (2002). Brasília… Em 300 questões. [S.l.]: Dédalo  !CS1 manut: Nomes múltiplos: lista de autores (link)
+↑ O Estado de S. Paulo, ed. (17 de setembro de 2012). «Brasília formaliza candidatura para Universíade/2019». Consultado em 21 de setembro de 2013
+↑ AHE!, ed. (8 de novembro de 2013). «Budapeste desiste e Brasília será candidata única à sede da Universíade em 2019». Consultado em 8 de novembro de 2013
+↑ «Crise orçamentária faz Rollemberg cancelar Universíade em Brasília». Correio Braziliense. Consultado em 23 de dezembro de 2014
+↑ «Aberto de Brasília 2010». Consultado em 22 de julho de 2010
+↑ Novo Basquete Brasil (NBB) (ed.). «Uniceub / BRB / Brasília». Consultado em 21 de setembro de 2013
+Bibliografia[editar | editar código-fonte]
+CAETANO, Nilson F. Apostila Alub/Pré-vestibular. Editora Exato. Caderno IV, p. 2 (Geografia). Brasília-DF, 2004.
+Ligações externas[editar | editar código-fonte]
+O Commons possui uma categoria com imagens e outros ficheiros sobre
+Distrito Federal (Brasil)
+«Governo do Distrito Federal»
+Governo no Facebook
+Governo no Twitter
+«Câmara Legislativa do Distrito Federal»
+«Tribunal de Justiça do Distrito Federal e dos Territórios»
+Distrito Federalvde Distrito Federal Portal — Geografia, Política, Cultura, EsportesSede de governoBrasíliaRegião intermediáriaDistrito FederalRegião imediataDistrito FederalRegiões Metropolitanas e RIDEsDistrito Federal e EntornoMais de 300.000 habitantesCeilândiaMais de 100.000 habitantesSamambaia • Plano Piloto • Taguatinga • Planaltina • Guará • Gama • Recanto das Emas • Santa Maria • Águas ClarasMais de 50.000 habitantesSão Sebastião • Riacho Fundo II • Sol Nascente/Pôr do Sol • Sobradinho II • Sobradinho • Vicente Pires • Paranoá • Itapoã • Sudoeste/Octogonal • Riacho Fundo • Brazlândia • Jardim BotânicoCentro-Oeste, Brasil vdeRegião Integrada de Desenvolvimento do Distrito Federal e EntornoDistrito Federal • Abadiânia (GO) • Água Fria de Goiás (GO) • Águas Lindas de Goiás (GO) • Alexânia (GO) • Cabeceiras (GO) • Cidade Ocidental (GO) • Cocalzinho de Goiás (GO) • Corumbá de Goiás (GO) • Cristalina (GO) • Formosa (GO) • Luziânia (GO) • Mimoso de Goiás (GO) • Novo Gama (GO) • Padre Bernardo (GO) • Pirenópolis (GO) • Planaltina (GO) • Santo Antônio do Descoberto (GO) • Valparaíso de Goiás (GO) • Vila Boa (GO) • Buritis (MG) • Cabeceira Grande (MG) • Unaí (MG)Distrito Federal, Goiás e Minas Gerais
+vde Regiões e unidades federativas do Brasil
+Subdivisões do Brasil
+Unidades da FederaçãoRegião Norte
+Acre
+Amapá
+Amazonas
+Pará
+Rondônia
+Roraima
+Tocantins
+Região Nordeste
+Alagoas
+Bahia
+Ceará
+Maranhão
+Paraíba
+Pernambuco
+Piauí
+Rio Grande do Norte
+Sergipe
+Região Centro-Oeste
+Distrito Federal
+Goiás
+Mato Grosso
+Mato Grosso do Sul
+Região Sudeste
+Espírito Santo
+Minas Gerais
+Rio de Janeiro
+São Paulo
+Região Sul
+Paraná
+Rio Grande do Sul
+Santa Catarina
+Arquipélagos
+Anavilhanas
+Fernando de Noronha
+Atol das Rocas
+Arquipélago de São Pedro e São Paulo
+Trindade e
+Martim Vaz
+Geoeconômicas
+Amazônica
+Centro-Sul
+Nordeste
+Propostas de criação de unidades federativas do Brasil
+Portal do Brasil
+Portal do Distrito Federal (Brasil)
+Controle de autoridade
+: Q119158
+WorldCat
+VIAF: 152442262
+EBID: ID
+GEC: 0447320
+GND: 220540-3
+GRID: grid.466737.7
+LCCN: n80083597
+OSM: 421151
+MusicBrainz: ID
+GeoNames: 3463504
+TGN: 1000841
+Obtida de https://pt.wikipedia.org/w/index.php?title=Distrito_Federal_(Brasil)&oldid=62091729
+Categorias: Distrito Federal (Brasil)Distrito Capital e territóriosFundações no Brasil em 1960Categorias ocultas: !Páginas com erros em referências!Artigos com ligações inativas!Artigos com ligações externas inativas!Artigos com citações quebradas!CS1 manut: Nomes múltiplos: lista de autores!Páginas que usam predefinições de coordenadas obsoletas!Artigos que carecem de notas de rodapé!Artigos que carecem de notas de rodapé sem indicação de tema!Artigos que carecem de notas de rodapé desde junho de 2019!Artigos com ligações precisando de desambiguação!Artigos que carecem de notas de rodapé desde fevereiro de 2015!Páginas que utilizam Nobold com segundo parâmetro sem nome!Nome de usuário do Facebook que não está no Wikidata!Nome de usuário do Twitter que não está no Wikidata
+Esta página foi editada pela última vez às 19h51min de 21 de setembro de 2021.
+Este texto é disponibilizado nos termos da licença Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as condições de utilização.
+Política de privacidade
+Sobre a Wikipédia
+Avisos gerais
+Versão móvel
+Programadores
+Estatísticas
+Declaração sobre cookies');
+Document.create!(url: 'https://pt.wikipedia.org/wiki/Rio_de_Janeiro_(estado)', title: 'Rio de Janeiro (estado) – Wikipédia, a enciclopédia livre', body: 'Rio de Janeiro (estado) – Wikipédia, a enciclopédia livre
+Saltar para o conteúdo
+Alternar barra lateral
+Busca
+Links do usuário
+Criar uma conta
+Ferramentas pessoais
+expanded
+collapsed
+Criar uma conta
+Entrar
+Páginas para editores conectados saiba mais
+DiscussãoContribuições
+Navegação
+Página principalConteúdo destacadoEventos atuaisEsplanadaPágina aleatóriaPortaisInformar um erro
+Colaboração
+Boas-vindasAjudaPágina de testesPortal comunitárioMudanças recentesManutençãoCriar páginaPáginas novasContatoDonativos
+Ferramentas
+Páginas afluentesAlterações relacionadasCarregar ficheiroPáginas especiaisHiperligação permanenteInformações da páginaCitar esta páginaElemento Wikidata
+Imprimir/exportar
+Criar um livroDescarregar como PDFVersão para impressão
+Noutros projetos
+Wikimedia CommonsWikiquoteWikivoyage
+Espaços nominais
+ArtigoDiscussão
+Variantes
+expanded
+collapsed
+Vistas
+LerEditarEditar código-fonteVer histórico
+Mais
+expanded
+collapsed
+93 idiomas
+expanded
+collapsed
+AfrikaansAragonésالعربيةAsturianuAymar aruAzərbaycancaBoarischБеларускаяБеларуская (тарашкевіца)Българскиবিষ্ণুপ্রিয়া মণিপুরীBrezhonegBosanskiCatalàChavacano de ZamboangaCebuanoQırımtatarcaČeštinaCymraegDanskDeutschΕλληνικάEmiliàn e rumagnòlEnglishEsperantoEspañolEestiEuskaraفارسیSuomiFrançaisGaeilgeGalegoAvañeẽעבריתHrvatskiMagyarՀայերենInterlinguaBahasa IndonesiaIdoItaliano日本語ქართული한국어KurdîKernowekLatinaLadinoLëtzebuergeschLimburgsLietuviųLatviešuMalagasyМакедонскиमराठीBahasa MelayuNederlandsNorsk nynorskNorsk bokmålOccitanИронPolskiPiemontèisپنجابیRuna SimiRomânăРусскийScotsSrpskohrvatski / српскохрватскиSimple EnglishSlovenčinaСрпски / srpskiSvenskaKiswahiliதமிழ்TetunТоҷикӣไทยTürkçeТатарча/tatarçaУкраїнськаاردوOʻzbekcha/ўзбекчаVènetoTiếng ViệtVolapükWinaray吴语Yorùbá中文Bân-lâm-gú粵語
+Editar hiperligações
+Rio de Janeiro (estado)
+Origem: Wikipédia, a enciclopédia livre.
+Coordenadas: 22° 55 S 43° 11 O
+Nota: Este artigo é sobre o estado. Para a capital, veja Rio de Janeiro. Para outros significados, veja RJ (desambiguação).
+Esta página cita fontes, mas estas não cobrem todo o conteúdo. Ajude a inserir referências. Conteúdo não verificável poderá ser removido.—Encontre fontes: Google (notícias, livros e acadêmico) (Janeiro de 2020)
+Estado do Rio de Janeiro
+Bandeira
+Brasão
+Lema: RECTE REM PVBLICAM GERERE(traduzido do latim, significa: Gerir a Coisa Pública com Retidão)
+Hino: Hino do Rio de Janeiro
+Gentílico: fluminense
+Localização
+- Região
+Sudeste
+- Estados limítrofes
+Espírito Santo (nordeste), Minas Gerais (noroeste) e São Paulo (sudoeste)
+- Regiões geográficas   intermediárias
+5
+- Regiões geográficas   imediatas
+14
+- Municípios
+92
+Capital
+Rio de Janeiro
+Governo
+- Governador(a)
+Cláudio Castro[nota 1] (PL)
+- Vice-governador(a)
+cargo vago ([nota 2])
+- Deputados federais
+46
+- Deputados estaduais
+70
+- Senadores
+Carlos Portinho (PL)Flávio Bolsonaro (Patriota)Romário (PL)
+Área
+- Total
+43 750,426 km² (24º) [2]
+População
+2021
+- Estimativa
+17 463 349 hab. (3º)[3]
+- Censo 2010
+15 989 929 hab.
+- Densidade
+399,16 hab./km² (2º)
+Economia
+2018
+- PIB
+R$ 758.859 bilhões[4] (2º)
+- PIB per capita
+R$ 44 222 (3º)
+Indicadores
+2016/2017[5][6]
+- Esperança de vida (2017)
+76,5 anos (8º)
+- Mortalidade infantil (2017)
+11,1‰ nasc. (20º)
+- Alfabetização (2016)
+97,3% (2º)
+- IDH (2017)
+0,796 (4º) – alto [7]
+Fuso horário
+UTC−3
+Clima
+tropicaltropical de altitude Aw, Cwa
+Cód. ISO 3166-2
+BR-RJ
+Site governamental
+http://www.rj.gov.br/
+Rio de Janeiro é uma das 27 unidades federativas do Brasil. Situa-se a sudeste da região Sudeste do país, tendo como limites os estados de Minas Gerais (norte e noroeste), Espírito Santo (nordeste) e São Paulo (sudoeste), além do Oceano Atlântico (leste e sul). Ocupa uma área de 43 750,426 km².[3] Os naturais do estado do Rio de Janeiro são chamados de fluminenses (do latim flume, literalmente rio).[8][9]
+A cidade mais populosa é a sua capital homônima, que também é a segunda maior metrópole do Brasil. Apesar de ser, em termos de território, o terceiro menor estado brasileiro (ficando à frente apenas de Alagoas e Sergipe), concentra 8,4% da população do país, sendo o estado com maior densidade demográfica do Brasil. Segundo dados do Censo 2010, o estado é o terceiro mais populoso do Brasil, atrás de São Paulo e Minas Gerais. A estimativa populacional calculada pelo IBGE, tendo como referência em 1° de julho de 2021, foi de 17 463 349 habitantes.[3]
+O produto interno bruto (PIB) do estado é o segundo maior do país, enquanto o Índice de Desenvolvimento Humano (IDH) fluminense é o quarto mais elevado do Brasil. Além disso, o Rio de Janeiro apresenta a terceira maior taxa de alfabetização do país, somente atrás de Santa Catarina e Distrito Federal.
+O estado é formado por duas regiões morfologicamente distintas: a baixada e o planalto, que se estendem, como faixas paralelas, do litoral para o interior. Paraíba do Sul, Macaé, Guandu, Piraí, Muriaé e Carangola são os principais rios. O clima varia de tropical a subtropical. Há ocorrência de geadas, nos meses de inverno, em regiões acima dos mil metros de altitude e inclusive queda de neve esporádica no Parque Nacional de Itatiaia. O litoral fluminense também o terceiro mais extenso do país, atrás das costas de Bahia e Maranhão.[10]
+Índice
+1 História
+1.1 Primeiros povos e colonização portuguesa
+1.2 Transferência da corte portuguesa e século XIX
+1.3 Século XX
+1.3.1 Reunificação
+2 Geografia
+2.1 Solos e relevo
+2.2 Vegetação
+2.3 Hidrografia
+2.4 Clima
+3 Demografia
+3.1 Religião
+3.2 Composição étnica
+3.3 Municípios mais populosos
+4 Política e administração
+5 Subdivisões
+5.1 Regiões geográficas intermediárias e imediatas
+6 Economia
+6.1 Indústria
+6.2 Serviços
+7 Infraestrutura
+7.1 Educação
+7.2 Segurança pública
+8 Cultura
+8.1 Museus e espaços culturais
+8.2 Cinema
+8.3 Esportes
+9 Ver também
+10 Notas
+11 Referências
+12 Ligações externas
+História[editar | editar código-fonte]
+Ver artigo principal: História do Rio de Janeiro
+Primeiros povos e colonização portuguesa[editar | editar código-fonte]
+Ver artigos principais: Colonização do Brasil e França Antártica
+Baía de Guanabara na época da França Antártica.
+Forte de São Mateus, em Cabo Frio, uma das fortificações construídas pelos portugueses no litoral fluminense.
+O continente americano já era habitado desde pelo menos 10 000 a.C. por povos provenientes de outros continentes.[11] Por volta do ano 1000, o litoral do Estado, com exceção da região da foz do Rio Paraíba do Sul, foi invadida por povos tupis provenientes da Amazônia.[12]
+À época do estabelecimento do sistema de Capitanias Hereditárias no Brasil, a região da baía do Rio de Janeiro (mais tarde, renomeada para baía de Guanabara) foi entregue a Martim Afonso de Souza e compunha o 1º lote ou a porção setentrional da Capitania de São Vicente, cujo território ia da atual cidade de Macaé até a atual cidade de Caraguatatuba, e era separada do 2º lote ou da porção meridional da Capitania de São Vicente pela Capitania de Santo Amaro (de Caraguatatuba a Bertioga). A região norte do atual Estado do Rio de Janeiro compunha a Capitania de São Tomé ou Capitania da Paraíba do Sul, e foi entregue inicialmente a Pero de Góis.[13]
+No entanto, as primeiras tentativas de colonização portuguesa tanto na parte setentrional de São Vicente quanto em São Tomé acabaram fracassando, em virtude da hostilidade dos tamoios (os índios tupinambás da Guanabara) e dos goitacás (índios tapuias da região de Campos). Em 1555, os tamoios fizeram uma aliança com a coroa francesa e autorizaram que os franceses estabelecessem uma colônia na margem ocidental da baía de Guanabara, sob o comando do almirante e cavaleiro templário Nicolas Durand de Villegagnon. Essa colônia recebeu o nome de França Antártica e tinha como capital Henriville (cidade de Henrique), localizada no atual bairro do Flamengo na Zona Sul da capital fluminense.[14]
+Visando a evitar esta ocupação e a assegurar a posse do território para a Coroa Portuguesa, foi fundada a cidade de São Sebastião do Rio de Janeiro, em 1.º de março de 1565, por Estácio de Sá, no morro do Cara de Cão, na atual bairro da Urca. Estácio de Sá pode ser considerado o primeiro governador-geral do Rio de Janeiro, no período colonial.[15] Entre o grupo de fundadores, incluía-se também Dom Antônio de Mariz e o Padre José de Anchieta, que participou dos preparativos para a tomada do Rio de Janeiro e mais tarde da organização das primeiras vilas no recôncavo da Guanabara e na sua margem oriental, como, por exemplo, a vila de São Lourenço dos Índios do Rio de Janeiro (atual cidade de Niterói). Como a região foi recuperada por uma conquista bélica patrocinada pela coroa, a sua propriedade foi revertida para a família real portuguesa (deixando de ser, portanto, uma capitânia hereditária da família Souza). Em decorrência desse fato, a Capitânia de São Vicente Setentrional passou a chamar-se Capitania Real do Rio de Janeiro, tornando-se a segunda capitânia real da América Portuguesa (após a da Bahia de Todos os Santos, em 1548).[14] Diferentemente das capitanias donatárias, as capitanias reais possuíam administradores indicados pela coroa e não proprietários.[16]
+Rua da cidade histórica de Paraty inundada pela maré alta. Ao fundo, a Igreja de Santa Rita de Cássia.
+No século XVI, a pecuária e a lavoura de cana-de-açúcar impulsionaram o progresso, definitivamente assegurado quando o porto começou a exportar o ouro extraído de Minas Gerais, no século XVII. Entre 1583 e 1623, a área de maior destaque de produção de açúcar, no sul do Brasil, se deslocou de São Vicente para o Rio de Janeiro, na região da baía de Guanabara. Se, em 1629, havia sessenta engenhos em produção no Rio de Janeiro, em 1639, já havia 110 engenhos e o Rio de Janeiro passou a fornecer açúcar a Lisboa, devido à tomada de Pernambuco durante as invasões neerlandesas. Ao final do século, havia 120 engenhos na região.[17]
+Com o crescimento dos engenhos e alambiques do Rio, aumentou a imigração portuguesa para a cidade. É por volta dessa época que os naturais da Capitânia do Rio de Janeiro começam a ser chamados popularmente de cariocas, em particular, os trabalhadores braçais urbanos livres (pedreiros, pintores, ourives e etc). O termo carioca era utilizado pelos imigrantes brancos da capitânia para se distinguir dos cidadãos mestiços, como lembra a profª Armelle Enders, brasilianista francesa: No século XVII, os portugueses instalados no Rio recorrem de bom grado a essa alcunha [carioca] para designar os seus compatriotas naturais do lugar e sublinhar-lhes a forte mestiçagem ameríndia.[18]
+Com a restauração da Independência Portuguesa, em 1640, os comerciantes e donos de embarcações receberam permissão de comercializar diretamente com a África a partir do porto do Rio de Janeiro, visando, complementarmente, ao tráfico de escravos para o rio da Prata. O ciclo da prata levou a um rápido desenvolvimento econômico da cidade do Rio de Janeiro, levando a cidade a se tornar no século seguinte o principal elo logístico do Império português. Tal comércio foi bastante impactado pela tomada de Angola pelos neerlandeses na mesma época. A utilização de escravos indígenas foi ampliada, mas os comerciantes e proprietários tiveram que se indispor com os jesuítas por causa das proibições papais relativas à escravização dos índios.[19][20]
+A Carta Régia de 30 de junho de 1642, passada pela Chancelaria de D. João IV, outorgou o título de a muy heróica e leal cidade de São Sebastião do Rio de Janeiro, conferindo aos cidadãos do Rio o título de homens bons do Porto, o que lhe assegurava os mesmos direitos e privilégios dos cidadãos de Lisboa e do Porto.[21]
+Transferência da corte portuguesa e século XIX[editar | editar código-fonte]
+Ver artigos principais: Transferência da corte portuguesa para o Brasil, Distrito Federal do Brasil (1891-1960) e Município Neutro
+Petrópolis em 1889.
+Mapa do Estado do Rio de Janeiro, 1892. Arquivo Nacional.
+Fazenda de café em Paty do Alferes.
+Em 1763, a cidade do Rio de Janeiro tornou-se a sede do vice-reino do Brasil e a capital da colônia. Com a transferência da corte portuguesa para o Brasil, em 1808, na época da tomada da Península Ibérica por Napoleão Bonaparte, a região foi muito beneficiada com reformas urbanas para abrigar a Corte portuguesa. Dentro das mudanças promovidas, destacam-se: a transferência de órgãos de administração pública e justiça, a criação de novas igrejas, hospitais, quartéis, fundação do primeiro banco do país — o Banco do Brasil — e a Imprensa Régia, com a Gazeta do Rio de Janeiro. Nos anos seguintes também surgiram o Jardim Botânico, a Biblioteca Real (hoje Biblioteca Nacional) e a Academia Real Militar, antecessora da atual Academia Militar das Agulhas Negras. Assim, ocorreu um processo cultural, influenciado não somente pelas informações trazidas pela chegada da corte e da família real, mas também pela presença de artistas europeus que foram contratados para registrar a sociedade e natureza brasileira. Nessa mesma época, nasceu a Escola Real de Ciências, Artes e Ofícios.[carece de fontes?]
+Após a transferência da Corte portuguesa para o Brasil, a administração da capitania do Rio de Janeiro passou a ser confiada ao ministro do Reino, cargo que foi praticamente um substituto para o de Vice-Rei, pois lhe era confiada a sua administração. Em 1821, pouco após o início da Revolução Liberal do Porto, as Cortes Gerais decidem elevar as capitanias à condição de províncias, o que também ocorre no Brasil, quando então nasce a Província do Rio de Janeiro. A despeito disto, o ministro e secretário de Estado dos Negócios do Império, cargo substituto do ministro do Reino português, continuaria a administrá-la, mesmo após a Independência do Brasil, ocorrida no ano seguinte. Aliado a isto, estava o fato de que a cidade do Rio de Janeiro era a capital do Império, o que fazia com que o ministro administrasse a província inteira por meio de avisos, os quais dirigia às Câmaras Municipais de cidades que, naquela época, começavam a crescer a passos largos devido a ampliação e fortalecimento da lavoura cafeeira no Vale do Paraíba, que já sobrepujava a força da lavoura canavieira na região Norte Fluminense.[carece de fontes?]
+As diferenças com relação às demais unidades administrativas do Brasil fez com que no ano de 1834 o município do Rio de Janeiro fosse transformado em Município Neutro, permanecendo como capital do império, enquanto a província passou a ter a mesma organização político-administrativa das demais, com um presidente escolhido pelo imperador e uma Assembleia Legislativa, tendo sua capital na Vila Real da Praia Grande, que no ano seguinte passou a se chamar Niterói, enquanto a cidade do Rio de Janeiro passou a ter uma Câmara Municipal, que cuidaria da vida daquela cidade sem interferência do presidente de província e, em 1889, após a implantação da República no Brasil, a cidade continuou como capital do país, sendo o Município Neutro transformado em Distrito Federal.
+A despeito da grande rotatividade ocorrida no poder da província fluminense logo após a criação do Município Neutro (que lhe deu 85 governantes até o fim do império), a expansão da lavoura cafeeira trouxe prosperidade nunca antes alcançada nesta região. A ferrovia construída por António Clemente Pinto, Barão de Nova Friburgo, ligando Cantagalo ao Porto das Caixas, é um exemplo do poder econômico que alavancou a exploração desta atividade nos sertões da serra fluminense. Tanto com o surgimento de novos centros urbanos pela província, quanto pelo esplendor exibido nas fazendas dos barões do café via-se a prosperidade trazida pelo ouro verde, que também trouxe o desenvolvimento da educação, notado pela construção de várias escolas por todas as cidades. Nesse período, a província se tornou a mais rica e poderosa no país e sua principal exportadora. Essa situação perdurou até por volta de 1888. Com a abolição da escravatura, a aristocracia fluminense se empobrece, já que não tem mais sua mão de obra e ainda vê a exaustão do solo e a redução das safras colhidas ano após ano.[carece de fontes?]
+Século XX[editar | editar código-fonte]
+Ver artigos principais: Proclamação da República do Brasil, Construção de Brasília e Guanabara
+Estação das barcas de Niterói, década de 1940. Arquivo Nacional.
+Carlos Frederico Werneck de Lacerda, governador da Guanabara, comemora a criação do estado no Palácio Tiradentes.
+A decadência foi a tônica na província nos últimos dias do regime imperial. Na luta pela República, vários foram os fluminenses que se distinguiram, cabendo citar Antônio da Silva Jardim, Lopes Trovão, Rangel Pestana, entre outros. Também forte foi a presença na campanha abolicionista. Com a proclamação da República, logo ocorreram problemas políticos que foram, com o tempo, lhe retirando a grandeza e o destaque conseguidos durante o Império. Após a aprovação da sua primeira Constituição Estadual, em 9 de abril de 1892, a capital foi transferida para a cidade de Petrópolis, devido às agitações que ocorreram durante o governo do Marechal Floriano Peixoto nas cidades do Rio de Janeiro e de Niterói, e também à Revolta da Armada, ocorrida naquela época. Após diversos anos em que lutas políticas fizeram o estado perder o rumo administrativo, fato comprovado pela dualidade de Assembleias Legislativas por três períodos, estas fazem aumentar ainda mais a crise econômica fluminense, que se arrasta de tal maneira a transformar, gradualmente, suas plantações de café em pastagens para a pecuária e a fazer com que o mesmo não acompanhe o desenvolvimento industrial experimentado pelo vizinho São Paulo.[carece de fontes?]
+Com a chegada de Getúlio Vargas ao poder, vários interventores foram nomeados, o que não alterou o quadro socioeconômico fluminense até que, em 1937, é nomeado Ernani do Amaral Peixoto, genro de Vargas (este casou-se com Alzira Vargas em 1939) e que pôde realizar muito pelo estado, dando incentivo ao seu desenvolvimento industrial com a construção da Companhia Siderúrgica Nacional, em Volta Redonda, no Vale do Paraíba fluminense, da Companhia Nacional de Álcalis, em Arraial do Cabo, na Região dos Lagos e da Fábrica Nacional de Motores, em Duque de Caxias, na Baixada Fluminense, bem como a expansão da malha rodoviária estadual.[carece de fontes?]
+Amaral Peixoto ainda mobilizou a população fluminense no esforço de guerra, o que resultou na aquisição com os recursos arrecadados, de um novo navio para a Marinha de Guerra brasileira. Data desse período, também, a formação de várias instituições de ensino superior e centros de estudo sobre a cultura e história fluminenses, que procuravam resgatar a memória e construir uma identidade para a população do estado, esvaziado econômica e politicamente desde o fim do Segundo Império. Com a queda de Vargas, Peixoto foi afastado do comando do Estado e cinco interventores sucederam-se no governo fluminense até a eleição, em 1947 de Edmundo de Macedo Soares e Silva, construtor da usina da cidade de Volta Redonda, que reorganizou a administração e as finanças estaduais, bem como continuou o incentivo à industrialização e à produção agropecuária. Foi sucedido, entretanto, por Amaral Peixoto, que dá nova força à expansão industrial e rodoviária, datando desse período a criação da Companhia Nacional de Álcalis.[carece de fontes?]
+Em 1960, com a mudança da capital do país para a nova cidade de Brasília, o antigo Distrito Federal tornou-se o estado da Guanabara. Até o ano de 1964, os governos estaduais procuram dinamizar a economia fluminense, reformando a estrutura do estado, organizando sua educação superior (cria-se em 1960 a Universidade Federal do Estado do Rio de Janeiro, posteriormente Universidade Federal Fluminense), melhorando a infraestrutura elétrica (é desse período a criação das Centrais Elétricas Fluminenses, posteriormente Companhia de Eletricidade do Estado do Rio de Janeiro) e dando nova feição à cidade de Niterói. Após o Golpe de Estado no Brasil em 1964, o governador Badger da Silveira, recém-eleito em 1963, foi afastado do cargo, sendo substituído pelo general Paulo Torres, que tratou de criar a Companhia de Desenvolvimento do Estado do Rio de Janeiro.[carece de fontes?]
+Reunificação[editar | editar código-fonte]
+Niterói foi a capital do estado até 1975, ano da fusão do Estado do Rio de Janeiro com o Estado da Guanabara.
+Após a edição da Lei Complementar nº 20 em 1974, assinada pelo presidente Ernesto Geisel, reunificaram-se, após 140 anos de separação, os estados da Guanabara e do Rio de Janeiro em 15 de março de 1975. A capital do estado passou a ser o município do Rio de Janeiro, voltando-se a situação político-territorial anterior a 1834, ano da criação do Município Neutro. Foram mantidos ainda os símbolos do estado do Rio de Janeiro, enquanto os símbolos do antigo estado da Guanabara passaram a ser os símbolos do município do Rio de Janeiro. Por imposição do regime militar, o gentílico carioca foi reduzido a gentílico municipal da cidade do Rio de Janeiro, embora a maioria da população do Estado do Rio de Janeiro se declare como carioca. Atualmente, movimentos sociais tentam obter o reconhecimento de carioca como gentílico cooficial do novo Estado do Rio de Janeiro.[22]
+Alguns alegam que a motivação por trás do presidente Ernesto Geisel para a fusão foi neutralizar a força oposicionista do Movimento Democrático Brasileiro no estado da Guanabara. O estado do Rio de Janeiro, tradicionalmente foi considerado um polo de conservadorismo, vide governos sucessivos do Partido Social Democrático e posteriormente da Aliança Renovadora Nacional, apesar da grande força do Partido Trabalhista Brasileiro (que elegeu os dois últimos governadores antes de 1964), e depois do Movimento Democrático Brasileiro nessa região, o que levou à errônea conclusão que esta viria a neutralizar a oposição emedebista guanabarina, evitando maiores problemas para o governo militar, que acaba por indicar como primeiro governador do novo estado o almirante Floriano Peixoto Faria Lima. Apesar de Faria Lima assumir o estado com promessas do governo federal de maciços investimentos, a fim de compensar os problemas que poderiam advir da fusão, esses não se concretizaram plenamente, mesmo com a implantação das usinas nucleares em Angra dos Reis e a expansão da Companhia Siderúrgica Nacional, o que acarretou problemas que viriam a ser sentidos, principalmente nas áreas de habitação, educação, saúde e segurança partir da década de 1980.[carece de fontes?]
+Leonel Brizola
+Com a abertura política e a volta das eleições diretas para governador, os fluminenses elegem Leonel de Moura Brizola (Partido Democrático Trabalhista) em 1982, exilado político desde 1964 que voltava ao Brasil com a bandeira do trabalhismo varguista, o que conquistou o eleitorado insatisfeito com o segundo governo de Chagas Freitas.[23] Em seu primeiro governo, Leonel Brizola constrói o Sambódromo e dá início aos Centros Integrados de Educação Pública (CIEPs), escolas projetadas por Oscar Niemeyer e idealizadas pelo professor Darci Ribeiro para funcionarem em tempo integral. A crescente crise na área da segurança pública e os desgastantes atritos com as Organizações Globo (atual Grupo Globo) acabaram por impedir que ele fizesse seu sucessor.[23][24]
+Nas eleições de 1986, Moreira Franco foi eleito governador pelo Partido do Movimento Democrático Brasileiro numa ampla aliança antibrizolista, que ia do Partido da Frente Liberal ao Partido Comunista do Brasil. Moreira teve a ajuda do Plano Cruzado, plano econômico lançado no governo do presidente José Sarney que visava o controle da inflação e que malogrou ante a acusação, por parte da oposição, de ter sido eleitoreiro. A decepção com o governo Moreira Franco, que não cumpriu a promessa de acabar com a violência em seis meses, levou o eleitorado fluminense a eleger Leonel Brizola novamente, em 1990.[23][25] Em seu segundo mandato, Brizola concluiu os Centros Integrados de Educação Pública (CIEP), construiu a Via Expressa Presidente João Goulart, a Universidade Estadual do Norte Fluminense, ampliou o sistema de abastecimento hídrico do Rio Guandu e deu início ao Programa de Despoluição da Baía de Guanabara. Porém os problemas crônicos na área de segurança, bem como nas contas públicas estaduais, fizeram o estado sofrer uma intervenção branca do governo federal no ano de 1992, durante a Conferência das Nações Unidas sobre o Meio Ambiente e o Desenvolvimento e, também, no ano de 1994. A utilização de tropas das Forças Armadas no patrulhamento das ruas da capital fluminense foi amplamente apoiada pela população.[26][27]
+Marcello Alencar
+Em meio a esses problemas, Brizola renunciou ao mandato a fim de concorrer às eleições presidenciais. O governo estadual foi assumido pelo seu vice, Nilo Batista, que, após 8 meses, passou o comando para Marcello Alencar, eleito pelo Partido da Social Democracia Brasileira em 1994 graças ao bom desempenho de sua passagem pela prefeitura da cidade do Rio de Janeiro e ao sucesso do Plano Real. Marcello retomou as obras do metrô, paralisadas desde a gestão de Moreira Franco, construiu a Via Light, ligando o Rio de Janeiro a Nova Iguaçu, e implementou uma política de segurança pública mais voltada ao confronto armado, o que acabou por gerar antipatia da população de baixa renda, mais exposta aos enfrentamentos entre a polícia e bandidos.[carece de fontes?]
+Na eleição seguinte, Anthony Garotinho, apadrinhado à época por Brizola e que, anteriormente, havia perdido a eleição para Alencar, foi eleito governador pelo Partido Democrático Trabalhista, apoiado por uma aliança de esquerda que incluiu, como vice na chapa, a então senadora Benedita da Silva, do Partido dos Trabalhadores, que o substituiu em 2002, quando ele também renunciou, como Brizola, visando à corrida presidencial. Benedita assumiu em meio a problemas de ordem política — Garotinho rompeu a aliança com o Partido dos Trabalhadores, sob acusações de fisiologismo — e fiscal que acabaram por impedi-la de se reeleger, sendo derrotada por Rosinha Garotinho, esposa de Anthony Garotinho, que procurou, após eleita, manter o estilo por vezes controvertido de governar de seu marido, enfrentando ainda duras críticas com relação à situação da segurança pública.[carece de fontes?]
+Nas eleições de 2006, o eleitorado fluminense elegeu Sérgio Cabral Filho como o novo governador. A vitória ocorreu no segundo turno, após vencer a ex-juíza Denise Frossard, apoiada por Cesar Maia. Apesar de pertencer ao mesmo partido de Garotinho e Rosinha (Partido do Movimento Democrático Brasileiro), Cabral vinha dissociando, desde a campanha, sua imagem da do casal. A aproximação com o presidente Lula, a nomeação de Benedita da Silva e Joaquim Levy para o seu secretariado e a extinção de projetos como o Cheque-Cidadão e Jovens pela Paz (considerados como marcas registradas do período Garotinho/Rosinha) foram atitudes tomadas por Cabral que sinalizam este distanciamento, mas que permitiram, ao mesmo, alcançar a reeleição no ano de 2010.[carece de fontes?]
+Geografia[editar | editar código-fonte]
+Imagem de satélite do território fluminense.
+O estado do Rio de Janeiro faz parte do bioma da Mata Atlântica brasileira, tendo em seu relevo montanhas e baixadas localizadas entre a Serra da Mantiqueira e Oceano Atlântico, destacando-se pelas paisagens diversificadas, com escarpas elevadas à beira-mar, restingas, baías, lagunas e florestas tropicais. Fazendo divisa com os estados de Espírito Santo, São Paulo e Minas Gerais, o Rio de Janeiro é um dos menores estados do país e o menor da região Sudeste. O município mais setentrional do estado é Porciúncula e o mais meridional Paraty. Possui uma costa com 635 quilômetros de extensão, banhados pelo Oceano Atlântico, sendo superada em tamanho apenas pelas costas da Bahia e Maranhão.[carece de fontes?]
+Solos e relevo[editar | editar código-fonte]
+De um modo geral, os solos fluminenses são relativamente pobres. Os solos mais propícios à utilização agrícola encontram-se em Campos dos Goytacazes, Cantagalo, Cordeiro e em alguns municípios do vale do Rio Paraíba do Sul. Existem no estado duas unidades de relevo: a Baixada Fluminense, que corresponde às terras situadas em geral abaixo de duzentos metros de altitude e o planalto ou Serra Fluminense, acima de trezentos metros.[carece de fontes?]
+Pico das Agulhas Negras, no Parque Nacional do Itatiaia, o ponto mais alto do estado.
+Parque Nacional da Serra dos Órgãos com o Dedo de Deus ao fundo.
+A Baixada Fluminense acompanha todo o litoral e ocupa cerca de metade da superfície do estado. Apresenta largura variável, bastante estreita entre as baías da Ilha Grande e de Sepetiba, alargando-se progressivamente no sentido leste, até o Rio Macacu. No trecho que passa pela capital, erguem-se os maciços da Tijuca e da Pedra Branca, que atingem altitudes um pouco superiores a mil metros. Da Baía da Guanabara até Cabo Frio, a baixada volta a estreitar-se numa sucessão de pequenas elevações, de duzentos a quinhentos metros de altura, os chamados maciços litorâneos fluminenses. A partir de Cabo Frio, alarga-se novamente, alcançando suas extensões máximas no delta do Rio Paraíba do Sul.[carece de fontes?]
+Os principais acidentes geográficos do estado são a Serra do Mar e a Serra da Mantiqueira. A primeira recebe diversas denominações locais: Serra dos Órgãos, Serra das Araras, Serra da Estrela e Serra do Rio Preto. Seu ponto culminante é o Pico Maior de Friburgo, a 2.316 metros de altitude. A serra da Mantiqueira cobre o noroeste do estado, ao norte do vale do Rio Paraíba do Sul, sendo paralela à Serra do Mar. É lá que se encontra o pico das Agulhas Negras, ponto culminante do estado a 2.791 metros acima do nível do mar, no município de Itatiaia. Entre as duas serras está o vale do rio Paraíba do Sul, onde a média de altitude cai para 250 metros. A nordeste, observa-se uma série de morros e colinas de baixas altitudes.[carece de fontes?]
+Vegetação[editar | editar código-fonte]
+Parque Nacional da Tijuca.
+A vegetação original do estado inclui a Mata Atlântica, restingas, manguezais e campos de altitude. Devido à ocupação agropastoril, o desmatamento a modificou sensivelmente.
+Atualmente, as florestas ocupam um décimo do território fluminense, concentrando-se principalmente nas partes mais altas das serras. Há grandes extensões de campos produzidos pela destruição, próprios para a pecuária, e, no litoral e no fundo das baías, registra-se a presença de manguezais (conjunto de árvores chamadas mangues, que crescem em terrenos lamacentos).[carece de fontes?]
+As principais unidades de conservação do estado são os parques nacionais da Tijuca, de Itatiaia, da Serra da Bocaina, da Serra dos Órgãos e da Restinga de Jurubatiba, os parques estaduais da Pedra Branca, da Ilha Grande e dos Três Picos e a Área de Proteção Ambiental de Guapimirim.[carece de fontes?]
+Hidrografia[editar | editar código-fonte]
+Rio Paraíba do Sul em Campos dos Goytacazes.
+Arraial do Cabo, na região dos Lagos.
+O Rio Paraíba do Sul é o principal rio do estado. Nasce em Taubaté, no estado de São Paulo, e desemboca no Oceano Atlântico — como a maior parte dos rios fluminenses —, na altura do município de São João da Barra. Seus principais afluentes, no estado, são o Paraibuna, Pomba e o Muriaé que possui um importante afluente, o Carangola, subafluente do rio Paraíba do Sul, pela margem esquerda, o Piabinha e o Piraí pela margem direita.
+Além do Paraíba do Sul, destacam-se, de norte para sul, os rios Itabapoana, que marca fronteira com o Espírito Santo, o Macabu, que deságua na Lagoa Feia, o Macaé, o São João, o rio Macacu, o Magé e o Guandu.Os principais acidentes são a Baía da Ilha Grande, a Ilha Grande, a Restinga da Marambaia, a Baía de Sepetiba e a Baía de Guanabara, onde se destaca na paisagem a Enseada de Botafogo. Há um total de 365 ilhas espalhadas pela costa somente no município de Angra dos Reis e 65 na baía de Paraty.[carece de fontes?]
+O litoral fluminense é pontilhado por numerosas lagoas, antigas baías fechadas por cordões de areia. As mais importantes são as lagoas Feia, a maior do estado, Saquarema, Maricá, Marapendi, Jacarepaguá e Rodrigo de Freitas, as três últimas no município do Rio de Janeiro. O estado ainda conta com a maior laguna hipersalina do mundo, a Laguna Araruama, que é chamada de lagoa por alguns por um erro, pois, além de ser salobra, tem ligação com o mar através do Canal do Itajuru.[carece de fontes?]
+Clima[editar | editar código-fonte]
+Rio de Janeiro de acordo com a classificação climática de Köppen.
+Predominam no estado do Rio de Janeiro os climas tropical (nas baixadas) e tropical de altitude (nos planaltos). Na Região Metropolitana do Rio de Janeiro, domina o clima tropical semiúmido, com chuvas abundantes no verão, que é muito quente e invernos secos, com temperaturas amenas. A temperatura média anual é de 22 °C a 24 °C e o índice pluviométrico fica entre 1 000 a 1 500 milímetros anuais. Nos pontos mais elevados da Região Serrana, observa-se o clima tropical de altitude, mas com verões um pouco quentes e chuvosos e invernos frios e secos. A temperatura média anual é de 16 °C. Na maior parte da Serra Fluminense, o clima também é tropical de altitude, mas com verões variando entre quentes e amenos e na maioria das vezes, chuvosos, e invernos frios e secos, com índice pluviométrico elevado, se aproximando dos 2.500 mm anuais em alguns pontos.[carece de fontes?]
+Nas Baixadas Litorâneas, a famosa Região dos Lagos, o clima é tropical marítimo, com média anual de cerca de 24 °C com verões moderadamente quentes, mas amenizados devido ao vento do mar e invernos amenos. É devido ao vento frio trazido pela Corrente das Malvinas que esta região é uma das mais secas do Sudeste, com precipitação anual de apenas cerca de 750 mm em cidades como Arraial do Cabo, Armação dos Búzios e São Pedro da Aldeia, e não passando de cerca de 1 100 mm nas cidades mais chuvosas da região, como Saquarema por exemplo. Ocasionalmente, podem ocorrer precipitações de neve nas partes altas da Serra da Mantiqueira, dentro dos limites Parque Nacional de Itatiaia. Em 1985, foi registrada uma abundante nevada nas proximidades deste pico, com acumulações de um metro em certos pontos.[28]
+Demografia[editar | editar código-fonte]
+Crescimento populacional
+Censo
+Pop.
+%±
+18721 057 69618901 399 53532,3%19001 737 47824,1%19202 717 24456,4%19403 611 99832,9%19504 674 64529,4%19606 709 89143,5%19709 110 32435,8%198011 489 79726,1%199112 783 76111,3%200014 367 08312,4%201015 989 92911,3%Est. 202117 463 349[29]9,2%Fonte:[30]
+Ver artigo principal: Demografia do Rio de Janeiro
+Ver também: Lista de municípios do Rio de Janeiro por população
+Religião[editar | editar código-fonte]
+De acordo com o censo demográfico de 2010, da população total do estado, existiam 7 324 315 católicos (45,8%), 4 696 906 evangélicos (29,4%), 647 572 espíritas (4%), e 2 416 303 pessoas sem religião (14,6%). Existem ainda, adeptos aos islamismo, judaísmo, budismo, hinduísmo, esoterismo e neo-paganismo. Juntos, os adeptos destas e outras religiões minoritárias somam 711 651 pessoas (4,3%).
+O Rio de Janeiro é o estado com o menor percentual de católicos apostólicos romanos, e o estado com o maior percentual de pessoas sem religião (como ateus, e agnósticos). Além disso, é o estado com o maior percentual de espíritas do Brasil. A variedade de denominações é uma marca da presença da diversidade religiosa no perfil demográfico do estado.[31]
+Composição étnica[editar | editar código-fonte]
+O estado do Rio de Janeiro é formado por enorme gama de etnias e povos das mais variadas procedências, principalmente pelo fato de sua capital ter sido durante um longo período a capital do estado brasileiro. Inicialmente a população do estado do Rio de Janeiro foi marcada pela presença de povos indígenas, assim como toda a costa brasileira. No início do século XVI, habitavam o Rio de Janeiro quatro grandes grupos indígenas, classificados de acordo com seu grupo linguístico: tupis-guaranis, que habitavam o litoral e constituíam diversas tribos como os tupinambás ou tamoios e os Tupiniquins; puri-coroado, maxakali e botocudo, da língua macro-jê, que habitavam o interior, sobretudo a bacia hidrográfica do Rio Paraíba do Sul; os goitacases, que habitavam a foz do rio Paraíba do Sul; as tribos guaianás ou Goianás que viviam no litoral sul, entre Angra dos Reis e Paraty, e na Ilha Grande. Com a colonização, as tribos indígenas foram extintas. Em 30 de maio de 1902, na paróquia de Santo Antônio de Pádua, no município de mesmo nome, foi registrado o último óbito de índio natural do estado do Rio de Janeiro: Joaquina Maria Pury. Em fins da década de 1940, guaranis migraram para a região das cidades de Angra dos Reis e Paraty. Eles só vieram a ser descobertos pelo governo federal em 1974 com a construção da Rodovia Rio-Santos. Atualmente, os quinhentos guaranis do estado vivem em três aldeias: Sapukaí, Itatiim e Araponga.
+Cor/Raça
+População
+Brancos
+7 579 023 (47,4%)
+Pardos
+6 332 408 (39,6%)
+Pretos
+1 937 291 (12,1%)
+Amarelos, Indígenas e não declarados
+141 207 (0,9%)
+Fonte: IBGE (2010) Censo no Rio de Janeiro em 2010.
+No século XVI, desembarcam na região os franceses, que na Baía da Guanabara instalam uma colônia de refugiados religiosos. Logo em seguida os portugueses invadem a região, e na guerra com os franceses, saem vitoriosos, sendo fundada a Cidade do Rio de Janeiro pelo português Estácio de Sá. Nos séculos seguintes, a população da região é formada basicamente por portugueses e africanos, trazidos à força pelos portugueses na condição de escravos. Até meados do século XIX, a maioria da população fluminense era composta por negros, porém, o número de imigrantes portugueses desembarcados na cidade do Rio de Janeiro passou a crescer repentinamente naquele século, o que fez com que praticamente se igualasse o número de pessoas de origem africana e as de origem portuguesa. Posteriormente, outros povos contribuíram para a formação da população do estado, como alemães, italianos, suíços, espanhóis, dentre outros, aos quais se somaram os brasileiros de todos os estados, atraídos pela capital do país até a década de 1960, a cidade do Rio de Janeiro. Os primeiros imigrantes não portugueses a chegar à região foram os suíços, em 1818, fundando na região das serras a cidade de Nova Friburgo. Pouco mais tarde, começariam a chegar os alemães e os britânicos, que também rumaram para as serras, principalmente para a região de Petrópolis. Italianos e espanhóis chegariam mais tarde, contribuindo também para a diversidade étnica fluminense.[carece de fontes?]
+Municípios mais populosos[editar | editar código-fonte]
+verdiscutireditar Municípios mais populosos do Rio de Janeiro
+(Estimativa 2019 do Instituto Brasileiro de Geografia e Estatística)[32]
+Rio de JaneiroSão Gonçalo
+Posição
+Localidade
+Região intermediária
+Pop.
+Posição
+Localidade
+Região intermediária
+Pop.
+1
+Rio de Janeiro
+Rio de Janeiro
+6 718 903
+11
+Macaé
+Macaé-Rio das Ostras-Cabo Frio
+256 672
+2
+São Gonçalo
+Rio de Janeiro
+1 084 839
+12
+Magé
+Rio de Janeiro
+245 071
+3
+Duque de Caxias
+Rio de Janeiro
+919 596
+13
+Itaboraí
+Rio de Janeiro
+240 592
+4
+Nova Iguaçu
+Rio de Janeiro
+821 128
+14
+Cabo Frio
+Macaé-Rio das Ostras-Cabo Frio
+226 525
+5
+Niterói
+Rio de Janeiro
+513 584
+15
+Angra dos Reis
+Rio de Janeiro
+203 785
+6
+Belford Roxo
+Rio de Janeiro
+510 906
+16
+Nova Friburgo
+Petrópolis
+190 631
+7
+Campos
+Campos dos Goytacazes
+507 548
+17
+Barra Mansa
+Volta Redonda-Barra Mansa
+184 412
+8
+São João de Meriti
+Rio de Janeiro
+472 406
+18
+Teresópolis
+Petrópolis
+182 594
+9
+Petrópolis
+Petrópolis
+306 191
+19
+Mesquita
+Rio de Janeiro
+176 103
+10
+Volta Redonda
+Volta Redonda-Barra Mansa
+273 012
+20
+Nilópolis
+Rio de Janeiro
+162 485
+Política e administração[editar | editar código-fonte]
+Palácio Guanabara, sede do governo estadual
+Palácio Tiradentes, sede da Assembleia Legislativa
+Por ser a capital do estado, a cidade do Rio de Janeiro também é sede do governo fluminense. A Assembleia Legislativa do Estado do Rio de Janeiro (ALERJ) é o órgão de poder legislativo estadual[33] e está sediada no Palácio Tiradentes,[34] onde anteriormente funcionou a Câmara dos Deputados do Brasil, no Centro da cidade.[35]
+O Palácio Guanabara (anteriormente conhecido como Paço Isabel) fica em Laranjeiras, na zona sul da Capital, é a sede oficial do poder executivo fluminense. O Palácio Guanabara não deve ser confundido com o Palácio Laranjeiras, situado no mesmo bairro (na Rua Paulo Cesar Andrade, 407), que é a residência oficial do governador do Rio de Janeiro.[36]
+O Tribunal de Justiça do Estado do Rio de Janeiro (TJRJ) é o órgão máximo do poder judiciário do estado. Seu fórum central está localizada no Centro do Rio de Janeiro, mas de 2013 a julho de 2018, algumas das varas judiciais deste foro foram deslocadas para a Cidade Nova.[37]
+Subdivisões[editar | editar código-fonte]
+Regiões geográficas intermediárias e imediatas[editar | editar código-fonte]
+O estado do Rio de Janeiro é composto por 92 municípios, que estão distribuídos em 14 regiões geográficas imediatas, que por sua vez estão agrupadas em cinco regiões geográficas intermediárias, segundo a divisão do Instituto Brasileiro de Geografia e Estatística (IBGE) vigente desde 2017.[38]
+As regiões geográficas intermediárias foram apresentadas em 2017, com a atualização da divisão regional do Brasil, e correspondem a uma revisão das antigas mesorregiões, que estavam em vigor desde a divisão de 1989. As regiões geográficas imediatas, por sua vez, substituíram as microrregiões.[39]
+Oficialmente, as cinco regiões intermediárias do estado são: Rio de Janeiro, Volta Redonda-Barra Mansa, Petrópolis, Campos dos Goytacazes e Macaé-Rio das Ostras-Cabo Frio. O estado também é dividido em quatorze regiões imediatas: Rio de Janeiro, Angra dos Reis, Rio Bonito, Volta Redonda-Barra Mansa, Resende, Valença, Petrópolis, Nova Friburgo, Três Rios-Paraíba do Sul, Campos dos Goytacazes, Itaperuna, Santo Antônio de Pádua, Cabo Frio, Macaé-Rio das Ostras. Ao todo, o Rio de Janeiro é dividido em 92 municípios.
+Divisão das regiões intermediárias em vermelho e das imediatas em cinza no Estado do Rio.Municípios.
+Economia[editar | editar código-fonte]
+Exportações do Rio de Janeiro (2012).[40]
+Grande parte da economia do estado do Rio de Janeiro se baseia na prestação de serviços, tendo uma parte significativa da indústria e pouca influência no setor de agropecuária, que responde por apenas 0,4% do produto interno bruto fluminense e é apoiada quase integralmente na produção de hortaliças da Região Serrana e do Norte Fluminense. No passado, cana-de-açúcar e depois, o café, já tiveram considerável impacto na economia fluminense.[carece de fontes?] A área no entorno de Campos dos Goytacazes foi a mais impactada com a queda da cana-de-açúcar: no início do século XX, Campos possuía 27 usinas funcionando, e ao longo do século, foi uma das maiores produtoras do Brasil, porém, em 2020, apenas duas usinas de açúcar operavam na cidade.[41] O estado, que colhia cerca de 10 milhões de toneladas nos anos 1980,[42] chegou a colher apenas 1 milhão de toneladas em 2017, quando começou a se recuperar, colhendo 1,8 milhões de toneladas na safra de 2019/20.[43] Na agricultura, o estado do Rio, atualmente, se destaca em poucos produtos, como o abacaxi, onde é o 4º maior produtor do país (116 milhões de frutos em 2019),[44] que é produzido nas cidades de São Francisco de Itabapoana, São João da Barra, Campos dos Goytacazes e Quissamã.[45] Tem pequenas produções de mandioca (216 mil toneladas em 2019, 20º lugar no país),[46] banana (76 mil toneladas em 2019, 20º lugar no país),[47] laranja (68 mil toneladas em 2019, 10º lugar no país),[48] tangerina (37 mil toneladas em 2019, 5º lugar no país),[49] limão (20 mil toneladas em 2019, 5º lugar no país)[50] e caqui, onde tem 6% da produção nacional, sendo o 4º lugar no país.[51] O estado também já foi um grande produtor de coco, nas áreas de Quissamã e da Região dos Lagos, e em 2009 era o 7º maior produtor nacional, mas entre 2010 e 2020 vários produtores abandonaram a atividade.[52][53]
+No ano de 2012, o Rio de Janeiro foi o segundo estado que mais exportou no país, como a participação de 12,88%[54] com destaque para os produtos Petróleo Cru (64,21%), Petróleo Refinado (6,07%), Produtos Semimanufaturados de Ferro (4,79%), Plataformas de Perfuração (2,33%) e Outras Ligas de Aço, em Lingotes ou Outras Formas Primárias (2,09%).[40]
+O estado do Rio de Janeiro é a segunda maior economia do Brasil, atrás do estado de São Paulo, e a quarta da América do Sul, tendo um Produto Interno Bruto superior ao do Chile, com uma participação no produto interno bruto nacional de 15,8% (2005 – Fundação Centro de Informações e Dados do Rio de Janeiro e Instituto Brasileiro de Geografia e Estatística).[55]
+Indústria[editar | editar código-fonte]
+Plataforma petrolífera P-51 da Petrobras na bacia de Campos.
+Imagem aérea do Estaleiro Mauá, em Niterói.
+O Rio de Janeiro tinha em 2018 um PIB industrial de R$ 150 bilhões, equivalente a 11,4% da indústria nacional e empregando 580.334 trabalhadores na indústria. Os principais setores industriais do Rio são: Extração de Petróleo e Gás Natural (25,9%), Derivados do Petróleo e Biocombustíveis (18,7%), Construção (15,5%), Serviços Industriais de Utilidade Pública, como Energia Elétrica e Água (10,6%), e Metalurgia (4,2%). Estes 5 setores concentram 74,9% da indústria do estado.[56]
+Com 37,5% do produto interno bruto vem o setor industrial — metalúrgica, siderúrgica, gás-química, petroquímica, naval, automobilística, audiovisual, cimenteira, salineira, alimentícia, mecânica, editorial, têxtil, gráfica, de papel e celulose, de extração mineral, extração e refino de petróleo. A indústria química e farmacêutica também ocupa papel de destaque na economia fluminense. Segundo dados da Associação Comercial do Rio de Janeiro, dos 250 laboratórios existentes no país, 80 operam no estado, com destaque para Merck, Glaxo, Roche, Arrow, Barrenne, Casa Granado, Darrow Laboratórios, Gross, Baxter, Schering-Plough, Musa, Daudt, Lundbeck, Mayne e Mappel. A Fundação Oswaldo Cruz (Fiocruz), localizada no bairro carioca de Manguinhos, é o maior laboratório público da América Latina e um dos maiores do mundo e ocupa posição de destaque na pesquisa de remédios para diversas moléstias. A Ceras Johnson, fabricante de vários produtos de limpeza e desinfetantes, também tem sede no Rio de Janeiro. No sul do estado também se localiza um importante parque industrial, com destaque para a Companhia Siderúrgica Nacional sediada em Volta Redonda, PSA Peugeot Citroën, Volkswagen Caminhões e Ônibus (MAN), Coca-Cola (Companhia Fluminense de Refrigerantes), a fabricante de vidros Guardian do Brasil, Galvasud, Indústrias Nucleares do Brasil, Michelin, White Martins, a Indústria Nacional de Aços Laminados, Companhia Estanífera Brasileira, Usinas Nucleares Angra 1, 2 e 3, entre outras. A Nissan também irá construir uma nova fábrica no município de Resende no sul do estado.[57]
+Companhia Siderúrgica Nacional em Volta Redonda.
+Fábrica da Brasil Kirin em Cachoeiras de Macacu.
+O estado também abriga o segundo maior polo cervejeiro do país. Petrópolis é a sede de algumas das maiores cervejarias do pais (como o Grupo Petrópolis, e a Cervejaria Bohemia).[desambiguação necessária] Além disso, inúmeras fábricas se espalham pelo estado.[58]
+No que diz respeito à indústria do sal, a Região dos Lagos é a segunda maior região produtora do Brasil, perdendo apenas para a região do Polo Costa Branca, localizado no estado do Rio Grande do Norte. No município de Cabo Frio está sediada a Refinaria Nacional de Sal, que é uma das principais indústrias salineiras do país.
+No setor de petróleo, estão sediadas no Rio de Janeiro as maiores empresas do país, incluindo a maior companhia brasileira, a Petrobras. Além dela, Shell, Esso, Petróleo Ipiranga e El Paso Corporation mantêm suas sedes e centros de pesquisa no estado. Juntas, todas estas empresas produzem mais de quatro quintos dos combustíveis distribuídos nos postos de serviço do país. O governo do estado monitora a produção de petróleo e gás através do Centro de Informações sobre o Petróleo e Gás Natural do Estado do Rio de Janeiro.
+Serviços[editar | editar código-fonte]
+Panorama da região central da cidade do Rio de Janeiro.
+Reprodução do rio Ganges para a telenovela Caminho das Índias na cidade cenográfica dos Estúdios Globo.
+Os serviços representam 62,1% do produto interno bruto do estado, em áreas como telecomunicações, audiovisual, tecnologia da informação (TI), turismo, turismo de negócios, ecoturismo, seguros e comércio. O estado é a sede da maior parte das operadoras de telefonia do país, como TIM Brasil, Oi, Telemar (Oi e Telemar são do mesmo grupo), Embratel, Vésper (a Embratel e Vésper também são do mesmo grupo) e Intelig (recentemente adquirida pelo grupo TIM). O estado também ocupa posição de destaque no setor de vendas a varejo, sendo sede de grandes cadeias de lojas, como Lojas Americanas, Ponto Frio e Casa & Vídeo.[carece de fontes?]
+O Estado do Rio de Janeiro e, mais especificamente sua capital, são frequentemente associados à produção audiovisual. Segundo dados do Ministério da Cultura, cerca de 80% das produtoras cinematográficas do país têm sede no estado e é da mesma proporção a produção de filmes do estado em relação ao total nacional.[59] O Rio de Janeiro abriga atualmente a maior parte dos estúdios de dublagem de filmes e séries estrangeiras. Na capital do estado ficava a Herbert Richers, maior empresa de tradução e dublagem do Brasil.[60] A cidade do Rio de Janeiro é o berço e quartel-general do Grupo Globo, maior conglomerado de empresas de comunicações e produção cultural da América Latina.[61] Também estão sediadas no Rio de Janeiro a Rede Globo de Televisão, a Globosat, maior empresa de televisão geradora de conteúdo por assinatura do país, a Rádio Globo e o jornal O Globo, primeira empresa da holding.[61]
+Também está presente o Casablanca Estúdios, complexo de estúdios de produção e teledramaturgia da RecordTV.[62] Também se sediou no Rio de Janeiro a Rede Manchete, fundada em 1983 e extinta em 1999.[63] O estado (e especificamente a cidade do Rio de Janeiro), ultimamente tem se destacado como cenário para filmes estrangeiros, principalmente norte-americanos.[64]
+Infraestrutura[editar | editar código-fonte]
+Educação[editar | editar código-fonte]
+Campus do Gragoatá, da Universidade Federal Fluminense (UFF), em Niterói.
+O estado do Rio de Janeiro possui um dos maiores níveis de educação no Brasil.[65] Apesar da precariedade, os estudos mostram que a nível nacional, escolas públicas fluminenses possuíram bons índices de aproveitamento no último censo.[66]
+De acordo com dados do Instituto Brasileiro de Geografia e Estatística, em 2000 o Rio de Janeiro era o terceiro estado brasileiro por número de pessoas acima de quinze anos alfabetizadas, com apenas 6,6% de sua população nessa faixa etária analfabeta. O estado estava atrás apenas do Distrito Federal (5,7%) e do estado de Santa Catarina (6,3%).[67] Dados divulgados pelo mesmo instituto em 2008 indicam que o Rio é hoje o segundo estado do Brasil por número de pessoas acima de quinze anos alfabetizadas, com apenas 4,3% dessa sua população analfabeta, perdendo apenas para o Distrito Federal. Entretanto, em relação ao índice de analfabetos funcionais (14,4%), o estado perde para o Distrito Federal (10,9%) e para São Paulo (14%), ficando na terceira posição na lista.[carece de fontes?]
+O estado possui um bom número de universidades federais do Brasil, sendo elas: Universidade Federal do Rio de Janeiro, Universidade Federal Fluminense, Universidade Federal Rural do Rio de Janeiro e Universidade Federal do Estado do Rio de Janeiro. As demais, Universidade do Estado do Rio de Janeiro, Universidade Estadual da Zona Oeste, Universidade Estadual do Norte Fluminense também possuem grande destaque e são mantidas pelo governo do Estado do Rio de Janeiro.[68]
+Cidade Universitária da Universidade Federal do Rio de Janeiro vista a partir da Igreja da Penha: ao centro, o Hospital Universitário Clementino Fraga Filho e, ao fundo, a Baía de Guanabara.
+Segurança pública[editar | editar código-fonte]
+Viaturas da Polícia Militar do Estado do Rio de Janeiro (PMERJ).
+Quartel do Comando Geral do Corpo de Bombeiros Militar do Estado do Rio de Janeiro (CBMERJ).
+A Polícia Militar do Estado do Rio de Janeiro (PMERJ) tem por função primordial o policiamento ostensivo e a preservação da ordem pública fluminense. Para fins de organização é uma força auxiliar e reserva do Exército Brasileiro, assim como suas co-irmãs e integra o Sistema de Segurança Pública e Defesa Social brasileiro e está subordinada ao Governo do Estado do Rio de Janeiro através da Secretaria Estadual de Segurança (SESeg). Foi criada em 1809, por dom João 6º, e possui, atualmente, aproximadamente 52 000 militares. Sua principais unidades são o Batalhão de Operações Policiais Especiais (BOPE), o Batalhão de Polícia de Choque (BPChq), o Grupamento Aeromóvel, entre outras, cabendo citar seu principal centro de formação, a Academia de Polícia Militar Dom João VI.[carece de fontes?]
+O Corpo de Bombeiros Militar do Estado do Rio de Janeiro (CBMERJ) é uma corporação cuja principal missão consiste na execução de atividades de defesa civil, prevenção e combate a incêndios, buscas, salvamentos e socorros públicos no âmbito fluminense, sendo também força auxiliar e reserva do Exército, subordinada ao Governo do Estado do Rio de Janeiro por meio da Secretaria Estadual de Defesa Civil (SEDeC). Foi criado em 1856 por Dom Pedro II, possuindo, hoje, cerca de 15 500 militares.[carece de fontes?]
+A Polícia Civil do Estado do Rio de Janeiro (PCERJ) é uma das polícias deste estado, órgão do sistema de segurança pública ao qual compete, nos termos do artigo 144, § 4º, da Constituição Federal e ressalvada competência específica da União, as funções de polícia judiciária e de apuração das infrações penais, exceto as de natureza militar.[69] Foi criada em 1808, e possui cerca de 11 000 policiais.[carece de fontes?]
+Cultura[editar | editar código-fonte]
+Museus e espaços culturais[editar | editar código-fonte]
+Museu Imperial, em Petrópolis.
+Entre os principais museus do estado estão o Museu de Arte do Rio (MAR),[70] Museu Nacional,[71] Museu Histórico de Campos dos Goytacazes,[72] Museu Imperial de Petrópolis,[73] Museu Nacional de Belas Artes,[74] o Museu Histórico Nacional,[75] o Museu da República,[76] o Museu da Chácara do Céu (Museus Castro Maya),[77] o Museu de Arte Moderna do Rio de Janeiro,[78] o Museu Nacional da Universidade Federal do Rio de Janeiro, Museu do Amanhã, Centro Cultural Banco do Brasil (CCBB RJ)[79] o Museu da Vida da Fundação Oswaldo Cruz, o Museu de Arte Contemporânea de Niterói, Museu da Aviação Naval — único do gênero no Brasil e o do Forte de Copacabana.
+O Museu de Arte Contemporânea de Niterói é conhecido pela sua arquitetura exterior que lembra bastante o formato de um cálice ou um disco voador. O MAC possui quatro andares e aproximadamente 2 500m² com espaços de exposições e galerias, mas também tem um restaurante e um auditório. Através das janelas, montadas a um ângulo de 40° você pode curtir um vista panorâmica do Rio de Janeiro, do Pão de Açúcar e da Baía de Guanabara.[80] A capital fluminense, na Barra da Tijuca, conta também, desde 2013, com a Cidade das Artes, um complexo que abriga a maior sala de concertos da América Latina.[81]
+Cinema[editar | editar código-fonte]
+Ver artigo principal: Cinema brasileiro
+Em 2006, 65% da produção do cinema nacional foi realizada por produtoras sediadas na capital fluminense,[82] que possui, também, cerca de 180 salas de cinema, maior proporção do país entre as capitais, e a maior proporção também de museus, (80 no total e 43 teatros).[carece de fontes?]
+Esportes[editar | editar código-fonte]
+Final do Campeonato Carioca de 2017, no setor Sul do Maracanã (parte da torcida do Fluminense).
+Assim como em outras unidades da federação brasileiras, todos os anos é realizado o Campeonato Estadual de Futebol. O campeonato do atual Estado do Rio de Janeiro é disputado desde 1979, após a fusão dos estados da Guanabara e do antigo estado do Rio de Janeiro, cuja capital era Niterói. Até então existiam os campeonatos Carioca e Fluminense, além do Fluminense de Seleções. Os quatro principais clubes de futebol do Rio de Janeiro são os clubes de futebol, Botafogo, Flamengo, Fluminense e Vasco da Gama. Os quatro estão entre os mais tradicionais do Brasil e possuem performances mais destacadas que os outros clubes que representam o Estado do Rio de Janeiro em competições nacionais e internacionais.[83][84][85][86][87] A cidade do Rio de Janeiro, sede dos quatro grandes, é aquela que reunia mais clubes profissionais no Brasil em 2018, um total de 28 clubes, contra 9 clubes de Belém, a segunda colocada, com o Estado do Rio de Janeiro tendo 69 clubes em todas as suas divisões nesse ano.[88]
+Ver também[editar | editar código-fonte]
+Ver também a categoria: Fluminenses
+Interior do Rio de Janeiro
+Sistema rodoviário do estado do Rio de Janeiro
+Lista de municípios do Rio de Janeiro
+Lista de municípios do Rio de Janeiro por população
+Lista de municípios do Rio de Janeiro por IDH
+Mapa de Cultura do Estado do Rio de Janeiro
+Notas
+↑ Wilson Witzel foi afastado temporariamente do cargo em 28 de agosto de 2020, por determinação do Superior Tribunal de Justiça, em razão de denúncia de crime de responsabilidade, fraudes e irregularidades. Em 23 de setembro, uma votação na ALERJ decidiu pela admissibilidade do processo de impeachment. Em 30 de abril de 2021, o processo foi julgado e Witzel foi definitivamente afastado do cargo, assumindo oficialmente seu vice Cláudio Castro, sendo este empossado no dia seguinte, 1º de maio de 2021.[1]
+↑ Com o impeachment do governador Wilson Witzel, em 30 de abril de 2021, seu vice Cláudio Castro assumiu o cargo de governador. Logo após o vice-governador, encontra-se na linha de sucessão do governo, o então presidente da Assembleia Legislativa do Estado do Rio de Janeiro.
+Referências
+↑ Witzel sofre impeachment e perde o cargo de governador do Rio
+↑ Instituto Brasileiro de Geografia e Estatística (IBGE). «Área Territorial Oficial - Consulta por Unidade da Federação». Consultado em 29 de agosto de 2021
+↑ a b c IBGE, IBGE (1 de julho de 2021). «Rio de Janeiro». ibge.gov.br. Consultado em 28 de agosto de 2021
+↑ «Sistema de Contas Regionais: Brasil 2018» (PDF). Instituto Brasileiro de Geografia e Estatística (IBGE). Consultado em 16 de novembro de 2020
+↑ «Tábua completa de mortalidade para o Brasil – 2015» (PDF). IBGE. Consultado em 2 de dezembro de 2016
+↑ «Sinopse do Censo Demográfico 2010». IBGE. Consultado em 2 de dezembro de 2016
+↑ IPEA -Instituto de Pesquisa Econômica Aplicada. «Evolução do IDHM e de Seus Índices Componentes no período de 2012 a 2017» (PDF). Gráfico 7, página 25. Consultado em 18 de abril de 2019
+↑ carioca no dicionário Michaelis
+↑ A origem dos bairros cariocas
+↑ PACIEVITCH, Thais. «Geografia do Rio de Janeiro». Geografia do Rio de Janeiro. InfoEscola. Consultado em 23 de setembro de 2016
+↑ BUENO, E. Brasil: uma história. 2ª edição. São Paulo. Ática. 2003. p. 12-15.
+↑ BUENO, E. Brasil: uma história. 2ª edição. São Paulo. Ática. 2003. p. 19.
+↑ Cintra, Jorge Pimentel (27 de abril de 2016). «A formação do território da capitania do Rio de Janeiro». Acervo. 29 (1 jan-Jun): 67–81
+↑ a b MATTOS, Lúcio Gonçalves de (1995). Síntese da documentação histórico-administrativa e geográfica dos estados do Brasil. [S.l.]: Ministério do Planejamento e Orçamento, Fundação Instituto Brasileiro de Geografia e Estatística, Centro de Documentação e Disseminação de Informações, Departamento de Documentação e Biblioteca. ISBN 9788524005466
+↑ Macedo, J.M. de (1876). Brazilian biographical annual (em inglês). 2. Rio de Janeiro: Typographia e lithographia do Imperial Instituto Artistico. pp. 121–122
+↑ edittip (2 de fevereiro de 2014). «Capitania real». da Terra e do Território no Império Português. Consultado em 10 de maio de 2017
+↑ Coaracy, Vivaldo (2009). O Rio de Janeiro no Século XVII. [S.l.]: Documenta Histórica Editora Ltda
+↑ Enders, Armelle (26 de fevereiro de 2015). A história do Rio de Janeiro. [S.l.]: Gryphus Editora. ISBN 9788583110347
+↑ «A presença portuguesa no Rio da Prata (1678-1777» (PDF)
+↑ Christian, Lüders, Pedro (6 de março de 2017). «Portugal e o comércio do Rio da Prata (1640 - 1680)»
+↑ Lessa, Carlos (2000). O Rio de Todos os Brasis. Rio de Janeiro: Record
+↑ Lucas, Jorge Alexandre (1 de janeiro de 2014). «Somos todos cariocas: identidade e pertencimentos no mundo globalizado». Revista Científica Ciência em Curso (em francês). 3 (2): 111–123. ISSN 2317-0077
+↑ a b c ABREU, Alzira Alves de; BELOCH, Israel; LATTMAN-WELTMAN, Fernando; LAMARÃO, Sérgio Tadeu de Niemeyer (2001). Dicionário Histórico Biográfico Brasileiro pós 1930 2ª ed. Rio de Janeiro: FGV. Consultado em 29 de novembro de 2016
+↑ MELLO, Maria Luisa de (27 de novembro de 2012). «Há 30 anos, JB revelou escândalo do Proconsult e derrubou fraude na eleição». País. Jornal do Brasil. Consultado em 29 de novembro de 2016
+↑ REMIGIO, Marcelo (20 de maio de 2015). «Brizola, de governador gaúcho a deputado federal e governador do Rio de Janeiro duas vezes». Acervo O Globo. O Globo. Consultado em 29 de novembro de 2016
+↑ REDAÇÃO (16 de junho de 2006). «Relembre algumas ações das Forças Armadas no Rio de Janeiro». Rio. O Globo. Consultado em 29 de novembro de 2016
+↑ AGÊNCIA, Estadão (26 de junho de 2002). «Medidas para conter violência no Rio foram adotadas em 1994». Brasil. Estadão. Consultado em 29 de novembro de 2016
+↑ «Parque Nacional de Itatiaia». Consultado em 25 de fevereiro de 2014. Arquivado do original em 4 de dezembro de 2014
+↑ IBGE (1 de julho de 2021). «Rio de Janeiro». IBGE. Consultado em 12 de julho de 2021
+↑ INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA (2011). Sinopse do Censo Demográfico 2010 (PDF). Rio de Janeiro: IBGE. p. 67-68. ISBN 978-85-240-4187-7. Consultado em 2 de dezembro de 2016. Cópia arquivada (PDF) em 24 de setembro de 2015
+↑ «Censo 2010 - Religiões». IBGE. 2010
+↑ «Panorama do estado do Rio de Janeiro». Instituto Brasileiro de Geografia e Estatística (IBGE). Consultado em 13 de maio de 2020
+↑ «Assembleia Legislativa do Estado do Rio de Janeiro». www.alerj.rj.gov.br. Consultado em 4 de julho de 2021
+↑ «Linha do Tempo – Alerj – Palácio Tiradentes». www.palaciotiradentes.rj.gov.br. Consultado em 4 de julho de 2021
+↑ O Globo (17 de novembro de 2017). «Palácio Tiradentes é palco da posse de presidentes, de Washington Luís a JK»
+↑ História do Palácio Guanabara, por Felipe Lucena. Diário do Rio, 4 de outubro de 2015.
+↑ destakjornal (20 de julho de 2018). «TJRJ conclui segunda etapa de reforma do Fórum Central». Consultado em 29 de julho de 2018
+↑ Instituto Brasileiro de Geografia e Estatística (IBGE) (2017). «Base de dados por municípios das Regiões Geográficas Imediatas e Intermediárias do Brasil». Consultado em 20 de janeiro de 2018
+↑ Instituto Brasileiro de Geografia e Estatística (IBGE) (2017). «Divisão Regional do Brasil». Consultado em 20 de janeiro de 2018. Cópia arquivada em 20 de janeiro de 2018
+↑ a b «Exportações do Rio de Janeiro (2012)». Plataforma DataViva. Consultado em 13 de janeiro de 2014. Arquivado do original em 12 de fevereiro de 2015
+↑ «Amarga decadência do açúcar - Terceira Via Terceira Via». Terceira Via. 26 de janeiro de 2020. Consultado em 4 de julho de 2021
+↑ «Coagro - Coagro espera a melhor safra da cana-de-açúcar dos últimos quatro anos». www.coagro.coop.br. Consultado em 4 de julho de 2021
+↑ «Conab - Página inicial». www.conab.gov.br. Consultado em 4 de julho de 2021
+↑ Produção brasileira de abacaxi em 2019
+↑ Produção de Abacaxi cresce no Estado do Rio de Janeiro
+↑ Produção brasileira de mandioca em 2019
+↑ Produção brasileira de banana em 2019
+↑ Produção brasileira de laranja em 2019
+↑ Produção brasileira de tangerina em 2019
+↑ Produção brasileira de limão em 2019
+↑ Campo & Negócios (17 de maio de 2019). «Caqui - Panorama nacional da produção». Revista Campo & Negócios. Consultado em 4 de julho de 2021
+↑ «Coco capixaba domina o mercado carioca no verão». Século Diário. Consultado em 4 de julho de 2021
+↑ Junior, Manuel Alberto Gutierrez Cuenca Carlos Roberto Martins Luciano Alves de Jesus. «Estatística da produção». www.agencia.cnptia.embrapa.br. Consultado em 4 de julho de 2021
+↑ «Exportações do Brasil por Estado (2012)». Plataforma DataViva. Consultado em 13 de janeiro de 2014. Arquivado do original em 10 de outubro de 2014
+↑ DO UOL, em São Paulo (22 de novembro de 2013). «Três Estados concentram mais da metade do PIB do país, diz IBGE». UOL Economia. UOL. Consultado em 28 de novembro de 2016
+↑ «CNI - Perfil da Indústria nos Estados». perfil.portaldaindustria.com.br. Consultado em 4 de julho de 2021
+↑ «Presidente da Nissan confirma à Dilma nova fábrica no Rio]»
+↑ «Polo cervejeiro»
+↑ MORAES, Camila (28 de outubro de 2014). «Rio, Hollywood à brasileira». Cultura. El País Brasil. Consultado em 28 de novembro de 2016
+↑ BRISO, Caio Barretto (24 de outubro de 2012). «O segundo adeus de Herbert Richards». Cotidiano. Veja Rio. Consultado em 28 de novembro de 2016
+↑ a b GLOBO Comunicações e Participações S/A. «História Grupo Globo». História Grupo Globo. Globo.com. Consultado em 28 de novembro de 2016
+↑ AZZALI, Leonardo (25 de maio de 2015). «RecNov é a nova sede da Record no Rio de Janeiro; saiba mais». RD1. Consultado em 28 de novembro de 2016
+↑ DIAS, Bruno (23 de junho de 2007). «Prédio da Rede Manchete do Rio de Janeiro vai a leilão». Consultor Jurídico. Consultado em 28 de novembro de 2016
+↑ JANOT, Bruno (9 de outubro de 2014). «Assim como Trash, veja outros filmes estrangeiros no Rio de Janeiro». Purebreak. Consultado em 28 de novembro de 2016
+↑ «RJ sobe 11 posições no Ideb e tem a terceira melhor nota no ranking». G1. 5 de setembro de 2014. Consultado em 21 de setembro de 2016
+↑ «Rio tem 23 entre as 100 melhores escolas do Enem». O Dia. 22 de dezembro de 2014. Consultado em 21 de setembro de 2016
+↑ IBGE, Anuário estatístico do Brasil 2001, p. 2–81 Citado em ADAS, Melhem e ADAS, Sergio. Panorama Geográfico do Brasil. 4 ed. São Paulo: Editora Moderna, 2004.
+↑ «Universidades». Secretaria de Estado de Educação - SEEDUC. Governo do Rio de Janeiro. Consultado em 28 de novembro de 2016
+↑ «Constituição Federal, artigo 144 - Da Segurança Pública»
+↑ «Museu de Arte do Rio - MAR | Mapa de Cultura RJ»
+↑ «Museu Nacional | Mapa de Cultura RJ»
+↑ «Museu Histórico de Campos dos Goytacazes | Mapa de Cultura RJ»
+↑ «Museu Imperial | Mapa de Cultura RJ»
+↑ «Museu Nacional de Belas Artes | Mapa de Cultura RJ»
+↑ «Museu Histórico Nacional | Mapa de Cultura RJ»
+↑ «Museu da República | Mapa de Cultura RJ»
+↑ «Museu Chácara do Céu | Mapa de Cultura RJ»
+↑ «Museu de Arte Moderna (MAM) | Mapa de Cultura RJ»
+↑ «Centro Cultural Banco do Brasil | Mapa de Cultura RJ»
+↑ «Agência Heidelberg - Rio de Janeiro». Arquivado do original em 2 de abril de 2015
+↑ «Cópia arquivada». Consultado em 2 de maio de 2008. Arquivado do original em 20 de abril de 2008
+↑ «Instituto Nacional de Altos Estudos». (INAE) – Estudos e Pesquisas N. 180. 10 de maio de 2007. Consultado em 14 de julho de 2008. Arquivado do original em 12 de fevereiro de 2009
+↑ GLOBOPLAY, Equipe do site (24 de fevereiro de 2011). «Presidentes dos 4 grandes clubes cariocas anunciam oficialmente a saída do Clube dos 13». Site Globoplay. Consultado em 24 de fevereiro de 2017
+↑ ESPORT EINTERATIVO, Equipe do site (14 de janeiro de 2016). «Confira as perspectivas dos quatro grandes clubes do Rio de Janeiro para a temporada de 2016». Site Esporte Inetrativo. Consultado em 24 de fevereiro de 2017
+↑ TARGINO, Maurício (18 de maio de 2012). «O G-12 brasileiro.». Site deprimeira. Consultado em 17 de outubro de 2016
+↑ RODRIGUES, Rodolfo e GINI, Paulo Villena (3 de agosto de 2009). «Livro A história das camisas dos 12 maiores times do Brasil». Panda Books. Consultado em 26 de dezembro de 2013  !CS1 manut: Nomes múltiplos: lista de autores (link)
+↑ Site da revista PLACAR - Livro sobre camisa dos 12 grandes clubes do Brasil ganha versão atualizada, página editada em 13 de dezembro de 2016 e disponível em 31 de dezembro de 2016.
+↑ AZEVEDO, Rafael Luis - Quais as 8 cidades com mais clubes profissionais no Brasil? Fizemos o ranking, página editada em 23 de novembro de 2018 e disponível em 30 de janeiro de 2019.
+Ligações externas[editar | editar código-fonte]
+Outros projetos Wikimedia também contêm material sobre este tema:
+Livros e manuais no Wikilivros
+Citações no Wikiquote
+Categoria no Commons
+Categoria no Wikinotícias
+Guia turístico no Wikivoyage
+Base de dados no Wikidata
+Commons
+Wikiquote
+Wikilivros
+Wikinotícias
+Wikivoyage
+Governo do Estado do Rio de Janeiro
+Assembleia Legislativa do Estado do Rio de Janeiro
+Tribunal de Justiça do Estado do Rio de Janeiro
+Ministério Publico do Estado do Rio de Janeiro
+vde Rio de Janeiro Portal — Geografia, Política, Cultura, EsportesCapitalRio de JaneiroDivisão regional vigente (desde 2017)Regiões geográficas intermediárias e imediatasDivisão regional extinta (vigente até 2017)Mesorregiões e microrregiõesRegiões demarcativasBaixada Fluminense • Interior • Leste Fluminense • Litoral • Região dos Lagos • Serra Fluminense (Sul Fluminense • Vale do Paraíba)Regiões Metropolitanas e RIDEsRio de JaneiroMais de 1.000.000 habitantesRio de Janeiro • São GonçaloMais de 700.000 habitantesDuque de Caxias • Nova IguaçuMais de 400.000 habitantesCampos dos Goytacazes • Belford Roxo • Niterói • São João de MeritiMais de 200.000 habitantesPetrópolis • Volta Redonda • Magé • Itaboraí • Macaé • Cabo FrioMais de 100.000 habitantesMesquita • Nova Friburgo • Barra Mansa •
+Nilópolis • Teresópolis • Angra dos Reis • Queimados • Resende • Maricá • Araruama • Itaguaí • Itaperuna • Barra do Piraí • Japeri • Rio das OstrasSudeste, Brasil
+vde Regiões e unidades federativas do Brasil
+Subdivisões do Brasil
+Unidades da FederaçãoRegião Norte
+Acre
+Amapá
+Amazonas
+Pará
+Rondônia
+Roraima
+Tocantins
+Região Nordeste
+Alagoas
+Bahia
+Ceará
+Maranhão
+Paraíba
+Pernambuco
+Piauí
+Rio Grande do Norte
+Sergipe
+Região Centro-Oeste
+Distrito Federal
+Goiás
+Mato Grosso
+Mato Grosso do Sul
+Região Sudeste
+Espírito Santo
+Minas Gerais
+Rio de Janeiro
+São Paulo
+Região Sul
+Paraná
+Rio Grande do Sul
+Santa Catarina
+Arquipélagos
+Anavilhanas
+Fernando de Noronha
+Atol das Rocas
+Arquipélago de São Pedro e São Paulo
+Trindade e
+Martim Vaz
+Geoeconômicas
+Amazônica
+Centro-Sul
+Nordeste
+Propostas de criação de unidades federativas do Brasil
+Controle de autoridade
+: Q41428
+WorldCat
+VIAF: 141892465
+BNF: 11941123v
+EBID: ID
+GEC: 0055750
+GND: 4117025-8
+ISNI: ID
+LCCN: n80083553
+NKC: ge1079747
+OSM: 57963
+MusicBrainz: ID
+GeoNames: 3451189
+TGN: 1001942
+Portal da região Sudeste do Brasil
+Portal do Rio de Janeiro
+Portal do Brasil
+Obtida de https://pt.wikipedia.org/w/index.php?title=Rio_de_Janeiro_(estado)&oldid=61992621
+Categoria: Estado do Rio de JaneiroCategorias ocultas: !CS1 inglês-fontes em língua (en)!CS1 francês-fontes em língua (fr)!CS1 manut: Nomes múltiplos: lista de autores!Artigos que carecem de notas de rodapé desde janeiro de 2020!Artigos que carecem de notas de rodapé sem indicação de tema!Artigos que carecem de notas de rodapé desde setembro de 2016!Artigos do Brasil que carecem de notas de rodapé!Artigos de geografia (América) que carecem de notas de rodapé!Páginas que utilizam Nobold com segundo parâmetro sem nome!Artigos com ligações precisando de desambiguação!Artigos que carecem de notas de rodapé desde Dezembro de 2008
+Esta página foi editada pela última vez às 03h19min de 6 de setembro de 2021.
+Este texto é disponibilizado nos termos da licença Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as condições de utilização.
+Política de privacidade
+Sobre a Wikipédia
+Avisos gerais
+Versão móvel
+Programadores
+Estatísticas
+Declaração sobre cookies');
+Document.create!(url: 'https://pt.wikipedia.org/wiki/Bahia', title: 'Bahia – Wikipédia, a enciclopédia livre', body: 'Bahia – Wikipédia, a enciclopédia livre
+Saltar para o conteúdo
+Alternar barra lateral
+Busca
+Links do usuário
+Criar uma conta
+Ferramentas pessoais
+expanded
+collapsed
+Criar uma conta
+Entrar
+Páginas para editores conectados saiba mais
+DiscussãoContribuições
+Navegação
+Página principalConteúdo destacadoEventos atuaisEsplanadaPágina aleatóriaPortaisInformar um erro
+Colaboração
+Boas-vindasAjudaPágina de testesPortal comunitárioMudanças recentesManutençãoCriar páginaPáginas novasContatoDonativos
+Ferramentas
+Páginas afluentesAlterações relacionadasCarregar ficheiroPáginas especiaisHiperligação permanenteInformações da páginaCitar esta páginaElemento Wikidata
+Imprimir/exportar
+Criar um livroDescarregar como PDFVersão para impressão
+Noutros projetos
+Wikimedia CommonsWikilivrosWikinotíciasWikivoyage
+Espaços nominais
+ArtigoDiscussão
+Variantes
+expanded
+collapsed
+Vistas
+LerEditarEditar código-fonteVer histórico
+Mais
+expanded
+collapsed
+98 idiomas
+expanded
+collapsed
+AfrikaansالعربيةAsturianuAymar aruAzərbaycancaБеларускаяБеларуская (тарашкевіца)Българскиবিষ্ণুপ্রিয়া মণিপুরীBrezhonegBosanskiCatalàChavacano de ZamboangaCebuanoQırımtatarcaČeštinaCymraegDanskDeutschΕλληνικάEmiliàn e rumagnòlEnglishEsperantoEspañolEestiEuskaraفارسیSuomiNa Vosa VakavitiFrançaisNordfriiskGaeilgeGalegoAvañeẽ客家語/Hak-kâ-ngîעבריתहिन्दीHrvatskiMagyarՀայերենInterlinguaBahasa IndonesiaIdoÍslenskaItaliano日本語ქართულიҚазақша한국어KernowekLatinaLadinoLimburgsLietuviųLatviešuMalagasyМакедонскиमराठीBahasa MelayuMirandésNederlandsNorsk nynorskNorsk bokmålOccitanИронਪੰਜਾਬੀPolskiPiemontèisپنجابیRuna SimiRomânăРусскийScotsSrpskohrvatski / српскохрватскиSimple EnglishSlovenčinaShqipСрпски / srpskiSvenskaKiswahiliதமிழ்TetunТоҷикӣไทยTürkçeТатарча/tatarçaУкраїнськаاردوOʻzbekcha/ўзбекчаVènetoTiếng ViệtVolapükWinaray吴语Yorùbá中文Bân-lâm-gú粵語
+Editar hiperligações
+Bahia
+Origem: Wikipédia, a enciclopédia livre.
+Coordenadas: 12.52° S 41.69° O
+Nota: Para outros significados, veja Bahia (desambiguação).
+Estado da Bahia
+Bandeira
+Brasão
+Lema: Per Ardua Surgo
+Pela dificuldade, venço
+[1][2]
+Hino: Hino da Bahia
+Gentílico: baiano(a)
+Localização
+- Região
+Nordeste
+- Estados limítrofes
+Minas Gerais (S, SO, e SE), Goiás (O e SO), Tocantins (O e NO), Piauí (N e NO), Pernambuco (N), Alagoas (NE), Sergipe (NE) e Espírito Santo (SE)
+- Regiões geográficas   intermediárias
+10
+- Regiões geográficas   imediatas
+34
+- Municípios
+417
+Capital
+Salvador[1]
+Governo
+- Governador(a)
+Rui Costa (PT)
+- Vice-governador(a)
+João Leão (PP)
+- Deputados federais
+39
+- Deputados estaduais
+63
+- Senadores
+Angelo Coronel (PSD)Jaques Wagner (PT)Otto Alencar (PSD)
+Área
+- Total
+564 733,177 km² (5º) [3]
+População
+2021
+- Estimativa
+14 985 284 hab. (4º)[4]
+- Densidade
+26,54 hab./km² (15º)
+Economia
+2018[5]
+- PIB
+R$ 286 239 541,12 ($76.630) (7º)
+- PIB per capita
+R$ 19 324,04 ($5.173) (18º)
+Indicadores
+2016/2017[6][7]
+- Esperança de vida (2017)
+73,7 anos (17º)
+- Mortalidade infantil (2017)
+16,6‰ nasc. (8º)
+- Alfabetização (2016)
+87% (19º)
+- IDH (2017)
+0,714 (22º) – alto [8]
+Fuso horário
+UTC−3
+Clima
+Equatorial, tropical com estação seca e semiárido[9] Af, As, Aw, BSh
+Cód. ISO 3166-2
+BR-BA
+Site governamental
+http://www.ba.gov.br/
+A Bahia (pronúncia em português: /baˈi.ɐ/) é uma das 27 unidades federativas do Brasil. Está situada no sul da Região Nordeste, fazendo limite com outros oito estados brasileiros - é o estado brasileiro que mais faz divisas:[10] com Minas Gerais a sul, sudoeste e sudeste; com o Espírito Santo a sul; com Goiás a oeste e sudoeste; com Tocantins a oeste e noroeste; com o Piauí a norte e noroeste; com Pernambuco a norte; e com Alagoas e Sergipe a nordeste. A leste, é banhada pelo Oceano Atlântico e tem, com novecentos quilômetros, a mais extensa costa de todos os estados do Brasil, com acesso ao Oceano Atlântico. Ocupa uma área de 564 733,177 km²,[3] sendo pouco maior que a França. Dentre os estados nordestinos, a Bahia representa a maior extensão territorial, a maior população, o maior produto interno bruto e o maior número de municípios. A capital estadual é Salvador, terceiro município mais populoso do Brasil. Além dela, há outros municípios influentes na rede urbana baiana, como as capitais regionais Feira de Santana, Vitória da Conquista, Barreiras, o bipolo Itabuna-Ilhéus e o bipolo Juazeiro-Petrolina, da RIDE Polo Petrolina e Juazeiro.[11]
+Um dos primeiros núcleos de riqueza açucareira do Brasil, a Bahia recebeu um imenso contingente e enorme influência de africanos escravizados, trazidos pelos colonizadores europeus para comercialização, visando a suprir os engenhos e as minas de ouro da colônia.[12] Esses indivíduos escravizados procediam em especial do Golfo da Guiné, das antigamente chamadas costas dos escravos, da pimenta, do marfim e do ouro, no oeste africano, com destaque para o Império de Oió, fundado e habitado pelo povo iorubá, e o antigo Reino de Daomé. Em contraposição, o Rio de Janeiro viria a receber, posteriormente, escravos procedentes principalmente de Angola e Moçambique.[13] Assim, a influência da cultura africana na Bahia permaneceu alta na música, na culinária, na religião, no modo de vida de sua população, não só ao redor de Salvador e Recôncavo baiano, mas, principalmente, em toda a costa baiana. Um dos símbolos mais importantes do estado é a da negra com o tabuleiro de acarajé, vestida de turbante, colares e brincos dourados, pulseira, saias compridas e armadas, blusa de renda e adereços de pano da costa, a típica baiana.
+A Bahia é considerada a parte mais antiga da América Portuguesa, pois foi na região de Porto Seguro, litoral sul da Bahia, que a frota de Pedro Álvares Cabral ancorou, em 22 de abril de 1500,[14] marcando o descobrimento do Brasil pelos portugueses e a celebração da primeira missa, na praia da Coroa Vermelha, presidida pelo frei Henrique Soares de Coimbra.[12][15] É de se destacar também o decreto de abertura dos portos às nações amigas, promulgada em 28 de janeiro de 1808 por meio de uma Carta Régia pelo príncipe regente dom João VI de Portugal, na Capitania da Bahia, acabando com o monopólio comercial e abrindo a economia brasileira para o comércio exterior.[16][17][18][19] Em 1 de novembro de 1501, o navegante florentino Américo Vespúcio, a serviço da Coroa portuguesa, descobriu e batizou a Baía de Todos-os-Santos, maior reentrância de mar no litoral desde a foz do Rio Amazonas até o estuário do Rio da Prata. O local foi escolhido para abrigar a sede do governo-geral em março de 1549 com a chegada do fidalgo Tomé de Sousa, a mando do rei Dom João III de Portugal para fundar a que seria, pelos próximos 214 anos, a cidade-capital do Brasil Colônia, Salvador.
+O estado possui um alto potencial turístico, que vem sendo muito explorado através de seu litoral (o maior do Brasil), da Chapada Diamantina, do Recôncavo e de outras belezas naturais e de valor histórico e cultural. Possui a sétima maior economia do Brasil, com produto interno bruto superior a 260 bilhões de reais, representando mais de 17 mil reais de PIB per capita. A sua renda, no entanto, não é bem distribuída, se refletindo num índice de desenvolvimento humano de 0,714 em 2017[20] Na Bandeira do Brasil, o estado da Bahia é representado pela estrela Gamma Crucis (? Crucis) da constelação do Cruzeiro do Sul (Crux).[21]
+Índice
+1 Topônimo
+2 História
+2.1 Colonização portuguesa
+2.2 Invasões neerlandesas
+2.3 Conjuração Baiana
+2.4 Independência
+2.5 Outras revoltas
+3 Geografia
+3.1 Hidrografia
+3.2 Relevo e geologia
+3.3 Clima
+3.4 Vegetação
+3.5 Conservação ambiental
+4 Demografia
+4.1 Composição étnica
+4.2 Religião
+4.3 Municípios mais populosos
+5 Política
+5.1 Governo
+5.2 Eleições e partidos
+6 Subdivisões
+7 Economia
+7.1 Setor primário
+7.2 Setor secundário
+7.3 Setor terciário
+8 Infraestrutura
+8.1 Educação
+8.2 Transportes
+8.3 Saúde
+8.4 Comunicações
+9 Cultura
+9.1 Festas
+9.2 Literatura
+9.3 Música
+9.4 Cinema
+9.5 Esportes
+9.6 Feriados
+10 Ver também
+11 Notas
+12 Referências
+12.1 Outras referências
+13 Ligações externas
+Topônimo[editar | editar código-fonte]
+O topônimo Bahia é uma referência à Baía de Todos os Santos, a qual deu o nome, originalmente, à Capitania da Baía de Todos os Santos. A capitania foi transformada, em 1821, em província. Em 1889, a Província da Bahia tornou-se o atual Estado da Bahia.
+Bahia é a grafia antiga para baía, a qual se conservou, no Brasil, por uma questão de tradição. No entanto, na variante europeia da língua portuguesa (destacando aí Portugal), a grafia também correta e usual é Baía; os dicionários portugueses como o da Porto Editora,[22][23][24] o da Texto Editores e o da Academia de Ciências de Lisboa, que é o Dicionário da Língua Portuguesa Contemporânea, definem a palavra baiano como alguém que é originário do estado brasileiro da Baía, utilizando essa grafia.
+O gentílico baiano, já supracitado, não conserva a ortografia antiga. Embora a grafia Bahia siga as regras gerais da atual ortografia da língua portuguesa, está registrada na quinta edição do Vocabulário Ortográfico da Língua Portuguesa. A grafia já estava consagrada como exceção no ponto 42 do Formulário Ortográfico de 1943:
+Os topônimos de tradição histórica secular não sofrem alteração alguma na sua grafia, quando já esteja consagrada pelo consenso diuturno dos brasileiros. Sirva de exemplo o topônimo Bahia, que conservará esta forma quando se aplicar em referência ao Estado e à cidade que têm esse nome. Observação. — Os compostos e derivados desses topônimos obedecerão às normas gerais do vocabulário comum.— Formulário Ortográfico de 1943[25]
+Ainda que a grafia Bahia seja universalmente adotada pela população brasileira, tal grafia suscita dúvidas a gramáticos e lexicógrafos como o ortógrafo e lexicógrafo brasileiro Evanildo Bechara, que considera a grafia Bahia um capricho imposto à nação,[26] e Napoleão Mendes de Almeida, que qualifica tal grafia como espúria.[27]
+História[editar | editar código-fonte]
+Ver artigo principal: História da Bahia
+Colonização portuguesa[editar | editar código-fonte]
+Ver artigos principais: Descobrimento do Brasil e Colonização do Brasil
+Pelourinho, na capital baiana, exemplo da arquitetura colonial implantada no Brasil
+Local de chegada dos primeiros portugueses ao Brasil no ano de 1500, a região do que viria a ser o estado da Bahia começou a ser povoada por portugueses em 1534. Até então, a região era habitada por indígenas como os tupinambás, os aimorés e os tupiniquins.[28] No território correspondente ao atual estado da Bahia, foram formadas cinco capitanias hereditárias entre 1534 e 1566, conservadas até a segunda metade do século XVIII. Foram elas: a Capitania da Bahia, doada a Francisco Pereira Coutinho em 5 de março de 1534; a Capitania de Porto Seguro, doada a Pero do Campo Tourinho em 27 de maio de 1534; a Capitania de Ilhéus, doada a Jorge de Figueiredo Correia em 26 de julho de 1534; a Capitania das Ilhas de Itaparica e Tamarandiva, doada a dom António de Ataíde em 15 de março de 1598; e a Capitania do Paraguaçu ou do Recôncavo da Bahia, doada a Álvaro da Costa em 29 de março de 1566.[29]
+Tomé de Sousa, o primeiro governador-geral, fundou Salvador, que se tornou a primeira capital do país em 1549 devido à necessidade de se criar um centro político e administrativo capaz de congregar todas as capitanias. Foi, por muitos anos, a maior cidade das Américas. Em 1572, o governo colonial dividiu o país em dois governos: um sediado em Salvador, e o outro no Rio de Janeiro. A situação se manteve até 1581, quando a capital do Brasil passou a ser, novamente, apenas Salvador. A capital foi transferida para o Rio de Janeiro definitivamente em 1763 pelo rei dom João V devido à descoberta do ouro e pedras preciosas em Minas Gerais, de modo que a nova capital tivesse mais fácil acesso às regiões mineradoras.[30] Desde então, o eixo Sul-Sudeste se consolidou como o novo centro econômico-político-administrativo do Brasil.
+Em Salvador, concentrou-se uma grande população de europeus, índios, negros e mestiços - em decorrência da economia centrada no comércio com dezenas de engenhos instalados na vasta região do Recôncavo.[31][32]
+O território original da Bahia compreendia a margem direita do Rio São Francisco (a esquerda pertencia a Pernambuco). Estava, basicamente, dividido entre dois grandes feudos: a Casa da Ponte e a Casa da Torre, dos senhores Guedes de Brito e Garcia dÁvila, respectivamente - promotores da ocupação de seu território.[carece de fontes?]
+Invasões neerlandesas[editar | editar código-fonte]
+Ver artigos principais: Invasões holandesas do Brasil § A invasão de Salvador (1624-1625) e Presença neerlandesa no Brasil § Processos de conquista
+Planta da restituição da Bahia (de 1631 por João Teixeira Albernaz, o Velho): em primeiro plano, a Armada Espanhola
+No século XVII, a grande produção de pau-brasil e de açúcar, mercadorias valorizadas na época, no Nordeste do Brasil, fez essa região integrar-se ao comércio internacional, atraindo também corsários europeus.[33] Assim, Salvador, a sede colonial do Império Português na América Portuguesa, foi visada e atacada por outras potências europeias da época, em especial Inglaterra e Países Baixos, até que, em 1624, foi conquistada pela Companhia Neerlandesa das Índias Ocidentais (CIO).
+Os neerlandeses, liderados por Jacob Willekems e Johan van Dorf[34] e com a participação de Piet Hein,[33] chegaram à capital baiana com inúmeras embarcações e mais de 3 600 soldados, enquanto, no outro lado, sem receber reforços, havia apenas oitenta militares que debandaram com a maioria da população na iminência do ataque. Os neerlandeses chegaram à praça deserta, exceto pelo governador, que segurava a espada em riste prometendo defender a cidade até a morte. Foi detido.
+Salvador chegou a ficar sob domínio neerlandês por um ano (1624-1625),[33] mas foi retomada por tropas pernambucanas na chamada Jornada dos Vassalos, com ajuda da esquadra luso-espanhola comandada por Fadrique de Toledo Osório, mas maioritariamente portuguesa, cujo general era Dom Manuel de Meneses, capitão-mor da Armada da Costa de Portugal. No Recôncavo, organizado nas pequenas vilas, prepararam a reação, com ajuda e empenho do Dom Marcos Teixeira de Mendonça, bispo da Bahia.[34]
+Nova invasão ocorreu em 1638, período em que João Maurício de Nassau dominava boa parte do Nordeste, mas foi fortemente repelida. Embora tenham falhado, Piet Hein e Witte de With, junto a outros que tentaram tomar Salvador, novamente capturaram vários navios portugueses com uma grande carga de açúcar.[33][34]
+Conjuração Baiana[editar | editar código-fonte]
+Ver artigo principal: Conjuração Baiana
+Bandeira da República Baiense. As cores (azul, branco e vermelho) do movimento são as mesmas da atual bandeira do estado
+Em 1798, a Bahia foi cenário da Conjuração Baiana, que propunha a formação da República Baiense - movimento pouco difundido, mas com repressão superior àquela da Inconfidência Mineira: seus líderes eram negros instruídos (os alfaiates João de Deus Nascimento, Manuel Faustino dos Santos Lira e os soldados Lucas Dantas do Amorim Torres e Luís Gonzaga das Virgens) associados a uma elite liberal (Cipriano Barata, Moniz Barreto e Aguilar Pantoja), mas só os populares foram executados, mais precisamente no Largo da Piedade a 8 de novembro de 1799.[carece de fontes?]
+Independência[editar | editar código-fonte]
+Ver artigo principal: Independência da Bahia
+O Primeiro Passo para a Independência da Bahia, de autoria de Antônio Parreiras
+As lutas pela emancipação tiveram início na Bahia, ainda em 1821 e, mesmo após a declaração de independência do Brasil, em 7 de setembro de 1822, o estado continuou em luta contra as tropas portuguesas até a rendição destas, ocorrida no dia 2 de julho de 1823, após diversas batalhas. A data, feriado estadual, é comemorada pelos baianos como o Dia da Independência da Bahia.[35]
+Outras revoltas[editar | editar código-fonte]
+Com a independência do Brasil, os baianos exigiram maior autonomia e destaque. Como a resposta foi negativa, organizaram levantes armados que foram sufocados pelo governo central. Foi o caso da Federação do Guanais, levante de 1832.[carece de fontes?]
+Em 1834, a Bahia foi palco da Revolta dos Malês (como eram conhecidos os escravos africanos islamizados), tida como a maior revolta escrava da história do Brasil. Com a República, ocorreram outros incidentes políticos importantes, como a Guerra de Canudos e o bombardeio de Salvador, em 1912. A Bahia contribuiu ativamente para a história brasileira e muitos expoentes baianos constituem nomes de proa na política, cultura e ciência do país.[carece de fontes?]
+Geografia[editar | editar código-fonte]
+Vista do morro Pai Inácio, na Chapada Diamantina
+Ver artigos principais: Geografia da Bahia, Interior da Bahia e Litoral da Bahia
+Em termos de extensão territorial, a Bahia é o quinto estado e possui 36,334% da área total da Região Nordeste do Brasil e 6,632% do território nacional. Da área de 564.733,177 quilômetros quadrados, cerca de 70 por cento situam-se na região do semiárido.[36] O estado encontra-se com 57,19% de seu território dentro do polígono das secas, segundo dados da Organização das Nações Unidas para Agricultura e Alimentação (FAO).[37] O seu litoral é o maior entre os estados brasileiros, com 1 183 quilômetros.[36]
+Ao norte, o limite é o Rio São Francisco, no município de Curaçá, divisa com Pernambuco. Sendo a latitude de 8 graus 32 minutos e 00 segundo e a longitude de 39 graus 22 minutos e 49 segundos. Ao sul, o limite extremo é a barra do Riacho Doce, no município de Mucuri, na divisa com o Espírito Santo. Sendo a latitude de 18 graus 20 minutos e 07 segundos e a longitude de 39 graus 39 minutos e 48 segundos. No leste, o ponto extremo é a barra do Rio Real, no município de Jandaíra, na divisa com o Oceano Atlântico. Sendo a latitude de 11 graus 27 minutos e 07 segundos e a longitude de 37 graus 20 minutos e 37 segundos. O ponto extremo do oeste é o divisor de águas, no município de Formosa do Rio Preto, divisa com o Tocantins. Sendo a latitude de 11 graus 17 minutos e 21 segundos e a longitude de 46 graus 36 minutos e 59 segundos. O centro geográfico do estado fica na cidade de Seabra, na Praça Luiz Acosta, defronte ao prédio dos Correios, nas coordenadas 12 graus e 25,098 minutos na latitude sul e 41 graus e 48,105 na longitude oeste (informação Google Earth).[carece de fontes?]
+Hidrografia[editar | editar código-fonte]
+Poço Encantado, um lago subterrâneo no Parque Nacional da Chapada Diamantina
+Ver também: Lista de rios da Bahia, Lista de lagoas da Bahia e Regiões hidrográficas da Bahia
+O principal rio é o São Francisco, que corta o estado na direção sul-norte. Com importância análoga, os rios Paraguaçu - maior rio inteiramente baiano - e o de Contas - maior bacia situada apenas no estado -, que se somam aos rios Jequitinhonha, Itapicuru, Capivari, Rio Grande, entre outros, compõem um total de dezesseis bacias hidrográficas.[36]
+Em março de 2009, através da resolução número 43 do Conselho Estadual de Recursos Hídricos (Conerh), o estado foi dividido em 26 regiões, chamadas de Regiões de Planejamento e Gestão das Águas (RPGA). Essas regiões hidrográficas organizam as bacias hidrográficas no território baiano para fins de planejamento público, muitas vezes em volta de um curso de água principal ou um grupo deles. A resolução instituiu RPGAs para o Riacho Doce (I), Rio Mucuri (II), Rios Peruíbe, Itanhém e Jucuruçu (III), Rios dos Frades, Buranhém e Santo Antônio (IV), Rio Jequitinhonha (V), Rio Pardo (VI),[38] Leste (VII), Rio de Contas (VIII), Recôncavo Sul (IX), Rio Paraguaçu (X), Recôncavo Norte (XI), Rio Itapicuru (XII), Rio Real (XIII), Rio Vaza-Barris (XIV), Riacho do Tara (XV), Rios Macururé e Curaçá (XVI), Rio Salitre (XVII), Rios Verde e Jacaré (XVIII), Lago de Sobradinho (XIX), Rios Paramirim e Santo Onofre (XX), Riachos da Serra Dourada e do Brejo Velho (XXI), Rio Carnaíba de Dentro (XXII; Rio Grande (XXIII), Rio Corrente (XXIV), Rio Carinhanha (XXV), Rio Verde Grande (XXVI).[39]
+Relevo e geologia[editar | editar código-fonte]
+Imagem de satélite do relevo baiano com escala altimétrica
+Ver também: Lista de praias da Bahia e Lista de ilhas da Bahia
+Seu território está situado na fachada atlântica do Brasil. O relevo é caracterizado pela presença de planícies, planaltos, e depressões e as formas tabulares e planas (chapadas, chapadões, tabuleiros). As altitudes da Bahia são modestas, de modo geral: o território baiano possui uma elevação relativa, já que 90% de sua área está acima de duzentos metros em relação ao nível do mar.[40]
+Os pontos mais elevados na Bahia são o Pico do Barbado, com 2 033 metros, localizado na Serra dos Barbados, entre os municípios de Abaíra e Rio do Pires e o Pico das Almas, com 1 954 metros, localizado entre os municípios de Érico Cardoso, Livramento de Nossa Senhora e Rio de Contas, na Serra das Almas.[41][42]
+O planalto e a baixada são as suas duas grandes unidades geomorfológicas. Os chapadões e as chapadas presentes no relevo mostram que a erosão trabalhou em busca de formas tabulares.[40] Um conjunto de chapadões situados a oeste recebe o nome de Espigão Mestre. Os planaltos ocupam quase todo o estado, apresentando uma série de patamares, por onde cruzam rios vindos da Chapada Diamantina, da serra do Espinhaço, que nasce no centro de Minas Gerais, indo até o norte do estado, e a própria Chapada Diamantina, de formato tabular, marcando seus limites a norte e a leste. O planalto semiárido, localizado no sertão nordestino, caracteriza-se por baixas altitudes.[40]
+O relevo que predomina o estado baiano é a depressão.[40] As planícies estão situadas na região litorânea, onde a altitude não ultrapassa os 200 metros. Ali, surgem praias, dunas, restingas e até pântanos. Quanto mais se anda rumo ao interior da Bahia, mais surgem terrenos com solos relativamente férteis, onde aparecem colinas que se estendem até o oceano. As planícies aluviais se formam a partir dos rios Paraguaçu, Jequitinhonha, Itapicuru, de Contas, e Mucuri, que descem da região de planalto, enquanto o rio São Francisco atua na formação do vale do São Francisco, onde o solo apresenta formação calcária.[carece de fontes?]
+Um único recorte no litoral baiano determina o surgimento do Recôncavo baiano, cuja superfície apresenta solo variado, sendo muito pouco fértil em algumas áreas, enquanto em outras a fertilidade é favorecida pela presença do solo massapê, formado por terras de origem argilosa.[carece de fontes?]
+Clima[editar | editar código-fonte]
+Clima da Bahia a partir da Classificação Climática de Köppen-Geiger
+Devido à sua latitude, o clima tropical predomina em toda a Bahia, apresentando temperaturas elevadas, em que as médias de temperatura anuais, em geral ultrapassam os 30 °C, entretanto na serra do Espinhaço as temperaturas são mais amenas e agradáveis. Também se encontra o clima tropical de altitude em cidades da Chapada Diamantina (Piatã a 1268 metros do nível do mar) e no sudoeste do estado (Vitória da Conquista está entre 923 metros e 1 100 metros de altitude). Contudo, no sertão, o clima é o semiárido, em que os índices pluviométricos são bastantes baixos, sendo comuns os longos períodos de seca.
+Há distinções apenas quanto aos índices de precipitação em cada uma das diferentes regiões. Enquanto que no litoral e na região de Ilhéus, a umidade é maior, e os índices de chuvas podem ultrapassar os 1 500 milímetros anuais, no sertão pode não chegar aos quinhentos milímetros anuais.[40] A estação das chuvas é irregular, consequentemente podendo falhar totalmente em certos anos, desencadeando a seca, que é mais marcante no interior, com exceção para região do vale do rio São Francisco.
+Vegetação[editar | editar código-fonte]
+Em relação à fitogeografia, possui três grandes formações vegetais: a caatinga, que é a vegetação predominante, a floresta tropical úmida e cerrado. A caatinga se localiza em toda a região norte, na área da depressão do São Francisco, também conhecida como Depressão Pernambucana, e na serra do Espinhaço. Resta para o cerrado a porção ocidental e para a floresta tropical úmida, o sudeste.[40]
+A floresta tropical úmida sofreu forte impacto da exploração antrópica, devido à abundância de madeiras de lei. Os plantios de cacau foram feitos nessa vegetação. Nesses locais vem ocorrendo o reflorestamento com o eucalipto, especialmente na região do extremo sul do estado.[carece de fontes?]
+Conservação ambiental[editar | editar código-fonte]
+A Ilha de Itaparica, que está inserida na APA Baía de Todos os Santos
+Segundo dados de 2002, existiam 128 unidades de conservação (UC) cadastradas no estado, que são instituídas por legislações federais, estaduais ou municipais. Dessas, destaca-se a quantidade de áreas de proteção ambiental (APA), 36 ao todo, por ser uma categoria de UC em que a adequação e orientação às atividades humanas são mais flexíveis. Há, ainda, a categoria de reserva particular do patrimônio natural (RPPN), que aparece como opção de preservação em propriedade privada e totaliza 46 unidades. As áreas preservadas baianas cobrem os diferentes biomas presentes no estado: cerrado, caatinga e floresta (Mata Atlântica). Esta última conta com maior percentual de unidades de conservação, devido ao divulgado estado de fragmentação e degradação.[36]
+Além dessas formas de estabelecer áreas protegidas, há os parques estaduais e nacionais, também protegidas por lei. São sete nacionais (Marinho dos Abrolhos, Chapada Diamantina, Descobrimento, Grande Sertão Veredas - também localizado em Minas Gerais -, Monte Pascoal e Nascentes do Rio Parnaíba - também localizado no Piauí, Maranhão e Tocantins - e Pau Brasil) e três estaduais (Serra do Conduru, Morro do Chapéu e Sete Passagens).
+Entretanto, nem sempre o meio ambiente está livre de poluição na Bahia. Acidentes e crimes ambientais como queimadas, contaminação por metais pesados e derramamento de petróleo e de outros derivados de combustíveis fósseis são alguns dos principais problemas ambientais baianos. O caso mais recente ocorreu na Praia de Caípe, no município de São Francisco do Conde, onde cerca de 2,5 metros cúbicos de óleo provenientes da Refinaria Landulpho Alves vazaram, provocando não só impactos ambientais como econômicos.[43]
+Demografia[editar | editar código-fonte]
+Ver artigo principal: Demografia da Bahia
+Crescimento populacional
+Censo
+Pop.
+%±
+18721 379 61618901 919 80239,2%19002 117 95610,3%19203 334 46557,4%19403 918 11217,5%19504 834 57523,4%19605 990 60523,9%19707 583 14026,6%19809 597 39326,6%199111 855 15723,5%200013 066 91010,2%201014 016 9067,3%Est. 202014 930 634[44]6,5%Fonte: IBGE[45]
+Segundo o censo demográfico de 2010 realizado pelo IBGE, a Bahia é o quarto estado brasileiro mais populoso e o 15.º mais povoado, com uma população de 14 016 906 habitantes distribuída em 564 733,1 quilômetros quadrados resultando em 24,82 habitantes por quilômetro quadrado nos seus 417 municípios. Segundo o mesmo censo, 6 880 368 habitantes eram homens e 7 141 064 habitantes eram mulheres.[46] Ainda segundo o mesmo censo, 10 105 218 habitantes viviam na zona urbana e 3 916 214 viviam na zona rural.[46] Se fosse um país, a Bahia seria o 65.º em população, entre o Camboja (64.º: 14 132 398 habitantes) e o Equador (65.º: 13 752 593 habitantes), 149.º em densidade demográfica, entre a República Democrática do Congo (148.º: 25 habitantes por quilômetro quadrado) e o Moçambique (149.º: 24 habitantes por quilômetro quadrado) e à frente do Brasil (150.º: 21 habitantes por quilômetro quadrado) e 7.º mais rico da América Latina.
+Composição étnica[editar | editar código-fonte]
+Um estudo genético realizado no Recôncavo baiano confirmou o alto grau de ancestralidade africana na região. Foram analisadas pessoas da área urbana dos municípios de Cachoeira e Maragojipe, além de quilombolas da área rural de Cachoeira. A ancestralidade africana foi de 80,4%, a europeia 10,8% e a indígena 8,8%.[47] Segundo dados da Funasa, 25,8 mil indígenas viviam no estado em 2006.[48]
+Cor/Raça[49]
+Porcentagem
+Pardos
+59.8%
+Brancos
+23.0%
+Negros
+16.8%
+Asiáticos ou indígenas
+0,3%
+Um estudo genético realizado na população de Salvador confirmou que a maior contribuição genética da cidade é a africana (49,2%), seguida pela europeia (36,3%) e indígena (14,5%).[50] Outro estudo ainda revela que, em relação aos ciganos, a Bahia é o estado brasileiro onde há a maior quantidade de grupos vivendo, segundo pesquisa inédita do IBGE.[51]
+Um estudo genético autossômico de 2015 encontrou a seguinte composição para Salvador: 50,5% de ancestralidade africana, 42,4% de ancestralidade europeia e 5,8% de ancestralidade indígena.[52][53] Os pesquisadores explicaram que eles coletaram mais amostras de indivíduos que vivem em ambientes mais pobres.[52]
+Outro estudo do mesmo ano (2015) encontrou níveis semelhantes em Salvador: 50,8% de ancestralidade africana, 42,9% de ancestralidade europeia e 6,4% de ancestralidade indígena.[54] Um outro estudo genético, também de 2015, encontrou a seguinte composição em Salvador: 50,8% de contribuição europeia, 40,5% de contribuição africana e 8,7% de contribuição indígena.[55]
+Em Ilhéus, um estudo genético de 2011 encontrou a seguinte composição: 60,6% de contribuição europeia, 30,3% de contribuição africana e 9,1% de contribuição indígena.[56] Outro estudo recente demostra a crescente importância de conceitos de herança Africana, do reconhecimento de ligações genealógicas e a ancestralidade, da memória coletiva, e do patrimônio cultural às políticas raciais baianas.[57]
+Religião[editar | editar código-fonte]
+Religião na Bahia (2010)[58][59]
+Catolicismo (65.2%)  Protestantismo (17.4%)  Espiritismo (1.1%)  Religiões afro-brasileiras (0.3%)  Outras (4%)  Sem Religião (12.0%)
+O catolicismo é a religião dominante no estado. Em Salvador, foi erguida a primeira igreja católica em solo brasileiro, graças a Catarina Paraguaçu, onde hoje é o bairro da Graça. A capital baiana possui centenas de templos católicos, sendo, a cidade, a sede do governo católico no país, morada do Arcebispo Primaz. A padroeira do estado é Nossa Senhora da Conceição da Praia, cujo templo é alvo de culto. Apesar disso, o mais famoso culto no estado é o culto ao Senhor do Bonfim, que é considerado popularmente como padroeiro.[60] Possui, ainda, o centro de peregrinação de Bom Jesus da Lapa, alvo de romarias anuais, além das igrejas seculares do Recôncavo, com suas novenas. Possui a Arquidiocese de Vitória da Conquista, Arquidiocese de Feira de Santana, entre outras arquidioceses. Ressaltam, dentro do catolicismo baiano, as figuras das freiras Joana Angélica, Irmã Dulce e Irmã Lindalva.
+O sincretismo com as religiões de origem africana, que na Bahia mais que em qualquer outra parte do país se mantiveram vivas, veio a misturar o candomblé com o catolicismo (como nos casos da Irmandade da Boa Morte e da Irmandade dos Homens Pretos) e outras variantes cristãs. Surgiram, então, religiões mistas, como a cabula e a umbanda. Sobressaem, neste campo, a figura cultuada de Mãe Menininha do Gantois, e terreiros como o Ilê Axé Opô Afonjá, além de toda uma cultura que permeia as crenças do povo baiano.
+Desde o início do século XX, a Bahia é palco de missões evangélicas protestantes, que redundaram na capital na fundação do Colégio Dois de Julho e na presença de missionários como Henry John McCall. Hoje, todo o estado testemunha o crescimento das múltiplas denominações cristãs.
+Municípios mais populosos[editar | editar código-fonte]
+Ver também: Lista de municípios da Bahia por população
+O município mais populoso da Bahia é Salvador (capital do estado, com quase três milhões de habitantes), que também é o terceiro mais populoso do Brasil, sendo seguida por Feira de Santana, Vitória da Conquista, Camaçari, Itabuna, Juazeiro, Lauro de Freitas, Ilhéus, Jequié, Teixeira de Freitas, Barreiras e Alagoinhas. A região metropolitana da capital conta com cerca de quatro milhões habitantes, sendo a mais populosa da região Nordeste e a sexta mais populosa do Brasil.[61][62]
+Segundo o estudo do IBGE Regiões de influência das cidades 2007 (REGIC 2007), na hierarquia urbana do Brasil, 54 municípios baianos estão em algum nível hierárquico definido, ou seja, não são um centro local, atribuição aos que não exercem influência. O município a ocupar o mais alto nível hierárquico é Salvador, como metrópole regional. Em seguida, vêm as capitais regionais B Feira de Santana, Ilhéus, Itabuna, Vitória da Conquista; e Juazeiro e Barreiras como capitais regionais C, não havendo capitais regionais A no território baiano.[63]
+verdiscutireditar Municípios mais populosos da Bahia
+(estimativa de 2020 do Instituto Brasileiro de Geografia e Estatística)[44]
+SalvadorFeira de Santana
+Posição
+Localidade
+Região intermediária
+Pop.
+Posição
+Localidade
+Região intermediária
+Pop.
+1
+Salvador
+Salvador
+2 886 698
+11
+Jequié
+Vitória da Conquista
+156 126
+2
+Feira de Santana
+Feira de Santana
+619 609
+12
+Alagoinhas
+Salvador
+152 327
+3
+Vitória da Conquista
+Vitória da Conquista
+341 128
+13
+Porto Seguro
+Ilhéus-Itabuna
+150 658
+4
+Camaçari
+Salvador
+304 302
+14
+Simões Filho
+Salvador
+135 783
+5
+Juazeiro
+Juazeiro
+218 162
+15
+Paulo Afonso
+Paulo Afonso
+118 516
+6
+Itabuna
+Ilhéus-Itabuna
+213 685
+16
+Eunápolis
+Ilhéus-Itabuna
+114 396
+7
+Lauro de Freitas
+Salvador
+201 635
+17
+Santo Antônio de Jesus
+Santo Antônio de Jesus
+102 380
+8
+Teixeira de Freitas
+Ilhéus-Itabuna
+162 438
+18
+Valença
+Santo Antônio de Jesus
+97 233
+9
+Ilhéus
+Ilhéus-Itabuna
+159 923
+19
+Luís Eduardo Magalhães
+Barreiras
+90 162
+10
+Barreiras
+Barreiras
+156 975
+20
+Candeias
+Salvador
+87 458
+Política[editar | editar código-fonte]
+Ver artigo principal: Política da Bahia
+Integrante da federação brasileira, é uma unidade federativa autônoma, sob os limites da constituição federal, com os três poderes próprios (executivo, judiciário e legislativo), além do Ministério Público do Estado da Bahia (MPBA), eleições diretas periódicas para cargos do executivo e legislativo, símbolos oficiais e data magna estabelecidas na Constituição estadual de 1989.[64] A capital estadual é o município de Salvador,[64] e Cachoeira é a segunda capital do estado, de acordo com a Lei Estadual 10.695 de 2007, que estabeleceu que todos os anos, no dia 25 de junho, o governo estadual é transferido para a cidade, em reconhecimento histórico pelas lutas na Independência da Bahia.
+A história da política no estado brasileiro da Bahia confunde-se, muitas vezes, com a política do país - e boa parte dela equivale à mesma, uma vez que Salvador, por muitos anos, foi a capital da Colônia. Contando sempre com expoentes no cenário político nacional, a Bahia é um dos mais representativos estados da federação. Durante o período imperial, contou com diversos primeiros-ministros; na fase republicana, estiveram à frente de vários movimentos nacionais baianos como Rui Barbosa, Cezar Zama, Aristides Spínola e outros.
+Na República Velha, dominou o cenário estadual José Joaquim Seabra; durante a Era Vargas surgiu a figura de Juracy Magalhães e em contraposição, com a redemocratização do pós-guerra, o socialista Octávio Mangabeira. Durante o regime militar, surgiu a figura de Antônio Carlos Magalhães, que dominou o cenário político estadual por três décadas, com breve derrota para Waldir Pires, na década de 1980, ocupando o cargo de senador, quando de sua morte. Tal fenômeno político ganhou a denominação de Carlismo.[carece de fontes?]
+Governo[editar | editar código-fonte]
+Sedes de representações dos três poderes na BahiaEdifício da Governadoria, de onde o governador despacha.Palácio Luís Eduardo Magalhães, local do plenário da AssembleiaPalácio da Justiça, sede do Tribunal de Justiça da Bahia.
+Ver artigos principais: Assembleia Legislativa da Bahia e Tribunal de Justiça do Estado da Bahia
+Mais informações: Lista de governadores da Bahia e Lista de deputados estaduais da Bahia
+O Poder Executivo baiano é exercido pelo governador do estado, que é eleito em sufrágio universal e voto direto e secreto pela população para mandatos de até quatro anos de duração, podendo ser reeleito para mais um mandato. A atual sede é o Palácio de Ondina, situado no bairro de Ondina, desde 1967.[65] Antigamente, a sede do governo baiano era o Palácio Rio Branco, localizado na Praça Municipal, e foi construída em 1549 (ano da fundação da cidade de Salvador, em 1549) tornando-se sede do governo e residência oficial do primeiro governador-geral do Brasil, Tomé de Sousa.[66] Em janeiro de 1908, foi transformada em residência oficial dos governadores do estado.[67] Depois do Palácio Rio Branco, a sede do governo baiano foi o Palácio da Aclamação, localizado no bairro do Campo Grande, até ser estabelecida a atual sede.
+O Poder Legislativo da Bahia é unicameral, exercido pela Assembleia Legislativa da Bahia, localizado no Palácio Luís Eduardo Magalhães. É constituída pelos representantes do povo (deputados estaduais) eleitos em votação direta para o mandato de quatro anos. Ela possui 63 deputados estaduais. No Congresso Nacional, a representação baiana é de 3 senadores e 39 deputados federais. Cabe, à Assembleia Legislativa, com a sanção (aprovação) do governador do estado, dispor sobre todas as matérias de competência do estado.[68]
+O Tribunal de Contas, através de seus conselheiros, auxilia a Assembleia Legislativa na apreciação das contas prestadas anualmente pelo governador do estado, no julgamento das contas dos administradores e demais responsáveis (fundações, empresas etc.) por dinheiro, bens e valores públicos da administração direta e indireta, incluídas as fundações e sociedades instituídas e mantidas pelo poder público estadual e as contas que derem causa a perda, extravio ou outra irregularidade de que resulte prejuízo ao erário público. Além deste, possui o Tribunal de Contas dos Municípios (TCM), que auxilia as Câmaras municipais na apreciação das contas dos respectivos executivos.[69]
+A maior corte do Poder Judiciário estadual é o Tribunal de Justiça do Estado da Bahia, localizado em prédio denominado Palácio da Justiça, situado no Centro Administrativo da Bahia. A Justiça do Trabalho está ligada à Quinta região, que compreende todo o estado e possui sede na capital. A Justiça Federal está vinculada à primeira região com sede em Brasília.[70]
+Eleições e partidos[editar | editar código-fonte]
+Ver artigo principal: Eleições na Bahia
+O sistema eleitoral na Bahia repete o nacional. Os mandatos eletivos duram quatro anos, e as eleições estaduais e federais alternam com as municipais a cada dois anos. O eleitorado baiano é composto por 10 110 100 votantes, segundo dados referentes às eleições de 2012, o que representa o quarto maior colégio eleitoral do país. Sua capital, Salvador, é o município com maior número de eleitores (1 881 544), seguido de Feira de Santana (373 753) e Vitória da Conquista (215 299). O município com menor número de eleitores é Lajedinho, com 3 027.[71]
+Tratando-se sobre partidos políticos, todos os 35 partidos políticos brasileiros possuem representação no estado.[72] Conforme informações divulgadas pelo Tribunal Superior Eleitoral (TSE), com base em dados de abril de 2016, o partido político com maior número de filiados na Bahia é o Partido do Movimento Democrático Brasileiro (PMDB), com 94 518 membros, seguido do Democratas (DEM), com 90 106 membros e do Partido dos Trabalhadores (PT), com 84 525 filiados. Completando a lista dos cinco maiores partidos políticos no estado, por número de membros, estão o Partido Progressista (PP), com 73 386 membros; e o Partido Trabalhista Brasileiro (PTB), com 64 477 membros. Ainda de acordo com o Tribunal Superior Eleitoral, o Partido Novo (NOVO) e o Partido Socialista dos Trabalhadores Unificado (PSTU) são os partidos políticos com menor representatividade na unidade federativa, com 24 e 275 filiados, respectivamente.[72]
+Subdivisões[editar | editar código-fonte]
+Ver também: Lista de regiões geográficas intermediárias da Bahia, Lista de regiões geográficas imediatas da Bahia, Lista de municípios da Bahia, Lista de municípios da Bahia por IDH-M e Regiões hidrográficas da Bahia
+A Bahia, assim como todos os outros estados brasileiros, está politicamente dividida em municípios. Ao total, existem 417 municípios baianos, o que torna a Bahia o quarto maior estado segundo a quantidade de municípios.
+O Instituto Brasileiro de Geografia e Estatística (IBGE) divide as unidades federativas do Brasil em regiões geográficas intermediárias e regiões geográficas imediatas para fins estatísticos de estudo, agrupando os municípios conforme aspectos socioeconômicos. As regiões geográficas intermediárias foram apresentadas em 2017, com a atualização da divisão regional do Brasil, e correspondem a uma revisão das antigas mesorregiões, que estavam em vigor desde a divisão de 1989. As regiões geográficas imediatas, por sua vez, substituíram as microrregiões. A divisão de 2017 teve o objetivo de abranger as transformações relativas à rede urbana e sua hierarquia ocorridas desde as divisões passadas, devendo ser usada para ações de planejamento e gestão de políticas públicas e para a divulgação de estatísticas e estudos do IBGE.[73] Deste modo, há 10 regiões geográficas intermediárias e 35 regiões geográficas imediatas no estado.
+Uma outra divisão, desta vez para fins de coordenação de ações de promoção turística, o Programa de Desenvolvimento do Turismo (PRODETUR) subdividiu o território baiano em zonas turísticas, as quais são Baía de Todos os Santos, Costa dos Coqueiros, Costa do Dendê, Costa do Cacau, Costa das Baleias, Costa do Descobrimento, Caminhos do Oeste, Caminhos do Sertão, Caminhos do Sudoeste, Chapada Diamantina, Lagos e cânions do São Francisco, Vale do Jiquiriçá e Vale do São Francisco.[74]
+Até meados da década de 2000, o Governo da Bahia agrupava os municípios baianos segundo características econômicas, formando as regiões Metropolitana de Salvador, Extremo Sul, Oeste, Serra Geral, Litoral Norte, Sudoeste, Litoral Sul, Médio São Francisco, Baixo-médio São Francisco, Irecê, Chapada Diamantina, Recôncavo Sul, Piemonte da Diamantina, Paraguaçu e Nordeste. Atualmente, essa divisão foi substituída pelos 27 Territórios de Identidade, a saber: Irecê, Velho Chico, Chapada Diamantina, Sisal, Litoral Sul, Baixo Sul, Extremo Sul, Itapetinga, Vale do Jiquiriçá, Sertão do São Francisco, Oeste Baiano, Bacia do Paramirim, Sertão Produtivo, Piemonte do Paraguaçu, Bacia do Jacuípe, Piemonte da Diamantina, Semiárido Nordeste II, Agreste de Alagoinhas/Litoral Norte, Portal do Sertão, Vitória da Conquista, Recôncavo, Médio Rio de Contas, Bacia do Rio Corrente, Itaparica, Piemonte Norte do Itapicuru, Metropolitana de Salvador, Costa do Descobrimento.[75]
+A Bahia também é repartida em 26 partes pelo Conselho Estadual de Recursos Hídricos (Conerh), que, para gestão das bacias hidrográficas e dos recursos hídricos, criou as 26 regiões hidrográficas, chamadas de Regiões de Planejamento e Gestão das Águas (RPGA).[39]
+Regiões econômicasZonas turísticasRegiões geográficasMunicípios
+Economia[editar | editar código-fonte]
+Ver artigo principal: Economia da Bahia
+Exportações da Bahia em 2012[76]Exportações do Brasil por estado em 2012, a Bahia contribui com 4,47% do total[77]
+A Bahia responde por quase trinta por cento do produto interno bruto do Nordeste brasileiro e por mais da metade das exportações da região. É o sétimo estado brasileiro que mais produz riqueza.[78] A economia do estado baseia-se na indústria (química, petroquímica, informática, automobilística e suas peças), agropecuária (mandioca, grãos, algodão, cacau e coco), mineração, turismo e nos serviços.[79] Existe o importante Polo petroquímico de Camaçari, onde funciona, entre outros empreendimentos, a montadora Ford, estando o complexo industrial localizado na cidade de Camaçari, na Região Metropolitana de Salvador, e que foi a primeira indústria automobilística a se instalar na região, em 2001.[80] As atividades agropecuárias ocupam cerca de setenta por cento da população ativa do estado. Um bom indicador de suas atividades econômicas é sua pauta de exportação, composta, no ano de 2012, principalmente por petróleo refinado (18,77%), pastas químicas de madeira à soda ou sulfato (10,82%), soja (8,33%), algodão cru (6,32%) e farelo de soja (4,36%).[76]
+Setor primário[editar | editar código-fonte]
+No setor primário, a agricultura está dividida em grande lavoura comercial, a pequena lavoura comercial e a agricultura de subsistência. O estado se destaca na produção de algodão, cacau, soja e frutas tropicais como coco, mamão, manga, banana e guaraná, além de também produzir cana-de-açúcar, laranja, feijão e mandioca, entre outros.
+A grande lavoura está baseada há décadas nas culturas da cana-de-açúcar (onde é integrada com modernas usinas) e cacau, e mais atualmente, na soja e no algodão. Entre as pequenas culturas comerciais, a mandioca, o coco-da-baía, o fumo, o café, o agave, a cebola, dendê (e consequente azeite de dendê) são as produções em destaque. As culturas de subsistência estão em todo o território, sendo que a cultura da mandioca é a mais importante, seguida pelo feijão, o milho, o café e a banana. O estado é conhecido por ter uma baixa qualidade nas condições de trabalho, por usar sistemas arcaicos de produção (extrativistas e semiextrativistas) e por explorar excessivamente a mão de obra.[81]
+Cultivo de cacau em Ilhéus
+A Bahia é o primeiro produtor nacional de coco,[82] manga,[83] guaraná,[84] sisal e mamona. Também é o segundo maior produtor de cacau,[85] algodão,[86] banana[87] e mamão,[88] o 4º maior produtor de café[89] e laranja,[90] o 6º maior produtor de soja[91] e tem produções relevantes de feijão e mandioca, mais voltados para a subsistência do que para a comercialização. A região de Ilhéus-Itabuna é uma das mais propícias áreas para o cultivo do cacau em toda a Bahia. Além de ser um dos principais produtores de cacau, junto com o Pará, é também o principal exportador de cacau no Brasil, porém a produção declinou nos últimos anos vítima de pragas como a vassoura-de-bruxa.[92][93] Tem bons índices também na produção de milho e cana-de-açúcar. Outra região do estado que merece a devida atenção é aquela compreendida pelo Rio São Francisco, conhecida também como Vale do São Francisco, compreendendo as cidades de Juazeiro, Curaçá, Casa Nova, Sobradinho, dentre outras. A região é a maior produtora de frutas tropicais do país: essa fruticultura é irrigada, tem crescido e exporta para os mercados europeu, asiático e estadunidense. Recentemente, o cultivo da soja, milho, arroz, café e algodão aumentou substancialmente no oeste do estado, principalmente na área do cerrado, que apresenta terreno plano e propício à mecanização, com perfil produtivo intensivo.[94][95]
+Também importante elemento da economia baiana, a pecuária bovina ocupa, hoje, o sexto lugar nacional, enquanto a caprina registra, atualmente, os maiores números do setor em todo o Brasil, mas também se destacando os rebanhos de ovinos. Já as atividades extrativas vegetais têm pequena participação na economia baiana. Entretanto, tem reservas consideráveis de minérios e de petróleo. A mineração baseia-se essencialmente na produção de ouro, cobre, magnesita, cromita, sal-gema, barita, manganês, chumbo, urânio, ferro, talco, columbita, prata, cristal de rocha e zinco.[carece de fontes?] As minas de magnesita a céu aberto em Brumado são a terceira maior do mundo e dão condição para ser a maior produção deste minério no Brasil. O mesmo município é, também, o segundo produtor de talco no país.[96][97][98]
+Setor secundário[editar | editar código-fonte]
+Fábrica de aerogeradores da cadeia eólica situada no Polo Industrial de Camaçari, o maior complexo industrial integrado do Hemisfério Sul.[99] O município de Camaçari, sozinho, é responsável por 20% do PIB do estado.[100]
+A Bahia tinha em 2018 um PIB industrial de R$ 54,0 bilhões, equivalente a 4,1% da indústria nacional e empregando 364.603 trabalhadores na indústria. Os principais setores industriais são: Construção (23,3%), Serviços Industriais de Utilidade Pública, como Energia Elétrica e Água (17,5%), Derivados de Petróleo e Biocombustíveis (16,2%), Químicos (10%) e Alimentos (4,5%). Estes 5 setores concentram 71,8% da indústria do estado.[101]
+A indústria é relativamente bem distribuída, abrigando os mais mais variados segmentos desse setor. Representa uma grande força econômica no estado. Está voltado para os setores da química e petroquímica, agroindústria, informática, automobilística e suas peças, alimentos, mineração, borracha e plástico, metalurgia, couro e calçados, higiene pessoal, perfumaria e cosméticos, energia eólica, celulose e papel e bebidas.[102][103][104] Na região Metropolitana de Salvador, estão concentradas a maioria das indústrias no Polo Industrial de Camaçari, maior complexo industrial integrado do Hemisfério Sul e que já nasceu planejado na década de 1970, cujo foco inicial era o setor petroquímico e com o passar dos anos diversificou sua produção.[105] Em relação ao valor de transformação industrial, a Bahia saltou da nona para a sexta posição no ranqueamento nacional em 2005.[106] Há municípios do interior que se destacam por ser um grande polo produtivo, como de bebidas em Alagoinhas; papel e celulose em Eunápolis e Mucuri; calçados em Itapetinga, Serrinha e Amargosa; agroindústria em Juazeiro etc.
+O Complexo Hidrelétrico de Paulo Afonso, no rio São Francisco, é um conjunto das usinas Paulo Afonso I, II, III, IV e Apolônio Sales, as quais são operadas pela Eletrobras Chesf
+Para fomentar a pesquisa e desenvolvimento tecnológico, foi lançado o projeto de um grande parque tecnológico em Salvador.[107] Chamado de Parque Tecnológico da Bahia, tem, como prioridades, a tecnologia da informação e comunicação (TIC), a robótica e a energia.[108] A primeira área do complexo foi inaugurada em 2012.[109] Outro ponto de desenvolvimento tecnológico, a primeira biofábrica do país se encontra na cidade sertaneja de Juazeiro, no vale do Rio São Francisco.
+A indústria, o comércio e os domicílios baianos contam com abundante suprimento de energia elétrica, fornecido principalmente pelo Complexo Hidrelétrico de Paulo Afonso e pelas hidrelétricas de Sobradinho e Itapebi, que, juntas, produzem quase seis mil megawatts de energia. No campo da energia a partir dos hidrocarbonetos, o estado é dos maiores produtores nacionais de petróleo e gás natural. Há um importante polo de refino de petróleo e biocombustíveis em São Francisco do Conde, na região metropolitana de Salvador, onde está localizada a Refinaria Landulpho Alves, a primeira construída no Brasil e que foi responsável por manter a Bahia como o maior produtor de petróleo por décadas,[110] e vários oleodutos e terminais em seu entorno para a chegada e escoamento da produção.
+Setor terciário[editar | editar código-fonte]
+Ver artigo principal: Turismo na Bahia
+O turismo é uma destacada atividade econômica baiana, uma vez que o setor é responsável por 7,5% do produto interno bruto (PIB) estadual e emprega uma cadeia gigantesca que engloba os estabelecimentos do setor do turismo, como hotéis, bares, restaurantes e agências de viagem.[111] No cenário nacional, o turismo baiano tem a fatia de 13,2% do PIB turístico nacional, a segunda maior porcentagem.[111][112] Foram 5,29 milhões de turistas brasileiros e 558 mil turistas estrangeiros que visitaram o estado em 2011.[111]
+Morro de São Paulo, atração da Costa do Dendê
+Elevador Lacerda, em Salvador
+O estado é um dos principais destinos turísticos do Brasil, sendo o estado que mais recebe turistas na região Nordeste, com um fluxo de 11 milhões de visitantes em 2011, segundo estudo realizado pela Fundação Instituto de Pesquisas Econômicas (Fipe).[113][114][115] Além da ilha de Itaparica e Morro de São Paulo, há um grande número de praias entre Ilhéus e Porto Seguro, na costa sul. O litoral norte, na área de Salvador, esticando para a beira com Sergipe, transformou-se num destino turístico importante, o qual ficou conhecido como Linha Verde. A Costa do Sauípe se destaca como o maior complexo de hotéis-resorts do Brasil.[116] No ecoturismo, se destaca a Chapada Diamantina.[117] Na região, está o melhor roteiro turístico do país, localizado no Vale do Pati (Lençóis), segundo apontou o Ministério do Turismo em 2010.[117] Nele, cerca de 500 mil turistas, brasileiros e estrangeiros, passam anualmente.
+Segundo a pesquisa Hábitos de Consumo do Turismo Brasileiro 2009, realizada pelo Vox Populi em novembro de 2009, a Bahia é o destino turístico preferido dos brasileiros,[118] já que 21,4% dos turistas que pretendiam viajar nos dois anos seguintes optariam pelo estado. A vantagem é grande em relação aos concorrentes: Pernambuco, com 11,9%, e São Paulo, com 10,9%, estavam, respectivamente, em segundo e terceiro lugares nas categorias pesquisadas. Já em 2010, foi escolhida pelo jornal americano The New York Times como um dos 31 destinos que mereciam ser visitados em 2010.[119][120] O estado foi o único do Brasil a integrar o ranking.
+A diversidade de atrativos no estado incitou o planejamento governamental, que estabeleceu zonas turísticas para definições necessárias ao desenvolvimento do ramo turístico e para identificação das potencialidades por meio do Programa de Desenvolvimento do Turismo (PRODETUR). Em 2002, eram sete zonas: Costa dos Coqueiros, Baía de Todos-os-Santos, Costa do Dendê, Costa do Cacau, Costa do Descobrimento, Costa das Baleias e Chapada Diamantina.[36] Isso mostra o destaque para o turismo no litoral, mas também aponta um importante polo no interior, a Chapada Diamantina. Formação geográfica em que chegam anualmente 500 mil visitantes, que gastam meio bilhão de reais ao conhecer as cidades de Lençóis, Andaraí, Rio de Contas, Mucugê e Palmeiras.[117] Mais tarde, foram criadas novas zonas, interiorizando o planejamento turístico, a saber: Caminhos do Oeste, Caminhos do Sertão, Caminhos do Sudoeste, Lagos e cânions do São Francisco, Vale do Jiquiriçá e Vale do São Francisco.[74]
+Infraestrutura[editar | editar código-fonte]
+Educação[editar | editar código-fonte]
+Ver artigo principal: Educação na Bahia
+Ver também: Lista de instituições de ensino superior do Brasil § Bahia
+A UFBA teve início com a fundação da Faculdade de Medicina da Bahia em 1808, a escola de medicina mais antiga do Brasil.[121]
+A Bahia possui um longo histórico na área de educação, desde os primeiros jesuítas que já no século XVI instalaram escolas em Salvador, então a capital da Colônia. Educadores de renome como Abílio Cezar Borges, Ernesto Carneiro Ribeiro e Anísio Teixeira capitanearam o proscênio educacional do país. A escola pública na Bahia é basicamente estadual e municipal, sendo que o município tem uma preocupação maior com a ensino fundamental (primeira à quarta série) e o governo estadual com a educação fundamental também, mas só da quinta à oitava série, além do ensino médio. O governo federal tem pouca participação na formação direta da população, porém, muitos recursos utilizados por estas instituições escolares são provenientes dos fundos federais. Atualmente, a Bahia conta com doze universidades, sendo quatro públicas estaduais (UNEB, UEFS, UESB e UESC), seis públicas federais (UFBA, UFRB, UNIVASF, UNILAB, UFSB e UFOB) e duas privadas (UCSal e UNIFACS), além dos institutos federais, o IFBA e o IF-BAIANO.[122][123]
+De acordo com um ranking realizado e divulgado pela Folha de S.Paulo, em 2012, a Universidade Federal da Bahia aparece como a segunda melhor pontuação entre as universidades públicas do norte e nordeste, atrás da federal pernambucana, e em 12.º lugar no país inteiro,[124] e na frente da Universidade Estadual do Maranhão. Em outro ranqueamento publicado no mesmo ano, feito pelo Ministério da Educação (MEC) a partir do Exame Nacional de Desempenho de Estudantes (ENADE), a Universidade Estadual de Feira de Santana foi classificada como a melhor universidade das regiões norte e nordeste e a 15.º do país em cursos com a nota cinco.[125][126]
+Transportes[editar | editar código-fonte]
+Ver artigo principal: Transportes da Bahia
+Ver também: Lista de aeroportos da Bahia e Lista de ferrovias do Brasil $ Bahia
+BR-324, a principal ligação entre Feira e Salvador
+Porto de Ilhéus
+Aeroporto Internacional de Salvador
+Feira de Santana é o eixo polarizador do sistema rodoviário estadual e é por onde passam as vias principais: a BR-242, que liga Salvador ao oeste baiano e à capital federal; a BR-101, de sentido norte/sul, com traçado paralelo ao litoral; a BR-116, que liga a metrópole ao sudoeste; além da BR-324, que liga Feira de Santana a Salvador. Outras rodovias estaduais e federais atendem ao tráfego de longa distância ou atendem às sedes dos municípios, fazendo parte de um sistema combinado que se complementa a exemplo da BR-110, BR-415, BR-407, BA-052, BA-099 e BA-001 (essas duas últimas são rodovias estaduais litorâneas).[36]
+A Bahia conta com quatro portos, sendo o de Aratu, o de Ilhéus e o de Salvador marítimos e o de Juazeiro fluvial. O de Ilhéus é o maior exportador de cacau do Brasil e também grande importador. Na cidade, também está em processo de construção o Porto Sul, com a expectativa de ser um dos maiores portos do Brasil em movimentação de cargas.[127]
+A Bahia conta com dez aeroportos operando com voos regulares, sendo o Internacional Dois de Julho, também conhecido como Internacional de Salvador Deputado Luís Eduardo Magalhães, o oitavo aeroporto mais movimentado do Brasil, o primeiro do Nordeste e estando entre os 20 maiores da América Latina, respondendo por mais de trinta por cento do movimento de passageiros dessa região do país em 2011.[128] Os outros são Aeroporto de Barreiras, em Barreiras; Aeroporto João Durval Carneiro, em Feira de Santana; Aeroporto Jorge Amado, em Ilhéus; Aeroporto Horácio de Mattos, em Lençóis; Aeroporto de Paulo Afonso, em Paulo Afonso; Aeroporto de Porto Seguro, em Porto Seguro; Aeroporto Pedro Otacílio Figueiredo, em Vitória da Conquista; Aeroporto de Valença, em Valença; e Aeroporto de Teixeira de Freitas, em Teixeira de Freitas. O Aeroporto de Una-Comandatuba recebe muitos voos fretados.[129]
+A Bahia é cortada por várias ferrovias.[130] Entre elas, estão: a Estrada de Ferro Bahia-Minas, que vai de Caravelas, na Bahia, ao norte de Minas Gerais;[131] e a Viação Férrea Federal do Leste Brasileiro, que integrava a Bahia com os estados de Minas Gerais, Sergipe, Pernambuco e Piauí.[132] Além dessas duas interestaduais, existem a Estrada de Ferro de Nazaré e a de Ilhéus. Esta última possuía projetos de expansão para chegar a Vitória da Conquista e para se ligar a outras ferrovias do estado e à E. F. Bahia-Minas.[133] Todas essas linhas férreas já não estão mais em atividade.[131][132][133]
+Atualmente, está sendo construída a Ferrovia de Integração Oeste-Leste (FIOL), com extensão de 1 527 quilômetros, que servirá de importante ponto de escoamento da produção de minérios e grãos do estado através do Porto Sul, no sul do estado. Ela também se conectará com a Ferrovia Norte-Sul em Tocantins, formando um grande corredor logístico.[134] Durante a primeira gestão de Dilma Rousseff, foram planejadas mais duas ferrovias cortando a Bahia: a Ferrovia Salvador-Recife, com extensão de 893 quilômetros e que atravessa municípios dos estados de Sergipe, Alagoas e Pernambuco, onde fazia conexão com a Ferrovia Transnordestina;[135] e a Ferrovia Belo Horizonte-Salvador, com extensão de 1 350 quilômetros e que atravessa 52 municípios da Bahia e Minas Gerais, estabelecendo uma conexão com o Porto de Aratu, na Região Metropolitana de Salvador.[136]
+O transporte de alta capacidade de passageiros por trilhos foi implantado no estado com o Metrô de Salvador, após 14 anos de construção e indícios de superfaturamento.[137] O funcionamento foi iniciado em junho de 2014 e a conclusão das duas linhas licitadas está determinada pelo edital para acontecer em 2017.[138][139]
+Saúde[editar | editar código-fonte]
+Ver também: Lista de hospitais da Bahia
+A saúde na Bahia não é das melhores do país: problemas típicos da saúde brasileira ocorrem no estado. Algumas doenças têm altos índices de doentes, como o câncer de mama,[140] que, de acordo com a Sociedade Brasileira de Mastologia, atinge cerca de dois mil novos casos anualmente.[141] Apesar disso, certas práticas que poderiam salvar muitas vidas não são comuns no estado, a exemplo da doação de órgãos. 60% das famílias baianas se recusam a doar órgãos de parentes, índice bem maior do que a média nacional, que é de 25%.[142]
+Hospital da Bahia, hospital particular localizado na capital
+Entre as doenças mais comuns, estão a dengue e a meningite, as quais estão alastrando-se por todo o território baiano e não apenas infectam os baianos, mas também provocam a morte.[143][144]
+Na parte da estrutura, destacam-se, na capital: o Hospital Geral do Estado (HGE);[145] Hospital Geral Roberto Santos (HGRS);[146] Hospital do Subúrbio, que funciona sob gestão de parceria público-privada, conceito inédito no Brasil;[147] Hospital Santo Antônio (fundado por Irmã Dulce); Hospital Sarah Kubitschek; Hospital Manoel Victorino; Hospital Santa Izabel; Hospital Ana Nery, referência nas áreas de cardiologia, cirurgia vascular, hemodiálise e transplante de órgãos;[148] Hospital Couto Maia, referência em doenças infecciosas e parasitárias,[149] Hospital São Rafael;[150][151] Hospital da Bahia;[152] Hospital Especializado Octávio Mangabeira (HEOM);[153][154] Hospital Martagão Gesteira, referência no atendimento às mais diversas especialidades pediátricas;[155] Complexo Hospitalar Universitário Professor Edgard Santos (COMHUPES, mantido pela Universidade Federal da Bahia através do Sistema Universitário de Saúde);[156] Hospital Aristides Maltez, instituição referência no diagnóstico e tratamento do câncer no Brasil e que atende, prioritariamente, pacientes do Sistema Único de Saúde (SUS);[157] entre outros. O Hospital Geral Clériston Andrade (HGCA), em Feira de Santana, destaca-se por ser o maior hospital público, porta aberta, do interior do estado no atendimento de média e alta complexidade.[158][159][160]
+As sociedades científicas Academia de Medicina da Bahia e Academia de Medicina de Feira de Santana desenvolvem e publicam as pesquisas médicas dos especialistas baianos.[carece de fontes?]
+Comunicações[editar | editar código-fonte]
+O estado da Bahia é o quarto do Brasil em quantidade de dispositivos móveis ativos (17 033 298), após São Paulo, Minas Gerais e Rio de Janeiro. A cidade de Salvador tem a maior teledensidade (número de acessos por 100 habitantes), com 198,44 acessos para cada 100 pessoas.[161] Os códigos de discagem direta a distância, DDD, para realizações para números do estado são 71, 73, 74, 75 e 77.[162]
+Os principais veículos da imprensa baiana são: o tradicional jornal A Tarde, que também possui uma emissora de rádio (A Tarde FM); jornal Correio, TV Bahia e outras emissoras que retransmitem a Rede Globo no interior do estado, todas elas empresas da Rede Bahia; o jornal Tribuna da Bahia; a emissora de TV Band Bahia, e a emissora de rádio BandNews FM em Salvador; e as emissoras de televisão TV Aratu (afiliada do SBT), TV Educativa da Bahia (esta mantida pelo governo estadual através da IRDEB), TV Itapoan e a TV Cabrália (ambas filiadas da Rede Record). Destacam-se os grupos de mídia baianos: a Rede Bahia, o Grupo Aratu, o Grupo A Tarde e o Grupo Metrópole, que mantém o Jornal da Metrópole e a emissora de rádio.
+Cultura[editar | editar código-fonte]
+Ver artigo principal: Cultura da Bahia
+Mais informações: Dialeto baiano e Culinária da Bahia
+Baiana do acarajé e seu tabuleiro
+Diferentemente da satirização feita pelos grandes meios de comunicação, o dialeto falado na Bahia, segundo alguns linguistas, seria parte integrante do grupo sulista, sendo, portanto, um dialeto próprio, não fazendo parte dos dialetos do nordeste. Algumas de suas gírias soam estranhas para outras regiões do país, como os famosos oxente, massa (no sentido de coisa boa) e aonde (utilizado para negar uma frase).
+No campo do artesanato da Bahia, destacam-se a cerâmica decorativa, marca da influência indígena, a renda de bilros e outros tipos de bordados, bonecas de pano, os santeiros e carrancas, objetos feitos de couro, metal, pedras e os destinados à cozinha, como o pilão e gamela.[163]
+Alguns museus da Bahia são: Museu Afro-Brasileiro, Museu de Arte da Bahia, Museu de Arte Moderna da Bahia, Memorial dos Governadores Bahia, Museu Carlos Costa Pinto, Museu Henriqueta Catharino, Fundação Casa de Jorge Amado e Museu Geológico da Bahia. No interior do estado, destacam-se: o Museu Histórico de Jequié, com um importante acervo sobre a história e cultura da região sudoeste; o Museu do Recolhimento dos Humildes em Santo Amaro, de arte sacra; a Fundação Hansen Bahia, em Cachoeira; e o centro cultural Dannemann, em São Félix, com sua Bienal do livro do Recôncavo.[164]
+Do candomblé ou do tabuleiro da baiana do acarajé, da culinária baiana brotam o acarajé, o abará, o vatapá e tantos pratos temperados pelo azeite de dendê, festejando os santos, como o caruru, ou festejando a vida, como a moqueca e o mingau.[165]
+Festas[editar | editar código-fonte]
+Vaquejada de Serrinha em 2009
+Na Bahia, ocorrem várias festas durante o ano todo. As principais são a Lavagem do Senhor de Bonfim, o Carnaval da Bahia e as diversas micaretas que ocorrem no ano todo sendo este evento momesco fora de época uma criação baiana. Há também a Festa junina São João com destaque para a cidade de Cruz das Almas (onde acontece a tradicional guerra de espadas) e Irecê que todos os anos trazem grandes atrações da música brasileira. Ainda tem a tradicional Vaquejada de Serrinha, que acontece sempre junto ao feriado de 7 de setembro. Em Salvador, acontece sempre, no começo do ano, o Festival de Verão de Salvador. Em Vitória da Conquista, durante o inverno, acontece o Festival de Inverno Bahia.[carece de fontes?]
+Tendo como sua principal característica moderna o trio elétrico, o Carnaval da Bahia teve seu incremento a partir desta invenção de Dodô e Osmar. O negro reconquista sua identidade e ganha força nos Filhos de Gandhi, o Olodum, e blocos como o Ilê Aiyê, que une música ao trabalho social. O Carnaval de Salvador, considerado o maior carnaval de rua do mundo, atrai anualmente 2 milhões de foliões em seis dias de festa.[166] Durante o período do carnaval de Salvador, dezenas dos cantores mais famosos do Brasil desfilam nos trios elétricos, como Ivete Sangalo, Daniela Mercury e muitos outros. Mas também há as festas de momo no interior, com destaque para Barreiras, Canavieiras, Palmeiras e Porto Seguro.[167]
+Literatura[editar | editar código-fonte]
+Ver também: Academia de Letras da Bahia, Academia Caetiteense de Letras, Academia Feirense de Letras e Academia Guanambiense de Letras
+Castro Alves
+Escritores baianos possuem relevância histórica ao aparecerem como representantes maiores do Barroco no Brasil: Gregório de Matos, Botelho de Oliveira e Frei Itaparica. Na Bahia, apareceram, também, as primeiras academias literárias no país: a Academia dos Esquecidos (1724-1725) e a Academia Brasílica dos Renascidos (1759). Cabe salientar que, na época, havia os cronistas-mor nomeados pelo rei de Portugal e que as academias eram tidas como seguidoras da moda das academias em Portugal[168] mas também representariam algum tipo de sentimento nativista do meio intelectual, já bastante desenvolvido em território baiano.
+No período mais recente, temos uma Bahia pródiga de autores imortais, como Castro Alves, Adonias Filho, Jorge Amado, e João Ubaldo Ribeiro. Os dois últimos são autores excepcionais, de literatura fácil e rica de detalhes sobre a Bahia. São, ao mesmo tempo, radiografias da vida no estado. No entanto, ao se falar em romances, a produção está reduzida, restringe-se a pequenos versos e passagens que remontam o estilo medieval e a famosos romances, como o Gabriela, Cravo e Canela, de Jorge Amado, publicado em 1958. A obra é um retorno ao ciclo do cacau, entrando no universo de coronéis, jagunços e prostitutas que desenham o horizonte da sociedade cacaueira da época.[163]
+Na década de 1920, na então rica e pacata Ilhéus, ansiando por progressos, com intensa vida noturna litorânea, entre bares e bordéis, desenrola-se o drama, que acaba por tornar-se uma explosão de folia e luz, cor, som, sexo e riso.[163] Paralelamente, a literatura de cordel persiste principalmente no sertão, onde violeiros transmitem a tradição cordelista por meio de sua cantoria.[163]
+Música[editar | editar código-fonte]
+Ver artigo principal: Música da Bahia
+Praia do Farol da Barra cheia de banhistas, um dia antes da abertura do carnaval de 2008
+Nas últimas décadas, a Bahia tem sido um verdadeiro celeiro musical. Surgiram muitos artistas (músicos, instrumentistas, cantores, compositores e intérpretes) de grande influência no cenário musical nacional e internacional. Tendo a maior cidade das Américas durante muitos séculos, sua capital foi local dos nascimentos, a partir da influência africana, do samba de roda, seu filho samba, o lundu e outros tantos ritmos, movidos por atabaques, berimbaus, marimbas - espalhando-se pelo resto do Brasil, e ganhando o mundo.[169]
+Na Bahia nasceram expoentes brasileiros do samba, do pagode, do tropicalismo, do rock brasileiro, da bossa nova, axé e samba-reggae. Alguns dos principais nomes são Dorival Caymmi, João Gilberto, Astrud Gilberto, Gilberto Gil, Caetano Veloso, Gal Costa, Maria Bethânia, Tom Zé, Novos Baianos, Raul Seixas, Marcelo Nova, Pitty, Bira (do Sexteto do Jô), Carlinhos Brown, Daniela Mercury, Ivete Sangalo, Luiz Caldas, Margareth Menezes, Dinho (do Mamonas Assassinas) etc.[169]
+Cinema[editar | editar código-fonte]
+O cinema na Bahia é promovido e incentivado pela Diretoria de Artes Visuais e Multimeios (DIMAS), além da Associação Baiana de Cinema e Vídeo (ABCV / ABD-BA), membro da Associação Brasileira de Documentaristas e Curta-metragistas.
+Anúncio da XXXIV Jornada Internacional de Cinema da Bahia
+Na Bahia, ocorrem vários festivais e encontros de cinema e cineclubismo, entre eles: Bahia Afro Film Festival, em Salvador;[170] Encontro Baiano de Animação, em Salvador.[171] Feira Mostra Filmes, em Feira de Santana;[172] Festival Brasilidades, em Feira de Santana;[173] Festival Nacional de Vídeo - A Imagem em 5 Minutos, em Salvador;[174] FIM! - Festival da Imagem em Movimento, em Salvador;[174] Jornada Internacional de Cinema da Bahia, em Salvador;[174] Mostra Cinema Conquista, em Vitória da Conquista;[175] Seminário Internacional de Cinema e Audiovisual, em Salvador; e Vale Curtas - Festival Nacional de Curtas-Metragens do Vale do São Francisco, em Juazeiro e Petrolina.[176]
+Também há várias produções cinematográficas nacionais que possuem como tema a Bahia ou algo a ela relacionado, a exemplo de Cidade Baixa e Ó Paí, Ó. O estado também é berço de grandes nomes do cinema nacional, como os atores Lázaro Ramos, Wagner Moura, Luís Miranda, Priscila Fantin, João Miguel, Othon Bastos, Antonio Pitanga (pai dos também atores Rocco e Camila Pitanga) e Emanuelle Araújo e os cineastas Glauber Rocha e Roberto Pires. A TVE Bahia exibe às sextas-feiras, a sessão de filmes Sextas Baianas.[177] E a DIMAS exibe a sessão Quartas Baianas, especialmente dedicada ao resgate e à valorização da produção local, com entrada franca, na Sala Walter da Silveira, às quartas-feiras, às 8h da noite.[178]
+Esportes[editar | editar código-fonte]
+Ver artigo principal: Futebol da Bahia
+Ver também: Lista de estádios de futebol da Bahia, Federação Bahiana de Futebol, Federação Bahiana de Basketball e Federação Bahiana de Futsal
+Feriados[editar | editar código-fonte]
+Data
+Nome
+Observações
+2 de julho
+Independência da Bahia
+Em comemoração ao fato histórico ocorrido nesta data.
+Ver também[editar | editar código-fonte]
+Lista de municípios da Bahia
+Lista de municípios da Bahia por área
+Territorial
+Urbanizada
+Lista de municípios da Bahia por população
+Capitania da Bahia
+Capitania de Ilhéus
+Capitania de Porto Seguro
+Notas
+Referências
+↑ «Latim». web.archive.org. Consultado em 15 de maio de 2012. Cópia arquivada em 4 de janeiro de 2010
+↑ «Family Coat of arms and family crests including heraldry, genealogy, blazons, crests, and coat of arms.». heraldryandcrests.com. Consultado em 15 de maio de 2012. Cópia arquivada em 25 de abril de 2012
+↑ a b Instituto Brasileiro de Geografia e Estatística (IBGE). «Área Territorial Oficial - Consulta por Unidade da Federação». Consultado em 29 de agosto de 2021
+↑ IBGE, IBGE (27 de agosto de 2021). «Estimativas da população residente no Brasil e Unidades da Federação com data de referência em 1º de julho de 2021» (PDF). ibge.gov.br. Consultado em 28 de agosto de 2021
+↑ «Produto Interno Bruto dos Municípios - 2010 à 2018». Instituto Brasileiro de Geografia e Estatística. Consultado em 25 de dezembro de 2020
+↑ «Tábua completa de mortalidade para o Brasil – 2015» (PDF). IBGE. Consultado em 2 de dezembro de 2016
+↑ «Sinopse do Censo Demográfico 2010». IBGE. Consultado em 17 de maio de 2015
+↑ IPEA -Instituto de Pesquisa Econômica Aplicada. «Evolução do IDHM e de Seus Índices Componentes no período de 2012 a 2017» (PDF). Consultado em 18 de abril de 2019. Cópia arquivada (PDF) em 15 de julho de 2019
+↑ «O Clima Brasileiro». Consultado em 4 de maio de 2009
+↑ «Mapa da Bahia»
+↑ «Instituto Brasileiro de Geografia e Estatística (IBGE) - Configuração da Rede Urbana do Brasil» (PDF). ipardes.gov.br. Junho de 2001. Consultado em 15 de maio de 2012
+↑ a b «História». bahia.com.br. Consultado em 14 de outubro de 2013. Cópia arquivada em 22 de outubro de 2013
+↑ Santos, Fabiano Villaça dos. «História Colonial». Consultado em 14 de outubro de 2013. Cópia arquivada em 9 de agosto de 2014
+↑ «Biblioteca Nacional»
+↑ «A Primeira Missa no Brasil». InfoEscola.com. Consultado em 14 de outubro de 2013
+↑ «Abertura dos Portos». InfoEscola.com. Consultado em 20 de outubro de 2013
+↑ «Abertura dos Portos às Nações Amigas». Marinha do Brasil. Consultado em 20 de outubro de 2013
+↑ Kappel, Raimundo F. «OS PORTOS BRASILEIROS FRENTE». sbpcnet.org.br. Consultado em 20 de outubro de 2013
+↑ «Abertura dos portos». historiacolonial.arquivonacional.gov.br. Consultado em 20 de outubro de 2013. Cópia arquivada em 10 de outubro de 2014. Carta do príncipe regente Dom João ao conde da Ponte, governador da capitania da Bahia, João de Saldanha da Gama Melo Torres Guedes Brito, na qual ordena a abertura dos portos do Brasil a todas as mercadorias transportadas por navios de seus vassalos e de estrangeiros de nações amigas. Foi estabelecido o pagamento de direitos por entrada de 24%, com exceção dos vinhos, aguardentes e azeites doces, que deveriam pagar o dobro dos direitos até então pagos, além de liberar, aos mesmos navios, a exportação de mercadorias coloniais, a exceção do pau-brasil e outros produtos estancados, para todos os portos que lhes aprouver.
+↑ IPEA -Instituto de Pesquisa Econômica Aplicada. «Evolução do IDHM e de Seus Índices Componentes no período de 2012 a 2017» (PDF). Consultado em 18 de abril de 2019. Cópia arquivada (PDF) em 15 de julho de 2019
+↑ «Anexo à Lei número 8.421, de 11 de maio de 1992» (PDF). Consultado em 13 de setembro de 2010
+↑ «baiano». Dicionário da Língua Portuguesa. Consultado em 3 de maio de 2009
+↑ «baiano». Dicionário da Língua Portuguesa - Acordo Ortográfico. Consultado em 3 de maio de 2009
+↑ «Baía». Infopédia/Porto Editora. Consultado em 3 de maio de 2009
+↑ Carlos Rocha (14 de junho de 2009). «O Acordo Ortográfico e a palavra bahia». Ciberdúvidas da Língua Portuguesa. Consultado em 3 de maio de 2009
+↑ BECHARA, Evanildo, Na Ponta da Língua, vol. 1, Editora Lucerna, Rio de Janeiro, 2000.
+↑ Ver o Dicionário de Questões Vernáculas, Livraria Ciência e Tecnologia Editora, São Paulo, 1994
+↑ BUENO, E. Brasil: uma história. Segunda edição revisada. São Paulo. Ática. 2003. p. 18.
+↑ «Capitanias hereditárias». Bahia.com.br. Consultado em 24 de setembro de 2016. Cópia arquivada em 27 de setembro de 2016
+↑ Cintia Esteves (8 de fevereiro de 2013). «Há 250 anos, Salvador cedia o título de capital para o Rio de Janeiro». iG. Consultado em 24 de setembro de 2016
+↑ «Povoamento». Bahia.com.br. Consultado em 24 de setembro de 2016. Cópia arquivada em 29 de julho de 2016
+↑ Alécia Pontes. «Os senhores do açúcar». Dinheiro Rural. Consultado em 24 de setembro de 2016
+↑ a b c d «O Brasil holandês». Consultado em 1 de janeiro de 2009
+↑ a b c «Incursiones holandesas en Brasil» (em espanhol). Consultado em 1 de janeiro de 2009 [ligação inativa]
+↑ Bahia!. «Independência». Consultado em 1 de Setembro de 2014. Cópia arquivada em 10 de outubro de 2014
+↑ a b c d e f Superintendência de Estudos Econômicos e Sociais da Bahia. Bahia em Números. Volume 4. Edição bilíngüe: português e inglês. Salvador: 2002. ISSN 1516-1730
+↑ «Organização das Nações Unidas para Agricultura e Alimentação - FAO»
+↑ «Homem morre afogamento Pardo»
+↑ a b Instituto de Gestão das Águas e Clima (INGÁ). «Regiões de Planejamento e Gestão das Águas». Consultado em 14 de Junho de 2011
+↑ a b c d e f Bahia!. «Aspectos geográficos». Consultado em 1 de Setembro de 2014. Cópia arquivada em 4 de setembro de 2014
+↑ Clube dos Aventureiros (22 de julho de 2011). «Pico do Barbado». Consultado em 1 de Setembro de 2014. Cópia arquivada em 3 de setembro de 2014
+↑ Clube dos Aventureiros (22 de julho de 2011). «Pico das Almas». Consultado em 1 de Setembro de 2014. Cópia arquivada em 3 de setembro de 2014
+↑ «Após vazamento de óleo, Petrobras trabalha para limpar praia na Bahia». UOL Notícias. 17 de abril de 2009. Consultado em 6 de março de 2010
+↑ a b «estimativa_dou_2020.xls». ibge.gov.br. Consultado em 27 de agosto de 2020
+↑ IBGE. «Tabela 1286 - População e Distribuição da população nos Censos Demográficos». SIDRA IBGE. Consultado em 16 de novembro de 2011
+↑ a b Instituto Brasileiro de Geografia e Estatística (IBGE). «Censo populacional da Bahia (2010)» (PDF). Consultado em 20 de outubro de 2013
+↑ «Genetics and Molecular Biology - ß-globin haplotypes in normal and hemoglobinopathic individuals from Reconcavo Baiano, State of Bahia, Brazil». scielo.br. Consultado em 1 de fevereiro de 2011
+↑ «Rede Nacional de Estudos e Pesquisas em Saúde dos Povos Indígenas». Funasa. 2006. Consultado em 28 de janeiro de 2009 [ligação inativa]
+↑ IBGE, Síntese dos Indicadores Sociais , Tabela 8.1 - População total e respectiva distribuição percentual, por cor ou raça, segundo as Grandes Regiões, Unidades da Federação e Regiões Metropolitanas - 2006. Segundo dados do PNAD 2006. Acessado em 19 de março de 2008
+↑ «Ancestralidade genômica e tipos de sobrenomes em Salvador-BA» (PDF). Consultado em 1 de fevereiro de 2011
+↑ «BAHIA TEM O MAIOR NÚMERO DE CIGANOS DO PAÍS». Bahia Notícias. 14 de maio de 2010. Consultado em 15 de maio de 2010. Cópia arquivada em 17 de maio de 2010
+↑ a b «Ancestralidade genômica e classificação racial baseada em 5871 habitantes de comunidades brasileiras, projeto Epigen, 2015»
+↑ http://www.nature.com/articles/srep09812 Ancestralidade genômica e classificação racial baseada em 5871 habitantes de comunidades brasileiras, projeto Epigen, 2015
+↑ «Origem e dinâmica da mistura e seus efeitos em padrões de mutações, 2015» (PDF)
+↑ Magalhães da Silva, Thiago; Sandhya Rani, M. R.; de Oliveira Costa, Gustavo Nunes; Figueiredo, Maria A.; Melo, Paulo S.; Nascimento, João F.; Molyneaux, Neil D.; Barreto, Maurício L.; Reis, Mitermayer G.; Teixeira, M. Glória; Blanton, Ronald E. (1 de julho de 2015). «The correlation between ancestry and color in two cities of Northeast Brazil with contrasting ethnic compositions». European Journal of Human Genetics. 23 (7): 984–989. doi:10.1038/ejhg.2014.215
+– via www.nature.com
+↑ «A ancestralidade genômica de indivíduos de diferentes regiões geográficas do Brasil é mais uniforme do que esperado, Pena et al, 2011»
+↑ Collins, John F. (2015). Revolt of the Saints: Memory and Redemption in the Twilight of Brazilian Racial Democracy. Durham, NC, USA: Duke University Press  |acessodata= requer |url= (ajuda)
+↑ «Censo 2010». IBGE
+↑ «Análise dos Resultados/IBGE Censo Demográfico 2010: Características gerais da população, religião e pessoas com deficiência» (PDF)
+↑ «SECULT - Secretaria de Cultura da Bahia(INATIVO) — Bonfim é a festa rica em símbolos». secult.220i.com.br. Consultado em 15 de maio de 2012. Cópia arquivada em 27 de outubro de 2012
+↑ «IBGE divulga as estimativas populacionais dos municípios em 2014». Instituto Brasileiro de Geografia e Estatística. 28 de agosto de 2014. Consultado em 1 de setembro de 2014
+↑ «IBGE: POPULAÇÃO DE ILHÉUS DIMINUI; ITABUNA AVANÇA». Pimenta.blog.br. 28 de agosto de 2014. Consultado em 1 de setembro de 2014
+↑ Regiões de Influência das Cidades 2007[ligação inativa]
+↑ a b «Constituição de 1989 do Estado da Bahia» (PDF). 1989. Consultado em 31 de Agosto de 2014. Cópia arquivada (PDF) em 20 de agosto de 2007
+↑ «O Palácio de Ondina. A residência dos governadores da Bahia.». Memórias da Bahia. iBahia.com. Consultado em 15 de outubro de 2013
+↑ «Palácio Rio Branco – Memorial dos Governadores». Fundação Pedro Calmon (fpc.ba.gov.br). Consultado em 15 de outubro de 2013. Cópia arquivada em 29 de abril de 2014
+↑ Teixeira, Cid (2010). «Palácio Rio Branco». Consultado em 15 de outubro de 2013. Cópia arquivada em 29 de abril de 2014
+↑ «História da Assembleia Legislativa do Estado da Bahia | | Jornal Grande Bahia – JGB». Jornal Grande Bahia – JGB. Consultado em 19 de outubro de 2016
+↑ «TCM-BA: Missão». Consultado em 25 de dezembro de 2012 [ligação inativa]
+↑ «Institucional - História». Tribunal de Justiça do Estado da Bahia (tjba.jus.br). 19 de janeiro de 2013. Consultado em 15 de outubro de 2013
+↑ «Bahia é o quarto Estado do País com maior número de eleitores». R7 Eleições 2012. R7.com. 2012. Consultado em 15 de outubro de 2013
+↑ a b «Filiados - Tribunal Superior Eleitoral (TSE)». Tribunal Superior Eleitoral (TSE). Abril de 2016. Consultado em 29 de maio de 2016
+↑ Instituto Brasileiro de Geografia e Estatística (IBGE) (2017). «Divisão Regional do Brasil». Consultado em 17 de agosto de 2017. Cópia arquivada em 17 de agosto de 2017
+↑ a b Bahia!. «Destinos». Consultado em 1 de Setembro de 2014. Cópia arquivada em 16 de agosto de 2014
+↑ «Territórios de Identidade - Mapa». SEPLAN - Secretaria do Planejamento do Estado da Bahia. Consultado em 3 de julho de 2021
+↑ a b «Exportações da Bahia (2012)». Plataforma DataViva. Consultado em 13 de janeiro de 2014. Cópia arquivada em 14 de janeiro de 2014
+↑ «Exportações do Brasil por Estado (2012)». Plataforma DataViva. Consultado em 13 de janeiro de 2014. Cópia arquivada em 10 de outubro de 2014
+↑ «Contas Regionais do Brasil 2013: Produto Interno Bruto - PIB e participação das Grandes Regiões e Unidades da Federação». IBGE. Consultado em 22 de junho de 2016
+↑ «A Bahia em números». Secretaria da Indústria, Comércio e Mineração do Estado da Bahia. Consultado em 7 de maio de 2014. Cópia arquivada em 4 de junho de 2014
+↑ «Instalações da Ford no Brasil - COMPLEXO INDUSTRIAL FORD NORDESTE/BA». Site informativo da Ford Brasil. Consultado em 7 de maio de 2014. Cópia arquivada em 8 de maio de 2014
+↑ Peter Cox (1998). «Sweetness And Plight». New Internacionalist Magazine
+↑ PRODUÇÃO DE COCO: O NORDESTE É DESTAQUE NACIONAL
+↑ Cultivo de manga é destaque no norte da Bahia; estado é o 2º maior produtor de frutas do país
+↑ Incentivos mantêm guaraná na Amazônia
+↑ Pará retoma liderança na produção brasileira de cacau, com a união de agricultores
+↑ Segundo maior produtor de algodão do país, Bahia tem previsão de 15% de crescimento da safra
+↑ Produção brasileira de banana em 2019
+↑ Produção brasileira de mamão em 2019
+↑ «Brasil deve ter produção de café 25% maior em 2020 e salto de 20% em produtividade». Revista Globo Rural. Consultado em 19 de fevereiro de 2021
+↑ Produção brasileira de laranja em 2019
+↑ Brasil deve colher maior produção de soja da história, diz Conab
+↑ Antonio Martins (1 de outubro de 2010). «A Costa do Cacau em busca de um destino». Outras Palavras. Consultado em 1 de setembro de 2014
+↑ «Entenda o caso da vassoura-de-bruxa». A TARDE. 25 de junho de 2006
+↑ Jackson Ornelas Mendonça. «O potencial de crescimento da produção de grãos no Oeste da Bahia» (PDF). Secretaria da Agricultura, Pecuária, Irrigação, Reforma Agrária, Pesca e Aquicultura da Bahia. Consultado em 1 de setembro de 2014
+↑ Aiba. Região Oeste, acessado em 20 de maio de 2016.
+↑ Cetem. «Extração de magnesita e talco em Brumado (BA) causa danos ambientais». Consultado em 21 de dezembro de 2017
+↑ Poliana Machado da Silva. «A Mineração e o crescimento urbano no município de Brumado». Consultado em 21 de dezembro de 2017. Cópia arquivada em 24 de dezembro de 2015
+↑ Redação A Tarde. «Magnesita vende unidade de Brumado». Consultado em 21 de dezembro de 2017
+↑ «Polo Industrial de Camaçari». coficpolo.com.br. Consultado em 15 de maio de 2012. Cópia arquivada em 6 de julho de 2011
+↑ Alessandra Nascimento (29 de junho de 2013). «Polo de Camaçari completa 35 anos». Tribuna da Bahia. Consultado em 1 de setembro de 2014. Cópia arquivada em 17 de outubro de 2014
+↑ Perfil da Indústria da Bahia
+↑ «Indústria de transformação da Bahia registrou retração de 6,4% em abril». Fieb. 9 de junho de 2015. Consultado em 1 de novembro de 2016
+↑ «Produção industrial da Bahia tem queda de 7% em 2015». Fieb. 17 de fevereiro de 2016. Consultado em 1 de novembro de 2016
+↑ «Produção da indústria cresce 11% na Bahia». A Tarde. 7 de abril de 2016. Consultado em 1 de novembro de 2016
+↑ «O Polo Industrial de Camaçari». Comitê de Fomento Industrial de Camaçari. 2012. Consultado em 1 de novembro de 2016. Cópia arquivada em 4 de novembro de 2016
+↑ «Bahia Ocupa sexta posição entre os estados mais industrializados». Jornal da Mídia. 9 de Julho de 2008. Consultado em 1 de maio de 2010. Cópia arquivada em 6 de julho de 2011
+↑ Karina Baracho (27 de abril de 2011). «Tecnovia é aprovada por unanimidade». Tribuna da Bahia. Consultado em 1 de setembro de 2014. Cópia arquivada em 10 de outubro de 2014
+↑ Karina Baracho (27 de abril de 2011). «Tecnovia é aprovada por unanimidade». Tribuna da Bahia. Consultado em 1 de Setembro de 2014. Cópia arquivada em 10 de outubro de 2014
+↑ SECOM-BA (18 de setembro de 2012). «Governo da Bahia inaugura primeira etapa do Parque Tecnológico». Consultado em 14 de outubro de 2012
+↑ «Refinaria Landulpho Alves (RLAM)». Petrobras
+↑ a b c ROTEIROS INCRÍVEIS. «Bahia representa 13,2% do PIB turístico do pais, diz estudo». Consultado em 1 de Setembro de 2014
+↑ «Setur discute aplicação do programa Primeiro Emprego por estabelecimentos do setor». Secretária de Governo do Estado da Bahia. 1 de dezembro de 2016. Consultado em 1 de dezembro de 2016
+↑ «Bahia é o estado que mais atrai turistas no NE, aponta Fipe». Salão Baiano do Turismo. Consultado em 7 de maio de 2014. Cópia arquivada em 8 de maio de 2014
+↑ «Pesquisa Fipe 2011» (PDF). Salvador Convention. Consultado em 7 de maio de 2014. Cópia arquivada (PDF) em 8 de maio de 2014
+↑ «Relatório Final Bahia 2011» (PDF). Observatório do Turismo da Bahia. Consultado em 7 de maio de 2014. Cópia arquivada (PDF) em 8 de maio de 2014
+↑ «Baianos de Salvador desejam conhecer o próprio estado». Ministério do Turismo. 25 de novembro de 2013. Consultado em 7 de maio de 2014
+↑ a b c «Chapada Diamantina impressiona pelas paisagens». Brasil Econômico. 29 de janeiro de 2014. Consultado em 7 de maio de 2014. Cópia arquivada em 8 de maio de 2014
+↑ «Bahia é o destino turístico preferido dos brasileiros». Comunicação do Governo da Bahia. 4 de novembro de 2009. Consultado em 23 de janeiro de 2010 [ligação inativa]
+↑ «Bahia entra no ranking de destinos que merecem visita em 2010 do New York Times». UOL Viagem. 11 de janeiro de 2010. Consultado em 7 de maio de 2014
+↑ «The 31 Places to Go in 2010». NYTimes.com. 7 de janeiro de 2010. Consultado em 7 de maio de 2014
+↑ «A Faculdade de Medicina da Bahia e a Ciência Médica». gmbahia.ufba.br. Consultado em 15 de maio de 2012
+↑ Paulo Gabriel S. Nacif (4 de junho de 2014). «Uma Universidade para o Nordeste da Bahia». ANDIFES. Consultado em 1 de Setembro de 2014
+↑ Mestre. «UNIVERSIDADES E FACULDADES PÚBLICAS E PARTICULARES DA BAHIA». Edsouza.net. Consultado em 1 de Setembro de 2014
+↑ «O ranking geral de universidades». Folha. Consultado em 29 de abril de 2013
+↑ deputadocarlosgeilson.com.br (27 de julho de 2012). «Uefs entre as 15 melhores universidades do país». Consultado em 12 de julho de 2013. Cópia arquivada em 19 de dezembro de 2013
+↑ PROFF Gente e Gestão. «Ranking das melhores universidades do país – O Globo 23/07/2012». Consultado em 12 de julho de 2013. Cópia arquivada em 3 de junho de 2013
+↑ «Rui Costa recebe sugestões da população em Ilhéus». Bahia 24/7. Brasil 24/7. 4 de maio de 2014. Consultado em 7 de maio de 2014
+↑ «Os 10 aeroportos mais movimentados do Brasil». EXAME.com. 20 de dezembro de 2011. Consultado em 7 de maio de 2014
+↑ «Aeroporto de Una (BA) poderá ter voos regulares». Consultado em 24 de setembro de 2016
+↑ «Estações Ferroviárias do Estados da Bahia e Sergipe». Consultado em 7 de novembro de 2007
+↑ a b «E. F. Bahia-Minas». Consultado em 7 de novembro de 2007
+↑ a b «V. F. F. Leste Brasileiro». Consultado em 7 de novembro de 2007
+↑ a b «E. F. Nazaré e E. F. Ilhéus». Consultado em 7 de novembro de 2007
+↑ «Ferrovia de Integração Oeste – Leste». VALEC - Engenharia, Construções e Ferrovias S.A. Consultado em 7 de maio de 2014. Cópia arquivada em 8 de maio de 2014
+↑ «ANTT recebe propostas para estudos preliminares de ferrovia entre Feira de Santana (BA) e Ipojuca (PE)». Logística Brasil. 3 de junho de 2013. Consultado em 7 de maio de 2014. Cópia arquivada em 9 de outubro de 2014
+↑ «Reunião da ANTT em Feira de Santana (BA) recebe contribuições para ferrovia MG-BA». Logística Brasil. 23 de julho de 2013. Consultado em 7 de maio de 2014
+↑ «TCU identifica superfaturamento em obras do metrô de Salvador»
+↑ Vagner Magalhães (11 de junho de 2014). «Depois de 14 anos, metrô de Salvador começa a andar na véspera da Copa». UOL. Consultado em 1 de Setembro de 2014
+↑ Henrique Mendes (11 de junho de 2014). «Metrô de Salvador é inaugurado com viagem da presidente Dilma Rousseff». G1 BA. Consultado em 1 de Setembro de 2014
+↑ «Hospitais que se destacam no Brasil». Sppert. Consultado em 7 de maio de 2014. Cópia arquivada em 8 de maio de 2014
+↑ BA TV - Rede Bahia. Câncer de Mama pode ter detecção prematura. Acessado em 4 de outubro de 2007.
+↑ BA TV - Rede Bahia. Campanha incentiva a doação de órgãos no Estado[ligação inativa]. Acessado em 4 de outubro de 2007.
+↑ «Dengue e meningite já mataram 60 na Bahia este ano». Agência Estado. 14 de abril de 2009. Consultado em 6 de março de 2010
+↑ «Meningite provoca a nona morte do ano na BA». UOL Notícias. 5 de março de 2010. Consultado em 6 de março de 2010
+↑ «Histórico». Secretária de Saúde do Estado da Bahia. Consultado em 7 de maio de 2014
+↑ «Pediatria do HGRS se destaca em seminário de avaliação». Secretária de Saúde do Estado da Bahia. 29 de novembro de 2011. Consultado em 7 de maio de 2014
+↑ «Hospital do Subúrbio é destaque em revista nacional». Secretária de Saúde do Estado da Bahia. 24 de abril de 2014. Consultado em 7 de maio de 2014
+↑ «Ana Nery, de Salvador, é o único hospital público do Brasil com tomógrafo que controla dosagem de radiação». Bahia Negócios. 12 de maio de 2013. Consultado em 21 de agosto de 2014. Cópia arquivada em 10 de outubro de 2014
+↑ «Hospital Couto Maia completa 163 anos e continua referência». Bahia Já. 1 de julho de 2016
+↑ «Histórico». Portal Institucional - Monte Tabor - Hospital São Rafael. Consultado em 10 de abril de 2015. Cópia arquivada em 27 de julho de 2014
+↑ «Bahia é pioneira em terapia intraoperatória». Portal A TARDE. 24 de julho de 2014. Consultado em 24 de julho de 2014
+↑ «Hospital da Bahia aumenta estrutura e inaugura equipamentos nesta quinta-feira». Bahia Notícias. 23 de julho de 2014. Consultado em 23 de julho de 2014
+↑ «Histórico». Secretária de Saúde do Estado da Bahia. Consultado em 16 de julho de 2014
+↑ «Hospital Octávio Mangabeira realiza primeira cirurgia torácica por vídeo da rede SUS na Bahia». Secretaria de Comunicação Social do Governo do Estado da Bahia. 16 de julho de 2014. Consultado em 16 de julho de 2014
+↑ «Nossa História». Martagão Gesteira - HOSPITAL DA CRIANÇA. Consultado em 17 de julho de 2014
+↑ «Complexo Hospitalar Universitário Professor Edgard Santos - COMHUPES (HUPES - CPPHO - AMN)». UFBA. Consultado em 7 de maio de 2014. Cópia arquivada em 8 de maio de 2014
+↑ «Inaugurado ambulatório de câncer de mama e pelve na Bahia». Instituto Avon. 14 de maio de 2012. Consultado em 7 de maio de 2014. Cópia arquivada em 8 de maio de 2014
+↑ «Histórico». Secretária de Saúde do Estado da Bahia. Consultado em 29 de maio de 2014
+↑ «HGCA completa 30 anos em funcionamento». Secretária de Saúde do Estado da Bahia. 7 de março de 2014. Consultado em 29 de maio de 2014
+↑ «HGCA realiza primeira cirurgia por videolaparoscopia pelo SUS em Feira de Santana». Secretária de Saúde do Estado da Bahia. 27 de maio de 2014. Consultado em 29 de maio de 2014
+↑ Anatel, Estatísticas dispositivos moveis, Novembro 2012 Câncer de Mama pode ter detecção prematura. Acessado em 25 de dezembro de 2012.
+↑ DDD Bahia BA: DDD Bahia BA estado. Acessado em 25 de dezembro de 2012.
+↑ a b c d «Bahia». Associação Brasileira dos Organizadores de Festivais de Folclore e Artes Populares. Consultado em 14 de novembro de 2006. Cópia arquivada em 11 de outubro de 2006
+↑ Reverso online. Disponível em https://www3.ufrb.edu.br/reverso/centros-culturais-de-sao-felix-mantem-a-historia-do-reconcavo/. Acesso em 23 de outubro de 2018.
+↑ Bahia!. «Gastronomia». Consultado em 1 de Setembro de 2014
+↑ «Carnaval de Salvador deve atrair 2 milhões de foliões, diz prefeitura». R7 Bahia. 15 de janeiro de 2014. Consultado em 7 de maio de 2014
+↑ Bahia!. «Carnaval». Consultado em 1 de Setembro de 2014. Cópia arquivada em 4 de setembro de 2014
+↑ MONTEIRO, Clóvis - Esboços de história literária - Livraria Acadêmica - 1961 - Rio de Janeiro - Pg. 99
+↑ a b Bahia!. «Música». Consultado em 1 de Setembro de 2014. Cópia arquivada em 5 de outubro de 2014
+↑ Fausto Junior (14 de dezembro de 2008). «Bahia Afro Film Festival - 16 a 21 de dezembro». Consultado em 8 de outubro de 2014
+↑ Caique Gonçalves (21 de agosto de 2008). «2º Encontro Baiano de Animação». Consultado em 1 de janeiro de 2009. Cópia arquivada em 18 de outubro de 2014
+↑ «Feira Mostra Filmes». Consultado em 8 de outubro de 2014
+↑ Fausto Junior (3 de novembro de 2008). «III Festival Brasilidades». Consultado em 8 de outubro de 2014
+↑ a b c «Festivais e Encontros de cinema e cineclubismo no Brasil 2005». Conselho Nacional de Cineclubes. Consultado em 24 de novembro de 2007. Cópia arquivada em 14 de dezembro de 2007
+↑ «Mostra Cinema Conquista 2007». Consultado em 8 de outubro de 2014
+↑ «Vale Curtas em Juazeiro em Petrolina». Consultado em 8 de outubro de 2014
+↑ «Novidades». Consultado em 24 de novembro de 2007. Cópia arquivada em 4 de fevereiro de 2007
+↑ «Quartas Baianas: programação de março». Consultado em 24 de novembro de 2007. Cópia arquivada em 6 de julho de 2011
+Outras referências[editar | editar código-fonte]
+«Bahia em Números 202». Salvador: Superintendência de Estudos Econômicos e Sociais da Bahia. Bahia em Números (em português e inglês). Volume 4. 2002. ISSN 1516-1730  !CS1 manut: Língua não reconhecida (link)
+Romo, Anadelia (2010). Brazils living museum : race, reform, and tradition in Bahia. Chapel Hill: University of North Carolina Press. ISBN 978-0-8078-3382-7. OCLC 658201543
+Dicionário de Autores Baianos. Salvador: SEC. 2006
+Guia Cultural da Bahia. 1 a 9. Salvador: Sec. de Cultura e Turismo. 1999
+«Anuário Estatístico da Bahia». Salvador: SEI. 2002. ISSN 0102-0676
+SOUZA, Antonio Loureiro de (1949). Baianos Ilustres. Salvador: [s.n.]
+Portal Educacional. «Verbete BAHIA (estado)». Enciclopédia Educacional. Consultado em 21 de abril de 2008
+FOLGUEIRA, Manoel Rodrigues (1930). Álbum Artístico, Commercial e Industrial do Estado da Bahia. Rio de Janeiro: Edição Folgueira
+MAGALHÃES, Juracy; GUEIROS, José Alberto (1996). O Último Tenente. São Paulo: Editora Record  A referência emprega parâmetros obsoletos |coautor= (ajuda)
+Quatro Séculos de História da Bahia. Revista Fiscal da Bahia. Salvador: [s.n.] 1949
+Ligações externas[editar | editar código-fonte]
+Outros projetos Wikimedia também contêm material sobre este tema:
+Definições no Wikcionário
+Livros e manuais no Wikilivros
+Categoria no Wikisource
+Imagens e media no Commons
+Categoria no Commons
+Categoria no Wikinotícias
+Guia turístico no Wikivoyage
+Commons
+Commons
+Wikilivros
+Wikinotícias
+Wikcionário
+Wikivoyage
+Página do Governo do Estado da Bahia
+Página da Assembleia Legislativa do Estado da Bahia
+Página do Tribunal de Justiça da Bahia
+Bahia nas estatísticas oficiais do IBGE
+Atlas digital da Bahia (PDF) com dados sobre municípios baianos, inclusive com mapas detalhados
+BahiavdeTópicos sobre a BahiaHistóriaConflitos
+Guerra dos Aimorés
+Levante dos Tupinambás
+Captura da Bahia
+Jornada dos Vassalos
+Motins do Maneta
+Conjuração Baiana
+Revolução Liberal de 1821
+Independência
+Mata-Maroto
+Federação do Guanais
+Sabinada
+Revolta dos Malês
+Motim da Carne sem Osso
+Guerra de Canudos
+Bombardeio de Salvador
+Pau de Colher
+Levante Sertanejo
+Entidadespolítico-territoriais
+Capitania da Baía de Todos os Santos
+Capitania de Ilhéus
+Capitania do Paraguaçu
+Capitania de Itaparica
+Capitania de Porto Seguro
+Província da Bahia
+Rio São Francisco
+Fatos e locais
+Coroa Vermelha
+Primeira missa no Brasil
+Arraial do Pereira
+Feitorias
+Entrada de Porto Seguro
+Centro Histórico de Salvador
+Caminho da Bahia
+Estrada do Ouro
+Naufrágios
+Histórias municipais
+Alagoinhas
+Salvador
+Santa Rita de Cássia
+Política
+História
+Executivo
+Defensoria pública
+Governadores
+Vice-governadores
+Judiciário
+Tribunal estadual
+Comarcas
+Legislativo
+Assembleia legislativa e deputado estaduais
+Corte de contas estaduais
+Corte de contas municipais
+Ministério Público
+Eleições
+Geografia
+Demografia
+Hidrografia
+Baías e enseadas
+Lagoas
+Rios
+Ilhas
+Interior e litoral
+Pontos extremos
+Praias
+Subdivisões
+Regiões geográficas intermediárias e imediatas
+Municípios
+Regiões hidrográficas
+Economia
+Associação de industriais
+Bolsa de mercadorias
+Banco de desenvolvimento
+Centros comerciais
+Junta comercial
+Televisão
+Turismo
+Infraestrutura
+Educação
+Instituições de ensino superior
+Bibliotecas
+Saúde
+Hospitais
+Transportes
+Aeroportos
+Hidrovia do São Francisco
+Terminais aquaviários
+Ferrovias
+Rodovias estaduais
+Cultura
+Carnaval
+Culinária
+Dialeto
+Esporte
+Futebol
+Música
+Religiões
+Símbolos
+Bandeira
+Brasão
+Hino
+Portal da Bahiavde Bahia Portal — Geografia, Política, Cultura, EsportesCapitalSalvadorDivisão regional vigente (desde 2017)Regiões geográficas intermediárias e imediatasDivisão regional extinta (vigente até 2017)Mesorregiões e microrregiõesRegiões Metropolitanas e RIDEsSalvador • Feira de Santana • Polo Petrolina JuazeiroMunicípios com mais de 100.000 habitantesSalvador • Feira de Santana • Vitória da Conquista • Camaçari • Itabuna • Juazeiro • Ilhéus • Lauro de Freitas • Barreiras • Jequié • Alagoinhas • Teixeira de Freitas • Porto Seguro • Simões Filho • Paulo Afonso • Eunápolis • Santo Antônio de JesusNordeste, Brasil vdePoder Executivo do Estado da Bahia Política da BahiaSecretarias
+Casa Civil (CCG)
+Casa Militar (CMG)
+Procuradoria Geral (PGE)
+Administração (SAEB)
+Administração Penitenciária e Ressocialização (SEAP)
+Agricultura, Pecuária, Irrigação, Pesca e Aquicultura (SEAGRI)
+Assuntos Internacionais e da Agenda Bahia (SERINTER)
+Assuntos Estratégicos (SEAE)
+Ciência, Tecnologia e Inovação (SECTI)
+Comunicação Social (SECOM)
+Cultura (SECULT)
+Desenvolvimento Econômico (SDE)
+Desenvolvimento Rural (SDR)
+Desenvolvimento Urbano (SEDUR)
+Direitos Humanos e Desenvolvimento Social (SDHDS)
+Educação (SEC)
+Extraordinária da Indústria Naval e Portuária (SEINP)
+Fazenda (SEFAZ)
+Infraestrutura (SEINFRA)
+Infraestrutura Hídrica e Saneamento (SIHS)
+Meio Ambiente (SEMA)
+Planejamento (SEPLAN)
+Políticas para as Mulheres (SPM)
+Promoção da Igualdade Racial (SEPROMI)
+Relações Institucionais (SERIN)
+Saúde (SESAB)
+Segurança Pública (SSP)
+Trabalho, Emprego, Renda e Esporte (SETRE)
+Turismo (SETUR)
+Autarquias
+Defesa Agropecuária (ADAB)
+Regulação de Serviços Públicos de Energia, Transportes e Comunicações (AGERBA)
+Regulação de Saneamento Básico (AGERSA)
+Culturas Populares e Identitárias (CCPI)
+Industrial do Subaé (CIS)
+Defesa Civil (CORDEC)
+Desenvolvimento Agrário (CDA)
+Polícia Técnica (DPT)
+Trânsito (DETRAN-BA)
+Anísio Teixeira (IAT)
+Metrologia e Qualidade (IBAMETRO)
+Meio Ambiente e Recursos Hídricos (INEMA)
+Patrimônio Artístico e Cultural (IPAC)
+Junta Comercial (JUCEB)
+Polícia Civil (PCBA)
+Polícia Militar (PMBA)
+Atendimento ao Cidadão (SAC)
+Construções Administrativas (SUCAB)
+Desenvolvimento Industrial e Comercial (SUDIC)
+Estudos Econômicos e Sociais (SEI)
+Desportos (SUDESB)
+Universidade de Feira de Santana (UEFS)
+Universidade de Santa Cruz (UESC)
+Universidade do Estado (UNEB)
+Universidade do Sudoeste (UESB)
+Empresas
+Agência de Fomento (DESENBAHIA)
+Águas e Saneamento (EMBASA)
+Alimentos (EBAL)
+Ativos (BAHIAINVESTE)
+Desenvolvimento e Ação Regional (CAR)
+Desenvolvimento Urbano (CONDER)
+Engenharia Hídrica e Saneamento (CERB)
+Gás (BAHIAGÁS)
+Gráfica (EGBA)
+Pesca (BAHIAPESCA)
+Pesquisa Mineral (CBPM)
+Processamento de Dados (PRODEB)
+Transportes (CTB)
+Fundações
+Amparo à Pesquisa (FAPESB)
+Criança e Adolescente (FUNDAC)
+Cultural (FUNCEB)
+Hematologia e Hemoterapia (HEMOBA)
+Radiodifusão Educativa (IRDEB)
+Pedro Calmon (FPC)
+Pesquisa Científica e Desenvolvimento Tecnológico, Fornecimento e Distribuição de Medicamentos (BAHIAFARMA)
+Órgãos de administração direta
+Superintendência de Infraestrutura de Transportes (SIT)
+Superintendência de Fomento ao Turismo (BAHIATURSA)
+Órgãos extintos ou privatizados
+Banco (BANEB)
+Energia Elétrica (COELBA)
+Portal da Bahia — Categoriavde Regiões e unidades federativas do Brasil
+Subdivisões do Brasil
+Unidades da FederaçãoRegião Norte
+Acre
+Amapá
+Amazonas
+Pará
+Rondônia
+Roraima
+Tocantins
+Região Nordeste
+Alagoas
+Bahia
+Ceará
+Maranhão
+Paraíba
+Pernambuco
+Piauí
+Rio Grande do Norte
+Sergipe
+Região Centro-Oeste
+Distrito Federal
+Goiás
+Mato Grosso
+Mato Grosso do Sul
+Região Sudeste
+Espírito Santo
+Minas Gerais
+Rio de Janeiro
+São Paulo
+Região Sul
+Paraná
+Rio Grande do Sul
+Santa Catarina
+Arquipélagos
+Anavilhanas
+Fernando de Noronha
+Atol das Rocas
+Arquipélago de São Pedro e São Paulo
+Trindade e
+Martim Vaz
+Geoeconômicas
+Amazônica
+Centro-Sul
+Nordeste
+Propostas de criação de unidades federativas do Brasil
+vdeRegião Nordeste do BrasilEstados
+Alagoas
+Bahia
+Ceará
+Maranhão
+Paraíba
+Pernambuco
+Piauí
+Rio Grande do Norte
+Sergipe
+História
+Invasões holandesas
+Guerra dos Bárbaros
+Guerra Luso-Holandesa
+Insurreição do Crato
+Confederação do Equador
+Sedição de Juazeiro
+Imigração italiana
+Litígio de limites entre Ceará e Piauí
+Geografia
+Municípios por área
+Seca
+Hidrovia do São Francisco
+Bacia do rio São Francisco
+Sub-regiões
+Agreste
+Meio-Norte
+Sertão
+Zona da Mata
+Outras áreas específicas
+Nordeste Oriental
+Polígono das secas
+Seridó
+Vale do São Francisco
+Economia
+Aeroportos
+Municípios mais ricos
+Infraestrutura
+Região geoeconômica
+Turismo
+Outros tópicos
+Cultura
+ALANE
+Esportes
+Futebol
+Demografia
+Povos indígenas
+Migração
+Retirante
+Municípios mais populosos
+Problemas sociais
+Política
+Fórum dos Governadores
+Consórcio Nordeste
+Portal do Brasil
+Portal da região Nordeste do Brasil
+Portal da Bahia
+Controle de autoridade
+: Q40430
+WorldCat
+VIAF: 126675199
+BNF: 11943121n
+EBID: ID
+FAST: 1330951
+GEC: 0006737
+GND: 4004254-6
+ISNI: ID
+LCCN: n81018677
+NARA: 10036711
+NKC: ge192239
+Google Maps: 9120474652220714245
+OSM: 362413
+MusicBrainz: ID
+GeoNames: 3471168
+TGN: 1001834
+Obtida de https://pt.wikipedia.org/w/index.php?title=Bahia&oldid=62259290
+Categorias: BahiaFundações no Brasil em 1823Categorias ocultas: !Artigos com ligações externas inativas!Artigos com citações quebradas!CS1 espanhol-fontes em língua (es)!Páginas com referências sem URL e com acessodata!Artigos com ligações inativas!Artigos que carecem de notas de rodapé desde setembro de 2014!Artigos do Brasil que carecem de notas de rodapé!Páginas que utilizam Nobold com segundo parâmetro sem nome!CS1 manut: Língua não reconhecida!Páginas que usam referências com parâmetros obsoletas
+Esta página foi editada pela última vez às 00h25min de 18 de outubro de 2021.
+Este texto é disponibilizado nos termos da licença Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as condições de utilização.
+Política de privacidade
+Sobre a Wikipédia
+Avisos gerais
+Versão móvel
+Programadores
+Estatísticas
+Declaração sobre cookies');
+Document.create!(url: 'https://pt.wikipedia.org/wiki/Amazonas', title: 'Amazonas – Wikipédia, a enciclopédia livre', body: 'Amazonas – Wikipédia, a enciclopédia livre
+Saltar para o conteúdo
+Alternar barra lateral
+Busca
+Links do usuário
+Criar uma conta
+Ferramentas pessoais
+expanded
+collapsed
+Criar uma conta
+Entrar
+Páginas para editores conectados saiba mais
+DiscussãoContribuições
+Navegação
+Página principalConteúdo destacadoEventos atuaisEsplanadaPágina aleatóriaPortaisInformar um erro
+Colaboração
+Boas-vindasAjudaPágina de testesPortal comunitárioMudanças recentesManutençãoCriar páginaPáginas novasContatoDonativos
+Ferramentas
+Páginas afluentesAlterações relacionadasCarregar ficheiroPáginas especiaisHiperligação permanenteInformações da páginaCitar esta páginaElemento Wikidata
+Imprimir/exportar
+Criar um livroDescarregar como PDFVersão para impressão
+Noutros projetos
+Wikimedia CommonsWikinotíciasWikivoyage
+Espaços nominais
+ArtigoDiscussão
+Variantes
+expanded
+collapsed
+Vistas
+LerEditarEditar código-fonteVer histórico
+Mais
+expanded
+collapsed
+95 idiomas
+expanded
+collapsed
+AfrikaansÆngliscالعربيةمصرىAsturianuAymar aruAzərbaycancaБеларускаяБеларуская (тарашкевіца)Българскиবিষ্ণুপ্রিয়া মণিপুরীBrezhonegBosanskiCatalàCebuanoQırımtatarcaČeštinaCymraegDanskDeutschΕλληνικάEmiliàn e rumagnòlEnglishEsperantoEspañolEestiEuskaraفارسیSuomiFrançaisNordfriiskGaeilgeGalegoAvañeẽעבריתहिन्दीHrvatskiMagyarՀայերենInterlinguaBahasa IndonesiaIdoÍslenskaItaliano日本語ქართული한국어KernowekLatinaLadinoLimburgsLombardLietuviųLatviešuMalagasyМакедонскиमराठीBahasa MelayuNederlandsNorsk nynorskNorsk bokmålOccitanИронPolskiPiemontèisپنجابیRuna SimiRomânăРусскийScotsSrpskohrvatski / српскохрватскиSimple EnglishSlovenčinaShqipСрпски / srpskiSvenskaKiswahiliதமிழ்TetunТоҷикӣไทยTürkçeТатарча/tatarçaУкраїнськаاردوOʻzbekcha/ўзбекчаVènetoTiếng ViệtVolapükWinaray吴语Yorùbá中文Bân-lâm-gú粵語
+Editar hiperligações
+Amazonas
+Origem: Wikipédia, a enciclopédia livre.
+Coordenadas: 4.13° S 64.54° O
+Nota: Não confundir com Amazônia, a floresta. Para outros significados, veja Amazonas (desambiguação).
+Estado do Amazonas
+Bandeira
+Brasão
+Hino: Hino do estado do Amazonas
+Gentílico: amazonense
+Localização
+- Região
+Norte
+- Estados limítrofes
+Roraima (N); Pará (E); Mato Grosso (SE) e Rondônia (S); Acre (SO); e ainda a Venezuela (N), Colômbia (NO) e Peru (O)
+- Regiões geográficas   intermediárias
+4
+- Regiões geográficas   imediatas
+11
+- Municípios
+62
+Capital
+Manaus
+Governo
+- Governador(a)
+Wilson Lima (PSC)
+- Vice-governador(a)
+Carlos Almeida (PSDB)
+- Deputados federais
+8
+- Deputados estaduais
+24
+- Senadores
+Eduardo Braga (MDB)Omar Aziz (PSD)Plínio Valério (PSDB)
+Área
+- Total
+1 559 167,878 km² (1º) [1]
+População
+2021
+- Estimativa
+4 269 995 hab. (13º)[2]
+- Densidade
+2,74 hab./km² (26º)
+Economia
+2018[3]
+- PIB
+R$ 100,1 bilhões (16º)
+- PIB per capita
+R$ 24 532,90 (13º)
+Indicadores
+2010/2015[4][5]
+- Esperança de vida (2017)
+72,1 anos (23º)
+- Mortalidade infantil (2015)
+18,8‰ nasc. (6º)
+- Alfabetização (2016)
+93,1% (15º)
+- IDH (2017)
+0,733 (16º) – alto [6]
+Fuso horário
+UTC−04:00, UTC−5
+Clima
+Equatorial e tropical de monção Am, Af
+Cód. ISO 3166-2
+BR-AM
+Site governamental
+http://www.amazonas.am.gov.br/
+Amazonas é uma das 27 unidades federativas do Brasil. Está situado na Região Norte, sendo o maior estado do país em extensão territorial, com uma área de 1 559 167,878 km²,[2] constituindo-se na nona maior subdivisão mundial, sendo maior que as áreas da França, Espanha, Suécia e Grécia somadas.[7] Seria o décimo sexto maior país do mundo em área territorial, pouco superior à Mongólia. É maior que as regiões Sul e Sudeste juntas, e equivale a 2,25 vezes a área do estado norte-americano do Texas. A área média de seus 62 municípios é de 25 335 km², superior à área do estado brasileiro de Sergipe. O maior de seus municípios em extensão territorial é Barcelos, com 122 476 km² e o menor é Iranduba, com 2 215 km². Localiza-se no território amazonense o Pico da Neblina, ponto mais alto do Brasil, com 2 995 metros de altitude. Sua capital é o município de Manaus e seu atual governador é Wilson Lima.
+Com mais de 4,2 milhões de habitantes ou cerca de 2% da população brasileira, é o segundo estado mais populoso da Região Norte e o décimo terceiro mais populoso do Brasil.[8] As cidades mais populosas são: Manaus, com 2,2 milhões de habitantes em 2021,[9] Parintins, com 116 439,[10] Itacoatiara com 104 046,[11] Manacapuru com 99 613[12] e Coari com 86 713 habitantes.[13] O estado é ainda, subdividido em 4 regiões geográficas intermediárias e 11 regiões geográficas imediatas. Seus limites são com o estado do Pará ao leste; Mato Grosso ao sudeste; Rondônia e Acre ao sul e sudoeste; Roraima ao norte; além da Venezuela, Colômbia e Peru ao norte, noroeste e oeste, respectivamente.[14] A Região Metropolitana de Manaus, com população superior aos 2,7 milhões de habitantes, é sua única região metropolitana.[15] O estado possui um dos mais baixos índices de densidade demográfica no país, superior apenas ao do estado vizinho, Roraima. Conforme dados do Instituto Brasileiro de Geografia e Estatística, em 2019 a densidade demográfica equivale a 2,63 habitantes por quilômetro quadrado.[7][16] O Amazonas possui o quarto maior Índice de Desenvolvimento Humano (IDH) e o 3.º maior PIB per capita entre todos os estados da região Norte do Brasil.
+O descobrimento da região hoje formada pelos estados do Amazonas e Pará foi de responsabilidade do espanhol Francisco de Orelhana. A viagem foi descrita apontando as belezas e possíveis riquezas do local, com os fatos e atos mais prováveis de chamar a atenção da coroa espanhola. Durante essa expedição (ocorrida à época 1541-1542), os espanhóis teriam encontrado as mulheres amazonas guerreiras, sobre as quais há muita fantasia, mitos e folclores. Em 1850, no dia 5 de setembro, foi criada a Província do Amazonas, desmembrada da Província do Grão-Pará. Os motivos que levaram à criação da Província do Amazonas foram muitos, em especial, a grandíssima área territorial administrada pelo Grão-Pará, com capital em Belém, e as tentativas fracassadas do Peru em ampliar suas fronteiras com o Brasil, com o apoio dos Estados Unidos.[17][18]
+O território do Amazonas é coberto em sua totalidade pela maior floresta tropical do mundo e conta com 98% de sua área preservada.[19] Aliando seu potencial ecológico a uma política de negócios embasada na sustentabilidade, a capital amazonense tornou-se a sexta maior economia do Brasil em 2018.[20] O Amazonas é o terceiro maior produtor de gás no país, por meio das operações da Petrobras no campo de Urucu, em Coari, conectado a Manaus por um gasoduto de 660 quilômetros cortando rios e floresta.[21] A hidrografia do estado, entretanto, sofre grande influência de vários fatores como precipitação, vegetação e altitude. Em geral, os rios amazonenses são navegáveis e formam sua maior rede de transporte.[7]
+Índice
+1 Etimologia
+2 História
+2.1 Período pré-cabralino
+2.2 Colonização europeia
+2.3 Presença dos missionários
+2.4 Desmembramento do Grão-Pará e elevação à categoria de província
+2.5 Ciclo da borracha
+2.6 Industrialização e metropolização
+3 Geografia
+3.1 Clima
+3.2 Hidrografia
+3.3 Vegetação
+3.4 Unidades de conservação
+4 Demografia
+4.1 Etnias
+4.2 Segurança pública e criminalidade
+4.3 Religião
+4.4 Urbanização
+5 Política
+6 Subdivisões
+7 Economia
+7.1 Setor primário
+7.2 Setor secundário
+7.3 Setor terciário
+8 Infraestrutura
+8.1 Saúde
+8.2 Educação
+8.3 Transportes
+8.4 Serviços e comunicações
+9 Cultura
+9.1 Espaços teatrais
+9.2 Festivais
+9.3 Turismo e artesanato
+9.4 Culinária e frutos
+9.5 Esportes
+9.6 Feriados
+10 Notas
+11 Referências
+11.1 Bibliografia
+12 Ligações externas
+Etimologia[editar | editar código-fonte]
+O nome Amazonas foi originalmente dado ao rio que banha o estado pelo capitão espanhol, Francisco de Orellana, quando o mesmo desceu em todo o seu comprimento, em 1541. Afirmando ter encontrado uma tribo de índias guerreiras,[22] com a qual teria lutado e associando-as às amazonas da mitologia grega, deu-lhes o nome, Río de las Amazonas.[23][24][25][26]
+História[editar | editar código-fonte]
+Ver artigo principal: História do Amazonas
+Ver também: Lista de municípios do Amazonas por data de fundação
+Período pré-cabralino[editar | editar código-fonte]
+Ver também: História pré-cabralina do Brasil e Povos indígenas do Brasil
+A conquista do Amazonas, 1907
+Pesquisas arqueológicas apontam ocupações pretéritas por grupos paleoindígenas de caçadores, coletores, onde foram datadas acerca de 11 200 anos antes da data presente. O período de maior desenvolvimento humano nas terras baixas Amazônicas é conhecido como pré-colombiano tardio, que coincide com a invasão europeia, nos séculos XVI e XVII, e a desestruturação sociopolítica de sociedades complexas, chamados de cacicados complexos. O aumento demográfico das populações amazônicas na época da pré-história tardia, combinado a outros fatores, suscitou grandes transformações entre as sociedades indígenas da Amazônia.[27] Segundo arqueólogos, as sociedades que habitavam regiões da bacia amazônica passaram a se organizar de forma cada vez mais elaborada entre o ano 1 000 a.C. e o ano 1000 d.C.. Os arqueólogos definem estas sociedades como “cacicados complexos”.[28] Essas sociedades tornaram-se cada vez mais hierarquizadas (provavelmente contendo nobres, plebeus e servos cativos), constituíram chefias centralizadas na figura do cacique, e adotaram posturas belicosas e expansionistas. O cacique, além de dominar amplos territórios, organizava continuamente seus guerreiros visando conquistar novos territórios. A cerâmica dessas sociedades era altamente elaborada, demonstrando um domínio de técnicas complexas de produção. Havia urnas funerárias elaboradas (associadas ao culto dos chefes mortos), comércio e os indícios arqueológicos apontam uma densidade demográfica de escala urbana nessas civilizações.[29]
+Acredita-se que a monocultura era praticada, além da caça e da pesca intensivas, a produção intensiva de raízes e o armazenamento de alimentos.[30]
+O Amazonas era (e ainda é) habitado por povos de diferentes família linguísticas, como os povos Panos, povos Aruaques, povos Tucanos, povos Caribes, povos Tupi-guaranis e outros grupos étnicos menores. A Amazônia serviu como moradia e sustentação destas sociedades por cerca de 2000 anos, tendo havido retrocesso com a chegada dos europeus. A população originária dos cacicados aos poucos foi sendo exterminada, com numerosas guerras e conflitos travados com os portugueses e espanhóis.[28] Muitos habitantes destas sociedades internaram-se nas florestas, onde teriam formado sociedades tribais diferentes. Outros acabam morrendo, vítimas de doenças contagiosas até então desconhecidas, fazendo suas populações desaparecerem por completo das margens dos rios. Os habitantes nativos pacificados, eram escravizados. As sociedades indígenas atuais da Amazônia não possuem, entretanto, traços que lembrem as sociedades complexas oriundas do período da Pré-história Tardia, com exceção apenas de alguns vestígios materiais.[28]
+Colonização europeia[editar | editar código-fonte]
+Pelo Tratado de Tordesilhas (1494), todo o vale amazônico se encontrava nos domínios da Coroa espanhola.[31] A foz do rio Amazonas só foi descoberta por Vicente Yáñez Pinzón, um navegador espanhol que a alcançou em fevereiro de 1500, seguido por seu primo Diego de Lepe, em abril do mesmo ano.[32] Em 1541, outros espanhóis, Gonzalo Pizarro e Francisco de Orellana, partindo de Quito, no atual Equador, atravessaram a cordilheira dos Andes e exploraram o curso do rio até ao Oceano Atlântico. A viagem, que durou de 1540 a 1542, foi relatada pelo dominicano frei Gaspar de Carvajal, que afirmou que os espanhóis lutaram com mulheres guerreiras, nas margens do rio Marañón, disparavam-lhes flechas e dardos de zarabatanas.[33][34] O mito de mulheres guerreiras às margens do rio difundiu-se nos relatos e livros, sem escopo popular algum,[35] mesmo assim fazendo com que aquelas regiões viessem a receber o nome das guerreiras da mitologia grega, as amazonas - entre eles o maior rio da região, que passou a ser conhecido como rio das Amazonas.[36]
+Ainda no século XVI, os espanhóis realizaram outra expedição similar à de Orellana. Pedro de Ursua, vindo do Peru, também navegou o Amazonas, em busca do lendário Eldorado (1559-1561). Ursua foi assassinado a meio caminho, e a expedição prosseguiu comandada por Lopo de Aguirre, que chegou ao oceano em 1561. Como resultado dessa jornada os espanhóis decidiram, cientes das dificuldades de conquistar tão vasto espaço, adiar a tarefa de colonizá-lo.[34][37]
+Quase de imediato os ingleses e os holandeses, que disputavam o domínio da América aos ibéricos, entregaram-se à exploração do Amazonas, lançando aí as primeiras bases de implantações coloniais, através do levantamento de feitorias e pequenos fortes, em 1596, chamadas de drogas do sertão. Ainda assim, a região não possuía uma ocupação efetiva. Até o segundo decênio do século XVII, quando os portugueses começaram a ultrapassar a divisória de Tordesilhas, as companhias de Londres e Flessingen promoviam um ativo comércio de madeiras e pescado, iniciando mesmo plantios de cana, algodão e tabaco. Os próprios governos passaram a estimular abertamente a empresa. Robert Harcourt obteve carta-patente de Jaime I da Inglaterra para explorar o território do Amazonas com seus sócios (1612). Somente durante a Dinastia Filipina (1580-1640) a Coroa hispano-portuguesa se interessou pela região, com a fundação de Santa Maria das Graças de Belém do Grão-Pará (atual Belém em 1616), sendo dignas de registro a expedição do Capitão-mor da Capitania do Grão-Pará e Cabo, Pedro Teixeira, que percorreu o grande rio do Oceano Atlântico até Quito, com setenta soldados e 1 200 indígenas, em quarenta e sete canoas grandes (1637-1639),[38] e logo em seguida a de Antônio Raposo Tavares, cuja bandeira, saindo da capitania de São Vicente, atingiu os Andes, retornando pelo rio Amazonas até Belém, percorrendo um total de cerca de 12 000 quilômetros, entre 1648 e 1651.[37][39]
+centro
+Presença dos missionários[editar | editar código-fonte]
+Busto de Francisco de Orellana, o descobridor europeu do Rio Amazonas
+Na virada do século XVII, balizava-se na Amazônia o domínio português, devido ao posto avançado de Franciscana, a oeste, e por fortificações em Guaporé, ao norte da região. Os franceses, instalados em Caiena, tinham como objetivo descer o litoral para alcançar o Amazonas, instigando surtidas constantes de sacerdotes, pescadores e predadores de índios. Assim, as expedições lusas de reconhecimento enfrentavam grandes dificuldades na atual região do Amazonas: no rio Negro, os manaós, tidos como índios valentes e resistentes, coligaram-se com tribos vizinhas, e os torás, na bacia do Madeira, entregavam-se a guerra de morte contra sertanistas e coletores de especiarias. Na zona do rio Solimões, a penetração portuguesa acabou por se defrontar com missões castelhanas, dirigidas pelo jesuíta Samuel Fritz. Por ordens vindas de Lisboa, as forças militares invadiram o território das missões espanholas, expulsando os padres e soldados que as amparavam. Como efeito, entre 1691 e 1697, Inácio Correia de Oliveira, Antônio de Miranda e José Antunes da Fonseca apossaram-se do Solimões, enquanto Francisco de Melo Palheta garantia o domínio lusitano no alto Madeira e Belchior Mendes de Morais invadia a bacia do Napo. O imenso espaço conquistado tornou-se produtivo. A coroa portuguesa, necessitando assim consolidar sua posição, solicitou o trabalho missionário na área.[37]
+Com o objetivo de catequizar os indígenas, vários leigos e religiosos jesuítas espanhóis fundaram várias missões no território amazonense. Essas missões, cuja economia tinha como atividade a dependência do extrativismo e da silvicultura, foram os locais de origem dos primeiros mestiços da região. Sofreram posteriormente seguidas invasões de outros indígenas inconformados com a invasão ao seu território e de conquistadores brancos. Brancos, acompanhados por nativos, aprisionavam índios rivais para vendê-los como escravos. A destruição das missões espalhou o desmatamento pelo território.[40][41]
+Mapa de 1562 da região do Rio Amazonas
+Foram os carmelitas, juntamente com os inacianos e mercedários, que mais aprofundaram a colonização nos antigos domínios espanhóis, ocupando a área atual do estado do Amazonas. Espalhava-se as missões jesuíticas pelo vale contíguo do Tapajós e, mais a oeste, pelo Madeira, enquanto os mercedários se estabeleceram próximo à divisa com o Pará, nos cursos do Urubu e do Uatumã. Os carmelitas disseminaram seus aldeamentos ao longo do Solimões, do Negro e, ao norte, do Branco, no atual estado de Roraima.[37] Objetivando converter os gentios à fé católica e de ampliar o comércio de especiarias, os religiosos transferiam suas missões de um ponto a outro com freqüência, seguindo sempre a margem dos rios. Da multiplicidade desses aldeamentos, surgiram dezenas de povoados, a exemplo de Cametá, no deságue do Tocantins; Airão (hoje Velho Airão, uma cidade fantasma); Carvoeiro, Moura e Barcelos, no rio Negro; Santarém, na foz do Tapajós; Faro, no rio Nhamundã; Borba, no rio Madeira; Tefé, São Paulo de Olivença e Coari, no Solimões; e em continuação, no curso do Amazonas, Itacoatiara e Silves.[37] A partir do século XVIII, o Amazonas passou a ser disputado por portugueses e espanhóis que habitavam a bacia do rio Amazonas. Essa luta desencadeou a disputa pela posse da terra, o que motivou a formação de grandes latifúndios.
+A região do alto rio Amazonas foi considerada estratégica tanto para a diplomacia espanhola - por representar via de acesso ao Vice-reino do Peru -, quanto para a diplomacia portuguesa, especialmente a partir da descoberta de ouro nos sertões de Mato Grosso e de Goiás, escoado com rapidez pela bacia do rio Amazonas. É nesse contexto que se inserem as instruções secretas passadas por Sua Majestade ao Governador e Capitão General da Capitania do Grão-Pará, João Pereira Caldas, para que fossem fundadas sete feitorias pelo curso dos rios amazônicos, de Belém até Vila Bela do Mato Grosso e à capital da Capitania do rio Negro, para apoiar o comércio (contrabando), com as províncias espanholas do Orinoco (Venezuela), de Quito (Equador), e do Peru, comércio esse que antes se fazia com a Colônia do Sacramento (Instrução Secretíssima, c. 1773. Museu Conde de Linhares, Rio de Janeiro). A assinatura do Tratado de Madrid (1750) ratificou essa visão, tendo a Coroa portuguesa feito valer também na região o princípio do uti possidetis, apoiado por uma linha de posições defensivas que, mesmo virtualmente abandonadas após o Consulado Pombalino (1750-1777) e durante o século XIX, legariam à diplomacia da nascente República brasileira os seus atuais contornos fronteiriços.[42]
+Barcelos, primeira sede administrativa da Capitania de São José do Rio Negro
+Dentro do projeto de ocupação do sertão amazônico, constituiu-se a Capitania Real de São José do Rio Negro pela Carta régia de 3 de março de 1755, com sede na aldeia de Mariuá, elevada a vila de Barcelos em 1790. No início do século XIX, a sede do governo da Capitania foi transferida para a povoação da barra do Rio Negro, elevada a Vila da Barra do Rio Negro para esse fim, em 29 de março de 1808.[43] À época da Independência do Brasil em 1822, os moradores da vila proclamaram-se independentes, estabelecendo um Governo Provisório. A região foi incorporada ao Império do Brasil, na Província do Pará, como Comarca do Alto Amazonas em 1824.[44]
+Ganhou a condição de Província do Amazonas pela Lei n° 582, de 5 de setembro de 1850, sendo a Vila da Barra do Rio Negro elevada a cidade com o nome de Manaus pela Lei Provincial de 24 de outubro de 1848 e capital em 5 de janeiro de 1851.[44] A partir do século XIX, o território começou a receber migrantes nordestinos que buscavam melhores condições de vida na maior província brasileira. Atraídos pelo ciclo da borracha, os nordestinos se instalaram em importantes cidades amazonenses, como Manaus, Tabatinga, Parintins, Itacoatiara e Barcelos, a primeira capital do Amazonas.[44]
+Desmembramento do Grão-Pará e elevação à categoria de província[editar | editar código-fonte]
+Províncias imperiais do Brasil em 1822
+O que hoje é reconhecido como Amazônia, nos primeiros anos do século XVII era denominado Estado do Maranhão e a única cidade existente era a de São Luís, que concentrava todo o poder do Estado. As regiões central e oeste foram ocupadas apenas por ordens religiosas que subdividiram em áreas de missões e aldeamentos de atuação de Jesuítas, Carmelitas, Dominicanos e Franciscanos, o que variou ao longo do tempo, particularmente, desde o fim da Companhia de Jesus, em meados do século XVIII. Ao tempo em que as Ordens Religiosas dominavam o interior do vale Amazônico, o Governo do Estado do Maranhão promovia a distribuição de terras para particulares fundarem suas capitanias. Nesse contexto, capitanias de duas naturezas diferentes foram fundadas: As Capitanias da Coroa ou Reais, e as Capitanias Particulares.[45]
+O Estado do Maranhão virou Grão-Pará e Maranhão em 1737 e sua sede foi transferida de São Luís para Belém do Pará. O Tratado de Madri de 1750 confirmou a posse portuguesa sobre a área. Para estudar e demarcar os limites, o governador do Estado, Francisco Xavier de Mendonça Furtado, instituiu uma comissão com base em Mariuá em 1754. Em 1755 foi criada a Capitania de São José do Rio Negro, no atual Amazonas, subordinada ao Grão-Pará. As fronteiras, então, eram bem diferentes das linhas retas atuais: o Amazonas incluía Roraima, parte do Acre e se expandia para sul com parte do que hoje é Mato Grosso. O governo colonial concedeu privilégios e liberdades para quem se dispusesse a emigrar para a região, como isenção de impostos por 16 anos seguidos. No mesmo ano, foi criada a Companhia Geral do Comércio do Grão-Pará e Maranhão para estimular a economia local. Em 1757 tomou posse o primeiro governador da capitania, Joaquim de Melo e Póvoas, e recebeu do Marquês de Pombal a determinação de expulsar à força todos os jesuítas (acusados de voltar os índios contra a metrópole e não lhes ensinar a língua portuguesa).[45]
+Prospecto da Fortaleza do Rio Negro, desenhado pelo engenheiro alemão João André Schwebel, em 7 de dezembro de 1754, quando Francisco Xavier de Mendonça Furtado e sua comitiva passavam pelo Lugar da Barra, rumo à Mariuá, para instalar as conferências de demarcações de limites do Tratado de Madri.[46]
+Em 1772, a capitania passou a se chamar Grão-Pará e Rio Negro e o Maranhão foi desmembrado. Com a mudança da Família Real para o Brasil, foi permitida a instalação de manufaturas e o Amazonas começou a produzir algodão, cordoalhas, manteiga de tartaruga, cerâmica e velas. Os governadores que mais trabalharam pelo desenvolvimento até então foram Manuel da Gama Lobo dAlmada e João Pereira Caldas. Em 1821, Grão Pará e Rio Negro viraram a província unificada do Grão-Pará. No ano seguinte, o Brasil proclamou a Independência.[45]
+Em meados do século XIX foram fundados os primeiros núcleos que deram origem às atuais cidades de Borba, Itacoatiara, Parintins, Manacapuru e Careiro. A capital foi situada em Mariuá (entre 1755-1791 e 1799-1808), e em São José da Barra do Rio Negro (1791-1799 e 1808-1821). Uma revolta em 1832 exigiu a autonomia do Amazonas como província separada do Pará. A rebelião foi sufocada, mas os amazonenses conseguiram enviar um representante à Corte Imperial, Frei José dos Santos Inocentes, que obteve no máximo a criação da Comarca do Alto Amazonas.
+Na década seguinte, uma das maiores revoltas do Período Regencial abalou a região. A Cabanagem foi um movimento político e um conflito social ocorrido entre 1835 e 1840 no Pará, envolvendo homens livres e pobres, sobretudo indígenas e mestiços que se insurgiram contra a elite política local e tomaram o poder. A entrada da Comarca do Alto Amazonas (hoje Manaus, a qual foi o berço do manifesto na Amazônia Ocidental) na Cabanagem foi fundamental para o nascimento do atual estado do Amazonas.[47] Durante o período da revolução, os cabanos da Comarca do Alto Amazonas desbravaram todo o espaço do estado onde houvesse um povoado, para assim conseguir um número maior de adeptos ao movimento, ocorrendo com isso uma integração das populações circunvizinhas e formando assim o estado.[48]
+Em 5 de setembro de 1850, foi criada a Província do Amazonas pela Lei Imperial nº 582[49].[50] (ver Gabinete Monte Alegre) Em 10 de julho de 1884, o Amazonas tornou-se a segunda província no império brasileiro a abolir a escravatura, após a Província do Ceará, e quatro anos antes do país conceder liberdade aos escravos, com a assinatura da Lei Áurea pela Princesa Isabel do Brasil.[51][52][53] A lei foi assinada pelo presidente da província, Teodureto Souto. Na ocasião, cerca de 1,5 mil escravos foram libertados na província.[51]
+Ciclo da borracha[editar | editar código-fonte]
+Ver artigo principal: Ciclo da borracha
+O Teatro Amazonas representa o apogeu do ciclo da borracha, bem como a elite amazonense da época
+A partir de 1890, Manaus, que já se ostentava como capital do estado administrativo, experimentou um grandíssimo avanço populacional e econômico, resultante principalmente da exportação de matéria prima oriunda e até então, exclusiva da Amazônia. Com as riquezas geradas pela produção e exportação da borracha natural (Hevea brasiliensis), a capital amazonense recebeu grandes obras como o Porto de Manaus, o Teatro Amazonas, o Palácio da Justiça, o Reservatório do Mocó, a primeira rede de energia elétrica e os serviços de transporte coletivo em bondes.[54]
+Tida como uma referência, Manaus tornou-se símbolo de prosperidade e civilização, sendo palco de importantes acontecimentos artísticos e culturais. Floresceu então, o comércio de produtos luxuosos e supérfluos, com homens e mulheres de todo o mundo desfilando por suas ruas e avenidas, na sede da compra do Ouro Negro, como era chamada a borracha natural, para revender com grandes lucros nas principais capitais da Europa e nos Estados Unidos. A partir de 1910, tempos difíceis iniciam-se para a cidade, devido à forte concorrência da borracha natural plantada nos seringais da Malásia, que chega aos mercados europeu e americano com vantagens superiores, o que acaba por decretar a falência da economia amazonense.[54]
+Praça 15 de Novembro, Manaus, 1906; Arquivo Nacional
+Industrialização e metropolização[editar | editar código-fonte]
+A Zona Franca de Manaus[55] foi um projeto de desenvolvimento sócio-econômico implantado através da lei nº 3 173 de 6 de junho de 1957, que reformulava, ampliava e estabelecia incentivos fiscais para implantação de um polo industrial, comercial e agropecuário numa área física de 10 mil km², tendo como sede a cidade de Manaus. Apesar da aprovação em 1957, tal projeto só foi de fato, implantado, pelo Decreto-Lei Nº 288, de 28 de fevereiro de 1967, durante o regime militar brasileiro.[54] A princípio, os benefícios desse projeto se estendiam à Amazônia Ocidental, formada pelos estados do Amazonas, Acre, Rondônia e Roraima. Em 20 de agosto de 2008, foi criada a Área de Livre Comércio de Macapá, que foi incluída no Conselho da Superintendência da Zona Franca de Manaus (Suframa) e assim, o Amapá recebeu o mesmo benefício destinado aos estados.[56] A criação da Zona Franca de Manaus visava promover a ocupação populacional dessa região e elevar o nível de segurança para manutenção da sua integridade, além de refrear o desmatamento na região e garantir a preservação e sustentabilidade da biodiversidade presente.[57]
+Mapa do Estado do Amazonas, 1966. Arquivo Nacional
+Em mais de cinco décadas de existência, a história do modelo da Zona Franca de Manaus é dividida em quatro fases: A primeira, de 1967 a 1975, caracterizava a política industrial de referência no país pelo estímulo à substituição de importações de bens finais e formação de mercado interno; a segunda, de 1975 a 1990, caracterizou-se pela adoção de medidas que fomentassem a indústria nacional de insumos, sobretudo no estado de São Paulo; a terceira, de 1991 e 1996, entrou em vigor a Nova Política Industrial e de Comércio Exterior, marcada pela abertura da economia brasileira, redução do Imposto de Importação para o restante do país e ênfase na qualidade e produtividade, com a implantação do Programa Brasileiro de Qualidade e Produtividade (PBPQ) e Programa de Competitividade Industrial; e a quarta e última, de 1996 a 2002, marca sua adaptação aos cenários de uma economia globalizada e pelos ajustes demandados pelos efeitos do Plano Real, como o movimento de privatizações e desregulamentação.[57]
+Vista parcial de Manaus, capital do Amazonas
+Ao longo da década de 1990, o Amazonas destacou-se por ser um dos estados brasileiros de maior crescimento populacional e econômico. Manaus figura como uma das cinco capitais estaduais brasileiras com maior crescimento populacional, com 2,51% de crescimento anual. Em dez anos, o estado registrou 28,22% de crescimento populacional, passando de 2,8 milhões em 2000 para 3,4 milhões em 2010.[58] Em relação à história recente no fator econômico, o estado integra o chamado grupo intermediário, que fica entre o grupo com maior participação e o grupo com menor participação, na economia do país, respondendo por 1,6% desta.[59]
+Nos anos de 2005 e 2010 o estado foi afetado por uma forte estiagem, sobretudo na região sudoeste, na divisa com o Acre. A estiagem caracterizou-se por possuir o menor índice pluviométrico dos últimos 40 anos, ultrapassando períodos como as secas de 1925-1926, 1968-1969 e 1997-1998, até então consideradas as mais intensas. Neste período, o transporte hidroviário foi dificultado, populações ribeirinhas foram isoladas e houve um surto de cólera, vitimando cerca de 159 pessoas, além de prejuízos econômicos.[60][61]
+Em abril de 2008, o Instituto Brasileiro de Geografia e Estatística (IBGE) elaborou a nova delimitação da fronteira do Amazonas com o Acre. Assim, o território amazonense reduziu-se em 11 583,87 km². A área perdida corresponde a mais da metade de todo o território do estado de Sergipe, cerca de 7,5% do território do Acre e pouco mais de 0,7% da área do Amazonas. Com a mudança, sete municípios amazonenses - Atalaia do Norte, Boca do Acre, Eirunepé, Envira, Guajará, Ipixuna e Pauini - perderam território e parte da população para municípios do Acre.[62] Atualmente, o Amazonas divide-se em 62 municípios. O atual governador é Wilson Miranda Lima (PSC) que exerce o cargo desde 4 de outubro de 2017.[63]
+Geografia[editar | editar código-fonte]
+Ver artigo principal: Geografia do Amazonas
+Ver também: Lista de municípios do Amazonas por área
+Mapa topográfico do Amazonas.
+O estado do Amazonas caracteriza-se por ser a mais extensa das unidades federativas do Brasil, com uma superfície atual de 1 559 146,876 km².[8] Grande parte dele é ocupado pela Floresta Amazônica e pelos rios. O acesso à região é feito principalmente por via fluvial ou aérea. Apenas o inverno e o verão são bem definidos e a umidade relativa do ar fica em torno de 80 %, tendo em vista que a região é cortada pela linha do equador, ao norte. Faz parte da Região Norte do Brasil, fazendo fronteira com os estados de Mato Grosso, Rondônia e Acre ao sul; Pará a leste e Roraima ao norte, além das repúblicas do Peru, Colômbia e Venezuela ao sudoeste, oeste e norte, respectivamente.[64]
+A maior parte de seu território está no fuso UTC-4 (com quatro horas a menos que o horário de Greenwich (GMT), e uma hora a menos em relação ao horário de Brasília). Treze municípios no terço oeste do estado estão no horário UTC-5. São eles: Atalaia do Norte, Benjamin Constant, Boca do Acre, Eirunepé, Envira, Guajará, Ipixuna, Itamarati, Jutaí, Lábrea, Pauini, São Paulo de Olivença e Tabatinga.[65]
+Serra da Bela Adormecida no município de São Gabriel da Cachoeira.[66]
+Apresenta um relevo relativamente baixo, já que 85% de sua superfície está abaixo de cem metros de altitude. Tem ao mesmo tempo as terras mais altas, como o pico da Neblina, seu ponto mais alto, com 2 995 metros,[67] e o pico 31 de Março, com 2 972 metros de altitude, ambos situados no município de Santa Isabel do Rio Negro. Há uma grande porcentagem de terras baixas, comparando aos outros estados do Brasil. De modo geral, o Amazonas está situado sobre uma ampla depressão, com cerca de 600 km de extensão no sentido sudeste-noroeste, orlado a leste por uma estreita planície litorânea de aproximadamente 40 km de largura média. Isso faz do estado o maior em relação à terras baixas no Brasil. O planalto desce suavemente para o interior e se divide em três seções: o planalto, a depressão interior e o planalto ocidental, que formam, ao lado da planície, as cinco unidades morfológicas do estado.[68]
+Em 30 de maio de 2006 foi lançado o primeiro Mapa Geológico do Amazonas, que teve por finalidade principal estudar as potencialidades do solo do estado. De acordo com esse estudo, de um modo geral, os solos amazonenses são relativamente pobres. Entretanto se verifica, principalmente no interior do estado, uma região propícia a exploração de minerais, como o nióbio, caulim e silvanita. Ainda de acordo com o estudo, no estado encontra-se as três grandes reservas minerais inexploradas do mundo. O solo amazonense detém mais de 450 milhões de toneladas de silvanita, principal minério existente no estado, o que faz do Amazonas o maior produtor nacional. Outras riquezas minerais apontadas pelo estudo são a cassiterita, com uma reserva superior a 400 mil toneladas — nos municípios de Presidente Figueiredo e Urucará; a bauxita, com aproximadamente 1 milhão de toneladas; e o nióbio, estimada em mais de 700 mil toneladas em São Gabriel da Cachoeira. O potencial do gás natural de Coari, estimado em mais de 62 bilhões de metros cúbicos, também é estudado no mapa geológico.[69]
+Clima[editar | editar código-fonte]
+Amazonas pela classificação climática de Köppen-Geiger
+No Brasil, país caracteristicamente tropical, o Amazonas é dominado pelo clima equatorial, predominante também na Amazônia.[70] As estações do ano apresentam-se bastante diferenciadas e o clima é caracterizado por elevadas temperaturas e altos índices pluviométricos, decorrente principalmente pela proximidade do estado com a Linha do Equador. Isso também se deve às altas temperaturas, que acabam por provocar uma grande evaporação, transformando-as em chuvas. A temperatura média no estado é elevada, atingindo 31,4 °C.[68] Em alguns pontos da porção oeste a temperatura média é entre 25 °C e 27 °C e em outros pontos da porção leste essa média de 26 °C.[71] A menor temperatura já registrada foi de 7,0 °C, em Boca do Acre, em 1975.[72] A umidade relativa do ar varia de 80% a 90% anualmente, uma das maiores registradas no Brasil.[68]
+O regime pluviométrico apresenta índices superiores a 2.000 mm ao ano, sendo bastante elevados.[70] Entre os meses de maio e setembro, há ocorrência de friagens no sul e parte do centro do estado. Quando estas ocorrem, as temperaturas diminuem, podendo chegar a 10 °C.[70] Na região leste amazonense, registra-se uma pequena estação seca, com chuvas acentuadas e índices superiores a 2 500 mm ao ano. As temperaturas nesta região chegam a 26 °C.[70] Na porção norte do estado, a estação seca ocorre principalmente na primavera.[70]
+Hidrografia[editar | editar código-fonte]
+Ver artigo principal: Lista de rios do Amazonas
+Rio Amazonas visto da Estação Espacial Internacional. É o maior rio em volume de água do planeta, com cerca de 7 mil quilômetros de extensão.[73]
+O Amazonas é banhado pela bacia hidrográfica Amazônica, a maior do mundo, com quase 4 milhões de quilômetros quadrados em extensão.[74] O rio Amazonas - que dá nome ao estado - é o principal de seus rios, com 7 025 quilômetros de extensão desde sua Nascente, na Cordilheira dos Andes, no Peru, até a sua foz no Oceano Atlântico.[74]
+A confluência entre o rio Negro, de água preta, e o rio Solimões, de água barrenta, resulta em um fenômeno popularmente conhecido como Encontro das Águas. O fenômeno acontece nas proximidades do município de Manaus e Careiro, sendo uma das principais atrações turísticas do estado.[75][76]
+O rio Negro é o principal afluente do rio Amazonas. Nasce na Colômbia, banha três países da América do Sul e percorre cerca de 1 700 quilômetros. Entra em território brasileiro através do Norte do Amazonas e forma um estuário de cerca de seis quilômetros de largura no encontro com o rio Solimões, sendo chamado de rio Amazonas a partir daí. Apresenta um elevado grau de acidez, com pH 3,8 a 4,9 devido à grande quantidade de ácidos orgânicos provenientes da decomposição da vegetação. Por conta disso, a água mostra-se numa coloração escura.[75]
+Além do rios Amazonas, Negro e Solimões, outros principais rios são: Madeira, Purus, Juruá, Uatumã, Içá, Japurá e Uaupés. Todos estes são integrantes da Bacia Amazônica.[68][74]
+Os rios Negro e Solimões possuem diferentes densidades e temperaturas. Esta é a razão por não se misturarem.[75]
+O rio Madeira, assim como os demais, é pertencente à Bacia do rio Amazonas e banha os estados de Amazonas e Rondônia. Possui extensão de 1 450 km e é a principal linha divisória entre Brasil e Bolívia;[76]
+O rio Purus possui 1 175 km e nasce no Peru. Está situado no sul do estado;[76]
+O rio Juruá, situado na região sudoeste do estado, possui 3 350 km de extensão e banha, além do Amazonas, os estados de Acre e Roraima. Entretanto, a região do Alto Juruá, na divisa entre Amazonas e Roraima, não apresenta condições de navegabilidade;[76]
+O rio Uatumã é navegável em apenas 295 quilômetros. Nasce na divisa do estado com Roraima, no planalto das Guianas. É conhecido por não possuir nenhum núcleo populacional ao longo de seu leito e por abrigar a Usina Hidrelétrica de Balbina;[76]
+O rio Japurá possui inúmeras ilhas em seu leito. Nasce na Colômbia e possui 730 km em território brasileiro.[76]
+Outros rios notáveis no estado são o Uaupés, Coari, Içá, Javari, Tefé, Nhamundá e Jutaí.[76]
+Vegetação[editar | editar código-fonte]
+Formação de igapó no rio Juma, município de Autazes
+Na vegetação do estado, sobressaem matas de terra firme, várzea e igapós. Toda essa vegetação faz parte da extensa e maior floresta tropical úmida do mundo: a Hileia Amazônica, que apresenta uma rica e complexa diversidade na composição da flora do estado e se faz presente em todo o seu território.[68]
+Os solos de terra firme situam-se em terras altas, geralmente distantes dos grandes rios. São formadas por árvores alongadas e finas, que possuem, geralmente, grande quantidade de madeira de alto valor ecônomico.[77] Há ainda éspécies como a castanha-do-pará, as palmeiras e o cacauareiro, que também são encontradas em solos de terra firme.[78]
+Os solos de terra firme são vermelhos, por se tratar de uma região úmida e de alta temperatura, e seus elementos químicos principais são hidróxido de alumínio e ferro, propícios à formação de bauxita e, portanto, pobres para agricultura.[79][80] Até a década de 1970, acreditava-se que os solos da região eram os mais Iixiviados, ácidos e pobres do planeta. A cor avermelhada ou amarelada encontrada nos solos era um indicativo de óxidos de ferro, o que passou a ser referência da evidência de que os solos da Amazônia se tornariam laterita, uma substância vista como pedregosa, com o desmatamento e alteração da vegetação.[80]
+As matas de várzea são próprias das áreas periodicamente inundadas pelas cheias dos rios. Apresentam maior variedade de espécies. Seus solos são os mais férteis da região.[77] São solos jovens, que periodicamente são enriquecidos de material orgânico e inorgânico, depositados durante a cheia dos rios. A flora do estado apresenta uma grande variedade de vegetais medicinais, dos quais se destacam andiroba, copaíba e aroeira. São inúmeras as frutas regionais e entre as mais consumidas e comercializadas estão: guaraná, açaí, cupuaçu, castanha-do-brasil (castanha-do-pará), camu-camu, pupunha, tucumã, buriti e taperebá.[79] As matas de igapós estão situadas em áreas baixas, próximas ao leito dos rios. Durante quase o ano todo, permanecem inundadas. São compostas principalmente por árvores altas, que possuem, por sua vez, raízes adaptadas às regiões alagadas.[79]
+A imensidão da floresta amazônica junto com o encontro dos rios Negro e Solimões, onde formam o rio Amazonas, o maior rio em volume de água do mundo.[73]
+Unidades de conservação[editar | editar código-fonte]
+Fotografia aérea de uma pequena parte da Amazônia brasileira próxima a Manaus
+No estado, até dezembro de 2010, as Unidades de Conservação de Proteção Integral (UCPI) e Unidades de Conservação de Uso Sustentável (UCUS) possuíam, juntas, uma área de 369.788 km², equivalente ao estado de Mato Grosso do Sul. Essa área correspondia a 23,5% do território do Amazonas.[81] Individualmente, as Unidades de Uso de Proteção Integral representavam 7,8% da área territorial amazonense, e as Unidades de Uso Sustentável representavam 15,8% desse total. Comparando a extensão de Unidades de Conservação (UCs) no Brasil, o estado possui a segunda maior extensão, superado apenas pelo Pará, com seus 403.155 km². A maior parte delas era administrada pelo governo estadual.
+A criação de Unidades de Conservação (UC) nos estados da Amazônia deu-se a partir da década de 2000. Até então, a criação e demarcação de tais locais dava-se apenas em áreas remotas dos estados. Grande parte destes foram criados com o intuito de auxiliar a regularização fundiária e desincentivar o avanço do desmatamento em áreas de grande concentração populacional. Das Unidades de Conservação criadas a partir de 2003 no estado, 58% delas eram de uso sustentável e 33% foram criadas em regiões de grande avanço populacional.[81]
+Em dezembro de 2010, apenas 24% das UCs possuíam plano de manejo aprovados por seus conselhos gestores, enquanto 50% destas não possuíam tal plano. Há ainda de se destacar que o número de conselho gestores nestas unidades é baixo: 48% delas possuíam conselhos gestores, deliberativos ou consultivos, enquanto outras 45% não possuíam e eram administradas unicamente pelo órgão estadual ou federal. A vasta fauna possui felinos, como as onças, grandes roedores, como as capivaras, aves, répteis e primatas. O maior desses animais é a anta e todos constituem fonte de alimento para as populações rurais. Alguns encontram-se ameaçados de extinção e são protegidos por órgãos especiais dos governos.[81] A Reserva de Desenvolvimento Sustentável Mamirauá, a maior unidade de conservação em área alagada do país, localiza-se no estado. Foi criada em 1996 e está situada nos municípios de Fonte Boa, Maraã e Uarini.[82]
+Parques nacionais
+O Pico da Neblina, dentro do parque nacional homônimo, é o ponto mais alto do Brasil, em Santa Isabel do Rio Negro
+Ao menos três dos principais parques nacionais brasileiros estão no Amazonas.[81] O principal deles é o Parque Nacional do Jaú, criado em 1980, através do decreto-lei nº 85 200. Possui 2,272 milhões de hectares de área e está situado nos municípios de Novo Airão e Barcelos. É o maior parque nacional do Brasil e o maior de floresta tropical úmida no mundo. A temperatura média local é de 27 °C. É administrado pelo Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (IBAMA).[83]
+Também são notáveis os parques da Amazônia e do Pico da Neblina. O Parque Nacional da Amazônia foi criado pelo decreto-lei nº 73 683 em 19 de fevereiro de 1974 e está situado entre o Amazonas e Pará.[84] A criação do Parque Nacional do Pico da Neblina ocorreu em 1979 pelo decreto-lei nº 83 550. Sua área é de 2,2 milhões de hectares e está situado no município de São Gabriel da Cachoeira.[85] Abriga o ponto mais alto do Brasil, o Pico da Neblina, com 2 995 metros.[67]
+Parques estaduais
+A Área de Proteção Ambiental Nhamundá foi o primeiro parque de caráter estadual no estado, instituído pelo decreto-lei nº 12 836 em 1990, com uma área de 195,9 mil hectares (ha). Situa-se no município de Nhamundá e possui ecossistemas de várzea e campos naturais, além de florestas de terra firme, com planícies e serras. Seu acesso é feito por via fluvial.[86] Por meio da lei estadual n° 3 602, de 9 de maio de 2011, foi recategorizado de parque estadual para área de proteção ambiental.[87]
+Dois dos principais parques no Amazonas são:
+Parque Estadual Serra do Aracá, criado em 1990, através do decreto-lei nº 12 836, situado em Barcelos e ocupando uma área de 1,8187 milhões de hectares — 15% da área do município; Parque Estadual Rio Negro Setor Norte, localizado em Novo Airão e com área de 178 620 hectares. Foi estabelecido pelo decreto-lei nº 16 497 de 2 de abril de 1995 e engloba 5% da área do município. Abriga as ruínas da cidade fantasma de Velho Airão e sítios arqueológicos;
+Parque Estadual Rio Negro Setor Sul, situado entre Manaus e Novo Airão e criado através do mesmo decreto-lei do parque anterior. Ocupa uma área de 257 422 hectares, ocupando cerca de 4% da área do município de Manaus. É usado para o ecoturismo e habitado por comunidades tradicionais, como caboclos e ribeirinhos.[88]
+Destacam-se ainda os parques de Sumaúma, a única unidade de conservação estadual em área urbana no Amazonas, situada em Manaus, no bairro Cidade Nova e instituída em 2003;[89] Sucunduri, com 808 312,179 hectares, criada em 2005 em Apuí;[90]
+Cuieiras, com 55,8 mil hectares;[91] Guariba, possuindo 72 296,331 hectares e criado em 2005 em Manicoré, no sul do estado; e Matupiti, nas bacias dos rios Matupiri e Autaz Mirim, em Borba e Manicoré, também no sul do estado.[92] Quase todos os parques estaduais são administrados pelo Instituto de Proteção Ambiental do Amazonas (IPAAM).[93]
+Parque Estadual Sumaúma, dentro da área urbana de Manaus
+Demografia[editar | editar código-fonte]
+Crescimento populacional
+Censo
+Pop.
+%±
+187257 6101890147 915156,8%1900249 75668,9%1920363 16645,4%1940438 00820,6%1950514 09917,4%1960721 21540,3%1970960 93433,2%19801 449 13550,8%19912 102 90145,1%20002 813 08533,8%20103 483 98523,8%Est. 20194 144 59719,0%Censos demográficos do IBGE[94]
+Conforme estimativa divulgada pelo IBGE em agosto de 2021, a população do estado atingiu 4 269 995 habitantes.[2] A população deste representa 22% da população da região Norte e 2% da população brasileira.[95] Num período de dez anos (2005-2015), diminuíram as populações de 48 dos 62 municípios do estado.[96] No estado, 165 920 habitantes não são naturais da unidade federativa.[97][98] A maior parte dos migrantes que vivem no estado são oriundos de outros estados da própria Região Norte brasileira. Além destes, migrantes vindos do Nordeste somam 87 846 habitantes, migrantes vindos da Região Sudeste somam 30 431 habitantes e migrantes vindos da Região Sul somam 12 183 habitantes.[98] O estado possui ainda, a maior população estrangeira na Região Norte e a oitava maior população estrangeira no Brasil. São 9 777 habitantes no estado que possuem alguma nacionalidade que não seja a brasileira. O Pará responde pela segunda maior população estrangeira no Norte do país (5 291 imigrantes), seguido de Rondônia, com 4 689 imigrantes.[98]
+De acordo com o censo brasileiro de 2010, realizado pelo Instituto Brasileiro de Geografia e Estatística (IBGE), o Amazonas era habitado por 3 483 985 habitantes, sendo que havia 2 755 490 habitantes em área urbana (78,4%) e 728 495 habitantes em área rural (17,3%). Quanto à questão de gênero, havia 1 753 179 homens e 1 730 806 mulheres. Foram identificados 902 780 domicílios, sendo que apenas 801 640 deles eram ocupados, gerando um déficit habitacional de 101 140 domicílios. A média de habitantes por domicílio era de 4,24 pessoas.[99] A capital, Manaus, é a maior cidade da região Norte, com 2,1 milhões de habitantes.[100]
+Na questão de alfabetização, habitantes do estado com mais de 5 anos de idade alfabetizados totalizavam 2 670 173 pessoas.[101] Pelo menos 791 162 habitantes afirmaram serem portadores de algum tipo de deficiência permanente, destacando-se a deficiência motora, com 38 509 deficientes declarados. Destacando a questão do estado civil, havia 1 948 604 pessoas com mais de 10 anos de idade solteiras, 640 437 pessoas com mais de 10 anos de idade casadas, 74 287 pessoas viúvas, 41 698 divorciadas e 23 116 pessoas desquitadas ou separadas judicialmente. Há de se destacar que 699 439 pessoas declararam viver em união consensual.[102]
+Ainda de acordo com o censo de 2010, 791 162 habitantes declararam possuir algum tipo de deficiência.[103] A deficiência mental ou intelectual apresentou-se em 38 509 habitantes, enquanto outros 149 796 habitantes declararam possuir alguma deficiência motora. 124 737 habitantes declararam possuir algum tipo de deficiência auditiva, enquanto outros 530 296 habitantes possuem deficiência visual. Os habitantes que declararam não possuir nenhum tipo de deficiência somam-se 2 692 764 habitantes.[103] O estado alcançou um grandíssimo crescimento populacional no início do século XX, devido ao período da áurea da borracha, e após a instalação do Polo Industrial de Manaus, na década de 1960.[104] O estado ainda mantém taxas populacionais superiores à média nacional. Na década de 1950 o estado teve um crescimento populacional de 3,6% ao ano, enquanto o Brasil manteve um crescimento de 3,2%. No período compreendido entre os anos de 1991 e 2000, o Amazonas cresceu 2,7% ao ano enquanto a média nacional manteve-se em 1,6%. O censo demográfico de 2010 do IBGE, apontou que o estado cresceu 23,84% em população entre 2000 e 2010 e que o mesmo mantém um aumento populacional de 2,16% ao ano.[97]
+Tabatinga, localizado na tríplice fronteira fronteira Brasil–Colômbia–Peru, o sexto município mais populoso do estado
+A composição da população amazonense por sexo mostra que para cada 100 mulheres residentes no estado existem 96 homens; esse pequeno desequilíbrio entre os dois sexos ocorre porque as mulheres possuem uma expectativa de vida oito anos mais elevada que a dos homens. Porém, o fluxo migratório para o estado é de maioria masculina.[105] Segundo o Tribunal Superior Eleitoral, em maio de 2016 o estado possuía 2 320 326 eleitores,[106] Durante cem anos, de 1810 a 1910, um relevante número de migrantes e imigrantes espalharam-se por diversas cidades e povoados da Amazônia, principalmente entre Belém e Manaus. Eram em grande parte, atraídos pelo ciclo da borracha. Entre os migrantes, destacou-se principalmente os nordestinos, e entre os imigrantes, destacavam-se os árabes[107] e japoneses. Os japoneses entretanto, chegaram ao Amazonas somente a partir de 1923. Com o fim do ciclo da borracha, o Governo do Amazonas cedeu 1,030 milhão de hectares a serem divididos entre os imigrantes japoneses que desejassem fazer cultivo do solo da região, como forma de movimentar a economia do estado em crise.[108] Os primeiros imigrantes dirigiram-se a cidades como Maués, Parintins, Itacoatiara, Presidente Figueiredo e Manaus.[109] Até então, Maués era a cidade com o maior fluxo de imigração japonesa e onde eles iniciaram o cultivo do guaraná. Porém, em 1941, houve uma epidemia de malária que vitimou várias famílias.[109] Outras famílias destinaram-se a Parintins, onde dividiram vários hectares de terra com os koutakusseis, jovens europeus estudantes de agronomia, provenientes de famílias de classe alta que imigraram para o Amazonas no intuito de se fixarem para sempre.[109] Estima-se que existam no Amazonas 5 000 descendentes de imigrantes japoneses.[110]
+Etnias[editar | editar código-fonte]
+Grupos étnicos no Amazonas[111]
+Etnia
+Porcentagem
+Pardos
+74,2%
+Brancos
+24,9%
+Pretos
+0,7%
+Indígenas
+0,1%
+Amarelos
+0,1%
+A população do Amazonas é composta basicamente por pardos, brancos, indígenas e negros. A forte imigração no final do século XIX e início do século XXI trouxe ao estado pessoas de todas as partes do Brasil e do mundo. Dos mais de cinco milhões de imigrantes que desembarcaram no Brasil, alguns milhares se fixaram no estado do Amazonas, destacando-se os portugueses[112] e japoneses.[113] Os portugueses que chegaram ao estado destinaram-se sobretudo à Manaus, e passaram a dedicar-se ao comércio.[112] Por volta de 1929, chegaram os primeiros japoneses, que passaram a viver em municípios como Maués, onde trabalhavam no cultivo do guaraná para uso medicinal, e Parintins.[113] Há ainda, uma crescente imigração de haitianos.[114][115]
+O município de São Gabriel da Cachoeira, no extremo noroeste do estado, é o município com maior população indígena no país. Em 2010, o percentual de população indígena do município foi de 76,31%. Além deste, Boa Vista do Ramos registra o maior percentual de população parda no estado e o terceiro do país, com 92,40% autodeclarados pardos no censo de 2010. Manaquiri também destaca-se por ser o quinto município brasileiro com maior população amarela, 6,26% do total de sua população.[116] Segundo dados da Síntese de Indicadores Sociais do Censo demográfico de 2010, promovido pelo IBGE, a população do estado dividi-se da seguinte forma, na questão étnica: Pardos (77,2%), brancos (20,9%), pretos (1,7%) e amarelos ou indígenas (0,2%). Nenhum outro estado no Brasil tem maior população indígena do que o Amazonas, divididos em 65 etnias. Além disso, o estado figura com o maior percentual de população parda no Brasil.[115][117]
+Entre os que se autodeclaram pardos, o mais característico é o caboclo. Inicialmente nascido da mestiçagem entre indígenas e europeus, a partir do século XIX, também miscigenou-se com nordestinos. Os imigrantes sulistas, predominantemente brancos, que chegaram ao estado no final do século XX, têm sido também mestiçados com a população cabocla. O Dia do Mestiço (27 de junho) e o Dia do Caboclo (24 de junho) são datas oficiais no estado.[118][119] Em 29 de dezembro de 2011, o município amazonense de Autazes estabeleceu o dia 27 de junho como feriado municipal, em reconhecimento à identidade mestiça.[120] Em 28 de agosto de 2012, outro município do estado, Careiro da Várzea, também decretou feriado municipal o dia 27 de junho pelo Dia do Mestiço. Os dois municípios são os únicos no Brasil a homologar em forma de feriado a ênfase da população parda.[121] São Gabriel da Cachoeira, na microrregião de Rio Negro, é um dos três únicos municípios brasileiros[nota 1] a possuir mais de um idioma oficial: Além do português, as línguas tucano, nhengatu e baníua são reconhecidas como idiomas oficiais do município, desde 2002.[nota 2]
+Segurança pública e criminalidade[editar | editar código-fonte]
+Ver também: Polícia Militar do Amazonas e Polícia Civil do Estado do Amazonas
+Viatura da Polícia Militar do Amazonas
+Assim como os demais estados do Brasil, o Amazonas possui dois tipos de de corporações policiais que possuem a finalidade de realizar a segurança pública em seu território. São elas: a Polícia Militar do Amazonas (PMAM), que possui um efetivo de 7 500 militares,[122] e a Polícia Civil do Estado do Amazonas, exercendo a função de polícia judiciária e sendo subordinada ao governo do estado.
+A Polícia Militar do Estado do Amazonas é uma das mais antigas do Brasil, tendo sido criada em 4 de abril de 1837, primeiramente para combater os revoltosos da Cabanagem, com um efetivo de apenas 1 339 militares. Após este feito, a PMAM também envolveu-se nas Guerra do Paraguai e de Canudos, além da Revolução do Acre.[122] Conforme dados do Mapa da Violência 2010, publicado pelo Instituto Sangari e pelo Ministério da Justiça, a taxa de homicídios por 100 mil habitantes do estado do Amazonas é a décima-terceira maior do Brasil. O número de homicídios ocorridos no estado aumentou de 21,3 para 24,8 por 100 mil habitantes no período entre 1998 e 2008. Entre 2008 e 2010, a taxa de homicídios cresceu 5,8 e atingiu 30,6 por 100 mil habitantes.[123] A Região Metropolitana de Manaus concentra a maior taxa (43,3), enquanto os municípios do interior do estado apresentam apenas uma taxa de 11,1. Em 2010, os cinco municípios que registraram as maiores taxas de homicídio, por 100 mil habitantes, foram: Manaus (46,7) Iranduba (39,2), Uarini (33,6), Tabatinga (32,5) e Presidente Figueiredo, com 29,4. Em contrapartida, os cinco municípios que registraram as menores taxas de homicídio foram: São Paulo de Olivença (3,2), Nova Olinda do Norte (3,3), Santo Antônio do Içá (4,1), Tapauá (5,2) e São Gabriel da Cachoeira, com 5,3. É notável o fato de 12 municípios não haverem registrado taxas de homicídios ou não terem sido divulgadas.[124] Em âmbito nacional, o estado está entre os quinze mais violentos. Em âmbito regional, é o quarto mais violento da região Norte, sendo superado pelo Pará (45,9), Amapá (38,7) e Rondônia (34,6).[125]
+Religião[editar | editar código-fonte]
+Catedral Diocesana de SantAna e São Sebastião, em Coari
+Tal qual a variedade cultural verificável no Amazonas, são diversas as manifestações religiosas presentes no estado. Embora tenha se desenvolvido sobre uma matriz social eminentemente católica, tanto devido à colonização quanto à imigração - e ainda hoje a maioria dos amazonenses se declara católica - é possível encontrar atualmente no estado dezenas de denominações protestantes diferentes.[126] O estado possui os mais diversos credos protestantes ou reformados, como a Igreja Presbiteriana, Igreja Batista, Igreja Luterana, Igreja Adventista, Igreja do Evangelho Quadrangular, Igreja Mundial do Poder de Deus, Igreja Internacional da Graça de Deus, Igreja Assembleia de Deus, Igreja Universal do Reino de Deus, Igreja Metodista, Igreja Adventista do Sétimo Dia e Igreja Episcopal Anglicana. Além dessas, grande parte declara-se seguidores de outras religiões, tais como os Santos dos Últimos Dias ou mórmons; as Testemunhas de Jeová; os messiânicos; os judeus; os esotéricos; os muçulmanos e os espiritualistas. No estado há um templo mórmon, o Templo de Manaus, sendo o sexto operado no Brasil.[127]
+De acordo com dados do censo de 2010 realizado pelo Instituto Brasileiro de Geografia e Estatística (IBGE), a população do Amazonas está composta por: católicos (61,2%), protestantes (32,1%), pessoas sem religião (6,2%), espíritas (0,4%) e outras religiões (0,1%).[126]
+Urbanização[editar | editar código-fonte]
+Em 2010 foram identificados 902 780 domicílios no estado, dos quais 801 640 deles eram ocupados e 101 140 não eram ocupados.[99] Em relação ao tipo de material dos domicílios particulares permanentes, 415 884 domicílios eram feitos de alvenaria com revestimento, 75 426 feitos de alvenaria sem revestimento, 256 467 domicílios feitos de madeira aparelhada, 9 265 domicílios construídos em palha, 2 519 domicílios em taipa revestida e 3 368 domicílios construídos com outro tipo de material. A maior parte dos domicílios possuíam cinco cômodos.[98]
+Em relação ao abastecimento de água canalizada, 637 314 domicílios eram atendidos pelo sistema, um percentual de 83,05%.[98][128] Os bens duráveis populares (geladeira, rádio, televisão e máquina de lavar) estavam presentes em 799 314 domicílios. Microcomputadores com acesso à internet existiam em 211 872 destes domicílios e 618 065 possuíam o uso de telefones fixo ou celular.[98] Foram identificados 715 623 casas, 53 529 apartamentos, 19 539 casas de condomínio, 7 741 cortiços ou casas de vila e 3 197 ocas ou malocas.[98]
+verdiscutireditar Municípios mais populosos do Amazonas
+(Estimativa de 2019 do Instituto Brasileiro de Geografia e Estatística)[129]
+ManausParintins
+Posição
+Localidade
+Região intermediária
+Pop.
+Posição
+Localidade
+Região intermediária
+Pop.
+1
+Manaus
+Manaus
+2 182 763
+11
+Iranduba
+Manaus
+48 296
+2
+Parintins
+Parintins
+114 273
+12
+Lábrea
+Lábrea
+46 069
+3
+Itacoatiara
+Parintins
+101 337
+13
+São Gabriel da Cachoeira
+Manaus
+45 564
+4
+Manacapuru
+Manaus
+97 377
+14
+Benjamin Constant
+Tefé
+42 984
+5
+Coari
+Manaus
+85 097
+15
+Borba
+Manaus
+41 161
+6
+Tabatinga
+Tefé
+65 844
+16
+Autazes
+Manaus
+39 565
+7
+Maués
+Parintins
+63 905
+17
+São Paulo de Olivença
+Tefé
+39 299
+8
+Tefé
+Tefé
+59 849
+18
+Careiro
+Manaus
+37 869
+9
+Manicoré
+Lábrea
+55 751
+19
+Nova Olinda do Norte
+Manaus
+37 378
+10
+Humaitá
+Lábrea
+55 080
+20
+Presidente Figueiredo
+Manaus
+36 279
+Política[editar | editar código-fonte]
+Ver artigo principal: Lista de partidos políticos no Amazonas
+Tribunal de Justiça do Estado do Amazonas, instância máxima do poder judiciário estadual
+O Amazonas é um estado da federação, sendo governado por três poderes, o executivo, representado pelo governador, o legislativo, representado pela Assembleia Legislativa do Estado do Amazonas, e o judiciário, representado pelo Tribunal de Justiça do Estado do Amazonas e outros tribunais e juízes. Também é permitida a participação popular nas decisões do governo através de referendos e plebiscitos.[130]
+Manaus é o município com o maior número de eleitores, com 1,214 milhão destes. Em seguida aparecem Parintins, com 63,7 mil eleitores, Itacoatiara (61,7 mil eleitores), Manacapuru (61,1 mil eleitores) e Coari, Tefé e Tabatinga, com 47,5 mil, 38,9 mil e 29,6 mil eleitores, respectivamente. O município com menor número de eleitores é Japurá, com 4,2 mil.[106]
+Tratando-se sobre partidos políticos, todos os 35 partidos políticos brasileiros possuem representação no estado. Conforme informações divulgadas pelo Tribunal Superior Eleitoral (TSE), com base em dados de abril de 2016, o partido político com maior número de filiados no Amazonas é o Partido Comunista do Brasil (PCdoB), com 20 687 membros, seguido do Partido Social Cristão (PSC), com 18 934 membros e do Partido dos Trabalhadores (PT), com 17 265 filiados. Completando a lista dos cinco maiores partidos políticos no estado, por número de membros, estão o Partido do Movimento Democrático Brasileiro (PMDB), com 14 742 membros; e o Partido Progressista (PP), com 13 124 membros. Ainda de acordo com o Tribunal Superior Eleitoral, o Partido Novo (NOVO) e o Partido Socialista dos Trabalhadores Unificado (PSTU) são os partidos políticos com menor representatividade na unidade federativa, com 4 e 134 filiados, respectivamente.[131]
+Subdivisões[editar | editar código-fonte]
+Mapa do Amazonas com a divisão das regiões intermediárias (vermelho) e imediatas (cinza)
+Ver artigos principais: Lista de municípios do Amazonas e Lista de regiões geográficas intermediárias e imediatas do Amazonas
+Ver também: Municípios do Amazonas por população, área e IDH
+Região geográfica intermediária é, no Brasil, um agrupamento de regiões geográficas imediatas que são articuladas através da influência de uma ou mais metrópoles, capitais regionais e/ou centros urbanos representativos dentro do conjunto, mediante a análise do Instituto Brasileiro de Geografia e Estatística (IBGE).[132]
+As regiões geográficas intermediárias foram apresentadas em 2017, com a atualização da divisão regional do Brasil, e correspondem a uma revisão das antigas mesorregiões, que estavam em vigor desde a divisão de 1989. As regiões geográficas imediatas, por sua vez, substituíram as microrregiões. A divisão de 2017 teve o objetivo de abranger as transformações relativas à rede urbana e sua hierarquia ocorridas desde as divisões passadas, devendo ser usada para ações de planejamento e gestão de políticas públicas e para a divulgação de estatísticas e estudos do IBGE.[132]
+Oficialmente, as quatro regiões geográficas intermediárias do Amazonas são: a de Manaus, a de Tefé, a de Lábrea e a de Parintins.[133] As regiões geográficas imediatas, por sua vez, substituíram as microrregiões.[134] O Amazonas é dividido oficialmente em onze regiões imediatas: Manaus, São Gabriel da Cachoeira, Coari, Manacapuru, Tefé, Tabatinga, Eirunepé, Lábrea, Manicoré, Parintins e Itacoatiara.
+É formado pela união de sessenta e dois municípios, desde a última alteração feita em 1988, criando o município de Alvarães.[135]
+Economia[editar | editar código-fonte]
+Ver artigo principal: Economia do Amazonas
+Ver também: Lista de municípios do Amazonas por PIB
+Exportações do estado do Amazonas em 2012[136]
+O Produto Interno Bruto (PIB) do Amazonas é o 16.º maior do país, destacando-se o setor terciário. De acordo com dados do IBGE, relativos a 2018, o PIB amazonense era de 100,1 bilhões, enquanto o PIB per capita era de 24 532,90.[3] Pará e Amazonas respondem, juntos, por aproximadamente 70% da economia nortista. Em termos de infraestrutura para investimentos em novos empreendimentos, o estado alcançou o segundo melhor desempenho do país nos últimos anos, sendo superado atrás apenas do Distrito Federal,[137] e sendo um dos que mais crescem economicamente.[138] Ao lado do Pará, é o estado que mais influencia na economia do Norte brasileiro. Em 2010, a economia do Amazonas passou a representar 1,8% da economia brasileira, um aumento de 0,1 pontos percentuais comparado a 2009.[139]
+Setor primário[editar | editar código-fonte]
+De todos, o setor primário é o menos relevante para a economia estadual. Representava em 2018 apenas 5,5 % da economia do Amazonas.[140] Segundo o IBGE, o estado possuía em 2011 um rebanho bovino de 1 439 597 cabeças, além de
+13 685 equinos, 81 851 bubalinos, 671 asininos, 947 muares, 94 435 suínos, 21 488 caprinos, 69 131 ovinos, 18 389 codornas, 1 300 coelhos e 4 076 184 aves. Entre as aves, 2 801 449 eram galinhas e 1 274 735 galos, frangos e pintinhos. No mesmo ano, o estado produziu 52 033 mil litros de leite de vacas. Foram produzidos 72 088 dúzias de ovos de galinha e 48 394 quilos de mel-de-abelha.[141]
+Economia do Amazonas
+Ficha técnica (2018)
+Participação no PIB nacional
+1,4% [142]
+PIB
+R$ 100,1 bilhões
+PIB per capita
+R$ 24 532,90
+Composição do PIB (2018)[143]
+Agropecuária
+5,5 %
+Indústria
+28,9 %
+Serviços
+49,9 %
+O Amazonas é o maior produtor de fibras do Brasil, com participação de 87% da produção nacional (IBGE -PAM/2014). Os maiores produtores da fibra no Amazonas são da região das calhas dos rios Negro e Solimões, como Manacapuru, Anamã, Autazes, Careiro, Careiro da Várzea, Vila Rica de Caviana, Caapiranga, Iranduba, Manaquiri, Novo Airão, Rio Preto da Eva, Manaus, Beruri, Coari, Codajás e Anori. A produção total desses municípios anualmente varia de 20 a 200 toneladas de juta, e de malva gira em torno de 100 a 744 toneladas. Manacapuru e Beruri se destacam com a produção média de 70 a 100 toneladas de juta.[144]
+O estado detinha 3% da produção de leite de vacas e 7% do valor da produção do mesmo, entre os estados da Região Norte do Brasil. Além deste, a produção de ovos de galinha no estado representava 57% da produção entre os estados da Região Norte, e 53% do valor da produção entre os mesmos estados. Sobre o mel de abelha, a produção do estado representava 5% entre os estados de sua região e 11% no valor da produção. É notável também que o estado produziu 354 mil dúzias de ovos de codorna em 2011, representando 29% da produção da Região Norte e o valor da produção de ovos de codorna ficou em 26%.[141] Na lavoura temporária são produzidos abacaxi, arroz, batata-doce, cana-de-açúcar, feijão, fumo, juta, malva, mandioca, melancia, milho, soja, tomate e trigo. Os maiores valores de produção na lavoura temporária foram de mandioca (519.911 mil reais), abacaxi (87.291 mil reais) e malva (16.495 mil reais).[145] Já na lavoura permanente produzem-se abacate, banana, borracha natural (látex), cacau, café, coco, dendê, goiaba, guaraná, laranja, limão, mamão, manga, maracujá, palmito, pimenta-do-reino, tangerina e urucum. Os maiores valores de produção na lavoura permanente foram de banana (80.899 mil reais), laranja (64.729 mil reais) e mamão (30.191 mil reais).[146]
+A agropecuária registrou, em 2008, um aumento de 23,7% na composição do PIB do estado, o terceiro maior desempenho entre os estados do país naquele ano.[147] Em relação à indústria madeireira, produzem-se carvão vegetal, lenha e madeira em tora. Na silvicultura, o estado produz produtos alimentícios como o açaí, castanha-do-pará (também chamada castanha-do-brasil ou castanha-da-amazônia) e umbu, além de látex coagulado e produtos oleaginosos. Há também produção de fibras, como o buriti e piaçava. O estado caracteriza-se com a segunda maior produção de açaí, sendo superado apenas pelo Pará.[148]
+Setor secundário[editar | editar código-fonte]
+José Serra visita a linha de montagem da Honda no Polo Industrial de Manaus
+Fábrica da Samsung em Manaus
+Responsável por 28,9% do PIB do Amazonas, de acordo com dados IBGE de 2018, o setor secundário destaca-se na Grande Manaus pelo fato da região concentrar a maioria das indústrias presentes no estado. O Polo Industrial de Manaus consolidou-se como o terceiro maior centro industrial do Brasil.[140][149] Em Coari, a Província Petrolífera de Urucu, descoberta em 1986, é a maior reserva terrestre de petróleo e gás natural do Brasil.[150] Outros municípios com notáveis indústrias no estado são Itacoatiara, Iranduba, Manacapuru e Tabatinga, onde originam-se unidades madeireiras e de materiais de construção. O órgão responsável pelas indústrias amazonenses ou sediadas no estado é a Federação das Indústrias do Estado do Amazonas (FIEAM).[128]
+O setor secundário cresceu gradativamente no Amazonas. A participação relativa do setor industrial no PIB do estado, que era de 14,7 % em 1970, passou para 19,00% em 1975 e 37,2% em 1980, o que fez com que a variação percentual do crescimento real do produto industrial regional tenha alcançado 826,28 % na década de 1970. Em sua história recente, o Amazonas possui participação majoritária no produto industrial da Região Norte, detendo 48 % entre os sete estados regionais.[151]
+A Zona Franca de Manaus (ZFM), também conhecida como Polo Industrial de Manaus, é o principal centro industrial da região Norte e um dos maiores do Brasil. Foi implantado pelo regime militar brasileiro com o objetivo de viabilizar uma base econômica na Amazônia Ocidental, promovendo melhor integração produtiva e social dessa região ao país e garantindo a soberania nacional sobre suas fronteiras[152][153] É considerado um dos mais modernos da América Latina[154] e tem como abrangência os estados da Amazônia Ocidental (Acre, Amazonas, Rondônia e Roraima) além de dois municípios do estado do Amapá (Macapá e Santana).[155] Segundo dados da SUFRAMA, o faturamento total do Polo Industrial obtido em 2016 foi de R$ 74,7 bilhões.[156] Suas indústrias são voltadas, em geral, para a produção de produtos eletroeletrônicos, plásticos, madeireiros e polo de duas rodas.[157]
+Seus principais polos industriais são:
+Região Metropolitana de Manaus; maior polo de riqueza estadual, concentra a maioria indústrias no Amazonas, onde a capital do estado detém o oitavo maior PIB municipal do Brasil. O faturamento desse polo é em média cerca de US$ 20 bilhões por ano, com exportações superiores a US$ 2,2 bilhões. São mais de 700 fábricas de grande, médio e pequeno porte que fabricam uma grande quantidade da produção brasileira de motocicletas, televisores, monitores para computadores, cinescópios, telefones celulares, aparelhos de som, DVDs players, relógios de pulso, aparelhos de refrigeração, bicicletas, produtos químicos, madeiras, tijolos, bebidas e materiais de construção.[158]
+Coari; a segunda maior economia do estado, apresenta concentrações de indústrias alimentícias, madeireira, petrolífera e tijolos.[158][150]
+Parintins; a quinta maior economia do estado, a indústria é composta basicamente por micro e pequenas nos setores de madeireira, alimentos, gráfica, naval, oleira, química e vestuário.[158]
+Setor terciário[editar | editar código-fonte]
+Região portuária de Itacoatiara, o segundo município mais rico do estado.
+O setor terciário é o mais importante do PIB amazonense, pois corresponde a metade das atividades econômicas do estado. Em 2018, a participação dos serviços representava 49,9 % do valor total adicionado à economia de todo o estado.[140]
+A unidade federativa abrigava em 2009, cerca de 4 530 unidades empresariais, de acordo com a Pesquisa Anual de Serviços (PAS) promovida pelo Instituto Brasileiro de Geografia e Estatística (IBGE).[159] Aproximadamente 774 357 habitantes exerciam a função de empregados no setor público ou privado, revelado pelo censo de 2010. Destes, 419 804 empregados exerciam atividades profissionais com carteira de trabalho assinada e 259 972 profissionais não possuíam carteira de trabalho assinada.[98] 374 116 habitantes eram autônomos e 94 582 habitantes eram funcionários públicos estatutários ou militares. Destacam-se também, o número de pessoas que trabalhavam na produção para o próprio consumo, cerca de 128 130 pessoas e 33 141 que declararam não receber remuneração por suas atividades profissionais.[98] Na questão salarial, 444 398 pessoas declararam receber até um salário mínimo, 360 494 pessoas declararam receber entre 1 e 2 salários mínimos, 86 546 pessoas declararam receber entre 3 a 5 salários mínimos e 7 928 declararam receber mais de 20 salários mínimos.[98] É no estado que se registra a menor porcentagem de trabalhadores que exercem seu trabalho fora de seu município de origem. Apenas 1,4% dos habitantes trabalhadores do Amazonas exercem sua atividade profissional em outro município que não seja o seu domiciliar.[160] O nível de ocupação de pessoas empregadas com mais de 10 anos no estado, foi registrado em 48,5 estando abaixo da média nacional, de 53,3.[97] Dados do Censo brasileiro de 2010 indicaram a existência de 1 466 464 pessoas economicamente ativas no estado, sendo que destas, 1 323 402 exerciam alguma ocupação no período em que ocorreu o censo e 143 058 encontravam-se desocupadas. Em contrapartida, 1 261 576 pessoas declararam não serem economicamente ativas.[98] Entre os habitantes que declararam serem economicamente ativos, o maior número está na faixa etária dos 25 a 29 anos, onde 226 703 habitantes são ativos na economia, em um total de 323 533 que vivem no estado. O menor número registrado foi na faixa etária entre 50 a 54 anos, onde 87 960 habitantes dos 125 349 que vivem no estado são ativos na economia. É notável ainda, o número de crianças e adolescentes que exercem alguma atividade profissional e movimentam a economia: 43 233 em um total de 400 422 habitantes entre 10 e 14 anos. O número de habitantes com mais de 70 anos que declarou estar em idade ativa na economia também é notório: 16 338 em um total de 88 949 habitantes nesta faixa etária que vivem no estado.[98] Quanto a sua pauta de exportação, é representada principalmente por motocicletas (20,60%), outros preparos comestíveis (20,28%), telefones (13,81%), navalhas e lâminas de barbear (12,46%) e compostos de materiais preciosos (3,83%).[161]
+Panorama da cidade de Manaus em 2014, o centro financeiro da Amazônia Brasileira. Na cidade estão sediados alguns dos maiores conglomerados empresarias do país, como a Atems Distribuidora, a Bemol, o Grupo Simões, a MAP Linhas Aéreas, a Petróleo Sabbá, a Recofarma, a Rede Amazônica, a Rede Calderaro de Comunicação, entre outros.
+Infraestrutura[editar | editar código-fonte]
+Saúde[editar | editar código-fonte]
+Mortalidade infantil (2006)
+24,2 por mil nascimentos[162]
+Médicos
+8,4 por 10 mil hab. (2005)[162]
+Leitos hospitalares
+656,1 por mil hab. (2005).[162]
+Hospital 28 de Agosto, o maior complexo hospitalar de urgência e emergência da região Norte.[163]
+Conforme dados de 2009, existiam, no estado, 1 010 estabelecimentos hospitalares, com 5 310 leitos.[164] Destes estabelecimentos hospitalares, 786 eram públicos, sendo 609 de caráter municipais, 117 de caráter estadual e 60 de caráter federal.[164] 224 estabelecimentos eram privados, sendo 216 com fins lucrativos e 8 sem fins lucrativos. 148 unidades de saúde eram especializadas, com internação total, e 848 unidades eram providas de atendimento ambulatorial.[164] Ainda em 2009, 83,05% da população amazonense tinha acesso à rede de água, enquanto 58% tinha acesso à rede de esgoto sanitário. No mesmo ano, verificou-se que o estado tinha um total de 656,1 leitos hospitalares por habitante e, em 2005, registrou-se 8,4 médicos para cada grupo de 10 mil habitantes. A mortalidade infantil é de 24,2 a cada mil nascimentos, de acordo com dados de 2009.[165] Uma pesquisa promovida pelo IBGE em 2008 revelou que 81,6% da população do estado avalia sua saúde como boa ou muito boa; 58,9% da população realiza consulta médica periodicamente; 37,4% dos habitantes consultam o dentista regularmente e 6,0% da população esteve internado em leito hospitalar nos últimos doze meses. Ainda conforme dados da pesquisa, 24,6% dos habitantes declararam ter alguma doença crônica e apenas 12,9% possuíam plano de saúde. Tratando sobre os domicílios particulares no estado que são cadastrados no programa Unidade de Saúde da Família, 52% destes possuem o cadastro.[166]
+Na questão da saúde feminina, 28,5% das mulheres com mais de 40 anos fizeram exame clínico das mamas nos últimos doze meses; 45,9% das mulheres entre 50 e 69 anos fizeram exame de mamografia nos últimos dois anos; e 73,3% das mulheres entre 25 e 59 anos fizeram exame preventivo para câncer do colo do útero nos últimos três anos.[166]
+Educação[editar | editar código-fonte]
+Ver artigos principais: Educação no Amazonas e Lista de municípios do Amazonas por IDEB
+Resultados no Índice de Desenvolvimento da Educação Básica (IDEB) [167]
+Ano
+IDEB
+2011
+4,3
+2009
+3,9
+2007
+3,6
+2005
+3,1
+O Amazonas possui várias instituições educacionais, sendo as mais renomadas delas localizadas principalmente na Região Metropolitana de Manaus e em outras cidades de médio porte. A educação do Amazonas é considerada a quarta melhor do país, comparado à dos demais estados brasileiros, cujo índice, de acordo com dados de 2010, era de 0,561, ficando na vigésima colocação no país e na quinta na Região Norte, ficando atrás do Amapá (0,629), de Roraima (0,628), do Tocantins (0,624) e de Rondônia (0,577), e à frente do Acre (0,559) e do Pará (0,528).[168]
+Quando se trata sobre o analfabetismo, a lista de estados brasileiros por taxa de alfabetização, mostra o Amazonas com a décima quarta maior taxa, com 90,40% de sua população considerada alfabetizada.[169] O estado superou-se significativamente nesse ranking na última década. Em 2001, aparecia em décimo quinto lugar, com 15,5% de sua população tida como analfabeta.[170][171] O estado possui a maior porcentagem, entre os estados brasileiros, de pessoas entre 7 e 14 anos de idade que não frequentam unidades escolares. De acordo com dados do censo de 2010, 8,2% dos habitantes do Amazonas nesta faixa etária encontram-se nesta situação.[172] Entre a população na faixa etária de 15 a 17 anos de idade, 19,6% destes não frequentam unidades de ensino, de acordo com o censo de 2010, colocando o estado na 23ª posição nacional, no ranking que abrangeu todas as 27 divisões administrativas do Brasil. Apenas os estados de Rondônia, Santa Catarina, Mato Grosso do Sul e Acre estão em situação semelhante ou pior.[172] A população do Amazonas em idade escolar alcançava 1 088 463 habitantes em 2010, um total de 31,2%.[173]
+No Índice de Desenvolvimento da Educação Básica (IDEB), em 2015, o Amazonas obteve nota 5,0 nos anos íniciais do ensino fundamental, 4,2 nos anos finais do ensino fundamental, e 3,7 no 3º ano do ensino médio.[174] Os municípios do estado que atingiram as melhores colocações na rede pública de ensino, nos anos iniciais do ensino fundamental foram: Boca do Acre (6,1); Manaus (5,5); Parintins (5,4); Beruri (5,3) e Nhamundá (5,3). Nos anos finais do ensino fundamental, na rede pública de ensino, os municípios que alcançaram as melhores posições foram: Parintins (4,6); Boca do Acre (4,5); Envira (4,5); Itacoatiara (4,5), Manacapuru (4,5), Nhamundá (4,5) e Novo Airão (4,5).[174] Nos anos iniciais do ensino fundamental, Pauini foi o município com a pior avaliação educacional, segundo o IDEB, atingindo 2,9 pontos. Nos anos finais do ensino médio, o município que alcançou o pior desempenho foi Fonte Boa, também com 2,9 pontos.[174]
+Centro de Biotecnologia da Amazônia
+Instituto Nacional de Pesquisas da Amazônia
+A nota média do Amazonas no Exame Nacional do Ensino Médio (ENEM) é de 35,55 na prova objetiva e 57,77 na prova de redação, sendo a maior nota entre os estados das regiões Norte e Nordeste. Em relação ao número de estudantes, 7 463 participaram do ENEM em 2010, sendo que destes, 2 404 eram concluintes do ensino médio e 4 493 egressos. 85,52% do total de estudantes eram oriundos de escola pública. Do total de estudantes do ensino médio em 2010, 44,4% estudavam em período noturno.[173]
+O Enem de 2008 identificou que o estado possuía o pior ensino médio público do país, com uma pontuação de apenas 33,48 pontos.[175] A Escola Estadual Indígena Cacique Manuel Florentino Mecuracu, no município de Benjamim Constant, foi identificada pelo Ministério da Educação como a terceira pior escola pública do país. No ano seguinte, 2009, a educação do estado foi identificada novamente como uma das piores no Brasil. A Escola Estadual Indígena Dom Pedro I, em Santo Antônio do Içá, foi identificada como a pior escola pública no país, com 249,25 pontos no Enem, muito abaixo da média nacional de 500 pontos definida pelo Inep.
+Neste mesmo ano, das 20 melhores escolas do estado, 16 eram particulares e 4 federais, com destaque para o Centro Educacional Lato Sensu e Fundação Nokia, em Manaus, e o Colégio Nossa Senhora do Rosário e Instituto Adventista Agro Industrial, em Itacoatiara e Rio Preto da Eva, respectivamente.[176] Em números absolutos, o estado possuía 145 181 pessoas com nível superior completo em 2010, um percentual de 5,32%. Há demasiadas instituições de ensino superior no estado. Três delas são de caráter público: Universidade Federal do Amazonas (UFAM), Universidade do Estado do Amazonas (UEA) e Instituto Federal do Amazonas (IFAM).[177]
+Entre as principais instituições de ensino superior de caráter privado, no Amazonas, destacam-se o Centro Universitário do Norte (Uninorte), Universidade Nilton Lins, Universidade Paulista (UNIP), Faculdade Metropolitana de Manaus (FAMETRO), Centro Integrado de Ensino Superior do Amazonas (CIESA), Universidade Luterana do Brasil (ULBRA), Fundação Getúlio Vargas, Faculdades Martha Falcão e Faculdade Batista Ida Nelson.[178]
+Transportes[editar | editar código-fonte]
+Navio cruzeiro no rio Negro, próximo ao Porto de Manaus
+O transporte hidroviário é o mais comum, sendo também o de maior relevância.[179] O estado possui cinco terminais hidroviários: Terminal de Boca do Acre, Terminal de Itacoatiara, Porto de Manaus, Porto de Parintins e Terminal de Humaitá. Todos são administrados pelo Ministério dos Transportes, com exceção do Porto de Manaus.[180]
+Todos os municípios possuem pistas para operações de aeronaves, sendo que a maioria é servida por aeroportos, havendo em Manaus e Tabatinga os únicos aeroportos internacionais no Amazonas. Existem também aeroportos regionais, porém em poucos municípios, sendo o Aeroporto Regional de Parintins e o Aeroporto Regional de Coari os mais importantes, além dos aeroportos de Eirunepé, Lábrea e Tefé. Manaus conta com o Aeroporto Internacional Eduardo Gomes, nos moldes dos construídos na década de 1980. É o maior aeroporto da região Norte e o terceiro em movimentação de cargas do Brasil (atrás apenas de Guarulhos e Viracopos).[181] Poucas rodovias são encontradas no estado, e em sua maioria estão situadas nos arredores da capital. A principal destas é a BR-174, principal acesso de Manaus a Boa Vista, capital de Roraima, e também principal via de ligação do Brasil à Venezuela e aos países do Caribe. Outras rodovias de destaque são a BR-319, que se inicia em Manaus e destina-se a Porto Velho, encontrando-se quase que intransitável em muitos de seus trechos devido aos impasses governamentais; BR-230 (Rodovia Transamazônica), iniciando em Cabedelo, no estado da Paraíba, e finalizando em Lábrea; AM-010, de Manaus a Rio Preto da Eva e Itacoatiara; e AM-258, de Manaus a Novo Airão. Há ainda a BR-317, no sul do estado, principal acesso ao Acre e ao Oceano Pacífico,[182] AM-070, AM-174 e AM-254. Grande parte das rodovias situadas no território estadual estão em condições inadequadas de uso.
+Serviços e comunicações[editar | editar código-fonte]
+O Amazonas conta com outros serviços básicos. Na capital do estado, Manaus, a empresa responsável pelo abastecimento de água é a Manaus Ambiental, que atua na cidade desde 17 de maio de 2012 e faz parte do Grupo Saneamento Ambiental Águas do Brasil (SAAB).[183] Os demais municípios da Grande Manaus e interior do estado são atendidos pela Companhia de Saneamento do Amazonas (COSAMA) que, por sua vez, faz parte da administração direta do Governo estadual.[184] Conforme dados de 2009, 83,05% da população estadual tinha acesso à água potável, no referido ano, e 58% tinha acesso à rede de esgoto sanitário.[185] A primeira publicação jornalística no estado do Amazonas surgiu em 1850, ano de sua emancipação política, e chamava-se A Província do Amazonas.[186] O jornal teve pouco tempo de duração, encerrando suas atividades em 1852.[187] Apesar deste ter sido o primeiro periódico a circular na então província, a primeira publicação a ser impressa no estado foi o jornal Cinco de Setembro, que iniciou suas atividades em maio de 1851 e dedicava-se a publicar atos governamentais, tais como anúncios sobre escravos fugitivos e as realizações do Império brasileiro. Em 1854, o jornal renomeou-se para Estrella do Amazonas.[186]
+Grande parte dos periódicos que surgiram no Amazonas, no século XIX, exibiam suas publicações em português, por isso viam suas atividades serem ameaçadas, pelo fato de a maioria da população do Amazonas falar o nhengatu naquela época.[186] Além destes dois, destacaram-se ainda os jornais O Argos, publicação lançada em 1870 e defensora dos interesses republicanos, O Abolicionista do Amazonas, cujo surgimento deu-se em 1884 através de um grupo de mulheres que defendia o fim da escravidão na província amazonense, e O Humaythaense, o primeiro jornal registrado no interior do estado, lançado em 1891 em Humaitá, dedicado principalmente à economia da borracha. Também em Humaitá foi notável o jornal O Madeirense.[186]
+O jornal mais antigo em circulação no Amazonas é o Jornal do Commercio, fundado em 2 de janeiro de 1904, por J. Rocha dos Santos. É ainda, o jornal mais antigo em atividade na Amazônia e um dos mais antigos do Brasil.[186] A exemplo do Jornal do Commercio, outros jornais impressos de destaque, no estado, são: A Crítica, lançado em 1949 por Umberto Calderaro Filho; Diário do Amazonas, surgido em 1986; Amazonas Em Tempo, fundado em 1988; O Estado do Amazonas, lançado em 2002; e Amazônia Oportunidades & Negócios, também lançada em 2002.[186]
+Cultura[editar | editar código-fonte]
+A cultura amazonense tem seu referencial em três raízes étnicas bem distintas entre si, sendo essencialmente de base ameríndia e europeia.[188] A Secretaria de Estado da Cultura é o órgão vinculado ao Governo do Estado do Amazonas responsável por atuar no setor de cultura do estado. Tem como secretário Robério Braga.[189] O estado é sede de importantes monumentos e entidades culturais, como a Academia Amazonense de Letras, fundada em 1918,[190] e a Academia de Ciências e Artes do Amazonas.[191]
+Manaus e Parintins possuem traços da imigração japonesa em sua cultura. O Festival Folclórico de Parintins também é um destaque na cultura amazonense, sendo uma grandiosa referência nacional.
+Espaços teatrais[editar | editar código-fonte]
+O estado conta com vários teatros. Na capital, destacam-se vários teatros, como o Teatro Amazonas, principal espaço de teatro e patrimônio cultural arquitetônico da região.[192] Sua construção deu-se em 1882, sendo mandado construir pelo governador Eduardo Ribeiro, e foi inaugurado em 1896.[193] É um exemplo da opulência existente no apogeu do ciclo da borracha. O Teatro Amazonas foi tombado como Patrimônio histórico em 28-11-1966,[193] e sedia eventos artísticos como o Festival Breves Cenas de Teatro, Festival Amazonas de Ópera,[193] Festival Amazonas de Jazz, Festival de Teatro da Amazônia e Amazonas Film Festival.[193] Há também, outros espaços de teatro na capital, Manaus, como o Teatro da Instalação, um edifício oriundo da Belle-Époque e que chegou a sediar a Ópera dos Três Vinténs.[194] Outros espaços teatrais são o Teatro Américo Alvarez, Teatro Gebes Medeiros, Teatro Jorge Bonates e Teatro Luiz Cabral.[195]
+Festivais[editar | editar código-fonte]
+Ver artigos principais: Carnaval de Manaus, Festival da Canção de Itacoatiara, Festival de Ciranda de Manacapuru e Festival Folclórico de Parintins
+O desfile de escolas de samba do Grupo Especial de Manaus é realizado todos os anos no sambódromo da cidade. Na foto, carro abre-alas da escola de samba Primos da Ilha, em 2016.[196]
+Há registros de diversos festivais nos municípios do estado. Muitos dos festivais mostram a influência do folclore da região. O Carnaval de Manaus é realizado todos os anos na cidade, entre os principais eventos estão o desfile de escolas de samba, o tradicional desfile de fantasias, que acontece no Teatro Amazonas, a Banda do Galo, blocos de rua, etc.[197]
+Há um grande desfile de escolas de samba em uma passarela construída especialmente para o evento, o Centro de Convenções de Manaus, conhecido popularmente como Sambódromo. O primeiro desfile oficial de escolas de samba em Manaus ocorreu em 1947, sendo que a escola de samba Mixta da Praça 14 de Janeiro foi a campeã. Até 1979 os desfiles eram realizados na Avenida Eduardo Ribeiro. De 1980 a 1990 passou à Avenida Djalma Batista, na Zona Centro Sul, e a partir de 1992 no Sambódromo, que possui a maior capacidade de público do Brasil (mais de 100 mil pessoas),[198] superando os sambódromos do Anhembi, em São Paulo (30 mil), e a Marquês de Sapucaí, no Rio de Janeiro (72 mil). Em fevereiro de 1994, sem verba para transmitir os carnavais do Rio de Janeiro e São Paulo, a TV Manchete opta transmitir na íntegra o desfile das escolas de samba do Grupo Especial de Manaus para todo o Brasil.[199] A pista do sambódromo possui 400 metros de extensão e 12 metros de largura, sendo os desfiles das escolas de samba são quinta (Grupo de Acesso C), sexta (Grupos de Acesso A e B) e sábado (Grupo Especial).[200][201]
+Outro festival de destaque nacional é o Festival Folclórico de Parintins, que se realiza no município de mesmo nome no fim do mês de junho e tem como atração principal a modalidade competitiva entre o Boi Caprichoso, boi preto com a estrela azul na testa, cujas cores são o preto e o azul, e o Boi Garantido, boi branco com o coração vermelho na testa, cujas cores emblemáticas são o vermelho e o branco.[202][203] O Festival Folclórico de Parintins é tido como o segundo maior evento folclórico e popular do Brasil, perdendo somente para o Carnaval.[202]
+O Festival Folclórico de Parintins é considerado Patrimônio Cultural do Brasil pelo IPHAN.[204] O festival é realizado oficialmente desde 1965, embora a criação dos bois é oriunda do início do século XX. Caracteriza-se pela exposição dos ritos, costumes e histórias dos nativos, apresentados pelas duas agremiações folclóricas.[202] Diversos personagens podem ser vistos no festival, entre estes um apresentador oficial, chamado de levantador de toadas; o amo do Boi; a sinhazinha da fazenda; os elementos típicos da região e as lendas da Amazônia; a porta estandarte, a rainha da festa e a Cunhãporanga, um mito feminino folclórico.[202] O Boi Garantido foi criado por Lindolfo Monteverde, descendente de açorianos, em 1913, e o Boi Caprichoso provavelmente foi criado no mesmo ano, por Roque e Antônio Cid, migrantes do Ceará, e Furtado Belém.[203][nota 3] As duas figuras folclóricas, ao tempo de suas fundações, costumavam brincar em terreiros e saíam nas ruas onde confrontavam-se com desafios e inevitáveis brigas, dando origem à rivalidade existente até os dias atuais.[203] Há registros de outras agremiações folclóricas em Parintins também chamadas de bois, como o Boi Bumbá Campineiro, entretanto, apenas os bois Garantido e Caprichoso permaneceram.[203] A data de realização do evento popular, historicamente realizado nos dias 28, 29 e 30 de junho, foi modificada em 2005 por uma lei municipal, transferindo-o para o último fim de semana do mês.[202]
+Há outros festivais nas cidades amazonenses: o Festival de Ciranda de Manacapuru, uma manifestação folclórica realizada desde 1997, que consiste na disputa de cirandas, representadas pelas agremiações Flor Matizada, Tradicional e Guerreiros Mura;[205] o Festival da Canção de Itacoatiara, um festival de música realizado desde 1985 em Itacoatiara;[206] a Festa do Guaraná, uma manifestação folclórica que apresenta lendas e mitos indígenas do Amazonas, em Maués;[207] o Festival do Mestiço, realizado nas cidades de Autazes, Careiro da Várzea e Manaus[208] e a Festa da Melancia, realizada em Manicoré.[209]
+Turismo e artesanato[editar | editar código-fonte]
+Cachoeira de Iracema em Presidente Figueiredo.[210]O Parque Nacional de Anavilhanas é considerado Patrimônio da Humanidade pela UNESCO.[211][212]
+O Amazonas recebeu o prêmio de melhor destino verde da América Latina, prêmio este concedido em votação feita pelo mercado mundial de turismo, durante a World Travel Market, ocorrido em Londres em 2009.[213] Em pesquisa realizada em 2018 e 2019, a taxa de satisfação dos turistas de navios cruzeiros que passaram pelo Amazonas alcançou o percentual de 77,38%. Os turistas entrevistados em um estudo realizado pela Empresa Estadual de Turismo do Amazonas (Amazonastur) responderam a um questionário contendo 16 itens, entre comidas regionais, internet, opções de lazer, informações turísticas, bares e restaurantes. Entre os pontos melhores avaliados pelos visitantes, em passagem pelo estado, estão: comida típica (98,34%); opções de lazer (96,22%); informações turísticas (95,85%); internet (91,47%); Centro de Atendimento ao Turista (89,15%); bares e restaurantes (88,25%) e segurança pública (87,23%).[214]
+Manaus, capital estadual, é tida como o 7.º melhor destino turístico no Brasil, conforme pesquisa do TripAdvisor, anunciada durante a 5ª edição do Travelers Choice Destinations em 21 de maio de 2013.[215][216] De acordo com a pesquisa, os maiores atrativos são os hotéis de selva, museus e atrativos naturais, como reservas florestais.[215] O artesanato do estado é originalmente de cultura indígena e possui traços da biodiversidade da Amazônia. Usa-se objetos e utensílios pessoais e domésticos, oriundos da floresta, como sementes de frutos, folhas, penas de aves, raízes, fibras vegetais, palhas e outros elementos da natureza. A produção do artesanato dar-se-á em aldeias indígenas das tribos Tukano, Dessana e Baniwa, no Alto Rio Negro, e da tribo Tikuna e Kokama, no Alto Solimões. Também há incentivo ao artesanato produzido por famílias ribeirinhas e caboclas, que geralmente vivem afastadas dos centros urbanos do estado. Além do artesanato feito com utensílios modelados da floresta, também é possível encontrar produtos e cosméticos naturais produzidos a partir destas ferramentas, em formato artesanal.[217][218]
+Há espaços dedicados à comercialização do artesanato, assim como a divulgação deste como parte de cultura. Um destes espaços permanentes são a Central de Artesanato Branco e Silva, o Mercado Municipal Adolpho Lisboa, o Centro Cultural Povos da Amazônia, a Praça Tenreiro Aranha e a Praia da Ponta Negra. Também realiza-se no Amazonas, anualmente, a Feira de Artesanato de Parintins e a Feira de Artesanato Mundial.[219][220]
+Culinária e frutos[editar | editar código-fonte]
+Ver artigo principal: Culinária do Amazonas
+Considerada a mais exótica do país,[221] a culinária amazonense é a que mais preservou as origens ameríndias, tendo sofrido pouca influência europeia e africana.[221] Os principais ingredientes usados na composição dos pratos típicos do Amazonas são os peixes de água doce, a farinha de mandioca (também chamada de farinha do Uarini), jambu, chicória e frutas regionais.[221]
+Cupuaçu, fruto típico da Amazônia
+Por estar situado na maior bácia hidrográfica do planeta, o Amazonas possui mais de duas mil espécies de peixes. O pescado é usado na maior parte da culinária típica da região, hábito este influenciado pelos costumes ameríndios e europeus.[222] Além do pescado, a mandioca também é muito usada nos pratos típicos amazonenses, sendo uma influência indígena com técnicas de plantio e cultivo.[222] Entre os pratos tradicionais do estado, estão o Pirão, Tacacá, Caldeirada, Tucupi, X caboquinho, Chibé, Pirarucu à casaca,
+Leite de castanha, Paxicá e Tucunaré de Forno.[221] O Amazonas, assim como a Amazônia, apresenta mais de uma centena de espécies comestíveis, as denominadas frutas regionais, e em muitas vezes apresentando um exótico sabor para as suas sobremesas. Concentra a maior diversidade de frutas do mundo.[223] O açaí, fruto oriundo de uma palmeira amazônica, é o mais conhecido no mundo, em grande parte devido ao suco feito com a polpa do fruto, conhecido como vinho de açaí e comercializado em lojas no Brasil e exterior.[224] O Araçá-boi é outro fruto nativo do Amazonas e da Amazônia Legal que tornou-se bastante apreciado pelo mercado internacional.[225] O cupuaçu, fruto amazônico também muito conhecido, pertence à família das esterculiáceas e acredita-se ser parente do cacau. O fruto é comumente usado para a fabricação de balas, bolos e tortas, além de refrescos, sorvetes e cremes.[226]
+Outros frutos de origem amazônica são o guaraná, o bacuri e o buriti.[227][228] O guaraná é um arbusto cultivado principalmente em Maués, pertencente à família Sapindaceae. O fruto possui grande quantidade de cafeína e estimulantes, sendo usado na fabricação de xaropes, pós e refrigerantes.[227] O bacuri é um fruto com polpa agridoce e ainda em ascensão.[228] O buriti, além de cosmetível, é usado principalmente na fabricação de cosméticos e remédios.[229] Há outros frutos, tais como o tucumã, pupunha, graviola,[230] Bacaba,[231] patauá,[232] marimari[233] e Camu-camu.[230]
+Esportes[editar | editar código-fonte]
+Vista aérea da Arena Amazônia, em Manaus, uma das sedes da Copa do Mundo FIFA de 2014 e dos Jogos Olímpicos de 2016
+Na área esportiva, a Secretaria de Estado da Juventude, Desporto e Lazer (SEJEL-AM), é o órgão do governo estadual com a missão principal de estabelecer diretrizes, desenvolver e executar ações relativas à prática de esporte no estado.[234] Desde 1914, o estado realiza o Campeonato Amazonense de Futebol, sob responsabilidade da Federação Amazonense de Futebol, existente desde 26 de setembro de 1962.[235] O evento teve caráter amador até 1963, e passou a ter caráter profissional a partir de 1964. Antes da criação da Federação Amazonense de Futebol, os campeonatos e demais eventos esportivos no estado eram administrados por ligas. A primeira delas, Liga amazonense de Foot-ball, foi fundada em 15 de janeiro de 1914 e em 1916 passou a chamar-se Liga Amazonense de Sport Athléticos (LASA), tendo durado até 1917.[236] Após esta, criou-se a Federação Amazonense de Desportos Atléticos (FADA).[236] Há alguns clubes de futebol sediados no estado conhecidos em âmbito regional e nacional, sendo os principais o Nacional Futebol Clube, São Raimundo Esporte Clube, Fast Clube, Atlético Rio Negro, Princesa do Solimões, Sul América Esporte Clube, Nacional Borbense, Iranduba, Operário, Manaus Futebol Clube, dentre outros.[237][238][239][240] Entre estes clubes, o detentor do maior número de títulos no Campeonato Amazonense de Futebol é o Nacional Futebol Clube, seguido por Atlético Rio Negro, São Raimundo, Fast Clube e Sul América.[236] Acredita-se que 1906 foi o primeiro ano em que partidas de futebol foram registradas no Amazonas. Essas partidas ocorreram no Campo do Parque Amazonense, onde atualmente encontra-se o Parque dos Bilhares, e foram iniciativas de marinheiros, empresários e despachantes britânicos que imigravam para o Amazonas.[236] Nesse mesmo espaço também ocorreram outras atividades esportivas, como corrida de cavalos.[236] O primeiro estádio de futebol de grande porte construído no estado foi o Estádio Vivaldo Lima, inaugurado em 5 de abril de 1970[241] e conhecido também como Coliseu do Norte, Tartarugão e Vivaldão.[236] O estádio foi remodelado em 1995 e demolido em 2010, para a construção da Arena Amazônia, que sediou partidas da Copa do Mundo de 2014.[242]
+O estado é o único no Brasil a realizar a Copa Indígena, evento esportivo que tem como alvo os Povos Indígenas do Amazonas.[243][244] O evento foi iniciado a partir de 2009. A Copa Indígena consiste na disputa de clubes de futebol formado apenas por etnias indígenas que disputam entre si.[243] Outros eventos esportivos são realizados e sediados no estado, como os Jogos Escolares do Amazonas (JEAS), que consiste na disputa entre escolas, públicas e privadas, em várias modalidades esportivas como torneio de vôlei de praia,[245] torneio de futsal,[246] torneio de voleibol,[247] entre outros. Nos últimos anos, o atletismo, o judô e o tênis de mesa, regulamentados pela Federação Amazonense de Atletismo (Feama), Federação Amazonense de Judô (Fejama) e Federação de Tênis de mesa do Amazonas (Ftma), respectivamente, ganharam bastante espaço entre os esportes no Amazonas.[248] Outras modalidades esportivas que também ganharam espaço nos últimos anos são as Artes marciais mistas, em especial o Jiu-jitsu, taekwondo, boxe e Muay thai. O Muay thai é regulamentado pela Federação Amazonense de Boxe Tailandês-Muay Thai (FABT) e reconhecido no estado desde 1987. O lutador José Aldo, um dos maiores lutadores brasileiros na modalidade, é natural do estado.[249] O Amazonas já sediou eventos esportivos internacionais, como a Copa América masculina de Vôlei em 2007, o Pan-Americano Cadete de Luta Olímpica em 2010 e o Ultimate Fighting Championship (UFC) em 2012.[250][251] A capital do Estado também possui um complexo olímpico de esportes, a Vila Olímpica Danilo Duarte de Mattos Areosa,[252] gerida pelo Governo do Estado. Manaus foi uma das cidades-sede da Copa do Mundo de 2014.[253][254]
+Feriados[editar | editar código-fonte]
+No estado do Amazonas, há dois feriados estaduais: o dia 5 de setembro, em homenagem à Elevação do Amazonas à categoria de província, ocorrida em 1850, e o dia 8 de dezembro, em homenagem à Nossa Senhora da Conceição, tida como padroeira do estado.[255]
+Notas
+↑ Além de São Gabriel da Cachoeira, os municípios de Pomerode, em Santa Catarina, e Santa Maria de Jetibá, no Espírito Santo, reconhecem como língua cooficial secundária as línguas alemã e pomerano.
+↑ A língua oficial da República Federativa do Brasil é o português (Art. 13 da Constituição da República Federativa do Brasil).
+É ainda reconhecida e protegida oficialmente e a linguagem brasileira de sinais (lei n° 10.436 de 24 de abril de 2002). Além disso, as línguas tucano, nhengatu e baniua são reconhecidas oficialmente no município de São Gabriel da Cachoeira, no Amazonas.
+↑ As datas precisas de criação dos Bois Garantido, Caprichoso, dentre outros, variam em uma história que é basicamente oral e da qual participa o fator rivalidade. Não há registros escritos para a data de fundação destas figuras folclóricas.
+Referências
+↑ Instituto Brasileiro de Geografia e Estatística (IBGE). «Área Territorial Oficial - Consulta por Unidade da Federação». Consultado em 29 de agosto de 2021
+↑ a b c «Estimativa populacional para 2021». Instituto Brasileiro de Geografia e Estatística (IBGE). 27 de agosto de 2021. Consultado em 28 de agosto de 2021
+↑ a b «Contas Regionais 2018». Agência IBGE Notícias. 13 de novembro de 2020. Consultado em 13 de novembro de 2020
+↑ «Tábua completa de mortalidade para o Brasil – 2015» (PDF). IBGE. Consultado em 2 de dezembro de 2016
+↑ «Sinopse do Censo Demográfico 2010». IBGE. Consultado em 2 de dezembro de 2016
+↑ IPEA -Instituto de Pesquisa Econômica Aplicada. «Evolução do IDHM e de Seus Índices Componentes no período de 2012 a 2017» (PDF). Consultado em 18 de abril de 2019
+↑ a b c Governo do Estado do Amazonas. «Dados». Consultado em 23 de novembro de 2012
+↑ a b «Amazonas». cidades.ibge.gov.br. Consultado em 30 de agosto de 2018
+↑ «Manaus». cidades.ibge.gov.br. Consultado em 30 de agosto de 2018
+↑ «Parintins». cidades.ibge.gov.br. Consultado em 30 de agosto de 2018
+↑ «Itacoatiara». cidades.ibge.gov.br. IBGE. Consultado em 13 de julho de 2019
+↑ «Manacapuru». cidades.ibge.gov.br. Consultado em 13 de julho de 2019
+↑ «Coari». cidades.ibge.gov.br. Consultado em 13 de julho de 2019
+↑ «Conheça os Dados do estado do Amazonas - Limites territoriais». City Brazil UOL. Consultado em 14 de novembro de 2014
+↑ «Região metropolitana de Manaus (AM) – FNEM». fnembrasil.org. Consultado em 25 de agosto de 2018
+↑ «Estado do Amazonas - Dados Econômicos, Geografia, Pontos turísticos, Bandeira». Sua Pesquisa. Consultado em 10 de abril de 2018
+↑ «História do Amazonas». Governo do estado do Amazonas. Consultado em 19 de fevereiro de 2018
+↑ C-Humanas. «Criação da Província do Amazonas». Ciências Humanas e Suas Tecnologias. Consultado em 5 de agosto de 2013
+↑ «Pesquisa científica comprova contribuição do PIM para a redução do desmatamento na Amazônia». Superintendência da Zona Franca de Manaus SUFRAMA. Consultado em 30 de agosto de 2018
+↑ «Municípios com os 10 maiores PIB – 2018». Agência IBGE Notícias. 16 de dezembro de 2020. Consultado em 19 de dezembro de 2020
+↑ «Governo vê retomada da exploração de petróleo na Amazônia após leilão». Folha de S.Paulo. 2 de janeiro de 2021. Consultado em 4 de janeiro de 2021
+↑ Ramusio, Giovanni Battista (1606). Carvajal carta I. [S.l.]: In Venetia, : MDCVI. Appresso i Giunti. Consultado em 12 de junho de 2018
+↑ Historia general y natural de las Indias Islas y Tierra-Firme del Mar Oceáno por el Capitán Gonzalo Fernández de Oviedo y Valdés, pags 576/577, Cap VIII Tomo IIIGonzalo Fernández de Oviedo publicado em 1535Madrid: Real Academia de la HistoriaAcesso em 20/16/2016
+↑ «Amazon» (em inglês). Dictionary.com. Consultado em 28 de julho de 2013
+↑ «Carvajal, Gaspar de, 1504-1584. [from old catalog» ; Medina, José Toribio, [from old catalog] edTirada de doscientos ejemplares. Ejemplar núm. 22.Acesso em 20/06/2016]
+↑ Excmo. Sr. duque de TSerclaes de TillyDescubrimiento del río de las Amazonas según la relación hasta ahora inédita de Fr. Gaspar de Carvajal, con otros documentos referentes á Francisco de Orellana y sus compañeros: publicados á expensas del Excmo. Sr. duque de TSerclaes de TillyGoogle Livros Acesso: 20/06/2016]
+↑ John Roach. «Ancient Amazon Cities Found; Were Vast Urban Network»
+↑ a b c Anna Roosevelt (1997). «Amazonian Indians from Prehistory to the Present»
+↑ Discovery News. «Ancient Amazon Civilization»
+↑ Monica Trindade e Mauricio Paiva. «Amazonia Antiga»
+↑ «Tratado de Tordesilhas». Info Escola. Consultado em 28 de julho de 2013
+↑ O Guia dos Curiosos. «10 curiosidades sobre o Rio Amazonas». O Guia dos Curiosos. Consultado em 28 de julho de 2013
+↑ «Gaspar de Carvajal». The Catholic Encyclopedia (em inglês). Nova York: Robert Appleton Company. 1908
+↑ a b «Francisco de Orellana, explorador espanhol». Brasil Escola. Consultado em 28 de julho de 2013
+↑ CASCUDO, Câmara, Dicionário do Folclore Brasileiro, 10ª ed., Ediouro, Rio de Janeiro, s/d, ISBN 85-00-80007-0
+↑ «Amazonas - História». Portal do Governo do Estado do Amazonas. Consultado em 28 de julho de 2013
+↑ a b c d e «História do Amazonas». Ache tudo e Região. Consultado em 28 de julho de 2013
+↑ «A expedição de Pedro Teixeira e o Tesouro Escondido». Portal multirio - Rio de Janeiro. Consultado em 24 de abril de 2011
+↑ «Raposo Tavares». Portal São Francisco. Consultado em 24 de abril de 2011
+↑ «Os Jesuítas na Amazônia Portuguesa: A crise de vocações e seus reflexos na missão do Maranhão e Grão-Pará». Revista Opsis. Consultado em 5 de agosto de 2013
+↑ «As missões na Amazônia». Revista do Instituto Humanista Unisinos. Consultado em 5 de agosto de 2013
+↑ O ensino superior de indígenas no Brasil. «A Formação do Estado de Roraima». Trilha de conhecimentos. Consultado em 5 de agosto de 2013
+↑ «Amazonas - História do Estado». Mochileiros Tur. Consultado em 24 de abril de 2011
+↑ a b c «Amazonas - Apresentação». Guia do Turista. Consultado em 24 de abril de 2011
+↑ a b c Elis de Araújo Miranda. «As Capitanias do Grão-Pará (1616-1753)» (PDF). 25 e 26 de Outubro de 2007. Lisboa: II Simpósio Luso-Brasileiro de Cartografia Histórica. Consultado em 11 de junho de 2011
+↑ «A Justiça no Amazonas Colonial». Tribunal de Justiça do Estado do Amazonas (TJAM). Consultado em 8 de novembro de 2019
+↑ Universidade de São Paulo (USP). «O Século XIX na Amazônia: a Cabanagem e o Enfraquecimento da Língua Geral» (PDF). Consultado em 12 de outubro de 2019
+↑ Reis, Gustavo Morais Rego (1965). A Cabanagem. Manaus: Edições Governo do Estado do Amzonas
+↑ LEI Nº 582 - DE 5 DE SETEMBRO DE 1850, conforme tem em: Coleção de Leis do Império do Brasil de 31/12/1850 - vol. 001] (p. 271, col. 1)
+↑ Miranda, Elis de Araújo. As Capitanias do Grão-Pará (1616-1753) (PDF). Lisboa - 25 e 26 de Outubro de 2007. II Simpósio Luso Brasileiro de Cartografia Histórica: [s.n.] Consultado em 11 de junho de 2011
+↑ a b «Há 129 anos o Amazonas abolia a escravidão quatro anos antes da Lei Áurea». Revista do Amazonas. Consultado em 13 de julho de 2013. Arquivado do original em 9 de abril de 2014
+↑ Revista do Instituto Histórico e Geográfico Brasileiro, 1948, Volumes 192-194, pg. 15
+↑ Papali, Maria Aparecida Chaves Ribeiro. Escravos, libertos e órfãos: a construção da liberdade em Taubaté (1871-1895), pg. 72.
+↑ a b c «O Ciclo da Borracha». Portal São Francisco. Consultado em 16 de junho de 2011
+↑ «Suframa não apoia mudança de nome; empresários cobram outras pautas - ACA». ACA. 15 de fevereiro de 2018
+↑ «Câmara aprova inclusão do Amapá em conselho da Suframa». Câmara dos Deputados. 20 de agosto de 2008. Consultado em 16 de junho de 2011
+↑ a b «Modelo Zona Franca - História». SUFRAMA. Consultado em 16 de junho de 2011
+↑ «Em dez anos, população do Amazonas deve crescer 28%». D24 Amazonas. 8 de janeiro de 2011. Consultado em 10 de agosto de 2013
+↑ «PIB do Brasil por estado em 2012». Grupo Escolar. 2012. Consultado em 5 de agosto de 2013
+↑ «Secas severas na Amazônia deixam cientistas em alerta». Instituto de Pesquisa Ambiental da Amazônia (INPA). 2011. Consultado em 5 de agosto de 2013
+↑ Editora Abril (2010). «Seca na Amazônia em 2010 foi a mais severa em 100 anos». Revista Veja. Consultado em 5 de agosto de 2013
+↑ «Amazonas perde 11 mil quilômetros de terras para o Acre». Portal Amazônia. 13 de abril de 2008. Consultado em 16 de junho de 2011
+↑ «Amazonino Mendes assume o Governo e anuncia novo secretariado». 4 de outubro de 2017. Consultado em 6 de novembro de 2017
+↑ «Geografia do Amazonas». Só Geografia. Consultado em 5 de agosto de 2013
+↑ «UEA alerta para alteração no horário de provas do Vestibular e SIS em 13 municípios». Portal do Governo do Estado do Amazonas. 4 de novembro de 2013. Consultado em 10 de março de 2015
+↑ [1]
+↑ a b «Pico da Neblina pode voltar a receber turistas - Ministério do Turismo». www.turismo.gov.br. Consultado em 30 de agosto de 2018. Arquivado do original em 17 de maio de 2018
+↑ a b c d e «Aspectos naturais do Estado do Amazonas - Clima». Brasil Escola. 2012-2013. Consultado em 28 de julho de 2013  !CS1 manut: Formato data (link)
+↑ «Amazonas ganha atlas geológico». Universia. Consultado em 27 de junho de 2011
+↑ a b c d e «Clima equatorial». Mundo Educação - BOL. 2011. Consultado em 17 de janeiro de 2019
+↑ Topgyn. «Clima do Amazonas». Consultado em 5 de agosto de 2013
+↑ Correio do Povo. «Amanhecer desta quinta terá geada generalizada». Consultado em 5 de agosto de 2013
+↑ a b «Rio Amazonas». Agência Nacional de Águas. Consultado em 17 de outubro de 2019
+↑ a b c «Bacia Amazônica». Sua Pesquisa. Consultado em 28 de julho de 2013
+↑ a b c «Rios da Bacia Amazônica, afluentes do rio Negro» (PDF). Instituto de Pesquisas Ambientais da Amazônia (INPA). Consultado em 28 de julho de 2013
+↑ a b c d e f g «Principais afluentes do Rio Amazonas». Ambiente Brasil. Consultado em 5 de agosto de 2013
+↑ a b Scielo (2006). «Nutrientes na solução do solo em floresta de terra firme na Amazônia Central submetida à extração seletiva de madeira1» (PDF). Acta Amazônia. Consultado em 5 de agosto de 2013
+↑ Sávio J. Filgueiras FERREIRA, Solução do solo em florestas de terra firme, Edit. Valer, 2006, pp. 2-3.
+↑ a b c Vieira, Lúcio Salgado; Santos, Paulo Tadeu C. dos (2011). «Amazônia Legal - Solos». Amazônia Legal. Consultado em 28 de julho de 2013  !CS1 manut: Nomes múltiplos: lista de autores (link)
+↑ a b Vieira, Lúcio Salgado; Santos, Paulo Tadeu C. dos, - Amazônia seus Solos e Outros Recursos Naturais (1987) p. 414. Editora Agronômica Ceres Ltda. São Paulo - SP.
+↑ a b c d «Unidades de Conservação na Amazônia Legal». Imazon. 2011. Consultado em 28 de julho de 2013
+↑ «Unidade de Conservação de Mamirauá». Instituto Mamirauá. 2010. Consultado em 28 de julho de 2013
+↑ «Parque Nacional do Jaú (AM)». Portal do Governo do Brasil. 2010. Consultado em 28 de julho de 2013
+↑ «Parque Nacional da Amazônia». Instituto Chico Mendes. 2010. Consultado em 28 de julho de 2013
+↑ ICMBio (2010). «Parque Nacional do Pico da Neblina». Instituto Chico Mendes (MMA). Consultado em 22 de fevereiro de 2015
+↑ «Parques nacionais e estaduais, ecologia e turismo - Parque Estadual Nhamundá». BV Via Rural. 2010. Consultado em 28 de julho de 2013
+↑ «Parque Estadual Nhamundá (AM) é recategorizado para Área de Proteção Ambiental». ISA. Unidades de Conservação no Brasil. Consultado em 10 de outubro de 2019
+↑ «Amazonas prepara Parques Estaduais para a Copa de 2014». Secretaria de Meio Ambiente e Desenvolvimento Sustentável do estado do Amazonas (SDS). 2011. Consultado em 28 de julho de 2013
+↑ «Parque Sumaúma completa 16 anos com programação gratuita». Secretaria de Estado do Meio Ambiente (SEMA). Consultado em 12 de outubro de 2019
+↑ «Parque Estadual Sucunduri». BV Via Rural. 2006. Consultado em 28 de julho de 2013
+↑ «Parque Estadual Cuieiras». BV Via Rural. 2006. Consultado em 28 de julho de 2013
+↑ Secretaria Estadual de Meio Ambiente e Desenvolvimento Sustentável (SDS) (12 de março de 2014). «Governo do Amazonas avança na Gestão de Áreas Protegidas Estaduais». Governo do Estado do Amazonas. Consultado em 22 de fevereiro de 2015
+↑ «Parques nacionais e estaduais, ecologia e turismo». BV Via Rural. 2010. Consultado em 28 de julho de 2013
+↑ SIDRA IBGE. «Tabela 1286 - População e Distribuição da população nos Censos Demográficos». Instituto Brasileiro de Geografia e Estatística (IBGE). Consultado em 13 de janeiro de 2014
+↑ «Em 12 anos, população do Amazonas teve aumento de 700 mil habitantes». A Crítica. 31 de agosto de 2012. Consultado em 13 de fevereiro de 2013
+↑ Nossa, Leonencio. «Ticunas vivem num lixão da tríplice fronteira». O Estado de S. Paulo. Grupo Estado. Consultado em 21 de julho de 2015
+↑ a b c Censo brasileiro de 2010 (2010). «Proporção de pessoas não naturais do município e proporção de pessoas não naturais da Unidade da federação, ordenados por pessoas não naturais do município, segundo as Unidades da Federação - 2010» (PDF). Instituto Brasileiro de Geografia e Estatística (IBGE). Consultado em 1 de julho de 2012
+↑ a b c d e f g h i j k l «Censo Demográfico 2010: Migração - Amostra». Instituto Brasileiro de Geografia e Estatística (IBGE). 2010. Consultado em 26 de julho de 2013
+↑ a b «Sinopse do Censo Demográfico 2010». Instituto Brasileiro de Geografia e Estatística (IBGE). Consultado em 26 de julho de 2013
+↑ «Estimativas da população - 2012». Estimativas de População. Instituto Brasileiro de Geografia e Estatística (IBGE). 2012. Consultado em 5 de agosto de 2013
+↑ «Censo Demográfico 2010: Características da População e dos Domicílios: Resultados do Universo». Instituto Brasileiro de Geografia e Estatística (IBGE). 2012. Consultado em 13 de dezembro de 2014
+↑ «Censo Demográfico 2010: Resultados Preliminares da Amostra». Instituto Brasileiro de Geografia e Estatística (IBGE). Consultado em 23 de março de 2012
+↑ a b «Censo Demográfico 2010: Resultados Preliminares da Amostra». Instituto Brasileiro de Geografia e Estatística (IBGE). Consultado em 1 de julho de 2012
+↑ «Amazonas - História». Portal do Governo do Estado do Amazonas. 2010. Consultado em 4 de agosto de 2013
+↑ SUDAM (2010). «Demografia». Superintendência de Desenvolvimento da Amazônia. Consultado em 4 de agosto de 2013
+↑ a b SUDAM (maio de 2016). «Consulta Quantitativo - Amazonas (AM)». Tribunal Superior Eleitoral (TSE). Consultado em 27 de maio de 2016
+↑ Abril (8 de março de 2006). «Amazônia, terra prometida - A história dos judeus sefarditas que emigraram para o Pará e o Amazonas». Revista Veja. Consultado em 5 de agosto de 2013
+↑ Fazenda.gov (10 de outubro de 2007). «Conflito de terras envolve projeto da Alcoa». Valor Econômico. Consultado em 4 de agosto de 2013
+↑ a b c «Associação conta a história dos japoneses no Amazonas». Made in Japan. 8 de outubro de 2003. Consultado em 4 de agosto de 2013. Arquivado do original em 20 de maio de 2011
+↑ «Imigração no Brasil». Imigração no Brasil. Consultado em 5 de dezembro de 2008. Arquivado do original em 20 de maio de 2011
+↑ «Características Gerais da População, Religião e Deficiência.». Instituto Brasileiro de Geografia e Estatística (IBGE). 2010. Consultado em 6 de agosto de 2013
+↑ a b «A Presença dos Imigrantes Portugueses em Manaus» (PDF). Universidade do Estado do Amazonas (UEA). Consultado em 17 de novembro de 2012
+↑ a b «Imigração japonesa na Amazônia merece mais investigação». Revista Fapesp. 18 de março de 2013. Consultado em 8 de agosto de 2013
+↑ «Pastoral estima que 1 800 haitianos estejam refugiados em Manaus». G1 Amazonas. Consultado em 16 de novembro de 2012
+↑ a b «Curiosidades do Censo sobre raça no Brasil - Amazonas tem a maior população indígena». UOL Notícias. Consultado em 8 de agosto de 2013
+↑ «Censo Demográfico e Contagem da População». Instituto Brasileiro de Geografia e Estatística (IBGE). Consultado em 8 de agosto de 2013
+↑ «Síntese dos Indicadores Sociais 2010» (PDF). Tabela 8.1 - População total e respectiva distribuição percentual, por cor ou raça, segundo as Grandes Regiões, Unidades da Federação e Regiões Metropolitanas - 2009. Instituto Brasileiro de Geografia e Estatística (IBGE). Consultado em 19 de setembro de 2010. Arquivado do original (PDF) em 22 de agosto de 2011
+↑ «Amazonas é primeiro estado do Brasil a ter feriado no Dia do Mestiço». Portal Amazônia. 28 de junho de 2012. Consultado em 7 de agosto de 2013
+↑ «24 de Junho O Estatuto das Raças e o Caboclo - A Realidade na Amazônia (Dia do Caboclo)». Portal São Francisco. Consultado em 7 de agosto de 2013
+↑ «Autazes estabelece feriado pelo Dia do Mestiço». Nação Mestiça. 14 de janeiro de 2012
+↑ «Direitos originários: Careiro da Várzea institui feriado do Dia do Mestiço». Nação Mestiça. 28 de agosto de 2012. Consultado em 14 de março de 2013
+↑ a b «Polícia Militar do Amazonas - Histórico». Secretaria de Segurança Pública do Amazonas (SSP). Consultado em 23 de novembro de 2012
+↑ Waiselfisz, Julio Jacobo (2010). «Mapa da Violência 2010 - Anatomia dos homicídios no Brasil» (PDF). Instituto Sangari. Consultado em 8 de agosto de 2013
+↑ WAISELFISZ, Julio Jacobo (2010). «Mapa da Violência 2010». Instituto Sangari. Consultado em 8 de agosto de 2012
+↑ WAISELFISZ, Julio Jacobo (2010). «Mapa da Violência 2010». Instituto Sangari. Consultado em 24 de novembro de 2012
+↑ a b @Estados (2010). «Amazonas: Censo Demográfico 2010: Religião - Amostra». Instituto Brasileiro de Geografia e Estatística (IBGE). Consultado em 25 de abril de 2015
+↑ «Templo Mórmon em Manaus». Missão Brasil Manaus. 10 de junho de 2012. Consultado em 8 de agosto de 2013
+↑ a b WebCite. «Estados Brasileiros - Amazonas». Consultado em 23 de março de 2012
+↑ Instituto Brasileiro de Geografia e Estatística (IBGE). «Panorama do estado do Amazonas». Consultado em 9 de maio de 2020
+↑ Supremo Tribunal Federal (STF) (10 de novembro de 1999). «Lei nº 9.868 de 10 de novembro de 1999». Consultado em 26 de junho de 2011
+↑ «Filiados - Tribunal Superior Eleitoral (TSE)». Tribunal Superior Eleitoral (TSE). Abril de 2016. Consultado em 29 de maio de 2016
+↑ a b Instituto Brasileiro de Geografia e Estatística (IBGE) (2017). «Divisão Regional do Brasil». Consultado em 17 de agosto de 2017. Cópia arquivada em 17 de agosto de 2017
+↑ Instituto Brasileiro de Geografia e Estatística (IBGE) (2017). «Base de dados por municípios das Regiões Geográficas Imediatas e Intermediárias do Brasil». Consultado em 9 de fevereiro de 2018
+↑ Instituto Brasileiro de Geografia e Estatística (IBGE) (2017). «Divisão Regional do Brasil». Consultado em 9 de fevereiro de 2018. Cópia arquivada em 9 de fevereiro de 2018
+↑ Instituto Brasileiro de Geografia e Esatística. «Município de Alvarães - Amazonas» (PDF). Consultado em 27 de agosto de 2010
+↑ «Exportações do Amazonas (2012)». Plataforma DataViva. Consultado em 13 de janeiro de 2014
+↑ «Amazonas é o segundo melhor lugar do Brasil para abrir um negócio». Rede Notícia. Consultado em 17 de março de 2013
+↑ «Produto Interno Bruto Trimestral do Amazonas - 1.º Trimestre de 2019» (PDF). SEPLANCTI. Consultado em 12 de outubro de 2019
+↑ «Contas regionais do Brasil 2010» (PDF). Instituto Brasileiro de Geografia e Estatística (IBGE). Consultado em 24 de novembro de 2012
+↑ a b c «Produto Interno Bruto Regional 2018» (PDF). Secretaria de Estado de Desenvolvimento Econômico, Ciência, Tecnologia e Inovação (SEDECTI). 13 de novembro de 2020. Consultado em 13 de novembro de 2020
+↑ a b Estados@ - IBGE (2011). «Pecuária 2011». Consultado em 21 de agosto de 2013
+↑ «Contas Regionais 2018». Agência de Notícias IBGE. 13 de novembro de 2020. Consultado em 17 de dezembro de 2020
+↑ «Produto Interno Bruto Municipal 2018» (PDF). Secretaria de Estado de Desenvolvimento Econômico, Ciência, Tecnologia e Inovação (SEDECTI). Consultado em 17 de dezembro de 2020
+↑ II, Redação (14 de agosto de 2017). «Governador fará repasse a produtores
+da malva e da juta, em Manacapuru». Correio da Amazônia
+↑ Estados@ - IBGE (2011). «Lavoura temporária 2011». Consultado em 21 de agosto de 2013
+↑ Estados@ - IBGE (2011). «Lavoura permanente 2011». Consultado em 21 de agosto de 2013
+↑ Instituto Brasileiro de Geografia e Estatística (IBGE) (2008). «Contas regionais do Brasil 2004-2008» (PDF). Consultado em 22 de novembro de 2012. Arquivado do original (PDF) em 14 de junho de 2011
+↑ Estados@ - IBGE (2011). «Extração vegetal e silvicultura 2011». Consultado em 21 de agosto de 2013
+↑ «Manaus 350 anos». Secretaria de Estado de Desenvolvimento Econômico, Ciência, Tecnologia e Inovação - (SEDECTI). 23 de outubro de 2019. Consultado em 14 de novembro de 2019
+↑ a b «Urucu: completamos 30 anos na Amazônia com gestão responsável». Petrobras. 12 de outubro de 2016. Consultado em 19 de dezembro de 2020
+↑ Revistas fee (2011). «Perspectivas de Crescimento Industrial: O caso da Amazônia». Consultado em 23 de março de 2012
+↑ «A Zona Franca de Manaus». Frigolleto. Consultado em 22 de novembro de 2012
+↑ «Zona Franca de Manaus». Info Escola. Consultado em 22 de novembro de 2012
+↑ «Pólo Industrial de Manaus». SUFRAMA - Superintendência da Zona Franca de Manaus. Consultado em 11 de setembro de 2010
+↑ Suframa - Superintendência da Zona Franca de Manaus. «Área de benefícios». Consultado em 16 de abril de 2010
+↑ «Faturamento do Polo Industrial de Manaus cresceu 10% entre janeiro e novembro». SEPLANCTI
+↑ D24 AM. «Setor industrial em Manaus atinge o segundo maior faturamento do ano». Consultado em 23 de março de 2012
+↑ a b c «Produto Interno Bruto Municipal 2018» (PDF). Secretaria de Estado de Desenvolvimento Econômico, Ciência, Tecnologia e Inovação (SEDECTI). 16 de dezembro de 2020. Consultado em 19 de dezembro de 2020
+↑ «Cadastro Central de Empresas». cidades.ibge.gov.br. Consultado em 5 de agosto de 2018
+↑ «Percentual de pessoas que exerciam seu trabalho em outro município na população de pessoas de 10 anos ou mais de idade, ocupada na semana de referência, em ordem decrescente, por Unidades da Federação - 2010» (PDF). Instituto Brasileiro de Geografia e Estatística (IBGE). Consultado em 1 de julho de 2012
+↑ «Exportações do Amazonas (2012)». Plataforma DataViva. Consultado em 14 de janeiro de 2014
+↑ a b c TOSCANO, Fernando. «Portal Brasil - Amazonas». Portal Brasil. Consultado em 24 de novembro de 2012
+↑ «28 de Agosto vai ser transformado em complexo hospitalar e maternidade». Governo do Estado do Amazonas. 8 de julho de 2008. Consultado em 14 de janeiro de 2020
+↑ a b c «Serviços de saúde 2009 - Amazonas». Instituto Brasileiro de Geografia e Estatística. 2009. Consultado em 17 de agosto de 2013
+↑ «Estados brasileiros - Amazonas». 2004, 2005 e 2009. Portal Brasil. Consultado em 24 de novembro de 2012
+↑ a b PNAD (2008). «Acesso e Utilização dos Serviços, Condições de Saúde e Fatores de Risco e Proteção à Saúde 2008». Instituto Brasileiro de Geografia e Estatística (IBGE). Consultado em 24 de novembro de 2012
+↑ INEP. «Qualidade do sistema educacional será medida por desempenho e taxa de aprovação». Consultado em 6 de fevereiro de 2009
+↑ Programa das Nações Unidas para o Desenvolvimento (PNUD-Brasil). «Índice de Desenvolvimento Humano Municipal, 2010 - Todos os Estados do Brasil». Consultado em 29 de julho de 2013
+↑ Instituto Brasileiro de Geografia e Estatística (IBGE) (2010). «Tabela 8.2 - Taxa de alfabetização das pessoas de 10 anos ou mais de idade, por cor ou raça, segundo as Grandes Regiões, Unidades da Federação e Regiões Metropolitanas - 2010». Consultado em 2 de maio de 2011
+↑ IBGE, Anuário estatístico do Brasil 2001, p. 2-81. Citado em: ADAS, Melhem e ADAS, Sergio. Panorama geográfico do Brasil. 4a. ed. São Paulo: Editora Moderna, 2004. p. 248
+↑ Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP) (2013). «Mapa do Analfabetismo no Brasil - INEP». Plataforma do Letramento. Consultado em 22 de fevereiro de 2015
+↑ a b «Percentual de pessoas que não frequentavam escola na população de 7 a 14 anos de idade, por Unidades da Federação - 2010» (PDF). Instituto Brasileiro de Geografia e Estatística (IBGE). Consultado em 1 de julho de 2012
+↑ a b «Dados Educacionais: Indicadores por localidade - Amazonas». Todos pela Educação - Portal do Ministério da Educação. 2010. Consultado em 22 de fevereiro de 2015
+↑ a b c «Índice de Desenvolvimento da Educação Básica (IDEB) - Resultados e Metas». IDEB 2005, 2007, 2009, 2011, 2013, 2015
+e Projeções para o Brasil. Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira. Consultado em 12 de abril de 2018
+↑ UOL Educação. «DF tem melhor ensino médio do país; Amazonas, o pior, segundo Enem 2008». UOL - Educação. Consultado em 20 de abril de 2011
+↑ D24 AM. «Amazonas tem a escola com a pior nota no Enem 2009». D24 AM. Consultado em 20 de abril de 2011
+↑ «Universidades públicas no Brasil». Rede Emancipa - Educação Popular. 2 de fevereiro de 2013. Consultado em 22 de fevereiro de 2015
+↑ «Universidades brasileiras - Amazonas». Portal Brasil. Consultado em 13 de agosto de 2013
+↑ David, Robert Carvalho de Azevedo (16 de dezembro de 2010). «As dinâmicas do transporte fluvial de passageiros no Estado do Amazonas». Universidade Federal do Amazonas - UFAM. Consultado em 12 de outubro de 2019
+↑ «Investimento privado mantém o Porto Público de Manaus em constante revitalização». Porto de Manaus. 25 de outubro de 2012. Consultado em 6 de agosto de 2013
+↑ «Movimento Operacional dos 63 aeroportos administrados pela Infraero entre janeiro e dezembro de 2012» (PDF). Infraero - Aeroportos. Consultado em 6 de agosto de 2013. Arquivado do original (PDF) em 9 de abril de 2014
+↑ «BR-317 é motivo de audiência pública no interior do Amazonas». Jornal A Crítica. 26 de abril de 2013. Consultado em 6 de agosto de 2013
+↑ «Manaus Ambiental - História». Manaus Ambiental. 2012. Consultado em 12 de julho de 2013
+↑ «Companhia de Saneamento do Amazonas (COSAMA)». Portal do Governo do Estado do Amazonas. Consultado em 12 de julho de 2013
+↑ «Estados brasileiros - Amazonas». Portal Brasil. 2009. Consultado em 12 de julho de 2013
+↑ a b c d e f Mais de 180 anos de imprensa na Amazônia, Paulo Roberto Ferreira pp 2-10
+↑ 100 anos de imprensa no Amazonas (1850-1950), Francisco Jorge Santos pp 5.
+↑ Amazônia de A a Z. «Cultura na Amazônia». Consultado em 2 de fevereiro de 2013
+↑ André Alves, Espaço Vida (3 de março de 2013). «Robério diz que interior do AM fica para trás por falta de comprometimento». Jornal A Crítica. Consultado em 10 de agosto de 2013
+↑ «A criação da Academia Amazonense de Letras - Subsídios para uma história da Academia Amazonense de Letras». Portal Entre Textos. Consultado em 20 de janeiro de 2013
+↑ «Academia de Letras, Ciências e Artes do Amazonas». Portal Amazônia. Consultado em 20 de janeiro de 2013
+↑  «Teatro Amazonas, em Manaus». Os lugares do mundo. 24 de dezembro de 2008
+↑ a b c d «Teatro Amazonas». Manaus Mais. Consultado em 6 de julho de 2013
+↑ «Teatro da Instalação». Manaus Mais. Consultado em 6 de julho de 2013
+↑ «Teatros - Pontos turísticos». Manaus Mais. Consultado em 6 de julho de 2013
+↑ «Escolas de samba do Grupo Especial desfilam no Sambódromo de Manaus». G1. Consultado em 12 de outubro de 2019
+↑ «Carnaval de Manaus». Portal Cultura Amazonas. Consultado em 12 de outubro de 2019
+↑ «Carnaval de Manaus leva 120 mil pessoas ao sambódromo». Terra. Consultado em 12 de outubro de 2019
+↑ Lozano, André (6 de fevereiro de 1994). «TV vai mostrar desfile ao vivo para todo o país». Folha de S. Paulo. Consultado em 10 de outubro de 2019
+↑ SALES, Daniel (2008). É Tempo de Sambar - História do Carnaval de Manaus (com ênfase às Escolas de Samba). Manaus: Nortemania. 236 páginas  |acessodata= requer |url= (ajuda)
+↑ BARBIERI, Ricardo José (2011). «As escolas de samba e a cidade de Manaus (AM): construindo uma proposta de pesquisa etnográfica». Universidade Federal do Amazonas - UFAM. Consultado em 12 de outubro de 2019
+↑ a b c d e «Festival Folclórico de Parintins». Info Escola. Consultado em 7 de julho de 2013
+↑ a b c d «O Boi-Bumbá de Parintins, Amazonas: breve história e etnografia da festa». Scielo. Consultado em 7 de julho de 2013
+↑ «Boi Bumbá do Amazonas agora é Patrimônio Cultural do Brasil». Instituto do Patrimônio Histórico e Artístico Nacional (IPHAN). Consultado em 12 de outubro de 2019
+↑ «Festival de Ciranda agita Manacapuru no fim de semana». Portal Cultura Amazonas. Consultado em 12 de outubro de 2018
+↑ Festival da Canção de Itacoatiara (FECANI) (20 de novembro de 2011). «Festival da Canção de Itacoatiara - História do FECANI». Consultado em 7 de julho de 2013
+↑ Vida & Estilo - Terra. «Festa do Guaraná tem rainha, lendas e mitos indígenas no Amazonas». Consultado em 7 de julho de 2013
+↑ «Festa comemora feriados do Dia do Mestiço em Autazes e Careiro da Várzea». Movimento Pardo-Mestiço Brasileiro. Consultado em 7 de julho de 2013
+↑ «Município de Manicoré, AM». Gente de Opinião. Consultado em 8 de agosto de 2013
+↑ Gurgel, Geraldo (20 de junho de 2016). «Presidente Figueiredo: o paraíso das cachoeiras do Amazonas». Ministério do Turismo. Consultado em 10 de maio de 2020
+↑ «Complexo de Conservação da Amazônia Central | UNESCO». www.unesco.org. Consultado em 17 de agosto de 2018
+↑ «Parque Nacional de Anavilhanas». sistemas.mma.gov.br. Consultado em 11 de agosto de 2018
+↑ «Amazonas conquista, em Londres, prêmio de Melhor destino verde da América Latina». Portal do Governo do Estado do Amazonas. 12 de novembro de 2009. Consultado em 10 de agosto de 2013
+↑ «Média de satisfação dos turistas no Amazonas é de 77,38%». Empresa Estadual de Turismo do Amazonas (Amazonastur). Consultado em 12 de outubro de 2019
+↑ a b «Manaus é eleita por viajantes como 7º melhor destino do Brasil, diz pesquisa». G1 Amazonas. 28 de maio de 2013. Consultado em 10 de agosto de 2013
+↑ «Curitiba e Foz estão entre os 10 melhores destinos turísticos do Brasil, diz site». Gazeta do Povo. 12 de julho de 2013. Consultado em 10 de agosto de 2013
+↑ «Artesanato do Amazonas é destaque de exposição em centro de referência». D24 AM. 23 de maio de 2013. Consultado em 5 de agosto de 2013
+↑ «Artesanato do Amazonas». Visita Amazonas - O destino verde no Brasil. Consultado em 5 de agosto de 2013
+↑ «Amazonas sediará 1ª edição da Feira do Artesanato Mundial». Portal do Governo do Estado do Amazonas. Consultado em 5 de agosto de 2013
+↑ «Feira de Artesanato em Parintins fortalece a economia local». Correio da Amazônia. Consultado em 5 de agosto de 2013
+↑ a b c d «Amazonas (AM) Culinária Amazonense». Brasil Channel. Consultado em 2 de fevereiro de 2013
+↑ a b Guia do Brasil. «Amazonas». Rio 2016. Consultado em 10 de agosto de 2013
+↑ «Amazonas, Manaus - Gastronomia». Secretaria de Planejamento do Estado do Amazonas (SEPLAN). Consultado em 13 de fevereiro de 2013
+↑ «O Açaí, fruto típico de uma palmeira amazônica, ganhou o mundo». Ambiente Amazônia, Ambiente Brasil. Consultado em 10 de agosto de 2013
+↑ «Cultivo do Araçá-boi - Descrição da planta». Instituto Nacional de Pesquisas da Amazônia - INPA). Consultado em 10 de agosto de 2013
+↑ «Cupuaçu uma fruta típica da Amazônia». Ambiente Amazônia. Consultado em 15 de fevereiro de 2013
+↑ a b «Guaraná da Amazônia». Amazônia de A a Z. Consultado em 15 de fevereiro de 2013
+↑ a b «Bacuri: fruta amazônica em ascensão». Ciência Hoje - UOL. Consultado em 13 de fevereiro de 2013
+↑ «Buriti». Amazônia de A a Z. Consultado em 15 de fevereiro de 2013
+↑ a b «Frutas da Amazônia». Amazônia de A a Z. Consultado em 15 de fevereiro de 2013
+↑ «Bacaba». Amazônia de A a Z. Consultado em 15 de fevereiro de 2013
+↑ «Patauá: a oliveira da Amazônia». Ambiente Brasil. Consultado em 15 de fevereiro de 2013
+↑ «As frutas da Amazônia que previnem doenças». Revista Abril. Consultado em 13 de fevereiro de 2013
+↑ «Secretaria de Estado da Juventude e Lazer – SEJEL». Portal do Governo do Estado do Amazonas. Consultado em 7 de julho de 2013
+↑ «Conheça a Federação Amazonense de Futebol (FAF)». Federação Amazonense de Futebol (FAF). Consultado em 5 de agosto de 2013
+↑ a b c d e f «A História do Futebol Amazonense». Campeões do Futebol. Consultado em 5 de agosto de 2013
+↑ «Clubes de futebol filiados à Federação Amazonense de Futebol (FAF)». Federação Amazonense de Futebol (FAF). Consultado em 5 de agosto de 2013
+↑ «Clubes de futebol filiados à Federação Amazonense de Futebol (FAF)». Federação Amazonense de Futebol (FAF). Consultado em 5 de agosto de 2013
+↑ «Clubes de futebol filiados à Federação Amazonense de Futebol (FAF)». Federação Amazonense de Futebol (FAF). Consultado em 5 de agosto de 2013
+↑ «Clubes de futebol filiados à Federação Amazonense de Futebol (FAF)». Federação Amazonense de Futebol (FAF). Consultado em 5 de agosto de 2013
+↑ Craque (15 de abril de 2013). «Flaviano Limongi é considerado um dos nomes mais influentes da história do futebol amazonense». Jornal A Crítica. Consultado em 5 de agosto de 2013
+↑ «Obras de demolição do estádio Vivaldo Lima». Jornal A Crítica. Consultado em 5 de agosto de 2013
+↑ a b «Governo do Amazonas vai realizar a 1ª Copa Indígena da Região Metropolitana de Manaus». Portal do Governo do Estado do Amazonas. 1 de dezembro de 2011. Consultado em 5 de agosto de 2013
+↑ «Copa Indígena». Jornal A Crítica. 2011. Consultado em 5 de agosto de 2013
+↑ «Maués fatura título no Vôlei de Praia Feminino Juvenil (JEAS) 2013». Secretaria de Estado da Juventude, Desporto e Lazer do Amazonas (SEJEL-AM). 9 de agosto de 2013. Consultado em 10 de agosto de 2013
+↑ «Recanto da Criança dá show e conquista título no Futsal Infantil do JEAS 2013». Secretaria de Estado da Juventude, Desporto e Lazer do Amazonas (SEJEL-AM). 9 de agosto de 2013. Consultado em 10 de agosto de 2013
+↑ «La Salle bate Nilton Lins e fatura ouro no torneio de voleibol dos JEAS 2013». Secretaria de Estado da Juventude, Desporto e Lazer do Amazonas (SEJEL-AM). 9 de agosto de 2013. Consultado em 10 de agosto de 2013
+↑ «Entre estudo e esporte, atletas do Amazonas preferem o primeiro». D24 Amazonas. 9 de setembro de 2010. Consultado em 10 de agosto de 2013
+↑ «Muay thai cresce com ajuda do MMA e atrai mais adeptos em Manaus». D24 Amazonas. 15 de outubro de 2012. Consultado em 10 de agosto de 2013
+↑ Guia do Brasil. «Amazonas». Rio 2016. Consultado em 10 de agosto de 2013
+↑ «Após Rio de Janeiro, Manaus receberá evento do UFC em agosto de 2012». Esportes UOL. 23 de agosto de 2011. Consultado em 10 de agosto de 2013
+↑ «FVO». FVO. Consultado em 25 de outubro de 2015
+↑ Portal da Copa. «Cidades Sede da Copa do Mundo FIFA de 2014». Ministério dos Esportes. Consultado em 11 de agosto de 2013
+↑ «Destino - Cidades-Sede». FIFA. Consultado em 11 de agosto de 2013
+↑ Bom negócio.com. «Feriados estaduais dos estados brasileiros». Feriados municipais. Consultado em 7 de julho de 2013
+Bibliografia[editar | editar código-fonte]
+Sales, Daniel; É Tempo de Sambar - História do Carnaval de Manaus; Manaus: Nortemania, 2008
+Ligações externas[editar | editar código-fonte]
+Outros projetos Wikimedia também contêm material sobre este tema:
+Livros e manuais no Wikilivros
+Citações no Wikiquote
+Imagens e media no Commons
+Notícias no Wikinotícias
+Commons
+Wikiquote
+Wikilivros
+Wikinotícias
+«Governo do Estado do Amazonas»
+«Assembleia Legislativa do Estado do Amazonas»
+«Tribunal de Justiça do Estado do Amazonas»
+«Ministério Público do Estado do Amazonas»
+«Imprensa Oficial do Estado do Amazonas»
+«SEDECTI»
+«IBGE»
+Portal do Amazonas
+Amazonasvde Amazonas Portal — Geografia, Política, Cultura, EsportesCapitalManausDivisão regional vigente (desde 2017)Regiões geográficas intermediárias e imediatasDivisão regional extinta (vigente até 2017)Mesorregiões e microrregiõesRegiões Metropolitanas e RIDEsManausMais de 1.000.000 habitantesManausMais de 100.000 habitantesParintins • ItacoatiaraMais de 50.000 habitantesManacapuru • Coari • Tefé • Tabatinga • Maués • Manicoré • HumaitáNorte, Brasil vde Regiões e unidades federativas do Brasil
+Subdivisões do Brasil
+Unidades da FederaçãoRegião Norte
+Acre
+Amapá
+Amazonas
+Pará
+Rondônia
+Roraima
+Tocantins
+Região Nordeste
+Alagoas
+Bahia
+Ceará
+Maranhão
+Paraíba
+Pernambuco
+Piauí
+Rio Grande do Norte
+Sergipe
+Região Centro-Oeste
+Distrito Federal
+Goiás
+Mato Grosso
+Mato Grosso do Sul
+Região Sudeste
+Espírito Santo
+Minas Gerais
+Rio de Janeiro
+São Paulo
+Região Sul
+Paraná
+Rio Grande do Sul
+Santa Catarina
+Arquipélagos
+Anavilhanas
+Fernando de Noronha
+Atol das Rocas
+Arquipélago de São Pedro e São Paulo
+Trindade e
+Martim Vaz
+Geoeconômicas
+Amazônica
+Centro-Sul
+Nordeste
+Propostas de criação de unidades federativas do Brasil
+vde Fronteiras do BrasilComissões demarcadoras de fronteira1 PCDL • 2 PCDLPaíses limítrofesArgentina • Bolívia • Colômbia • Guiana Francesa (França) • Guiana • Paraguai • Peru • Suriname • Uruguai • VenezuelaMacrorregiões fronteiriçasCentro-Oeste • Norte • SulEstados fronteiriçosAcre • Amapá • Amazonas • Mato Grosso • Mato Grosso do Sul • Pará • Paraná • Rio Grande do Sul • Rondônia • Roraima • Santa CatarinaMunicípios fronteiriçosSocioeconômicoÁrea • Área urbana • População • Densidade demográfica • PIB • PIB per capita • renda per capita • IDH • GiniBifronteiriços ou tríplices fronteirasAtalaia do Norte • Assis Brasil • Barra do Quaraí • Corumbá • Foz do Iguaçu • Laranjal do Jari • Oriximiná • São Gabriel da Cachoeira • Uiramutã • UruguaianaFronteira simplesAceguá • Acrelândia • Alecrim • Almeirim • Alta Floresta dOeste • Alto Alegre • Alto Alegre dos Parecis • Amajari • Antônio João • Aral Moreira • Arroio Grande • Bagé • Bandeirante • Barcelos • Barracão • Bela Vista • Belmonte • Benjamin Constant • Bom Jesus do Sul • Bonfim • Brasileia •
+Cabixi •
+Cáceres • Capanema • Capixaba • Caracaraí • Caracol • Caroebe • Chuí • Comodoro • Coronel Sapucaia • Costa Marques • Crissiumal • Cruzeiro do Sul • Derrubadas • Dionísio Cerqueira • Dom Pedrito • Doutor Maurício Cardoso • Entre Rios do Oeste • Epitaciolândia • Esperança do Sul • Feijó • Garruchos • Guaíra • Guajará • Guajará-Mirim • Guaraciaba • Herval • Iracema • Itaipulândia • Itapiranga • Itaqui • Jaguarão • Japorã • Japurá • Jordão • Mâncio Lima • Manoel Urbano • Marechal Cândido Rondon • Marechal Thaumaturgo • Mercedes • Mundo Novo • Normandia • Novo Machado • Nova Mamoré • Óbidos • Oiapoque • Pacaraima • Paraíso • Paranhos • Pato Bragado • Pedras Altas • Pérola dOeste • Pimenteiras do Oeste • Pirapó • Plácido de Castro • Planalto • Poconé • Ponta Porã • Porto Esperidião • Porto Lucena • Porto Mauá • Porto Murtinho • Porto Velho • Porto Vera Cruz • Porto Walter • Porto Xavier • Pranchita • Princesa • Quaraí • Rodrigues Alves • Roque Gonzales • Santa Helena (PR) • Santa Helena (SC) • Santa Isabel do Rio Negro • Santa Rosa do Purus • Santa Vitória do Palmar • Santa Terezinha de Itaipu • Santana do Livramento • Santo Antônio do Içá • Santo Antônio do Sudoeste • São Borja • São Francisco do Guaporé • São José do Cedro • São Miguel do Iguaçu • São Nicolau • Sena Madureira • Serranópolis do Iguaçu • Sete Quedas • Tabatinga • Tiradentes do Sul • Tunápolis • Vila Bela da Santíssima Trindade BrasilControle de autoridade
+: Q40040
+BNF: 11978558x
+EBID: ID
+GEC: 0003373
+GND: 4001627-4
+NKC: ge827312
+NLI: 000980729
+OSM: 332476
+MusicBrainz: ID
+GeoNames: 3665361
+TGN: 1001826
+Portal do Brasil
+Portal do Amazonas
+Portal da região Norte do Brasil
+Obtida de https://pt.wikipedia.org/w/index.php?title=Amazonas&oldid=62237123
+Categoria: AmazonasCategorias ocultas: !CS1 inglês-fontes em língua (en)!CS1 manut: Formato data!CS1 manut: Nomes múltiplos: lista de autores!Páginas com referências sem URL e com acessodata!Páginas que usam hiperligações mágicas ISBN!Predefinição:Artigo principal com parâmetro vt!Páginas que utilizam Nobold com segundo parâmetro sem nome!Artigos destacados
+Esta página foi editada pela última vez às 07h11min de 14 de outubro de 2021.
+Este texto é disponibilizado nos termos da licença Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as condições de utilização.
+Política de privacidade
+Sobre a Wikipédia
+Avisos gerais
+Versão móvel
+Programadores
+Estatísticas
+Declaração sobre cookies');
+Document.create!(url: 'https://pt.wikipedia.org/wiki/Para', title: 'Para – Wikipédia, a enciclopédia livre', body: 'Para – Wikipédia, a enciclopédia livre
+Saltar para o conteúdo
+Alternar barra lateral
+Busca
+Links do usuário
+Criar uma conta
+Ferramentas pessoais
+expanded
+collapsed
+Criar uma conta
+Entrar
+Páginas para editores conectados saiba mais
+DiscussãoContribuições
+Navegação
+Página principalConteúdo destacadoEventos atuaisEsplanadaPágina aleatóriaPortaisInformar um erro
+Colaboração
+Boas-vindasAjudaPágina de testesPortal comunitárioMudanças recentesManutençãoCriar páginaPáginas novasContatoDonativos
+Ferramentas
+Páginas afluentesAlterações relacionadasCarregar ficheiroPáginas especiaisHiperligação permanenteInformações da páginaCitar esta páginaElemento Wikidata
+Imprimir/exportar
+Criar um livroDescarregar como PDFVersão para impressão
+Espaços nominais
+ArtigoDiscussão
+Variantes
+expanded
+collapsed
+Vistas
+LerEditarEditar código-fonteVer histórico
+Mais
+expanded
+collapsed
+37 idiomas
+expanded
+collapsed
+العربيةБеларускаяБългарскиBrezhonegCatalàCebuanoČeštinaDanskDeutschEnglishEspañolEestiSuomiFrançaisHrvatskiBahasa IndonesiaItaliano日本語한국어LietuviųLatviešuNederlandsPolskiRomânăРусскийSrpskohrvatski / српскохрватскиSlovenčinaSlovenščinaСрпски / srpskiSvenskaไทยTagalogTürkçeУкраїнськаاردوOʻzbekcha/ўзбекча中文
+Editar hiperligações
+Para
+Origem: Wikipédia, a enciclopédia livre.
+Esta é uma página de desambiguação que lista os artigos que podem ser associados a um ou vários títulos.Se uma ligação interna o conduziu até aqui, sugerimos que a corrija para apontá-la diretamente ao artigo adequado.
+O Wikcionário tem o verbete para.Índice
+1 Geografia
+1.1 Brasil
+1.2 Suriname
+2 Futebolistas
+3 Outros
+4 Ver também
+Para, Pará ou Parã pode referir-se a:
+Geografia[editar | editar código-fonte]
+Brasil[editar | editar código-fonte]
+Pará — unidade federativa do Brasil
+Rio Pará — curso dágua no estado do Pará
+Pará de Minas — município do estado de Minas Gerais
+Parã — comunidade indígena no estado de Espírito Santo
+Suriname[editar | editar código-fonte]
+Para (distrito)
+Futebolistas[editar | editar código-fonte]
+Marcos Rogério Ricci Lopes — vulgo Pará
+Erinaldo Santos Rabelo — vulgo Pará
+Outros[editar | editar código-fonte]
+Classe Pará — classe de navios da Marinha do Brasil
+Pará Clube — clube recreativo brasileiro da cidade de Belém, Pará
+Ver também
+Todas as páginas cujo título começa por Para
+Busca por para
+Todas as páginas cujo título começa por Pará
+Busca por pará
+Todas as páginas cujo título começa por Parã
+Busca por parã
+Obtida de https://pt.wikipedia.org/w/index.php?title=Para&oldid=50866185
+Categorias: DesambiguaçãoDesambiguações de antropônimosDesambiguações de topônimos
+Esta página foi editada pela última vez às 12h33min de 28 de dezembro de 2017.
+Este texto é disponibilizado nos termos da licença Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as condições de utilização.
+Política de privacidade
+Sobre a Wikipédia
+Avisos gerais
+Versão móvel
+Programadores
+Estatísticas
+Declaração sobre cookies');
+Document.create!(url: 'https://pt.wikipedia.org/wiki/Mato_Grosso', title: 'Mato Grosso – Wikipédia, a enciclopédia livre', body: 'Mato Grosso – Wikipédia, a enciclopédia livre
+Saltar para o conteúdo
+Alternar barra lateral
+Busca
+Links do usuário
+Criar uma conta
+Ferramentas pessoais
+expanded
+collapsed
+Criar uma conta
+Entrar
+Páginas para editores conectados saiba mais
+DiscussãoContribuições
+Navegação
+Página principalConteúdo destacadoEventos atuaisEsplanadaPágina aleatóriaPortaisInformar um erro
+Colaboração
+Boas-vindasAjudaPágina de testesPortal comunitárioMudanças recentesManutençãoCriar páginaPáginas novasContatoDonativos
+Ferramentas
+Páginas afluentesAlterações relacionadasCarregar ficheiroPáginas especiaisHiperligação permanenteInformações da páginaCitar esta páginaElemento Wikidata
+Imprimir/exportar
+Criar um livroDescarregar como PDFVersão para impressão
+Noutros projetos
+Wikimedia CommonsWikinotíciasWikivoyage
+Espaços nominais
+ArtigoDiscussão
+Variantes
+expanded
+collapsed
+Vistas
+LerEditarEditar código-fonteVer histórico
+Mais
+expanded
+collapsed
+92 idiomas
+expanded
+collapsed
+AcèhAfrikaansالعربيةAsturianuAymar aruAzərbaycancaBoarischБеларускаяБеларуская (тарашкевіца)Българскиবিষ্ণুপ্রিয়া মণিপুরীBrezhonegBosanskiCatalàCebuanoQırımtatarcaČeštinaCymraegDanskDeutschΕλληνικάEmiliàn e rumagnòlEnglishEsperantoEspañolEestiEuskaraفارسیSuomiFrançaisGaeilgeGalegoAvañeẽעבריתहिन्दीHrvatskiMagyarՀայերենInterlinguaBahasa IndonesiaIdoItaliano日本語ქართულიҚазақша한국어KernowekLatinaLadinoLimburgsLietuviųLatviešuMalagasyМакедонскиमराठीBahasa MelayuNederlandsNorsk nynorskNorsk bokmålOccitanИронPolskiPiemontèisپنجابیRuna SimiRomânăРусскийScotsSrpskohrvatski / српскохрватскиSimple EnglishSlovenčinaСрпски / srpskiSvenskaKiswahiliதமிழ்TetunТоҷикӣไทยTürkçeТатарча/tatarçaУкраїнськаاردوOʻzbekcha/ўзбекчаVènetoTiếng ViệtVolapükWinaray吴语Yorùbá中文Bân-lâm-gú粵語
+Editar hiperligações
+Mato Grosso
+Origem: Wikipédia, a enciclopédia livre.
+Coordenadas: 12.99° S 55.99° O
+Nota: Não confundir com Mato Grosso do Sul.
+Nota: Este artigo é sobre o estado. Para outros significados, veja Mato Grosso (desambiguação).
+Esta página cita fontes, mas estas não cobrem todo o conteúdo. Ajude a inserir referências. Conteúdo não verificável poderá ser removido.—Encontre fontes: Google (notícias, livros e acadêmico) (Junho de 2020)
+Estado de Mato Grosso
+Bandeira
+Brasão
+Lema: Virtute Plusquam Auro
+(traduzido do latim, significa: Pela virtude mais do que pelo ouro)
+Hino: Hino de Mato Grosso
+Gentílico: Mato-grossense
+Localização
+- Região
+Centro-Oeste
+- Estados limítrofes
+Amazonas, Pará, (N); Tocantins, Goiás (L); Mato Grosso do Sul (S); Rondônia e Bolívia (O).
+- Regiões geográficas   intermediárias
+5
+- Regiões geográficas   imediatas
+18
+- Municípios
+141
+Capital
+Cuiabá
+Governo
+- Governador(a)
+Mauro Mendes (DEM)
+- Vice-governador(a)
+Otaviano Pivetta (PDT)
+- Deputados federais
+8
+- Deputados estaduais
+24
+- Senadores
+Jayme Campos (DEM)Carlos Fávaro (PSD)Wellington Fagundes (PL)
+Área
+- Total
+903 207,050 km² (3º) [1]
+População
+2021
+- Estimativa
+3 567 234 hab. (16º)[2]
+- Densidade
+3,95 hab./km² (25º)
+Economia
+2017[3]
+- PIB
+R$ 126,805 bilhões  (13º)
+- PIB per capita
+R$ 37,914 mil (5º)
+Indicadores
+2010/2015[4][5]
+- Esperança de vida (2015)
+74,0 anos (12º)
+- Mortalidade infantil (2015)
+17,3‰ nasc. (10º)
+- Alfabetização (2010)
+92,2% (11º)
+- IDH (2017)
+0,774 (8º) – alto [6]
+Fuso horário
+UTC−04:00
+Clima
+Equatorial e tropical Am, Aw
+Cód. ISO 3166-2
+BR-MT
+Site governamental
+http://www.mt.gov.br/
+Mato Grosso
+é uma das 27 unidades federativas do Brasil. Está localizado na região Centro-Oeste. Tem a porção norte de seu território ocupada pela Amazônia Legal, sendo o sul do estado pertencente ao Centro-Sul do Brasil. Extensas planícies e amplos planaltos dominam a área, sendo que a maior parte destes (cerca de 74%) se encontra abaixo dos seiscentos metros de altitude. Juruena, Teles Pires, Xingu, Araguaia, Paraguai, Rio Guaporé, Piqueri, São Lourenço, das Mortes e Cuiabá são os rios principais.
+Tem como limites os estados do Amazonas, Pará (norte); Tocantins, Goiás (leste); Mato Grosso do Sul (sul); Rondônia e a Bolívia (oeste), país vizinho. Ocupa uma área equivalente à da Venezuela e não muito menor do que a vizinha Bolívia. Mato Grosso está organizado em 22 microrregiões e cinco mesorregiões, dividindo-se em 141 municípios, sendo os mais populosos e importantes: a capital Cuiabá, Várzea Grande, Rondonópolis, Sinop, Tangará da Serra, Barra do Garças e Cáceres.
+Pelo Tratado de Tordesilhas (de 7 de junho de 1494), o território do atual estado de Mato Grosso pertencia à Espanha. Os jesuítas, a serviço dos espanhóis, criaram os primeiros núcleos, de onde foram expulsos pelos bandeirantes paulistas em 1680. Em 1718, a descoberta do ouro acelerou o povoamento. Em 1748, para garantir a nova fronteira, Portugal criou a capitania de Mato Grosso e, lá, construiu um eficiente sistema de defesa. O Tratado de Madri, de 1750, reconheceu as conquistas bandeirantes na região de Mato Grosso, para dirimir questões de limites entre Portugal e Espanha. Com a chegada dos seringueiros, pecuaristas e exploradores de erva-mate na primeira metade do século XIX, o estado retomou o desenvolvimento. Em 1977, a parte sul do estado foi legalmente desmembrada, formando, assim, um novo estado, Mato Grosso do Sul, o que na prática só se daria em 1979.
+Índice
+1 História
+1.1 Colonização europeia
+1.2 Corrida do ouro
+1.3 Problemas de fronteiras
+1.4 Século XIX
+1.5 Século XX
+2 Geografia
+2.1 Relevo
+2.2 Fuso horário
+2.3 Clima
+3 Demografia
+3.1 Municípios mais populosos
+4 Governo e política
+5 Subdivisões
+6 Economia
+7 Infraestrutura
+7.1 Transportes
+7.2 Educação
+8 Cultura
+8.1 Música e dança
+9 Ver também
+10 Referências
+11 Ligações externas
+História[editar | editar código-fonte]
+Ver artigo principal: História de Mato Grosso
+Colonização europeia[editar | editar código-fonte]
+Mapa do século XVIII da região
+O primeiro europeu a desbravar a área que viria a constituir o estado de Mato Grosso foi o português Aleixo Garcia (há quem lhe atribua, sem provas decisivas, a nacionalidade espanhola), náufrago da esquadra de Juan Díaz de Solís. Em 1525, ele atravessou a mesopotâmia formada pelos rios Paraná e Paraguai e, à frente de uma expedição que chegou a contar com 2 000 homens, avançou até a Bolívia. De volta, com grande quantidade de prata e cobre, Garcia foi morto por índios paiaguás. Sebastião Caboto também penetrou na região em 1526 e subiu o Paraguai até alcançar o domínio dos guaranis, com os quais travou relações de amizade e de quem recebeu, como presente, peças de metais preciosos.
+Os fantásticos relatos sobre imensas riquezas do interior do continente sul-americano acenderam as ambições de portugueses e espanhóis. Os primeiros, a partir de São Paulo, lançaram-se em audaciosas incursões, nas quais prepararam
+índios e alargaram as fronteiras do Brasil. As bandeiras paulistas chocaram-se com tropas espanholas do cabildo de Assunção e com resistência das missões jesuíticas.
+Desde 1632, os bandeirantes conheciam, de passagem e de lutas, a região onde os jesuítas haviam localizado as suas reduções de índios e que os espanhóis percorriam como terra sua. Antônio Pires de Campos chegou criança, em 1672, com a bandeira paterna, às depois famosas minas dos Martírios. Já adulto, retomou o caminho da serra misteriosa e navegou, de contracorrente, os rios Paraguai e São Lourenço, embicando Cuiabá acima, até o atual Porto de São Gonçalo Velho, onde se chocou com os índios coxiponés.
+Corrida do ouro[editar | editar código-fonte]
+Mapa português para colonização de Vila Bela da Santíssima Trindade, primeira capital da Capitania de Mato Grosso
+A notícia de índios pouco ariscos e descuidados logo se espalhou. Em 1718, um bandeirante de Sorocaba, Pascoal Moreira Cabral Leme, descendente de índios, subiu o Rio Coxipó até atingir a aldeia destruída dos coxiponés, onde deu início à rancharia de uma base de operações. Às margens do Coxipó e do Cuiabá, Cabral Leme descobriu abundante jazida de ouro. A caça ao índio cedeu vez, então, às atividades mineradoras. Em 8 de abril de 1719, foi lavrado o termo de fundação do arraial de Cuiabá, e aclamou-se Pascoal guarda-mor regente para poder guardar todos os ribeiros de ouro, socavar, examinar, fazer composições com os mineiros e botar bandeiras, tanto aurinas, como ao inimigo bárbaro.
+A notícia da descoberta de ouro não tardou em transpor os sertões, dando motivo a uma corrida sem precedentes para o oeste. A viagem até Cuiabá, distante mais de quinhentas léguas do litoral atlântico, exigia de quatro a seis meses, e era arriscada e difícil em consequência do desconforto, das febres e dos ataques indígenas.[7] Rodrigo César de Meneses, capitão-general da capitania de São Paulo, chegou a Cuiabá no fim de 1726 e ali permaneceu cerca de um ano e meio. A localidade recebeu o título de Vila Real do Senhor Bom Jesus do Cuiabá. Constituiu-se a câmara e nomeou-se um corpo de funcionários encarregados de dar cumprimento ao rigoroso regulamento fiscal da coroa. Em 1729, foi criado o lugar de ouvidor.
+Problemas de fronteiras[editar | editar código-fonte]
+Divisão administrativa do Brasil após a Guerra dos Emboabas.
+O Tratado de Madri, de 1750, reconheceu as conquistas bandeirantes na região de Mato Grosso, para dirimir questões de limites entre Portugal e Espanha. Outro tratado, de 1761, modificou o anterior, ao proibir construções fortificadas na faixa de fronteira. Os espanhóis exigiram a evacuação de Santa Rosa, ocupada e fortificada por Rolim de Moura, que resolveu enfrentá-los. Travou-se luta, sem vantagem decisiva para nenhuma das partes. Afinal, os castelhanos se retiraram em 1766, já sob o governo do sucessor de Rolim, seu sobrinho João Pedro da Câmara. Expulsos os jesuítas das missões espanholas, em 1767, a situação tornou-se mais tranquila para Portugal.
+Luís de Albuquerque de Melo Pereira e Cáceres, que governou de 1772 a 1789, tomou, porém, a iniciativa de reforçar o esquema defensivo. Construiu, à margem do Rio Guaporé, o Forte Real do Príncipe da Beira, no qual chegaram a trabalhar mais de duzentos obreiros e, no sul, sobre o Rio Paraguai, abaixo do Rio Miranda, o Presídio de Nova Coimbra. Fundou Vila Maria (mais tarde São Luís de Cáceres, ou simplesmente Cáceres), Casalvasco, Salinas e Corixa Grande. Criticou severamente o novo tratado luso-espanhol de 1777 (Tratado de Santo Ildefonso) no tocante a Mato Grosso, por achar que encerrava concessões prejudiciais a Portugal. Usou no levantamento cartográfico e na delimitação de fronteiras os serviços de dois astrônomos e matemáticos brasileiros recém-formados em Coimbra, Francisco José de Lacerda e Almeida e Antônio Pires da Silva Pontes, e dos geógrafos capitães Ricardo Francisco de Almeida Serra e Joaquim José Ferreira.
+Caetano Pinto de Miranda Montenegro, o futuro Marquês de Vila Real de Praia Grande, chegou a Cuiabá em 1796 para assumir o cargo de capitão-general, com recomendação da metrópole para elaborar um plano de defesa que protegesse a capitania contra qualquer tentativa de invasão. A guerra com os espanhóis foi deflagrada em 1801, quando Lázaro de Ribera, à frente de oitocentos homens, atacou o Forte de Coimbra, defendido bravamente por Ricardo Franco, com apenas cem homens, que conseguiram repelir o invasor. A paz, todavia, só foi firmada em Badajoz, em 6 de maio de 1802. A capitania, com meio século de vida autônoma, consolidou sua estabilidade territorial e neutralizou de imediato o perigo de novas invasões.
+No fim do período colonial, registrou-se certo declínio da capitania. Cuiabá e Vila Bela haviam sido elevadas à categoria de cidade. Em 20 de agosto de 1821, Magessi foi deposto pela tropa, clero, nobreza e povo, como ambicioso em extremo, concussionário insaciável, hipócrita. Formou-se, em Cuiabá, uma junta governativa que jurou lealdade ao príncipe dom Pedro e outra, dissidente, em Vila Bela da Santíssima Trindade, com o que se estabeleceu a dualidade de poder.
+Em abril de 1878, em função do Tratado de Ayacucho, foram enviadas, para Corumbá, as Plantas Geográficas dos Rios Guaporé e Mamoré, sendo que a cartografia para delimitar os limites fronteiriços dos rios Guaporé e Mamoré foi levantada e apresentada pela Segunda Seção Brasileira, sediada na mesma cidade, tendo sido todas chanceladas pelos delegados brasileiros e bolivianos. Continuando, a descrição diz Destas cabeceiras continuam os limites pelo leito do mesmo rio até sua confluência com o Guaporé, e depois pelo leito deste e do Mamoré até sua confluência com o Beni, onde principia o Rio Madeira. Em 1878 e 1879, houve troca de notas da chancelaria boliviana com a embaixada do Brasil em La Paz, acusando o recebimento e aprovando a Carta Geral, conforme ajustado na Sétima Conferência da Comissão Mista.
+Século XIX[editar | editar código-fonte]
+Coronel Frederico Carneiro de Campos prisioneiro no Paraguai.
+A notícia da independência do Brasil , que ocorreu em 7 de setembro de 1822, só chegou na província de Mato Grosso em 22 de janeiro de 1823. A demora deve-se ao fato de que o difícil acesso a Mato Grosso àquela época, sobretudo no período de chuvas, dificultou a chegada imediata da notícia da independência. Logo depois, um governo provisório único substituiu as duas juntas e foi instalado em Cuiabá, o que transformou Vila Bela da Santíssima Trindade em capital destronada. As lutas entre as tendências conservadora e liberal refletiram-se na província durante o primeiro reinado e a regência. Foi montada, em Cuiabá, a tipografia na qual seria impresso o primeiro jornal da província, a Tifis Matogrossense, cujo primeiro número circulou em 14 de agosto de 1839. A situação econômico-financeira da província se agravou, com um deficit orçamentário crescente.
+Os governos se sucederam sem acontecimentos de maior relevo até a Guerra do Paraguai. Uma guarda defensiva montada em 1850 no Morro do Pão de Açúcar pelo governador João José da Costa Pimentel irritou o governo paraguaio. Pimentel então recuou ante gestões diplomáticas realizadas em Assunção. Foi substituído pelo capitão de fragata Augusto João Manuel Leverger, barão de Melgaço, cujo primeiro governo durou de 1851 a 1857. Leverger recebeu ordem de concentrar toda a força militar da província no baixo Paraguai, para esperar os navios que deveriam subir o rio com ou sem licença de Francisco Solano López. Mudou-se, então, para o Forte de Coimbra, onde permaneceu cerca de dois anos.
+O coronel Frederico Carneiro de Campos, nomeado presidente provincial em 1864, subia o rio Paraguai para assumir o posto quando seu navio — o Marquês de Olinda — foi atacado e aprisionado por uma belonave paraguaia. Logo que o Paraguai rompeu as hostilidades, revelou-se a fraqueza do sistema defensivo brasileiro em Mato Grosso, prevista por Leverger. Caiu logo Coimbra, após dois dias de resistência. Em seguida, foi a vez de Corumbá e da colônia de Dourados. A guerra seguiu seu curso, marcada por episódios como a retirada de Laguna, a retomada e subsequente abandono de Corumbá. Dessa cidade, as tropas brasileiras trouxeram para Cuiabá uma epidemia de varíola que teve efeitos devastadores. Para o povo, 1867 seria o ano das bexigas, mais que da retomada de Corumbá.
+Os últimos anos do império registraram um lento desenvolvimento da província, governada de outubro de 1884 a novembro de 1885 pelo general Floriano Peixoto. Em 9 de agosto de 1889, assumiu a presidência o coronel Ernesto Augusto da Cunha Matos, sob cujo governo se realizou a eleição de que saíram vitoriosos os liberais — triunfo celebrado em Cuiabá com um pomposo baile em 7 de dezembro, pouco antes de chegar à cidade a notícia da queda da monarquia.
+Generoso Ponce
+As aspirações republicanas e federalistas em Mato Grosso tinham tido expressão confusa em várias revoltas, mas no remanso do segundo reinado as agitações se aplacaram. As campanhas pela abolição e pela república tiveram ali repercussão modesta. Ao iniciar-se o período republicano, Mato Grosso tinha uma população calculada em oitenta mil habitantes. A província ficava segregada: sem estradas de ferro, eram necessários cerca de trinta dias de viagem, passando por três países estrangeiros, para atingi-la, a partir do Rio de Janeiro, por via fluvial.
+Nas primeiras décadas do período republicano a violência foi usada em disputas políticas e econômicas, com conflitos armados pelo governo estadual, conflitos em geral entre coronéis por poder e terras, saques a cidades, como Paranaíba, execuções de opositores, como o Massacre da Baía do Garcez, em 1901, e tentativas de conseguir autonomia para o sul, que já naquela época tinha sentimento separatista. Houve também um projeto de separar o Mato Grosso do Brasil em 1892.[8]
+Em 1892 a oposição pegou em armas e derrubou o presidente estadual Manuel Murtinho em 1º de fevereiro.[9] Porém em 7 de maio Generoso Ponce, à frente de 4 000 homens, iniciou o cerco às forças adversárias na capital e dominou-as em menos de uma semana. Em 22 de junho, caiu Corumbá. Vitorioso seu Partido Republicano, Murtinho retornou ao poder. Surgiu mais tarde, entretanto, uma desavença entre os dois líderes, Ponce e Murtinho. O rompimento consumou-se em dezembro de 1898, com uma declaração pública de Manuel Murtinho, apoiado por seu irmão Joaquim Murtinho, ministro da Fazenda do presidente Campos Sales. Seus partidários conquistaram o poder, num ambiente de grande violência. Mais tarde, contudo, Ponce e Murtinho reconciliaram-se e formaram novo agrupamento político.
+Século XX[editar | editar código-fonte]
+A vitória dessa corrente política se deu com o movimento armado de 1906, que culminou na morte do presidente Antônio (Totó) Pais de Barros. Seguiu-se um período de interinidade na presidência. Generoso Ponce foi afinal eleito em 1907. A economia do estado melhorou com a abertura de vias férreas a partir do leste (Jupiá, Três Lagoas e Água Clara) e do oeste (Porto Esperança, Miranda e Aquidauana), para se encontrarem em Campo Grande. A ligação ferroviária com São Paulo foi fator de progresso para Mato Grosso, por intensificar o comércio e valorizar as terras da região.
+Com o novo presidente, Joaquim Augusto da Costa Marques, que assumiu em 1911, avultaram as pressões da companhia Mate Laranjeira no sentido de renovar o arrendamento dos seus extensos ervais no sul do estado. A pretensão suscitou nova divergência entre Murtinho e Ponce: o primeiro defendia a prorrogação do contrato até 1930, com opção para a compra de 1 000 000 a 2 000 000 de hectares, enquanto Ponce queria a divisão da área em lotes de 450 hectares, que seriam oferecidos a arrendamento em hasta pública. Morto Ponce, a empresa ganhou novo trunfo com o apoio do senador situacionista Antônio Azeredo. Mas o antigo presidente do estado, Pedro Celestino Corrêa da Costa, tomou posição contrária. Os deputados estaduais hostis à prorrogação do contrato fizeram obstrução e impediram que ela fosse aprovada. Finalmente, a Mate Laranjeira foi frustrada em suas pretensões, com a aprovação da Lei Número 725, de 24 de agosto de 1915.
+O general Caetano Manuel de Faria Albuquerque assumiu o governo em 15 de agosto de 1915. Seus próprios correligionários conservadores tentaram forçá-lo à renúncia, e ele, tendo a seu lado Pedro Celestino, aceitou o apoio da oposição, num movimento que se chamou caetanada. Contra seu governo organizou-se a rebelião armada, com ajuda da Mate Laranjeira e seus aliados políticos. Na assembleia, foi proposto e aprovado o impedimento do general Caetano de Albuquerque. Consultado, o Supremo Tribunal Federal não tomou posição definitiva, e o presidente Venceslau Brás acabou por decretar a intervenção no estado em 10 de janeiro de 1917. Em outubro, no Rio de Janeiro, os chefes dos dois partidos locais concluíram acordo, mediante o qual indicava o bispo dom Francisco de Aquino Correia para presidente, em caráter suprapartidário. O prelado assumiu em 22 de janeiro de 1918 e fez uma administração conciliadora, assinalada por uma série de iniciativas. A intervenção federal pôs fim á época da luta armada pelo poder.[8]
+Até a Revolução de 1930, a administração estadual lutou com graves problemas financeiros. No período pós-revolucionário, sucederam-se os interventores. Em 1932, o general Bertoldo Klinger, comandante militar de Mato Grosso, deu apoio armado à Revolução Constitucionalista de 1932. Em 7 de outubro de 1935, a Assembleia Constituinte elegeu governador Mário Correia da Costa. Incidentes ocorridos em dezembro de 1936, quando foram feridos a bala os senadores Vespasiano Martins e João Vilas Boas, deram causa à renúncia do governador e a nova intervenção federal.
+Vista de Cuiabá, capital e maior cidade do estado
+A velha ideia da separação da porção sul do estado só veio a triunfar em 1977, por meio de uma lei complementar que desmembrou 357 471,5 km² do estado para criar Mato Grosso do Sul. Anteriormente, houve ainda a tentativa de transformar Campo Grande em capital de Mato Grosso, destronando Cuiabá. A iniciativa da divisão partiu do Governo Federal, que alegava, em primeiro lugar, a impossibilidade de um único governo estadual administrar área tão grande e, em segundo, as nítidas diferenças naturais entre o norte e o sul do estado. A lei entrou em vigor em 1º de janeiro de 1979. A partir de então, todas as projeções pessimistas de que o então norte, com a capital Cuiabá, iria se estagnar, não se concretizaram, pelo contrário, surgindo então um processo de pleno crescimento do estado, aliado com a criação e desenvolvimento de municípios como Alta Floresta, Sinop, Tangará da Serra, Primavera do Leste, Campo Novo do Parecis,
+Sapezal, Campo Verde, Sorriso, Lucas do Rio Verde, Nova Mutum, que hoje estão entre os maiores contribuintes do PIB de Mato Grosso.
+As políticas econômicas de apoio preferencial à exportação e à ocupação e desenvolvimento da Amazônia e do Centro-Oeste, implantadas a partir da década de 1970, levaram a novo surtos de progresso em Mato Grosso. A construção de Brasília contribuiu para acabar com a antiga estagnação. Uma vez inaugurada a nova capital, Mato Grosso continuou a atrair mão de obra agrícola de outros estados, pois oferecia as melhores áreas de colonização do país. Graves problemas persistiram, porém, na década de 1980.
+Geografia[editar | editar código-fonte]
+Parque Nacional da Chapada dos GuimarãesCânion da cachoeira do Jatobá, no Parque Estadual da Serra de Ricardo Franco.Serra do Roncador em Barra do Garças, no leste do estado.Parque Nacional do Pantanal MatogrossenseTipos climáticos de Mato Grosso.
+Ver artigo principal: Geografia de Mato Grosso
+O estado de Mato Grosso ocupa uma área de 903 207,050 km²[2] e localiza-se a oeste do Meridiano de Greenwich e a sul da Linha do Equador, tendo fuso horário -4 horas em relação a hora mundial GMT. No Brasil, o estado faz parte da região Centro-Oeste, fazendo fronteiras com os estados de Mato Grosso do Sul, Goiás, Pará, Amazonas, Rondônia, Tocantins, além de um país, a Bolívia. A capital (Cuiabá) está localizada a 15º3555.36 lat. e 56º0547.25 long., sendo conhecida, por isso mesmo, como coração da América do Sul.
+A drenagem da região se faz por meio de dois sistemas, os dos rios Amazonas e Paraguai. Ao primeiro, pertencem o Juruena e o Teles Pires (formadores do Tapajós), além do Xingu e do Araguaia, este na fronteira com Goiás. O principal afluente do Rio Paraguai no estado é o Rio Cuiabá.
+O estado de Mato Grosso, um dos campeões do desmatamento no Brasil e no mundo, era revestido por uma vegetação em que predominavam as florestas, como prosseguimento da mata amazônica. Na área do Pantanal Mato-Grossense que permaneceu nos limites do estado ocorria um revestimento vegetal composto de cerrados e campos. A zona de florestas compreendia 47% da área do estado, os cerrados 39% e os campos 14%.
+São as seguintes unidades de conservação a nível federal localizadas em Mato Grosso: Parque Nacional do Cristalino; Parque Nacional do Xingu; Parque Nacional do Pantanal Matogrossense; Parque Nacional da Chapada dos Guimarães; Estação Ecológica de Taiamã; Estação Ecológica da Serra das Araras; Área de Proteção Ambiental Meandros do Araguaia; Parque Nacional do Juruena e
+Parque Nacional dos Campos Amazônicos.
+Relevo[editar | editar código-fonte]
+Com altitudes modestas, o relevo apresenta grandes superfícies aplainadas, talhadas em rochas sedimentares. Abrange três regiões distintas. Na porção centro-norte do estado, a dos chapadões sedimentares e planaltos cristalinos (com altitudes entre quatrocentos e oitocentos metros), que integram o Planalto Central Brasileiro.
+Na região do planalto arenito-basáltico, localizada no sul, simples parcela do planalto meridional. Na parte do Pantanal Mato-Grossense, baixada da porção centro-ocidental. Ao sul do Planalto Brasileiro, situa-se o divisor de águas entre as bacias dos rios Paraguai e Amazonas, constituído em parte pela Chapada dos Parecis. A maior parte da área é drenada pelos rios da Bacia amazônica.
+A planície aluvial do médio Araguaia situa-se na região limítrofe entre Mato Grosso e Goiás. Tem natureza semelhante à da planície do Pantanal: ampla, está sujeita a inundações anuais e deposição periódica de aluviões. Pouco depois dela, para oeste, ficam os contrafortes da serra do Roncador.
+Fuso horário[editar | editar código-fonte]
+O fuso horário em vigor é uma hora menor em relação ao Horário de Brasília e quatro horas a menos em relação a Greenwich, UTC-4. Geralmente entre os meses de outubro e fevereiro adota-se o Horário de Verão, no qual os relógios são adiantados uma hora para poupar energia. Curiosamente, ainda que em caráter não oficial, alguns municípios do leste do estado, na região conhecida como Vale do Araguaia, adotam o Horário de Brasília mesmo sendo obrigados por lei a adotarem o Fuso Horário Oficial de Mato Grosso.
+A população, por sua vez, alega que a região já está dentro do fluxo 45° O e, além disso, sofre muita influência do estado de Goiás, uma vez que por se tratar de região de divisa, a capital Goiânia está muito mais próxima que Cuiabá. Portanto, municípios como Barra do Garças, Alto Araguaia, Canarana, Água Boa e Nova Xavantina, por exemplo, seguem o
+Horário de Brasília.[10]
+Clima[editar | editar código-fonte]
+O estado apresenta sensível variedade de climas. Prevalece o tropical super-úmido de monção, com elevada temperatura média anual, superior a 24º C e alta pluviosidade (2 000 milímetros anuais); e o tropical, com chuvas de verão e inverno seco, caracterizado por médias de 23 °C no planalto.
+A pluviosidade é alta também nesse clima: excede a média anual de 1 500 milímetros. Já em lugares elevados, como a Chapada dos Guimarães e a Serra do Monte Cristo, o clima é subtropical, com uma temperatura média anual de Chapada dos Guimarães é de 24 °C, sendo a maior máxima registrada de 40 °C e a menor de 0 °C.[11]
+Durante a atuação de uma intensa massa de ar polar, as temperaturas durante a tarde nas cidades do centro-sul e sudoeste do estado podem estar próximas a 10 °C, enquanto que no restante do território as temperaturas ultrapassam os 30 °C.
+Demografia[editar | editar código-fonte]
+Imagem aérea de Cuiabá, a maior aglomeração urbana do estado.
+A população de Mato Grosso para 1.º de julho de 2021 era de 3 567 234 habitantes, segundo a estimativa populacional do Instituto Brasileiro de Geografia e Estatística (IBGE).[2] Mato Grosso é o 17.º estado mais populoso do Brasil e concentra 1,7% da população brasileira. Possui uma densidade demográfica de 3,9 habitantes por quilômetro quadrado.
+Pelas características encontradas no estado, o predomínio é de pessoas adultas e com um índice de declínio para jovens e aumento de idosos. Pela média do estado há um predomínio de homens devido a emigração dos outros estados para Mato Grosso, contudo, na grande Cuiabá há predomínio de mulheres, semelhante à média brasileira. Mato Grosso ocupa o oitavo lugar entre os maiores índices de desenvolvimento humano das unidades federativas do Brasil.
+Segundo dados do Censo brasileiro de 2010, obtidos pelo IBGE por meio de pesquisa de autodeclaração, 52,7% da população mato-grossense se identifica como parda, 27,1% como branca, 7,4% como negra e 1,1% como asiáticos ou indígenas.[12]
+Semelhante ao que ocorre em todo território nacional, Mato Grosso é predominantemente povoado por pessoas cristãs, sendo na sua maioria católicos e uma fração menor dividida em inúmeras denominações evangélicas, contando ainda com a presença de religiões afrodescendentes.
+Municípios mais populosos[editar | editar código-fonte]
+verdiscutireditar Municípios mais populosos de Mato Grosso
+(Estimativa 2020 do Instituto Brasileiro de Geografia e Estatística)[13]
+CuiabáVárzea Grande
+Posição
+Localidade
+Região intermediária
+Pop.
+Posição
+Localidade
+Região intermediária
+Pop.
+1
+Cuiabá
+Cuiabá
+618 124
+11
+Alta Floresta
+Sinop
+51 959
+2
+Várzea Grande
+Cuiabá
+287 526
+12
+Nova Mutum
+Sinop
+46 813
+3
+Rondonópolis
+Rondonópolis
+236 042
+13
+Pontes e Lacerda
+Cáceres
+45 774
+4
+Sinop
+Sinop
+146 005
+14
+Campo Verde
+Cuiabá
+45 740
+5
+Tangará da Serra
+Cuiabá
+105 711
+15
+Juína
+Sinop
+41 101
+6
+Cáceres
+Cáceres
+94 861
+16
+Colniza
+Sinop
+39 861
+7
+Sorriso
+Sinop
+92 769
+17
+Campo Novo do Parecis
+Cuiabá
+36 143
+8
+Lucas do Rio Verde
+Sinop
+67 620
+18
+Guarantã do Norte
+Sinop
+36 130
+9
+Primavera do Leste
+Rondonópolis
+63 092
+19
+Peixoto de Azevedo
+Sinop
+35 338
+10
+Barra do Garças
+Barra do Garças
+61 135
+20
+Barra do Bugres
+Cuiabá
+35 307
+Governo e política[editar | editar código-fonte]
+Ver artigo principal: Governo de Mato Grosso
+Ver também: Lista de governadores de Mato Grosso
+Palácio Paiaguás sede do governo do estado e
+residência oficial do governador.
+O estado de Mato Grosso, assim como em uma república, é governado por três poderes, o executivo, representado pelo governador, o legislativo, representado pela Assembleia Legislativa do Estado de Mato Grosso, e o judiciário, representado pelo Tribunal de Justiça do Estado de Mato Grosso e outros tribunais e juízes. Além dos três poderes, o estado também permite a participação popular nas decisões do governo através de referendos e plebiscitos.[14] A atual constituição do estado foi promulgada em 1989, acrescida das alterações resultantes de posteriores Emendas Constitucionais.[15]
+O poder executivo mato-grossense está centralizado no governador do estado, que é eleito em sufrágio universal e voto direto e secreto pela população para mandatos de até quatro anos de duração, podendo ser reeleito para mais um mandato.[15] Sua sede é o Palácio Paiaguás, que desde 1975 é sede do poder executivo e residência oficial do governador.[16] Nas eleições estaduais em Mato Grosso em 2018, Mauro Mendes candidatou-se pelo Democratas a governador e foi eleito em 1º turno com 58,69% dos votos válidos.[17]
+O poder legislativo estadual é unicameral, constituído pela Assembleia Legislativa do Estado de Mato Grosso, localizada no Centro Político Administrativo. Ela é constituída por 24 deputados, que são eleitos a cada quatro anos. No Congresso Nacional, a representação mato-grossense é de três senadores e oito deputados federais.[18] O poder judiciário tem a função de julgar, conforme leis criadas pelo legislativo e regras constitucionais brasileiras, sendo composto por desembargadores, juízes e ministros.[19] Atualmente, a maior corte do Poder Judiciário mato-grossense é o Tribunal de Justiça de Mato Grosso.
+Subdivisões[editar | editar código-fonte]
+Divisão das regiões intermediárias (vermelho) e imediatas (cinza).
+Ver artigos principais: Lista de municípios de Mato Grosso por população e Lista de municípios de Mato Grosso
+O Mato Grosso é composto por 141 municípios, que estão distribuídos em 18 regiões geográficas imediatas, que por sua vez estão agrupadas em cinco regiões geográficas intermediárias, segundo a divisão do Instituto Brasileiro de Geografia e Estatística (IBGE) vigente desde 2017.[20]
+As regiões geográficas intermediárias foram apresentadas em 2017, com a atualização da divisão regional do Brasil, e correspondem a uma revisão das antigas mesorregiões, que estavam em vigor desde a divisão de 1989. As regiões geográficas imediatas, por sua vez, substituíram as microrregiões.[21] Na divisão vigente até 2017, os municípios do estado estavam distribuídos em 22 microrregiões e cinco mesorregiões, segundo o IBGE.[22]
+Economia[editar | editar código-fonte]
+Ver artigo principal: Economia de Mato Grosso
+Exportações de Mato Grosso - (2012)[23]
+A pecuária e a agricultura em terras anteriormente constituintes de florestas ou de cerrado, que foram devastadas com este fim, foram os principais sistemas comerciais de Mato Grosso dos séculos XX e XXI. Devido ao crescimento econômico propiciado pelas exportações, Mato Grosso tornou-se um dos principais produtores e exportadores de soja do Brasil, entre os municípios que destacam como exportadores está Rondonópolis maior exportador do Estado.[24]
+Entre os dez municípios mais ricos do Centro-Oeste, 8 são de Mato Grosso, com destaque para Alto Taquari, Campos de Júlio e Sapezal, que possuem os três maiores PIBs per capita da mesorregião,[25] e Cuiabá, que é sede de 8 empresas de grande porte, mesma quantidade que Belém e Florianópolis e maior número que em Campo Grande.[26] É um dos maiores estados em relação à exploração de minérios.
+Plantação de soja em Rondonópolis; o estado é o maior produtor do Brasil
+A atividade de condução de boiadas é comum na região de Mato Grosso
+Em 2012, o crescimento na região de Sinop, Sorriso, Nova Mutum, Lucas do Rio Verde e Matupá se mostrou um forte propulsor para o desenvolvimento econômico do estado, baseado na produção e venda de grãos. As exportações do estado se basearam, naquele ano, em soja (40,59%), milho (17,70%), farelo de soja (16,42%), algodão cru (7,86%) e carne bovina congelada (5,13%)[23]
+Em dados de 2020, o Mato Grosso lidera como maior produtor nacional de grãos do país, com uma participação de 28,0%.[27] É o maior produtor de soja do Brasil, com 26,9% do total produzido em 2020 (33,0 milhões de toneladas), e o terceiro maior produtor de feijão, com 10,5% da produção brasileira.[28] Na cana-de-açúcar, o estado está em sexto lugar no Brasil, com dezesseis milhões de toneladas colhidas em 2019/20.[29][30] Em 2017, o Mato Grosso era o maior produtor de milho do país com 58 milhões de toneladas.[31] É também o maior produtor de algodão do Brasil, com cerca de 65% da produção nacional (1,8 dos 2,8 milhões de toneladas colhidos no país em 2018).[32][33] Na semente de girassol, o estado foi o maior produtor nacional em 2019, com 60 mil toneladas.[34] Na produção de mandioca, o Brasil produziu um total de 17,5 milhões de toneladas em 2019. Mato Grosso produziu 287 mil toneladas neste ano.[35]
+Em 2019, o rebanho bovino matogrossense chegou à marca de trinta milhões de cabeças de gado,[36] o maior rebanho bovino do país, representando sozinho quase 14% da produção nacional.[37] Em 2018, Mato Grosso era o quinto maior produtor de carne suína do país, com um plantel de aproximadamente 178 mil matrizes e um rebanho em torno de 2,5 milhões de animais.[38][39]
+Em 2017, o estado teve 1,15% de participação na mineração nacional (quinto lugar no país). Mato Grosso teve produção de ouro (8,3 toneladas a um valor de R$ 1 bilhão), principalmente na cidade de Peixoto de Azevedo, e estanho (536 toneladas a um valor de R$ 16 milhões).[40] Além disso, nas pedras preciosas, o estado é o 2º maior produtor nacional de diamante, tendo extraído 49 mil quilates no ano de 2017. A cidade de Juína é a principal nesta atividade no estado.[41] O estado também tem uma pequena produção de safira e jaspe.[42]
+Mato Grosso tinha em 2017 um PIB industrial de R$ 17,0 bilhões, equivalente a 1,4% da indústria nacional. Empregava naquele ano 141 121 trabalhadores na indústria. Os principais setores industriais são: construção (32,0%), alimentos (27,9%), serviços industriais de utilidade pública, como energia elétrica e Água (18,6%), bebidas (4,5%) e derivados do petróleo e biocombustíveis (3,9%). Estes cinco setores concentravam naquele ano 86,9% da indústria do estado.[43]
+Infraestrutura[editar | editar código-fonte]
+Transportes[editar | editar código-fonte]
+Tráfego de caminhões na BR-163 em Rondonópolis
+Aeroporto Internacional Marechal Rondon
+As principais rodovias de Mato Grosso foram construídas a partir da década de 1970, através do Programa de Integração Nacional. O Transporte Terrestre atua com grande importância para a economia do estado, permitindo o escoamento da produção agrícola e
+suprindo as necessidades da circulação de mercadorias. Sendo um grande produtor e exportador agropecuário, o estado necessita de boa infra-estrutura rodoviária, porém, muitas das rodovias encontram-se em péssimas condições de conversação e tráfego.[44]
+As principais Rodovias Federais que cortam o estado são: BR-163, a partir do sul do Estado, liga Cuiabá a Santarém; BR-364, a partir de Goiás, liga Cuiabá à Rio Branco no Acre passando por Porto Velho em Rondônia; BR-070, que liga Cuiabá a Brasília e BR-158, a partir de Barra do Garças, segue em direção ao Pará.[44]
+Grande parte das rodovias estaduais foram criadas a partir da década de 1970, visando interligar os municípios mato-grossenses, dando acesso aos eixos rodoviários federais.
+Apesar da enorme importância para a economia estadual, muitas destas rodovias estão em estado crítico de conservação.[44]
+A Ferronorte interliga Mato Grosso ao Porto de Santos, em São Paulo. Conta com quatro terminais: Alto Araguaia, Alto Taquari, Itiquira (Mato Grosso) e Rondonópolis(Sendo este o maior terminal intermodal da América Latina), e são responsáveis pelo escoamento de grande parte da produção agrícola do estado. Atualmente a ferrovia encontra-se em posse/concessão da América Latina Logística.
+Apesar dos rios que banham o estado apresentarem boas condições de navegação, as Hidrovias em Mato Grosso, em geral, são menos utilizadas e envolvem polêmicas com questões ambientais e sociais, sendo que muitas obras encontram-se embargadas atualmente. As principais hidrovias são: Paraguai-Paraná, Rio das Mortes-Araguaia-Tocantins e Madeira-Amazonas[45]
+O Aeroporto Internacional Marechal Rondon, localizado no município de Várzea Grande, é o principal aeroporto do estado. Dista oito quilômetros do centro de Cuiabá, a capital do estado, sendo o terceiro aeroporto mais movimentado do Centro-Oeste do Brasil, segundo dados da Empresa Brasileira de Infraestrutura Aeroportuária.[46]
+Educação[editar | editar código-fonte]
+Reitoria da UFMT
+O Estado possui diversas escolas de educação básica e instituições de ensino técnico e superior. As principais instituições públicas de educação de Mato Grosso são: Instituto Federal de Mato Grosso (IFMT); Universidade Federal de Mato Grosso (UFMT); Universidade Federal de Rondonópolis (UFR) e Universidade do Estado de Mato Grosso (UNEMAT).
+A Universidade Federal de Mato Grosso foi criada em 1970. Sua sede encontra-se em Cuiabá, possuindo campi em mais quatro cidades: Barra do Garças, Pontal do Araguaia, Sinop e Várzea Grande. As atividades de ensino, pesquisa e extensão estão concentradas em 113 cursos de graduação, incluídas as habilitações, e 60 de especialização sustentados em núcleos de investigação e extensão, onde mais de 21 mil estudantes realizam seus estudos.[47]
+A Universidade do Estado de Mato Grosso foi fundada em 1978, com sede administrativa no município de Cáceres. Possui câmpus nos municípios de Alta Floresta, Alto Araguaia, Barra do Bugres, Cáceres, Colíder, Diamantino, Juara, Luciara, Nova Mutum, Nova Xavantina, Pontes e Lacerda, Sinop e Tangará da Serra. A contribuição desta universidade é bastante relevante, principalmente para o interior de Mato Grosso, formando milhares de profissionais.[48]
+Cultura[editar | editar código-fonte]
+Ver artigo principal: Cultura de Mato Grosso
+Música e dança[editar | editar código-fonte]
+Viola de cocho
+Mato Grosso preserva manifestações culturais com influências variadas, que ganham expressão em danças cantos e festivais folclóricos em diferentes regiões do estado. As mais conhecidas são o Siriri, dança acompanhada por cantoria, com influências indígenas e africanas, e o Cururu, espécie de desafios de rimas, com origens em manifestações religiosas por homens, que fazem versos e toadas para as mulheres, os maiores festivais de Siriri e Cururu, ocorrem em Cuiabá e região.[carece de fontes?]
+A viola de cocho é um instrumento musical rudimentar típico da Bacia do Paraguai, produzida por mestres artesãos, violeiros e cururueiros. Praticamente desconhecida no Brasil, a viola de cocho já muito aplaudida mundo afora. A viola de cocho só é encontrada no pantanal de Mato Grosso, recebe este nome porque é confeccionada em um tronco de madeira inteiriço, esculpido no formato de uma viola. Com forma e sonoridade singulares, a viola de cocho possui sempre cinco ordens de cordas, denominada prima, contra, corda do meio, canotio e resposta.[carece de fontes?]
+Outra cultura típica do estado é o sertanejo universitário, um estilo musical que provém de uma mistura da música sertaneja. É considerado o terceiro segmento na evolução da música sertaneja, estando atrás do sertanejo dito raiz e do sertanejo romântico.[carece de fontes?]
+O rasqueado cuiabano é a música popular mato-grossense que tem as suas origens
+nos ritmos que formaram a música popular brasileira o
+rasqueado é formado por três ritmos que estão na base da formação do povo
+brasileiro, ou seja, o negro, o índio e o europeu. Os instrumentos utilizados na execução do tradicional rasqueado são o ganzá, o mocho ou adufo (espécie de tambor em forma de banquinho), o violinofone e a imprescindível viola-de-cocho. Porém hoje em dia , novos instrumentos, principalmente os eletrônicos, são
+empregados por bandas ditas da região urbana.[carece de fontes?]
+O lambadão cuiabano (também conhecido simplesmente como lambadão) é um estilo de música e dança característico da baixada cuiabana, especialmente nos municípios de Cuiabá e Várzea Grande. Trata-se de um ritmo rápido derivado da junção da lambada e do carimbó do Pará, que se tornou um ritmo característico da periferia cuiabana e varzea-grandense. O lambadão sofreu um pouco de preconceito, especialmente contra as versões mais sexualizadas da dança, semelhantes ao funk carioca. Em 2009, foi promovido o Primeiro Festival de Lambadão de Cuiabá com as principais bandas de lambadão como Scort Som, Real Som, Banda Ellus e muitas outras.[carece de fontes?]
+Ver também[editar | editar código-fonte]
+Fórum de Governadores do Brasil Central
+Lista de municípios de Mato Grosso
+Por ordem alfabética
+Por área territorial
+Por área urbanizada
+Por população
+Lista dos edifícios mais altos de Mato Grosso
+Escola da Amazônia
+Lista de governadores de Mato Grosso
+Rusga, movimento nativista durante o período regencial
+Parque Indígena do Xingu
+Referências
+↑ Instituto Brasileiro de Geografia e Estatística (IBGE). «Área Territorial Oficial - Consulta por Unidade da Federação». Consultado em 29 de agosto de 2021
+↑ a b c IBGE, IBGE (27 de agosto de 2021). «Estimativa Populacional 2021». ibge.gov.br. Consultado em 28 de agosto de 2021
+↑ «Contas Regionais 2017». IBGE. Consultado em 16 de novembro de 2019
+↑ «Tábua completa de mortalidade para o Brasil – 2015» (PDF). IBGE. Consultado em 2 de dezembro de 2016
+↑ «Sinopse do Censo Demográfico 2010». IBGE. Consultado em 2 de dezembro de 2016
+↑ IPEA -Instituto de Pesquisa Econômica Aplicada. «Evolução do IDHM e de Seus Índices Componentes no período de 2012 a 2017» (PDF). Consultado em 18 de abril de 2019
+↑ «Um Governo de Engonços: Metrópole e Sertanistas na Expansão dos Domínios Portugueses aos Sertões do Cuiabá (1721-1728)». www.academia.edu. Consultado em 12 de março de 2016
+↑ a b Arruda, Larissa Rodrigues Vacari de (2013). Disputas oligárquicas: as práticas políticas das elites mato-grossenses 1892-1906 (Dissertação). São Carlos: UFSCar. pp. 12–14. Consultado em 23 de abril de 2021
+↑ Arruda 2013, pp. 62-63.
+↑ http://rmtonline.globo.com/noticias.asp?em=2&n=508486&p=2%7C[ligação inativa] Barra do Garças adota o Horário de Brasília durante todo o ano, mas Decreto Municipal deixa a cidade sem Horário de Verão
+↑ FERREIRA, João Carlos Vicente (1997). Mato Grosso e Seus Municípios. Cuiabá: Buriti. 336 páginas  |acessodata= requer |url= (ajuda)
+↑ Instituto Brasileiro de Geografia e Estatística. «Tabela 2093». Consultado em 7 de Março de 2018
+↑ IBGE, IBGE (28 de agosto de 2020). «Estimativa Populacional 2020». ibge.gov.br. Consultado em 28 de agosto de 2020
+↑ Supremo Tribunal Federal (STF) (10 de novembro de 1999). «Lei nº 9.868 de 10 de novembro de 1999». Consultado em 7 de abril de 2011. Cópia arquivada em 22 de maio de 2011
+↑ a b «Constituição de Mato Grosso» (PDF). 1989. Consultado em 3 de julho de 2011
+↑ Diario de Cuiabá. «Palácio Paiaguás completa 30 anos de inauguração». Consultado em 12 de agosto de 2014
+↑ «Apuração governador 2018». G1. 1 de janeiro de 2019. Consultado em 1 de
+janeiro de 2019
+↑ «Número de deputados pode aumentar nas próximas eleições». Vote Brasil. Consultado em 22 de março de 2011. Cópia arquivada em 22 de maio de 2011
+↑ «Poder Judiciário». InfoEscola. 14 de fevereiro de 2008. Consultado em 8 de julho de 2011. Cópia arquivada em 8 de julho de 2011
+↑ Instituto Brasileiro de Geografia e Estatística (IBGE) (2017). «Base de dados por municípios das Regiões Geográficas Imediatas e Intermediárias do Brasil». Consultado em 20 de janeiro de 2018
+↑ Instituto Brasileiro de Geografia e Estatística (IBGE) (2017). «Divisão Regional do Brasil». Consultado em 20 de janeiro de 2018. Cópia arquivada em 20 de janeiro de 2018
+↑ Instituto Brasileiro de Geografia e Estatística (IBGE) (1990). «Divisão regional do Brasil em mesorregiões e microrregiões geográficas» (PDF). Biblioteca IBGE. 1: 127–129. Consultado em 20 de janeiro de 2018. Cópia arquivada (PDF) em 20 de janeiro de 2018
+↑ a b «Exportações de Mato Grosso (2012)». Plataforma DataViva. Consultado em 13 de janeiro de 2014. Arquivado do original em 2 de abril de 2015
+↑ «Cópia arquivada». Consultado em 18 de fevereiro de 2011. Arquivado do original em 6 de julho de 2011
+↑ «IBGE aponta Cuiabá na 10ª posição entre as capitais mais ricas do país». Redação do site TVCA com G1. 16 de dezembro de 2008. Consultado em 14 de julho de 2009. Arquivado do original em 11 de julho de 2011
+↑ «IBGE mostra a nova dinâmica da rede urbana brasileira». Regiões de Influência das Cidades - 2008. 10 de outubro de 2008. Consultado em 14 de julho de 2009
+↑ IBGE prevê safra recorde de grãos em 2020
+↑ IBGE prevê safra recorde de grãos em 2020
+↑ Goiás é o segundo maior produtor de cana-de-açúcar do País
+↑ ACOMPANHAMENTO DA SAFRA BRASILEIRA DE CANA DE AÇÚCAR MAIO 2019
+↑ Quatro estados concentram quase 70% da produção de grãos do país
+↑ Qualidade do algodão de MT é destaque em congresso nacional
+↑ MT segue como líder isolado na produção de algodão e safra sobe para 65% em 2017/18
+↑ MT é o maior produtor de girassol do país
+↑ Produção brasileira de mandioca em 2019
+↑ Rebanho bovino de Mato Grosso chega a 30.3 milhões de cabeças
+↑ Mato Grosso tem o maior rebanho bovino do país e representa 13,8% da produção nacional
+↑ Para suinocultores de MT, entrada da carne suína dos EUA no Brasil agravaria a crise do setor
+↑ Mato Grosso prevê crescimento de 67% de sua produção de suínos nos próximos dez anos
+↑ Anuário Mineral Brasileiro 2018
+↑ Com produção de 49 mil quilates de diamante por ano, MT ocupa a 2ª colocação no ranking nacional
+↑ Algumas Gemas Clássicas
+↑ Perfil da Indústria de Mato Grosso
+↑ a b c DNIT (ed.). «Principais rodovias de Mato Grosso». Consultado em 27 de novembro de 2013
+↑ em Mato Grosso acesso em 27 de novembro de 2013.
+↑ «aviacao - aeroportos brasileiros». Consultado em 29 de dezembro de 2010
+↑ «Ranking Universitário Folha». Jornal Folha de S.Paulo. Consultado em 28 de abril de 2020
+↑ «UNEMAT». UNIVERSIDADE DO ESTADO DE MATO GROSSO. Consultado em 4 de maio de 2019
+Ligações externas[editar | editar código-fonte]
+Outros projetos Wikimedia também contêm material sobre este tema:
+Imagens e media no Commons
+Commons
+Página oficial do governo de Mato Grosso
+Assembleia Legislativa de Mato Grosso
+Tribunal de Justiça de Mato Grosso
+Jornal Regional
+Mato Grosso
+História • Política • Geografia • Demografia • Economia • Educação • Cultura • Turismo • Portal • Imagens
+Mato Grossovde Mato Grosso Portal — Geografia, Política, Cultura, EsportesCapitalCuiabáRegiões geográficas intermediárias (desde 2017)Barra do Garças • Cáceres • Cuiabá • Rondonópolis • SinopRegiões geográficas imediatas (desde 2017)Água Boa • Alta Floresta • Barra do Garças • Cáceres • Confresa-Vila Rica • Cuiabá • Diamantino • Jaciara • Juara • Juína • Mirassol dOeste • Peixoto de Azevedo-Guarantã do Norte • Pontes e Lacerda-Comodoro • Primavera do Leste • Rondonópolis • Sinop • Sorriso • Tangará da SerraDivisões regionais extintas (divisão vigente até 2017)Mesorregiões e microrregiõesRegiões Metropolitanas, RIDEse Aglomerações UrbanasVale do Rio CuiabáMais de 200.000 habitantesCuiabá • Várzea Grande • RondonópolisMais de 100.000 habitantesSinop • Tangará da SerraMais de 40.000 habitantesCáceres • Sorriso • Lucas do Rio Verde • Primavera do Leste • Barra do Garças • Alta Floresta • Pontes e Lacerda • Campo Verde • Nova Mutum • JuínaCentro-Oeste, Brasil vdeRegião do Complexo do Pantanal Portal — Plantas - Rios - Solos - Clima - Demografia - InfraestruturaEstadosMato Grosso • Mato Grosso do SulSub-regiõesPantanal Norte ou Amazônico: Cáceres • Barão de Melgaço • PoconéPantanal Sul ou Platino: Aquidauana • Nabileque • Nhecolândia • Paiaguás • ParaguaiPrincipais cidadesAquidauana • Cáceres • Corumbá • Coxim • PoconéOutras cidadesAnastácio • Barão de Melgaço • Bodoquena • Ladário • Miranda • Porto Murtinho • Rio Verde de Mato GrossoCentro-Oeste do Brasilvde Portais de Mato Grosso Mato Grosso - Cuiabá - Lucas do Rio Verde • Pantanalvde Regiões e unidades federativas do Brasil
+Subdivisões do Brasil
+Unidades da FederaçãoRegião Norte
+Acre
+Amapá
+Amazonas
+Pará
+Rondônia
+Roraima
+Tocantins
+Região Nordeste
+Alagoas
+Bahia
+Ceará
+Maranhão
+Paraíba
+Pernambuco
+Piauí
+Rio Grande do Norte
+Sergipe
+Região Centro-Oeste
+Distrito Federal
+Goiás
+Mato Grosso
+Mato Grosso do Sul
+Região Sudeste
+Espírito Santo
+Minas Gerais
+Rio de Janeiro
+São Paulo
+Região Sul
+Paraná
+Rio Grande do Sul
+Santa Catarina
+Arquipélagos
+Anavilhanas
+Fernando de Noronha
+Atol das Rocas
+Arquipélago de São Pedro e São Paulo
+Trindade e
+Martim Vaz
+Geoeconômicas
+Amazônica
+Centro-Sul
+Nordeste
+Propostas de criação de unidades federativas do Brasil
+vde Fronteiras do BrasilComissões demarcadoras de fronteira1 PCDL • 2 PCDLPaíses limítrofesArgentina • Bolívia • Colômbia • Guiana Francesa (França) • Guiana • Paraguai • Peru • Suriname • Uruguai • VenezuelaMacrorregiões fronteiriçasCentro-Oeste • Norte • SulEstados fronteiriçosAcre • Amapá • Amazonas • Mato Grosso • Mato Grosso do Sul • Pará • Paraná • Rio Grande do Sul • Rondônia • Roraima • Santa CatarinaMunicípios fronteiriçosSocioeconômicoÁrea • Área urbana • População • Densidade demográfica • PIB • PIB per capita • renda per capita • IDH • GiniBifronteiriços ou tríplices fronteirasAtalaia do Norte • Assis Brasil • Barra do Quaraí • Corumbá • Foz do Iguaçu • Laranjal do Jari • Oriximiná • São Gabriel da Cachoeira • Uiramutã • UruguaianaFronteira simplesAceguá • Acrelândia • Alecrim • Almeirim • Alta Floresta dOeste • Alto Alegre • Alto Alegre dos Parecis • Amajari • Antônio João • Aral Moreira • Arroio Grande • Bagé • Bandeirante • Barcelos • Barracão • Bela Vista • Belmonte • Benjamin Constant • Bom Jesus do Sul • Bonfim • Brasileia •
+Cabixi •
+Cáceres • Capanema • Capixaba • Caracaraí • Caracol • Caroebe • Chuí • Comodoro • Coronel Sapucaia • Costa Marques • Crissiumal • Cruzeiro do Sul • Derrubadas • Dionísio Cerqueira • Dom Pedrito • Doutor Maurício Cardoso • Entre Rios do Oeste • Epitaciolândia • Esperança do Sul • Feijó • Garruchos • Guaíra • Guajará • Guajará-Mirim • Guaraciaba • Herval • Iracema • Itaipulândia • Itapiranga • Itaqui • Jaguarão • Japorã • Japurá • Jordão • Mâncio Lima • Manoel Urbano • Marechal Cândido Rondon • Marechal Thaumaturgo • Mercedes • Mundo Novo • Normandia • Novo Machado • Nova Mamoré • Óbidos • Oiapoque • Pacaraima • Paraíso • Paranhos • Pato Bragado • Pedras Altas • Pérola dOeste • Pimenteiras do Oeste • Pirapó • Plácido de Castro • Planalto • Poconé • Ponta Porã • Porto Esperidião • Porto Lucena • Porto Mauá • Porto Murtinho • Porto Velho • Porto Vera Cruz • Porto Walter • Porto Xavier • Pranchita • Princesa • Quaraí • Rodrigues Alves • Roque Gonzales • Santa Helena (PR) • Santa Helena (SC) • Santa Isabel do Rio Negro • Santa Rosa do Purus • Santa Vitória do Palmar • Santa Terezinha de Itaipu • Santana do Livramento • Santo Antônio do Içá • Santo Antônio do Sudoeste • São Borja • São Francisco do Guaporé • São José do Cedro • São Miguel do Iguaçu • São Nicolau • Sena Madureira • Serranópolis do Iguaçu • Sete Quedas • Tabatinga • Tiradentes do Sul • Tunápolis • Vila Bela da Santíssima Trindade Brasil
+Controle de autoridade
+: Q42824
+WorldCat
+VIAF: 172515180
+EBID: ID
+FAST: 1330632
+GEC: 0041396
+GND: 4279239-3
+LCCN: n80034018
+NKC: ge682315
+OSM: 333597
+MusicBrainz: ID
+GeoNames: 3457419
+TGN: 7006260
+Portal de Mato Grosso
+Portal da região Centro-Oeste do Brasil
+Portal do Brasil
+Obtida de https://pt.wikipedia.org/w/index.php?title=Mato_Grosso&oldid=62178378
+Categoria: Mato GrossoCategorias ocultas: !Artigos com ligações inativas!Páginas com referências sem URL e com acessodata!Artigos que carecem de notas de rodapé desde junho de 2020!Artigos que carecem de notas de rodapé sem indicação de tema!Páginas que utilizam Nobold com segundo parâmetro sem nome!Artigos que carecem de notas de rodapé desde abril de 2017
+Esta página foi editada pela última vez às 20h44min de 4 de outubro de 2021.
+Este texto é disponibilizado nos termos da licença Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as condições de utilização.
+Política de privacidade
+Sobre a Wikipédia
+Avisos gerais
+Versão móvel
+Programadores
+Estatísticas
+Declaração sobre cookies');
+Document.create!(url: 'https://pt.wikipedia.org/wiki/Roraima', title: 'Roraima – Wikipédia, a enciclopédia livre', body: 'Roraima – Wikipédia, a enciclopédia livre
+Saltar para o conteúdo
+Alternar barra lateral
+Busca
+Links do usuário
+Criar uma conta
+Ferramentas pessoais
+expanded
+collapsed
+Criar uma conta
+Entrar
+Páginas para editores conectados saiba mais
+DiscussãoContribuições
+Navegação
+Página principalConteúdo destacadoEventos atuaisEsplanadaPágina aleatóriaPortaisInformar um erro
+Colaboração
+Boas-vindasAjudaPágina de testesPortal comunitárioMudanças recentesManutençãoCriar páginaPáginas novasContatoDonativos
+Ferramentas
+Páginas afluentesAlterações relacionadasCarregar ficheiroPáginas especiaisHiperligação permanenteInformações da páginaCitar esta páginaElemento Wikidata
+Imprimir/exportar
+Criar um livroDescarregar como PDFVersão para impressão
+Noutros projetos
+Wikimedia CommonsWikinotíciasWikivoyage
+Espaços nominais
+ArtigoDiscussão
+Variantes
+expanded
+collapsed
+Vistas
+LerEditarEditar código-fonteVer histórico
+Mais
+expanded
+collapsed
+91 idiomas
+expanded
+collapsed
+AfrikaansالعربيةAsturianuAymar aruAzərbaycancaБеларускаяБеларуская (тарашкевіца)Българскиবিষ্ণুপ্রিয়া মণিপুরীBrezhonegBosanskiCatalàCebuanoQırımtatarcaČeštinaCymraegDanskDeutschΕλληνικάEmiliàn e rumagnòlEnglishEsperantoEspañolEestiEuskaraفارسیSuomiFrançaisGaeilgeGalegoAvañeẽעבריתहिन्दीHrvatskiMagyarՀայերենInterlinguaBahasa IndonesiaIdoÍslenskaItaliano日本語ქართული한국어KernowekLatinaLadinoLimburgsLietuviųLatviešuMalagasyМакедонскиമലയാളംमराठीBahasa MelayuNederlandsNorsk nynorskNorsk bokmålOccitanИронPolskiPiemontèisپنجابیRuna SimiRomânăРусскийScotsSrpskohrvatski / српскохрватскиSimple EnglishSlovenčinaShqipСрпски / srpskiSvenskaKiswahiliTetunТоҷикӣไทยTürkçeТатарча/tatarçaУкраїнськаاردوOʻzbekcha/ўзбекчаVènetoTiếng ViệtVolapükWinaray吴语Yorùbá中文Bân-lâm-gú粵語
+Editar hiperligações
+Roraima
+Origem: Wikipédia, a enciclopédia livre.
+Coordenadas: 2° 03 N 61° 24 O
+Nota: Para outros significados, veja Roraima (desambiguação).
+Estado de Roraima
+Bandeira
+Brasão
+Lema: Amazônia: patrimônio dos brasileiros
+Hino: Hino de Roraima
+Gentílico: roraimense
+Localização
+- Região
+Norte
+- Estados limítrofes
+Venezuela (N[1] e NO), Guiana (L), Pará (SE) e Amazonas (S e O)
+- Regiões geográficas   intermediárias
+2
+- Regiões geográficas   imediatas
+4
+- Municípios
+15
+Capital
+Boa Vista
+Governo
+- Governador(a)
+Antonio Denarium (Progressistas)
+- Vice-governador(a)
+Frutuoso Lins (Solidariedade)
+- Deputados federais
+8
+- Deputados estaduais
+24
+- Senadores
+Chico Rodrigues (DEM)Mecias de Jesus (Republicanos)Telmário Mota (PROS)
+Área
+- Total
+224 300,506 km² (14º) [2]
+População
+2021
+- Estimativa
+652 713 hab. (27º)[3]
+- Densidade
+2,91 hab./km² (27º)
+Economia
+2017[4]
+- PIB
+R$
+12,103 bilhões (27º)
+- PIB per capita
+R$ 23.158 (13º)
+Indicadores
+2010/2015[5][6]
+- Esperança de vida (2015)
+71,2 anos (24º)
+- Mortalidade infantil (2015)
+17,4‰ nasc. (9º)
+- Alfabetização (2010)
+90,3% (15º)
+- IDH (2017)
+0,752 (12º) – alto [7]
+Fuso horário
+UTC−04:00
+Clima
+Equatorial úmido Am, Aw
+Cód. ISO 3166-2
+BR-RR
+Site governamental
+http://www.portal.rr.gov.br/
+Roraima é uma das 27 unidades federativas do Brasil. Está situado na Região Norte do país, sendo o estado mais setentrional (ao norte) da federação. Tem por limites a Venezuela, ao norte[1] e noroeste; Guiana, ao leste; Pará, ao sudeste; e Amazonas, ao sul e oeste. Ocupa uma área aproximada de 224 300,506 km², pouco maior que a Bielorrússia, sendo o décimo quarto maior estado brasileiro. Em Boa Vista, única capital brasileira totalmente no Hemisfério Norte, encontra-se a sede do governo estadual, atualmente presidido por Antonio Denarium.
+A história roraimense está fortemente ligada ao Rio Branco. Foi através deste rio que chegaram os primeiros colonizadores portugueses. O Vale do rio Branco sempre foi cobiçado por ingleses e neerlandeses, que adentraram no Brasil através do Planalto das Guianas em busca de índios para serem escravizados. Pelo território da Venezuela, os espanhóis também chegaram a invadir a parte norte do rio Branco e no rio Uraricoera. Os portugueses derrotaram e expulsaram todos os invasores e estabeleceram a soberania de Portugal sobre a região de Roraima e de parte do Amazonas.[8]
+O estado é o menos populoso do país, com uma população de 652 713 habitantes, segundo estimativas de 2021 do Instituto Brasileiro de Geografia e Estatística (IBGE). É, também, o que apresenta a menor densidade demográfica na federação, com 2,33  hab/km². Sua economia, baseada principalmente no setor terciário, registra uma alta taxa de crescimento, embora seu Produto interno bruto (PIB) seja o menor do país, com seus R$ 9,027 bilhões, representando 0,15% da economia brasileira.
+Situado numa região periférica da Amazônia Legal, no noroeste da Região Norte do Brasil, predomina em Roraima a floresta amazônica, havendo ainda uma enorme faixa de savana no centro-leste.[9] Encravado no Planalto das Guianas, uma parte ao sul pertence à Planície Amazônica.[10] Seu ponto culminante, o Monte Roraima, empresta-lhe o nome. Etimologicamente resultado de contração de roro (verde) e imã (serra ou monte), foi batizado por indígenas pemons da Venezuela.[9][11]
+Índice
+1 Etimologia
+2 História
+2.1 Colonização europeia
+2.2 Período imperial
+2.3 Território federal e autonomia política
+3 Geografia
+3.1 Relevo
+3.2 Clima
+3.3 Hidrografia
+3.4 Vegetação e unidades de conservação
+3.5 Biodiversidade
+4 Demografia
+4.1 Religião
+4.2 Composição étnica
+4.3 Criminalidade
+4.4 Urbanização
+5 Política
+6 Subdivisões
+6.1 Regiões Intermediárias e Imediatas
+7 Economia
+7.1 Setor primário
+7.2 Setores secundário e terciário
+7.3 Turismo
+8 Infraestrutura
+8.1 Saúde
+8.2 Educação
+8.3 Transportes
+8.4 Energia
+8.5 Comunicações
+8.6 Segurança pública
+9 Cultura
+9.1 Entidades culturais
+9.2 Dança e música
+9.3 Folclore e literatura
+9.4 Culinária
+9.5 Esportes
+9.6 Feriados
+10 Ver também
+11 Referências
+11.1 Bibliografia
+12 Ligações externas
+Etimologia[editar | editar código-fonte]
+A palavra Roraima vem de línguas indígenas. Sua etimologia lhe emprega três significados: “Monte Verde”, “Mãe dos Ventos” e “Serra do Caju”.[12] Seria a junção de roro (papagaio) e imã (pai, formador).[13] Nessa língua indígena, roro - ou também rora - significa verde, e imã significa serra, monte, formando portanto, a palavra serra verde, que reflete a paisagem natural da região específica.[14]
+Há ainda, a hipótese da palavra Roraima ter outros dois significados: Mãe dos Ventos e Serra do Caju. O primeiro significado, dá-se pela possibilidade do clima da região, onde os índios acreditavam que os ventos que atingiam o sul da Venezuela seriam provenientes do lugar. O segundo, Serra do Caju, pelo grande número de serras e colinas existentes nesta área.[15]
+História[editar | editar código-fonte]
+Ver artigo principal: História de Roraima
+Colonização europeia[editar | editar código-fonte]
+Os primeiros colonizadores portugueses chegaram à região através do Rio Branco. Antes da chegada dos portugueses, os ingleses e neerlandeses já eram atraídos para a região, com a finalidade de explorar o Vale do Rio Branco através das Guianas. A soberania de Portugal sobre a região só foi estabelecida após os espanhóis invadirem a parte norte do Rio Branco, juntamente com o rio Uraricoera. A partir de 1725, missionários Carmelitas iniciaram a tarefa de conversão dos povos indígenas da região.[16]
+A ocupação portuguesa se intensificou a partir da década de 1730, quando avança pelo rio Branco em busca de consolidação das fronteiras e mão de obra indígena. Para isso, organizam tropas de resgate (compra de indígenas transformados em escravos durante guerras de etnias opostas), tropas de guerra (punição e escravização de indígenas que atacassem núcleos portugueses ou impediam a evangelização) e a busca de produtos nativos do Brasil para comercialização, as chamadas drogas do sertão. Além disso, promoviam os descimentos (aldeamentos de missionários e indígenas voluntários ou compulsórios).[17]
+Vista aérea da região de Boa Vista, em princípios do século XX.
+Em meados do século XVIII, a Coroa portuguesa passou a preocupar-se com as constantes expedições espanholas à região ocidental da Amazônia. Assim, foi cogitada a ideia de criação da Capitania Real de São José do Rio Negro, o que ocorreu através da Carta-régia de 3 de março de 1755. O motivo principal da criação da nova capitania era a ameaçada por parte dos espanhóis do Vice-reino do Peru, mas também havia o temor advindo pelas expedições de neerlandeses do Suriname, com fins de comércio e de apresamento de indígenas.[18]
+As demarcações previstas pelo Tratado de Madrid, de 1750, também influenciaram grandemente na medida: com a criação de uma nova unidade administrativa na região, pretendia-se implementar, na prática, a colonização do Alto Rio Negro, criando-se a infraestrutura necessária ao encontro e aos trabalhos das comissões de demarcação portuguesa e espanhola, sendo que esse encontro jamais ocorreu, tendo forças portuguesas ocupado nesse ínterim, provisoriamente, o curso do baixo rio Branco, efetuando plantações de mandioca e de outros víveres, para o aprovisionamento da Comissão.[18]
+O Forte de São Joaquim, construído em 1755 na confluência do rio Uraricoiera com o rio Tacutu, foi determinante na conquista do rio Branco pelos portugueses. O Forte, que hoje está destruído, tinha a finalidade principal de proporcionar aos portugueses a soberania total de Portugal sobre as terras do Vale do Rio Branco, que despertava uma cobiça internacional devido sua pouca exploração.[16]
+Povoado de Nossa Senhora da Conceição segundo Alexandre Rodrigues Ferreira, final do século XVIII.
+Os colonizadores portugueses, após assumirem a soberania e o controle total da região, criaram diversos povoados e vilas na localidade, juntamente com nativos indígenas. Nossa Senhora da Conceição e Santo Antônio, no rio Uraricoera; São Felipe, no rio Tacutu e Nossa Senhora do Carmo e Santa Bárbara, no rio Branco, foram os principais povoados criados na época, abrigando um número populacional significativo. Entretanto, devido aos conflitos entre os indígenas e os colonizadores pelo fato de os indígenas não aceitarem submeter-se às condições impostas pelos portugueses, os povoados não se desenvolveram.[16]
+Para garantir a presença do homem português nas terras do Vale do Rio Branco, o comandante Manuel da Gama Lôbo dAlmada iniciou a criação de gado bovino e equino no território, em 1789. As fazendas de São Bento, São José e São Marcos, nos rios Uraricoera e Tacutu, respectivamente, foram as primeiras à introduzirem permanentemente a criação de gado bovino e equino, entre 1793 e 1799. Atualmente, a fazenda de São Marcos pertence aos indígenas e localiza-se em frente ao local onde existia o Forte São Joaquim.[16]
+Período imperial[editar | editar código-fonte]
+Durante um ano, entre 1810 e 1811, militares ingleses penetraram no Vale, mas foram expulsos pelo comandante do Forte de São Joaquim. A fronteira entre Brasil e Guiana, cujo processo de demarcação de fronteira já havia sido encerrado, precisou ser remarcada, devido às grandes invasões inglesas ocorridas neste período.[16] Assim sendo, a colonização de Rio Branco dividiu-se em quatro períodos: De 1750 ao início do século XIX, com a descoberta do rio Branco; de meados do século XIX até a criação do município de Boa Vista, em 1890; de 1890 até a criação do Território Federal do Rio Branco; e da criação do Território Federal do Rio Branco a elevação deste à categoria de unidade federativa brasileira, renomeado de Roraima.[16]
+A colonização da região foi altamente incentivada em fins do século XIX, com o estabelecimento de Fazendas Nacionais. Porém, a população do estado só encontrou estabilidade após sua emancipação, um século mais tarde, com os garimpos de ouro e diamantes que atraíram levas migratórias de diversas regiões do país. Essa imigração e exploração desordenada ocasionou, na localidade, em muitos conflitos e mortes por doenças e assassinatos.[18] Atualmente, quase todas as reservas indígenas do estado encontram-se homologadas.[18]
+Boa Vista, em 1924.
+Pouco mais de 1 000 pessoas viviam na região em que foi criado o município de Boa Vista, em 1890. Os dados de 1887 - válidos durante a criação do município - informaram que as cerca de 1 000 pessoas que habitavam a região na época da criação do município eram brancas e mestiças, em sua maioria mamelucos. Isso porque as etnias indígenas da região não foram acrescentados aos dados. Estima-se que havia mais de cinco mil indígenas na localidade, o que aumentaria consideravelmente a população do município.[19]
+O Amazonas, estado ao qual pertencia Boa Vista na época, não possuía recursos financeiros suficientes para promover o desenvolvimento do novo município de imediato. A região do extremo norte amazonense dependia economicamente do rebanho bovino criado na região, que também servia para o abastecimento de Manaus, capital do estado. A administração de Augusto Ximeno de Villeroy foi a responsável pela criação do município, que acreditava ser importante a fundação de uma localidade no extremo norte do Amazonas para o desenvolvimento da região.[19]
+Eduardo Ribeiro, então governador do Amazonas, também voltou sua atenção para Boa Vista e o território do atual estado de Roraima. Em 1896, após inaugurar o Teatro Amazonas, ele ordenou que Sebastião Diniz abrisse uma longa estrada ao norte de Manaus. Sua intenção era construir uma estrada ligando Manaus a Boa Vista, que pudesse servir para o transporte do gado da região do Vale do Rio Branco para o matadouro de Manaus.[19]
+Território federal e autonomia política[editar | editar código-fonte]
+Ver artigo principal: Território Federal do Rio Branco
+O Território Federal do Acre foi o primeiro Território Federal brasileiro, em 1903. O Decreto-lei nº 5.812 de 13 de setembro de 1943, que desmembrou o estado do Amazonas, criou o Território Federal do Rio Branco. Em 1962, o território foi denominado como Território Federal de Roraima e elevado à categoria de unidade federativa brasileira pela Constituição brasileira de 1988.[18] Apesar de ter sido criado em 13 de setembro de 1943, juntamente com os outros territórios federais, o Território Federal do Rio Branco só recebeu seu primeiro governador em junho de 1944, quando este chegou à Boa Vista. Getúlio Vargas, responsável pela criação dos Territórios Federais, enfrentava uma notável crise política à época, o que influenciou no atraso da nomeação dos governadores dos territórios. Vargas foi deposto de seu cargo em 29 de outubro de 1945.[19]
+Vista aérea do centro cívico de Boa Vista, capital de Roraima.
+De 1943 a 1964, Roraima teve 15 governadores titulares, entre militares, que eram a maioria, e civis. Vitorino Freire, senador do Maranhão, indicou indiretamente 10 desses governadores. Cada governador permaneceu pouco tempo (em média, dezesseis meses). Assim sendo, durante o referido período, o Território Federal de Roraima não alcançou o desenvolvimento esperado pelo governo federal.[19] Durante o Regime militar no Brasil, em um período de vinte e um anos, Roraima teve 8 governadores que administraram a unidade com poderes militares.[19] No período posterior ao Regime Militar, com a redemocratização do Brasil e a eleição indireta de Tancredo Neves para a Presidência da República, o Território Federal de Roraima possuiu novamente governadores indicados por outros políticos e influentes.[19]
+Com a Constituição promulgada em 5 de outubro de 1988, Roraima deixou o estatuto de Território Federal e transformou-se em estado-membro da Federação, tendo Romero Jucá Filho como primeiro governador após aprovação pela Comissão de Constituição e Justiça do Senado Federal.[20] Já o primeiro governador do estado de Roraima eleito em eleições diretas foi Ottomar de Souza Pinto, governando de 1º de janeiro de 1991 a 31 de dezembro de 1994.[19]
+Geografia[editar | editar código-fonte]
+Ver artigo principal: Geografia de Roraima
+Roraima é um estado da Região Norte do Brasil, sendo o estado mais setentrional da federação brasileira. Possui 1 922 quilômetros de fronteira com países sul-americanos, sendo a Venezuela ao norte e noroeste e a Guiana a leste. No Brasil, faz limite com o Amazonas ao sul e oeste; e Pará ao sudeste.[21] Possui 224 300,506 km² de área. Desta, aproximadamente 104 018 km² são áreas indígenas, representando quase metade do território da unidade (46,37%).[22] A área de preservação ambiental no estado, de responsabilidade do Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio), também é extensa, sendo 18 879 km², um total de 8,42%.[22]
+Localiza-se a oeste do Meridiano de Greenwich e é cortado pela Linha do Equador, sendo que sua capital, Boa Vista, é a única capital brasileira ao norte da Linha do Equador. Seu fuso horário é de menos quatro horas em relação à hora mundial GMT e menos uma hora em relação à hora oficial do Brasil.[23] O Monte Roraima, localizado na Serra Pacaraíma, é o ponto mais alto do estado e um dos mais elevados do país, com 2 772 metros.[24]
+Relevo[editar | editar código-fonte]
+Mapa topográfico de Roraima
+O relevo é bastante variado; junto às fronteiras da Venezuela e da Guiana situam-se as serras de Parima e de Pacaraima, onde se encontra o monte Roraima, com 2.875 metros de altitude. Como está no extremo norte do Brasil, seus pontos no extremo norte são o rio Uailã e o Monte Caburaí.[22]
+De uma forma abrangente, o relevo presente em Roraima é, de predominância plana. Aproximadamente 60% da área possui altitudes inferiores a 200 metros, 25% se eleva para uma média entre 200 e 300 metros, 14% de 300 a 900 metros e somente 1% detêm elevações da superfície superiores a 900 metros acima do nível do mar. Existem ainda, duas estruturas geomorfológicas: O Planalto Ondulado e os Escarpamentos Setentrionais, que fazem parte do Planalto das Guianas. O seu Planalto Ondulado é um grande pediplano, formado por maciços e picos isolados e dispersos.[25]
+Por ser bastante diferenciado, o relevo é dividido em cinco degraus: O primeiro degrau abriga áreas do estado de acumulação inundáveis, que não apresentem propriamente uma forma de relevo, mas que estejam cobertas por uma fina camada de água; o segundo degrau seria o pediplano Rio Branco, uma unidade de relevo de enorme expressão na unidade federativa, pois ocupa grande parte de suas terras. Nesse pediplano, as altitudes variam de 70 a 160 metros e possuem fraca declividade rumo à calha dos rios. O terceiro degrau é formado por elevações que podem chegar a 400 metros de altitude. São serras como a serra da Lua, serra Grande, serra da Batata e outras. O quarto degrau caracteriza-se por elevações que podem variar
+de 600 a 2 000 metros de altitude, formado principalmente pela cordilheira do Pacaraima, serra do Parima e serra do Urucuzeiro. Estas serras estão unidas em forma de cadeias e nela nascem os rios que formam o rio Uraricoera. Por fim, o quinto degrau, agrupa as regiões mais altas, formado por elevações que chegam a quase 3 000 metros de altitude.[26]
+Vista aérea do Parque Nacional do ViruáFormações Rochosas da Serra do TepequémSavanas do nordeste de RoraimaPaisagem do Parque Nacional do Monte Roraima
+Clima[editar | editar código-fonte]
+Climas de Roraima segundo a classificação climática de Köppen-Geiger.
+Em Roraima predomina o clima similar ao de outros estados da Região Norte que abrigam a Floresta Amazônica, basicamente variações do clima tropical como o equatorial (Af) e o tropical úmido, também conhecido como clima de monção (Am), e o tropical de savana (Aw).[27] A temperatura média ocorrida durante o ano, varia de 20 °C em pontos de relevos com maiores altitudes, e 38 °C em áreas de relevo suave ou plano.[27] O índice pluviométrico na parte oriental é cerca de 2 mil milímetros. Na parte ocidental é de aproximadamente 1,5 mil milímetros. Na capital e em proximidades, os índices atingem 2,6 mil milímetros.[27]
+De modo geral, o clima varia de acordo com a região. Segundo a classificação climática de Köppen-Geiger, o sul e o oeste do estado apresentam um clima equatorial quente e úmido (Af).[28] A temperatura média anual varia de 25° a 28 °C.[29] No norte e no leste, o clima apresentado é o tropical de monção (Am),[28] onde a temperatura média é semelhante as demais regiões do estado, porém o índice pluviométrico é menor, e a estação de seca é bem definida.[29]
+Apesar da latitude, no extremo noroeste e nordeste, nas áreas mais elevadas do estado, é possível encontrar padrões climáticos compatíveis com os de climas subtropicais úmidos (Cfa e Cwa),[28] como na região em torno do Monte Roraima, que apresenta temperatura média anual entre 20 e 22 °C,[30] e uma estação seca entre os meses de dezembro e março.[31][32]
+Hidrografia[editar | editar código-fonte]
+Rio Branco, nas proximidades de Boa Vista.
+O estado de Roraima possui uma extensa hidrografia. Seu território é fartamente irrigado por 14 rios, sendo estes: Água Boa do Univiní, Ailã, Ajarani, Alalaú, Branco, Catrimani, Cauamé, Itapará, Mucajaí, Surumu, Tacutu, Uraricoera, Urubu e Xeruini.[33]
+A hidrografia do estado de Roraima faz parte da bacia do rio Amazonas e baseia-se basicamente na sub-bacia do rio Branco (45 530 km²) o maior e mais importante do estado. Este rio é um dos afluentes do rio Negro.[34]
+Grande parte dos rios da região possui uma grande quantidade de praias no verão, ideais para o turismo e lazer. Além disso, existem rios de corredeiras localizados ao norte do estado, sendo que estes são uma opção para prática de esportes aquáticos, como a canoagem. Quase todas as fontes hídricas do estado têm sua origem dentro de seu território, com exceção de dois rios com nascentes na Guiana. Todos os rios roraimenses deságuam na Bacia Amazônica.[33]
+Vegetação e unidades de conservação[editar | editar código-fonte]
+Monte Roraima.
+Roraima apresenta três tipos de coberturas vegetais, sendo todas bem distintas. Ao sul do estado, encontramos uma floresta tropical densa e abundante entrecortada por rios caudalosos, com uma rica fauna e flora. Na região central roraimense, o domínio dos campos gerais, lavrados ou savanas, existindo ainda lagos e riachos. A vegetação vai mudando e se tornando menos densa, em direção ao norte. A fronteira é uma região de serras, acima dos mil metros de altitude, com um clima que varia de 10 °C a 27 °C.[35] De uma forma abrangente, na parte ocidental e meridional prevalece a Floresta Amazônica, enquanto que na região centro-oriental é caracterizado formações arbustivas e herbáceas, como as campinas e os cerrados. No entanto, a composição paisagística vegetativa do estado pode ser classificada, mais especificamente, da seguinte forma: Floresta Tropical Amazônica, composta por florestas densas e úmidas; Campos Gerais do Rio Branco, formado por gramíneas, palmeiras de grande porte, buritizeiros, entre outros; e Região Serrana, árvores espaçadas, existência de uma grande quantidade de matéria orgânica como húmus.[36]
+Em Roraima o IBAMA administra oito unidades de conservação. O principal é o Parque Nacional do Monte Roraima, criado em 28 de junho de 1989 e localizado no extremo norte do estado. Com 2 785 metros de altitude, o Monte Roraima é o marco divisor da tríplice fronteira entre Brasil, Venezuela e Guiana.[37] Há ainda outras sete unidades de conservação, são elas: Parque Nacional do Viruá, criado em 1998 em Caracaraí;[38] Parque Nacional Serra da Mocidade, criado em 1998 também em Caracaraí;[39] Estação Ecológica de Maracá, criado em 1981 em Amajari;[40] Estação Ecológica de Cacararaí, criada em 1982;[41] Estação Ecológica do Niquiá, criada em 1985, com uma área de 286,6 mil hectares;[42] Floresta Nacional de Roraima, criado em 1989 nos municípios de Mucajaí e Alto Alegre,[43] e por último a Floresta Nacional do Anauá, criada em 18 de fevereiro de 2005 no município de Rorainópolis.[44]
+Biodiversidade[editar | editar código-fonte]
+Cavalos lavradeiros na região do lavrado em Roraima.
+Buritizeiros.
+A flora do estado de Roraima é dividida em três blocos: Floresta tropical amazônica, Campos gerais do rio Branco e região Serrana.[45] A Floresta tropical amazônica compõe-se de floresta densa e úmida típica do baixo Rio Branco, estendendo-se pela região sudoeste do estado e penetrando em parte do território do Amazonas.[45] Os Campos gerais do rio Branco se estendem por aproximadamente 44 mil km², sendo também conhecidos como região do lavrado. O lavrado é conhecido também como savana e é formado por gramíneas, entretanto, ao longo dos cursos dágua, situam-se palmeiras de grande porte conhecidas como buritizeiros. No lavrado também encontra-se, em grande quantidade, caimbés, paricaranas e muricizeiros.[45] A Região Serrana possui vegetação típica de montanhas, de árvores mais rarefeitas e de vales ricos em humos com gramíneas de boa qualidade para os animais de criação. Encontra-se mais ao norte do estado, na fronteira deste com a Venezuela.[45] Em qualquer dos blocos, existem três tipos diferentes de cobertura vegetal levando-se em consideração as margens dos rios. Estas são: Matas de terra firme, Matas de várzea e Matas ciliares.[45] Matas de terra firme compreendem as florestas localizadas em terras que não são atingidas pelas enchentes dos rios.[45] Matas de várzeas são as florestas que cobrem as terras atingidas pelas cheias dos rios.[45] Matas ciliares são preservadas por lei. Estas sofrem inundações todos os anos por conta das cheias dos rios amazônicos.[45]
+Os diversos ambientes da região contribuem para a formação da fauna roraimense: Florestas tropicais amazônicas, onde encontram-se animais como onça, anta, caititu, jacaré, gato maracajá, lontra, veado, macacos, entre outras espécies; Campos gerais do rio Branco, que apresenta tamanduás, tatus, jabutis, veados campeiros, pacas, cutias, cobras e outras espécies; Bacia do rio Branco, onde estão os peixes, que em Roraima a variedade é grandiosa. Entre os principais peixes, encontramos: pacu, tucunaré, surubim, matrinxã, pirararas, tambaqui, acara, mandi, cachorra, piranha, traíra, piraíbas, aruanã e muitas outras espécies. Nas praias do baixo rio Branco, é possível encontrar ainda, tartarugas e tracajás.[46] Há muitos pássaros no estado, de grande e pequeno porte. Entre os de grande porte destacam-se o passarão e jaburu. Entre os de pequeno porte destacam-se os jacus, garças, carcarás, passarinhos de muitas espécies e outros. Além destes, existem também os domésticos.[46]
+Demografia[editar | editar código-fonte]
+Crescimento populacional
+Censo
+Pop.
+%±
+194010 514—195018 11672,3%196028 30456,2%197040 88544,4%198079 15993,6%1991217 583174,9%2000277 68427,6%2010451 22762,5%Censos demográficos do IBGE[47]
+Densidade populacional de Roraima   0-1 hab/km²   1-25 hab/km²   >25 hab/km²
+A população de Roraima é de 652 713 habitantes, segundo a estimativa populacional de 2021, realizada pelo Instituto Brasileiro de Geografia e Estatística (IBGE) o que faz do estado a unidade federativa menos populosa do Brasil.[24] A capital, Boa Vista, concentra 65,3% da população do estado.[48] A população de Roraima quase dobrou em vinte anos. Em 1991, o estado contava com 217 583 habitantes, um aumento significativo de 95,51 % de crescimento populacional.[49]
+Os municípios que apresentaram maior crescimento populacional foram Boa Vista, a capital, e Rorainópolis.[49] Quanto ao número de crescimento populacional anual de Roraima, o estado coloca-se entre os de maior crescimento no Brasil, com uma taxa de 4,6%, muito superior à média nacional de 1,6% de crescimento. Nesse quesito, perde apenas para o Amapá, que registra mais de 5% de crescimento anual.[50] Entretanto, esse alto número de crescimento de população vem caindo nos últimos anos.[49] Um exemplo disto é a taxa apresentada em 2000, quando Roraima apresentou 49,09% de crescimento de população em relação a 1991. No último censo, em 2010, esse número caiu para 31,13%.[49]
+Do total da população do estado em 2010, 229 343 habitantes são homens e 221 884 habitantes são mulheres.[51] Nos últimos anos, o crescimento da população urbana intensificou muito, ultrapassando o total da população rural. Segundo a estimativa de 2000, 80,3% dos habitantes viviam em cidades.[50]
+A densidade demográfica era de 1,8 hab./km² em 2006.[50] Essa marca é inferior à densidade brasileira — 19,94 hab./km².[52] A distribuição da população estadual é desigual, apresentando maior concentração na região da capital e no sul do estado. Cinco municípios (Boa Vista, Rorainópolis, Alto Alegre, Caracaraí e Bonfim) concentram mais da metade da população de Roraima.[50] Em 2005, o Índice de Desenvolvimento Humano (IDH) de Roraima era de 0,750, sendo classificado como médio e colocando o estado na 18ª posição entre os estados do Brasil.
+Religião[editar | editar código-fonte]
+Tal qual a variedade cultural verificável em Roraima, são diversas as manifestações religiosas presentes.[53] A Diocese de Roraima é uma circunscrição eclesiástica da Igreja Católica no estado de Roraima, pertencente à Província Eclesiástica de Manaus e ao Conselho Episcopal Regional Norte I da Conferência Nacional dos Bispos do Brasil, sendo sufragânea da Arquidiocese de Manaus. A sé episcopal está na Catedral Cristo Redentor, na cidade de Boa Vista, sendo a única diocese católica do estado de Roraima.
+Igreja de Nossa Senhora do Carmo do Rio Branco, em Boa Vista
+Embora seu desenvolvimento tenha sido sobre uma matriz social eminentemente católica, tanto devido à colonização quanto à imigração - e ainda hoje grande parte da população roraimense declara-se católica,[53] é possível encontrar atualmente no estado dezenas de denominações protestantes diferentes, assim como a prática do candomblé, do Espiritismo, das religiões antitrinitárias e novos movimentos religiosos, entre outros.[53] Nos últimos anos, as religiões orientais, o mormonismo e denominações evangélicas têm crescido bastante no estado.[53]
+De acordo com dados de 2010, do Instituto Brasileiro de Geografia e Estatística (IBGE), a população de Roraima está composta por: católicos (50,5%); protestantes (30,3%); pessoas sem religião (12,98%); Tradições indígenas (2,75%); espíritas (0,91%); budistas (0,13%); Candomblé (0,08%); Tradições esotéricas (0,03%); Judaísmo e Islã (0,03% cada); Umbanda (0,02%) e Hinduísmo (0,01%). Entre as denominações cristãs restauracionistas, destacam-se as Testemunhas de Jeová (0,55%)e A Igreja de Jesus Cristo dos Santos dos Últimos Dias (0,15%).[53] Entre as novas religiões orientais, destaca-se a Igreja Messiânica Mundial (0,06%).[53] Outras crenças são partilhadas por 1,47% da população.[53]
+Composição étnica[editar | editar código-fonte]
+Os traços culturais, políticos e econômicos herdados dos portugueses, espanhóis e neerlandeses são influentes em Roraima. Voltando um pouco atrás na história, não se pode esquecer a importância dos ameríndios no quesito contribuição étnica. Foram os ameríndios que iniciaram a ocupação humana na Amazônia, e seus descendentes, os caboclos, desenvolveram-se em contato íntimo com o meio ambiente, adaptando-se às peculiaridades regionais e oportunidades oferecidas pela floresta.[54]
+Na sua formação histórica, a demografia roraimense é o resultado da miscigenação das três etnias básicas que compõem a população brasileira: o índio, o europeu e o negro, formando, assim, os mestiços da região (caboclos). Mais tarde, com a chegada dos migrantes, especialmente nordestinos,[55] formou-se um caldo de cultura singular, que caracteriza grande parte da população, seus valores e modo de vida.[55]
+Segundo o censo de 2009 do IBGE, a população de Roraima está composta por: pardos (61,6%), brancos (30,4 %), pretos (6,1%) e indígenas ou Amarelos (1,9 %).[56][57] Há ainda, 2 041 pessoas que não declararam suas etnias, representando 0,63 % do total da população.[56][57] Roraima também reconhece a identidade mestiça. O Dia do Mestiço (27 de junho) é data oficial no estado.[58]
+Criminalidade[editar | editar código-fonte]
+Segundo o mapa da violência no Brasil de 2011, os municípios de Alto Alegre e Caracaraí são os que apresentam maior taxa de criminalidade no estado, como 73,3% e 49,7% e ocupando as 42ª e 146ª posições a nível nacional, respectivamente. Os outros três municípios de maior criminalidade são Mucajaí (41% - 251ª posição nacional), Cantá (37,2% - 312ª posição nacional) e Bonfim (31,4% - 441ª posição nacional). A capital, Boa Vista, apresenta 24,9% de criminalidade e ocupa a 664ª posição entre os municípios brasileiros.[59]
+De acordo com o Censo brasileiro de 2010, 77,7% dos habitantes de Roraima sentem-se seguros em seus domicílios; 72,3% sentem-se seguros no bairro ou comunidade em que residam; e 64,8% da população sente-se segura na cidade onde reside. Entretanto, 18,7% das residências no estado possuíam algum tipo de proteção ou segurança particular, que não fosse de domínio público.[60] 11,1% das pessoas declararam já terem sido vítimas de roubo ou furto, sendo que destas 20,4% não procuraram atendimento em delegacias de polícia.[60]
+Urbanização[editar | editar código-fonte]
+Ver artigos principais: Lista de municípios de Roraima e Lista de municípios de Roraima por população
+Roraima está dividido politicamente em 15 municípios.[61] O mais populoso deles é Boa Vista, com 284 mil habitantes,[62] sendo o município mais antigo do estado, surgido como um povoado, o primeiro com características urbanas em Roraima.[63]
+verdiscutireditar Municípios mais populosos de Roraima
+(Estimativa 2019 do Instituto Brasileiro de Geografia e Estatística)[64]
+Boa VistaRorainópolis
+Posição
+Localidade
+Região intermediária
+Pop.
+1
+Boa Vista
+Boa Vista
+399 213
+2
+Rorainópolis
+Rorainópolis-Caracaraí
+30 163
+3
+Caracaraí
+Rorainópolis-Caracaraí
+21 926
+4
+Cantá
+Boa Vista
+18 335
+5
+Mucajaí
+Boa Vista
+17 853
+6
+Pacaraima
+Boa Vista
+17 401
+7
+Alto Alegre
+Boa Vista
+15 510
+8
+Amajari
+Boa Vista
+12 796
+9
+Bonfim
+Boa Vista
+12 409
+10
+Iracema
+Rorainópolis-Caracaraí
+11 950
+Política[editar | editar código-fonte]
+Palácio Senador Hélio Campos, a sede do governo do estado.
+Roraima é um estado da federação, sendo governado por três poderes, o executivo, representado pelo governador, o legislativo, representado pela Assembleia Legislativa do Estado de Roraima, e o judiciário, representado pelo Tribunal de Justiça do Estado de Roraima e outros tribunais e juízes. Também é permitida a participação popular nas decisões do governo através de referendos e plebiscitos.[65] A atual constituição do estado de Roraima foi promulgada em 31 de dezembro de 1991,[66] acrescida das alterações resultantes de posteriores emendas constitucionais.[66]
+O Poder Executivo roraimense está centralizado no governador do estado,[67] que é eleito em sufrágio universal e voto direto e secreto,[67] pela população para mandatos de até quatro anos de duração,[67] e podem ser reeleitos para mais um mandato.[67] Sua sede é o Palácio Senador Hélio Campos, que desde 1991 é a sede do governo roraimense.[68]
+O Poder Legislativo de Roraima é unicameral, constituído pela Assembleia Legislativa do Estado de Roraima. Ela é constituída por 24 deputados, que são eleitos a cada 4 anos. No Congresso Nacional, a representação roraimense é de 3 senadores e 8 deputados federais.[67][69] A maior corte do Poder Judiciário roraimense é o Tribunal de Justiça do Estado de Roraima. Compõem o poder judiciário os desembargadores e os juízes de direito.[67]
+Tratando-se sobre organizações de representação política, 34 dos 35 partidos políticos brasileiros possuem representação no estado.[70] Conforme informações divulgadas pelo Tribunal Superior Eleitoral (TSE), com base em dados de abril de 2016, o partido político com maior número de filiados em Roraima é o Partido Republicano Progressista (PRP), com 6 732 membros, seguido do Partido da Social Democracia Brasileira (PSDB), com 5 356 membros e do Partido Democrático Trabalhista (PDT), com 5 087 filiados. Completando a lista dos cinco maiores partidos políticos no estado, por número de membros, estão o Partido Progressista (PP), com 4 521 membros; e o Partido Trabalhista Brasileiro (PTB), com 3 406 membros. Ainda de acordo com o Tribunal Superior Eleitoral, a Rede Sustentabilidade (REDE) e o Partido Socialista dos Trabalhadores Unificado (PSTU) são os partidos políticos com menor representatividade na unidade federativa, com 21 e 24 filiados, respectivamente.[70] O Partido Novo (NOVO) é o único que não possui nenhuma representatividade em Roraima.[70]
+Subdivisões[editar | editar código-fonte]
+Divisões regionais intermediárias em vermelho e imediatas em cinza
+Regiões Intermediárias e Imediatas[editar | editar código-fonte]
+Ver artigo principal: Lista de regiões geográficas intermediárias e imediatas de Roraima
+O estado de Roraima é composto por 15 municípios, que estão distribuídos em quatro regiões geográficas imediatas, que por sua vez estão agrupadas em duas regiões geográficas intermediárias, segundo a divisão do Instituto Brasileiro de Geografia e Estatística (IBGE) vigente desde 2017.[71][72]
+Regiões intermediárias[73]
+Código
+Número de
+municípios
+Regiões imediatas
+Código
+IBGE
+Número de
+municípios
+Boa Vista
+1401
+9
+Boa Vista
+140001
+5
+Pacaraima
+140002
+4
+Rorainópolis-Caracaraí
+1402
+6
+Rorainópolis
+140003
+4
+Caracaraí
+140004
+2
+Economia[editar | editar código-fonte]
+Exportações de Roraima - (2012)[74]
+Roraima detém o menor Produto interno bruto (PIB) entre os estados brasileiros, apesar das altas taxas de crescimento. Seu PIB, em 2013, era de 9 027 000 bilhões de reais, representando 0,15% do PIB brasileiro e colocando o estado na 27ª posição nacional.[75] O estado apresentou crescimento anual da ordem de 7,65%, congratulando-se como o estado de maior crescimento econômico no Norte brasileiro.[76] O PIB per capita roraimense é o segundo maior de sua macrorregião, com R$ 18 495,80, atrás somente do PIB per capita amazonense. Em âmbito nacional, o estado ocupa a 13ª posição, estando 25,9% abaixo da média nacional e 15,9% acima da média regional. Comparado a 2007, o fator per capita estadual teve uma variação de 15,3%, sendo 15,9% a variação referente à renda per capita média da Região Norte.[77]
+Roraima possui duas Áreas de Livre Comércio (ALC): Em Bonfim e em Boa Vista. Estas são áreas de importação e exportação que operam em regime fiscal especial. As duas ALC’s – únicas no país com incentivos fiscais na implantação de indústrias que utilizem matéria-prima da Amazônia Ocidental, funcionam desde 2005, e são responsáveis por ampliar a tendência para a realização do turismo de negócios.[78]
+Quanto a pauta de exportação do estado, ela é composta principalmente, segundo dados de 2012, de soja (33,29%), madeira serrada (39,13%), barras de ferros forjadas a quente (7,45%) e madeira perfilada (6,04%).[79]
+Setor primário[editar | editar código-fonte]
+Produção agrícola de Roraima[80]
+Produto
+Quantidade (t)
+Café
+24 000
+Milho
+15 740
+Banana
+13 415
+Soja
+11 005
+Mandioca
+8 745
+Laranja
+467
+Cana-de-Açúcar
+373
+Feijão
+82
+O setor primário em Roraima encontra-se atualmente em desenvolvimento. Obteve um crescimento econômico de 4,8%, sendo responsável por 6,4% do PIB do estado. Em 2010, a agricultura teve queda de 5,2% com relação a 2006, onde os principais produtos da agricultura (arroz em casca e soja), tiveram queda de produção em 2007. Houve redução de 14,4% na área de cultivo do arroz, sendo que este teve uma produção 4,37% menor que o ano anterior. A produção de soja também teve uma redução na área plantada em 36,4% e a sua produção
+havia diminuído 34,1% em 2007. Os três principais produtos exportados por Roraima, em 2010, foram o couro, com uma participação de 63,32%, a madeira (28,13%) e água mineral com 1%. No acumulado, a madeira representa 42,17% do volume exportado seguido de consumo de bordo com 36,26%. Com relação as importações realizadas por Roraima, os três principais produtos importados no segundo semestre de 2010 foram os Cimentos Portland, representando 35,43%, vidros com 11,20% e farinha de trigo com 9,32%.[81]
+De acordo com o Censo Agropecuário de 2006, existem em Roraima 10 260 estabelecimentos agropecuários legalizados, sendo 10 082 de caráter individual e 178 de caráter consorcial, que ocupavam 1 645 219 hectares de terra. Há ainda, o registro de 10 cooperativas agropecuárias legalizadas, divididas em 3 160 hectares. Foi registrado também 10 310 estabelecimentos agropecuários informais, sendo 8 993 administrados por homens e 1 317 administrados por mulheres. Estes espaços informais ocupavam 7 379 hectares de terra do estado. Quanto aos assentamentos sem titulação definitiva, foram contabilizados 568 unidades nesta condição, sendo 483 de propriedade de homens e 85 de propriedade de mulheres, distribuídos em 44 230 hectares de terra. As lavouras permanentes no estado são notáveis, existindo 3 216 unidades destas, que ocupavam 50 669 hectares. As lavouras temporárias estão concentradas em maior número, 3 689, distribuídas em 58 322 hectares de terra.[82]
+Em relação a empregados, cerca de 29 513 pessoas trabalham formalmente em estabelecimentos agropecuários, sendo em sua maioria, homens (19 413 dos trabalhadores).[82] Ainda em 2006, havia 480 704 bovinos, 314 076 aves, 42 970 suínos, 25 659 ovinos, 20 664 equinos, 5 963 caprinos, 562 muares, 234 asininos e 105 bubalinos.[82]
+Setores secundário e terciário[editar | editar código-fonte]
+Apreensão de 7.387 toras extraídas ilegalmente da Terra Indígena Pirititi, em Roraima, em 2018
+O extrativismo é o destaque no setor secundário. Esse segmento sofreu retração de 2006 para 2008 da ordem de 11,2%, enquanto as atividades de produção e distribuição de eletricidade e gás, água e esgoto e limpeza urbana não apresentaram variação de desempenho. O setor secundário apresentou crescimento de 8,1% em 2008. Somente a construção civil cresceu 11,7%, aumentando sua participação em 7,7% da economia de Roraima, enquanto que a indústria de transformação diminuiu 2,5% em relação ao ano anterior. Roraima possui um parque industrial de porte médio, situado em Boa Vista, destinado principalmente à produção de refrigerantes, derivados do leite e derivados cereais. São Paulo é o principal destino destes produtos, como maior comércio importador, com destaque também para o Amazonas e a Venezuela. Outros indústrias dedicam-se à produção de cimento, ferro, combustíveis, produtos para alimentação, entre outros.[46] O setor extrativista, que integra o setor secundário, é um dado que tem se destacado negativamente. Esse segmento sofreu retração de 2006 para 2008 da ordem de 11,2%, enquanto as atividades de produção e distribuição de eletricidade e gás, água e esgoto e limpeza urbana não apresentaram variação de desempenho.[83]
+O setor terciário tem sua maior expressão na administração pública, educação, saúde e seguridade social. Juntos, esses segmentos obtiveram participação de 47,3% no PIB, com crescimento da ordem de 5,7%. Ainda no setor terciário, os serviços de informação, intermediação financeira, atividades imobiliárias, turismo e aluguéis, representam 33,1% do PIB roraimense. Isso fez com que o setor terciário representasse 80,4% do PIB do estado.
+Turismo[editar | editar código-fonte]
+Pedra Pintada, uma formação rochosa considerada sítio arqueológico, que também é uma das atrações turísticas
+Roraima possui um grande potencial turístico, em especial no ecoturismo. Por se localizar no extremo norte do país, na parte setentrional deste e por fazer limites com três países sul-americanos, Roraima mantém estreitas relações comerciais baseadas no turismo com esses países, em especial a Venezuela. Os atrativos naturais são os principais pontos turísticos do estado, em especial o Monte Roraima.[84]
+Arqueólogos têm forte interesse na Pedra Pintada, que é o mais importante sítio de tal ciência do estado. Nela, há inscrições de civilizações milenares, tais como pinturas rupestres, pedaços de cerâmicas, machadinhas, contas de colar, entre outros artefatos que indiciam a história da evolução humana, datados de quatro mil anos. A rocha é um monólito de granito com sessenta metros de diâmetro e cerca de 40 metros de altura. Na face externa existem pinturas rupestres vermelhas que são até hoje consideradas um enigma para cientistas. Há também cavernas funerárias com até 12 metros de extensão. A Pedra Pintada localiza-se em Pacaraima.[85]
+O Monte Roraima, um dos lugares mais antigos do planeta, atrai diversos turistas de todo o mundo.[86] O explorador botânico inglês Everd Thurm descreveu sua passagem pelo Monte Roraima, em 1884, com as seguintes palavras:
+O Monte Roraima é caracterizado por um extraordinário número de plantas, quase todas com desusada beleza, de estranha forma e talvez com ambas peculiaridades. Como a flora, também a fauna, embora igualmente peculiar, parece ser, no entanto, sem contestação, menos abundante. Roraima ergue-se, numa verdadeira terra maravilhosa cheia de coisas raras, belas e estranhas.— Everd Thurm, em 1884, durante expedição ao Monte Roraima.[87]
+Manhã de sol às margens do Lago Caracaranã.
+A Serra do Tepequém também é uma atração turística estadual. Possui um riquíssimo artesanato em pedra-sabão e sua área é de livre exploração de diamantes. O local serve como prática de trekking (caminhada), até as cachoeiras do Paiva, Sobral, do Barata e do Funil. O platô é o ponto culminante de toda a Serra, onde se inicia a cadeia montanhosa que delimita as fronteiras entre o Brasil e a Venezuela. A serra do Tepequém conta com altitude média de 1,5 mil metros e está situada no município de Amajari.[88] Outro ponto turístico do estado é o Monte Caburaí. Geógrafos comprovaram que ele está situado a 70 km acima do Oiapoque, o que faz do monte o ponto mais setentrional do Brasil, tendo sido reconhecidamente convencionado nas instituições oficiais responsáveis pelas demarcações territoriais geográficas, como o Ministério da Educação e o Instituto Brasileiro de Geografia e Estatística (IBGE).[89]
+Destaca-se também, o Lago Caracaranã, no município de Normandia. Com quase 6 quilômetros de perímetro, é conhecido por suas praias de areia fina rodeadas de cajueiros.[90]
+Infraestrutura[editar | editar código-fonte]
+Saúde[editar | editar código-fonte]
+Mortalidade infantil
+20,1 por mil nascimentos[91]
+Médicos
+8,3 por 10 mil hab. (2005)[92]
+Leitos hospitalares
+1,6 por mil hab. (2005).[92]
+Em 2005, existiam, no Estado, 455 estabelecimentos hospitalares, com 725 leitos e 56 médicos, 10 enfermeiros diplomados e 60 auxiliares de enfermagem.[93] Em 2010, dos 455 hospitais existentes, 378 eram de adultos e crianças, 22 eram exclusivamente de crianças, sendo 49 gerais e 3 especializados.[93][94] Em 2005, 85,2% da população roraimense tinham acesso à rede de água,[92] enquanto 75% se beneficiam da rede de esgoto sanitário.[92]
+De acordo com o Censo brasileiro de 2010, 81,4% da população de Roraima avalia a sua saúde como boa ou ótima; 72,5% da população realiza consulta médica periodicamente; 44,9% dos habitantes consultam o dentista regularmente e 7,4% da população esteve internado em leito hospitalar nos últimos doze meses. Aproximadamente 22% dos habitantes declarou ter alguma doença crônica e apenas 9,8% possui plano de saúde. Outro dado significante é o fato de 44,7% dos habitantes declararem necessitar sempre do Programa Unidade de Saúde da Família - PUSF.[95]
+Na questão da saúde feminina, 30,5% das mulheres com mais de 40 anos fizeram exame clínico das mamas nos últimos doze meses; 39,1% das mulheres entre 50 e 69 anos fizeram exame de mamografia nos últimos vinte e quatro meses; e 85,6% das mulheres entre 25 e 59 anos fizeram exame preventivo para câncer do colo do útero nos últimos trinta e seis meses.[95]
+Educação[editar | editar código-fonte]
+Ver também: Escolas de Roraima por Índice de Desenvolvimento da Educação Básica em 2005
+Bloco I da Universidade Federal de Roraima (UFRR), no campus do Paricarana.
+O estado dispunha em 2009 de uma rede de 585 escolas de ensino fundamental, das quais 322 estaduais, 252 municipais, 10 particulares e 1 pública federal. O corpo docente era constituído de 4 842 professores, sendo que 2 952 trabalhavam nas escolas públicas estaduais, 1 627 nas escolas públicas municipais e 217 nas escolas particulares. Estudavam nestas escolas 86 547 alunos, dos quais 82 208 nas escolas públicas e 4 339 nas escolas particulares. O ensino médio foi ministrado em 100 estabelecimentos, com a matrícula de 17 512 alunos. Dos 17 512 discentes, 16 175 estavam nas escolas públicas e 1 337 nas particulares.
+Quanto ao ensino superior, destaca-se a Universidade Federal de Roraima (UFRR), a Universidade Estadual de Roraima (UERR) e o Instituto Federal de Roraima (IFRR). Há ainda estabelecimentos de Ensino Superior privados: Faculdade Roraimense de Ensino Superior (FARES),[96] Faculdade Estácio Atual,[97] Faculdade Cathedral[98] e Faculdade de Ciências, Educação e Teologia do Norte do Brasil (FACETEN).[99][100][101] Foram registrados ainda, 14 575 estudantes de ensino pré-escolar, divididos em 270 unidades de ensino. Destas, 258 eram municipais, não existindo nenhuma a nível estadual. No estado havia 857 professores de ensino pré-escolar.[100]
+Resultados no ENEM
+Ano
+Português
+Redação
+2006[102]Média
+31,40 (23º)36,90
+45,37 (27º)52,08
+2007[103]Média
+43,82 (24º)51,52
+52,12 (26º)55,99
+2008[104]Média
+35,47 (22º)41,69
+56,52 (23º)59,35
+Em 2010 a taxa de analfabetismo no estado era de 9,69%, colocando o estado na 15ª posição entre os estados do Brasil por analfabetismo.[105] Da população, 15,9% dos roraimenses são analfabetos funcionais. Isso faz da educação de Roraima a 13ª melhor educação do Brasil, com um Índice de Desenvolvimento Humano na área de 0,628.[92] A última estatística informou que o estado possuía 450 prédios destinados a unidades de ensino público.[106] Em 2013, no Índice de Desenvolvimento da Educação Básica (IDEB), o estado alcançou nota de 5,0 pontos, sendo superior à média nacional e se configurando na 16ª posição nacional.[107]
+A nota média de Roraima no Exame Nacional do Ensino Médio (ENEM) é de 35,03 na prova objetiva e 56,37 na prova de redação, sendo uma das maiores notas do Norte-Nordeste brasileiro. Nestas duas regiões, Roraima perdeu apenas para o Amazonas (57,77). Entretanto, mesmo com a segunda maior nota, a média de Roraima ficou abaixo da média nacional, que foi de 57,26. Em relação ao número de estudantes, 7 463 participaram do ENEM em 2010, sendo que destes, 2 404 eram concluintes do ensino médio e 4 493 egressos. 85,52 % do total de estudantes eram oriundos de escola pública.[108]
+Pesquisa realizada pelo Portal G1 apontou Roraima como um dos estados brasileiros que melhor remuneram o professor de nível médio, com salário médio de R$ 2 099,47 por 25 horas semanais. Segundo a pesquisa, o maior salário do país, no Distrito Federal - no valor de R$ 3 121,96 – era referente a uma carga horária de 40 horas. No mesmo ano, a ONG Todos pela Educação também citou Roraima como o segundo estado brasileiro com maior investimento no aluno da educação básica ao ano, com R$ 4.834, 43, para cada aluno.[109]
+Transportes[editar | editar código-fonte]
+Ver artigo principal: Sistema rodoviário de Roraima
+Mapa rodoviário de Roraima
+BR-174 na reserva indígena Waimiri-Atroari
+Aeroporto Internacional de Boa Vista
+No estado existe apenas um aeroporto administrado pela Infraero, o Aeroporto Internacional de Boa Vista - Atlas Brasil Cantanhede, localizado na capital estadual.[110] Em 2009, o aeroporto da capital estadual movimentou 190 469 passageiros e 931 248 cargas aéreas.[111] O estado possui ainda outros 7 aeroportos de categoria estadual e menor porte: Aeroporto Auaris, em Amajari; Aeroporto de Mucajaí, em Mucajaí; Aeroporto de Pacaraima, em Pacaraima; Aeroporto Surucucu, Uaicas e Surucucus, em Alto Alegre, sendo este último localizado no interior da Terra Indígena Yanomami; e o Aeroporto de Caracaraí. Estes aeroportos são de administração municipal e estadual.[112]
+O transporte aéreo é o mais rápido em regular em Roraima, encontrando-se em melhores condições que os demais. As cidades, distritos e vilas do interior roraimense são atendidas, na maioria das vezes, por transportes oriundos de Boa Vista. Posto isto, é a mais isolada unidade federativa da nação.[113] Não há rede ferroviária no estado.[113]
+O único estado brasileiro que possui ligação rodoviária com Roraima é o Amazonas, através da BR-174, que interliga os municípios do Sul aos municípios do Norte do estado, sendo responsável também por interligar o Brasil à Venezuela. A BR-174 possui 992 quilômetros e corta o território do estado do sul ao norte, cruzando o rio Branco na altura de Caracaraí através da Ponte José Vieira de Sales Guerra. Há ainda, a BR-210, também chamada de Perimetral norte, um projeto oriundo de meados do Século XX, do Governo Federal, que fora realizado apenas parcialmente e que, a princípio, ligaria o estado ao Pará, Amapá e ao município de São Gabriel da Cachoeira (AM). Esta rodovia possui 481 quilômetros de extensão e corta o estado no sentido leste-oeste. Outra rodovia em Roraima que cruza o Brasil é a BR-401, fazendo a comunicação do estado com a Guiana. Inicia em Boa Vista e cruza o rio Branco pela ponte dos Macuxis, penetrando em território guianense. Entretanto, esta rodovia, que possui 185 quilômetros de extensão, não se encontra totalmente asfaltada. Outras rodovias federais são a BR-431, a BR-432 e a BR-433. Existem ainda rodovias de caráter estadual, entre as quais destacam-se a RR-205 (que conecta a capital à sede de Alto Alegre)[114] e a RR-203.[115] As estradas federais em Roraima somam 1 638 quilômetros. As estradas estaduais somam pouco mais de 2 000 quilômetros de extensão, estando, em grande parte, em condições de uso indevidas.[113] A capital Boa Vista dispõe de um anel viário de quase 30 quilômetros, denominado Contorno Oeste Ottomar de Souza Pinto, fazendo a interligação de três importantes rodovias.[116]
+Também é notável no estado, assim como em outros estados da Amazônia, o transporte fluvial. Entretanto, a navegação fluvial encontra-se limitada ao rio Branco.[117] O transporte no rio Branco é fortemente usado para a economia, mas de pouco movimento em passageiros para as cidades do interior.[118]
+A navegação regular neste rio ocorre somente no trecho foz (rio Negro/Caracaraí), com cerca de 440 quilômetros de extensão. Neste segmento, o rio Branco apresenta calado máximo de 5,0 metros no período de cheias e mínimo de 0,7 metros, no período de estiagem. Roraima fica em desvantagem em relação aos demais estados amazônicos quanto ao sistema hidroviário. Por ser o único destes em que todos os seus rios notórios têm sua nascente no seu próprio território - o sistema hidrográfico estadual é 100% roraimense -, fica fadado a ter poucas saídas fluviais. Na verdade Roraima dispõe de apenas uma grande saída fluvial: pelo rio Branco, chegando ao rio Negro, rumando daí à Manaus e São Gabriel da Cachoeira. Ainda assim, o mais importante rio roraimense ainda impõe dificuldades adicionais.[113] O porto de Caracaraí encontra-se desativado, dadas as precárias condições do cais. A movimentação é feita diretamente nas barrancas do rio, o que dificulta as operações de embarque e desembarque. O trecho Caracaraí - Boa Vista, com extensão de aproximadamente 150 quilômetros se desenvolve em zona encachoeirada nos primeiros 14 quilômetros, num desnível de 7,5 metros conhecida como Corredeiras do Bem Querer.[119]
+Energia[editar | editar código-fonte]
+Mapa da Linha de Transmissão de Tucuruí
+Até meados da década de 1990, o estado convivia com sérios problemas de energia elétrica. Em 2001, foi inaugurada na fronteira entre Brasil e Venezuela, a primeira etapa do Complexo Hidrelétrico de Guri/Macaguá, que atualmente fornece energia elétrica para Roraima e regiões da Venezuela.[120]
+Considerando que Roraima é o único estado que não faz parte do Sistema Interligado Nacional, e diante da instabilidade do fornecimento da energia pela Venezuela, usinas termelétricas complementam a energia de Guri, em especial as usinas de Monte Cristo (97 MW), Floresta (85 MW), Distrito Industrial (21 MW) e Novo Paraíso (13 MW). Há um projeto de interligação de Roraima ao SIN, com a construção do Linhão de Tucuruí, o que daria maior segurança energética ao estado, bem como a construção de novas fontes de energia.[121][122]
+O fornecimento de energia elétrica no interior do estado é fornecido através da Companhia Energética de Roraima[123] e na capital pela Eletrobrás Distribuição Roraima. Nos últimos anos, o consumo de energia elétrica em Roraima tem crescido de forma abrupta. Em fevereiro de 2011 foi registrado um aumento de 4% no consumo, em relação ao mesmo período de 2010. Somente em Boa Vista, o aumento total foi de 9,05%.[124] O setor comercial foi quem apresentou maior aumento no consumo: 16,4%, seguido das residências, com um gasto de 12,86%. O setor público foi o único que apresentou redução no consumo de energia: -7,2% nos órgãos municipais, -1,9% nos órgãos estaduais e -1,4% nos federais.[124]
+Comunicações[editar | editar código-fonte]
+A ECT - Empresa de Correios e Telégrafos possui agências em apenas cinco municípios de Roraima: Boa Vista, Caracaraí, Alto Alegre, Sào Luiz do Anauá e Pacaraima. Na questão da área telefônica, há aproximadamente 40 mil terminais telefônicos, com destaque para a telefonia celular. O interior do estado também é atendido. Há no estado, apenas 4 estações de rádio e 7 retransmissoras de canais de televisão. Existem alguns jornais, sendo os principais a Folha de Boa Vista e o jornal Diário. Ainda no estado, há três provedores de internet, a TechNet , Mandic Scan e RRNet.[125]
+Segurança pública[editar | editar código-fonte]
+Membros dos Batalhão de Operações Especiais da Polícia Militar do Estado de Roraima
+Delegacia móvel da Polícia Civil do Estado de Roraima
+As principais unidades das Forças Armadas presentes em Roraima são: no Exército Brasileiro, Roraima é integrante do Comando Militar da Amazônia, este sediado em Manaus, capital do Amazonas e abrange todos os estados da Região Norte do Brasil, com exceção do Tocantins.[126] na Marinha do Brasil, o estado faz parte do 9º Distrito Naval (com sede em Manaus);[127] e na Força Aérea Brasileira, Roraima integra o 1.º Esquadrão do 3.º Grupo de Aviação, sediado na própria cidade.[128]
+A Polícia Militar do Estado de Roraima (PMRR) é uma das forças de polícia militar do Brasil, sendo responsável pelo policiamento ostensivo no Estado de Roraima. Teve origem na Guarda Territorial do Rio Branco, em 21 de novembro de 1944. Além da sua missão atual, tinha também como missão realizar serviços de transportes, controlar incêndios e queimadas, além de várias outras atribuições. Com o desenvolvimento sócio-econômico da região na década de 1970 e a emancipação política de Roraima do Amazonas fez-se necessário criar uma instituição dedicada permanentemente ao policiamento ostensivo em suas diversas modalidades. Desta forma, foi criada a Polícia Militar do Território Federal de Roraima, através da lei nº 6.270 de 26 de novembro de 1975.[129]
+O Corpo de Bombeiros Militar do Estado de Roraima (CBMRR) é uma Corporação cuja missão primordial consiste na execução de atividades de defesa civil, prevenção e combate a incêndios, buscas, salvamentos e socorros públicos no âmbito do estado de Roraima. Ele é Força Auxiliar e Reserva do Exército Brasileiro, e integra o Sistema de Segurança Pública e Defesa Social do Brasil. Seus integrantes são denominados Militares dos Estados pela Constituição Federal de 1988, assim como os membros da Polícia Militar do Estado de Roraima.[130]
+A Polícia Civil do Estado de Roraima é uma das polícias de Roraima, sendo um órgão do sistema de segurança pública ao qual compete, nos termos do artigo 144, § 4º, da Constituição Federal e ressalvada competência específica da União, as funções de polícia judiciária e de apuração das infrações penais, exceto as de natureza militar.[131]
+Cultura[editar | editar código-fonte]
+A cultura de Roraima apresenta forte influência indígena. Entretanto, é marcada também pela influência dos colonizadores, e também pelos mestiços que habitam e habitaram a região. O artesanato é um dos marcos centrais da cultura. Os Ianomâmi - grupo indígena do estado - produzem diversos produtos artesanais, como cestas, leques, jóias e redes. Muitos destes são comercializados na Feira de Artesanato de Roraima, sediado em Boa Vista, capital do estado.[132]
+O movimento cultural Roraimeira foi idealizado por artistas locais na década de 1980. Criado por uma necessidade de possuir uma identidade cultural que representasse o Território Federal de Roraima. Está presente na música, dança, literatura, fotografia, artes plásticas e outras expressões artísticas. A origem da denominação do evento é a canção Roraimeira de Zeca Preto que concorreu ao festival de música de Roraima em 1984.
+Futuramente a mesma se tornou o hino cultural do estado.[133]
+As artes cênicas em Roraima são difundidas pela Federação de Teatro de Roraima, que realiza espetáculos e eventos culturais nos espaços públicos locais da cidade, além de apoio a grupos teatrais e formação teatral. Há vários grupos teatrais no estado, entre os quais: Sol da Terra, Criart Teatral, Arteatro, Locômbia Teatro de Andanças e a A Bruxa tá Solta.[134]
+Há dois monumentos em Roraima: o Monumento ao Garimpeiro e o Monumento aos Pioneiros.[135] O Monumento aos Garimpeiros presta homenagem aos homens que prestaram serviço e contribuíram para o desenvolvimento do antigo Território Federal do Rio Branco. Localiza-se em Boa Vista. O Monumento aos Pioneiros também localiza-se em Boa Vista e é uma construção de concreto armado. Reproduz o Monte Roraima, as etnias que formam o povo roraimense e as tradições e costumes regionais do território.[135]
+Entidades culturais[editar | editar código-fonte]
+Palácio da Cultura
+Nenê Macuji um espaço multicultural que também sedia a Academia Roraimense de Letras.
+Entre as principais entidades culturais do estado encontram-se: Fórum de Cultura Permanente de Roraima, Sebrae, SESC,Teia Roraima, Academia Roraimense de Letras e Federação de Teatro de Roraima.[136][137]
+O Museu Integrado de Roraima, em Boa Vista, capital do estado, foi inaugurado em 13 de fevereiro de 1985.[138] É um museu público estadual e mantido pela Fundação de Meio Ambiente, Ciência e Tecnologia do Estado de Roraima (FEMACT). Está instalado em um edifício de 750 metros quadrados no interior do Parque Anauá.[139][140] Conserva o mais importante acervo museológico de Roraima. A coleção, bastante diversificada, é composta por peças adquiridas por meios de coletas, aquisições e doações, abrangendo diversos temas, como geologia, botânica, zoologia, arqueologia, etnologia, história e artes visuais.[139][140] O museu realiza ainda, atividades de pesquisa nas áreas de zoologia e antropologia, além de exposições temporárias temáticas e atividades culturais e educativas.[140] É equipado com biblioteca e auditório com capacidade para 140 pessoas. Conta com a participação da sociedade civil na realização de atividades, por meio da Associação de Amigos do Museu Integrado de Roraima (AMIRR), criada em 1999.[139]
+Dança e música[editar | editar código-fonte]
+A dança em Roraima tem sua origem em grupos folclóricos de boi-bumbá e cirandas. Entretanto, são notáveis também grupos de dança clássica e moderna. A maior entidade cultural voltada ao ensino da dança clássica é a Escola de Balé Cristina Rocha, responsável pela formação de grande parte dos bailarinos e dançarinos que atuam na capital, Boa Vista. Na época das festas populares, há diversos grupos de dança regional em atuação, com destaque para os Cangaceiros do Tianguá, que têm coreografias baseadas em elementos regionais amazônicos.[136]
+A música roraimense possui uma grande variedade de ritmos e harmonias. Sua origem remonta à variedade de etnias e povos que viveram e vivem no estado. Desta forma, há grupos de cantos indígenas e caboclos. Música regional é chamada Roraimeira, produzida no estado e que possua como tema central Roraima, relacionada à Amazônia, ao Caribe, América do Sul, América e Global. Nas canções deve abordar ou mencionar nem que seja minimamente a regionalidade roraimense como a natureza de Roraima, cultura indígena dos povos que habitam o Estado, costumes, cultura local, história e migração. Além de poder ser gravada em qualquer estilo ou ritmo musical como rock, axé, reggae, pop, forró e etc.[141]
+Ritmo local é denominado Makunaimeira uma mistura de ritmos sobre a influência dos rituais indígenas como o parixara, música caribenha como merengue e salsa, toques de carimbó e ritmos amazônicos como toada e marabaixo. A Escola de Música de Roraima é voltada ao ensino da música clássica e MPB. No estado, é notável ainda os festivais de música que trazem uma demonstração da arte musical da Amazônia.[136]
+Folclore e literatura[editar | editar código-fonte]
+O folclore roraimense é hoje o encontro das tradições trazidas pelos colonizadores nordestinos e de todas as partes do Brasil, com a força das lendas e vivências dos índios, que têm no seu ambiente natural uma perfeita harmonia entre homem e natureza. É festejado tanto os santos da Igreja católica como também as tradições indígenas, que exercem forte influência no estado, na área de curandeirismo e pajelança. No mês de junho, assim como em outros estados do Brasil, acontece as festas juninas nos diversos municípios.[136]
+A Academia Roraimense de Letras representa a literatura da unidade federativa. É nela que está reunida grande parte dos poetas, historiadores, escritores e contistas do estado. Um dos poetas roraimenses de maior renome é Eliakin Rufino, que também é compositor, tendo suas músicas alcançado outras regiões do país.[136]
+Culinária[editar | editar código-fonte]
+Paçoca feita de carne. Prato típico de Roraima
+Sua culinária apresenta forte influência do estado brasileiro do Maranhão, apresentando também as características dos pratos amazônicos. O peixe é o principal produto usado em seus pratos típicos.[132] São comidas típicas da região a tapioca, a farinha de mandioca, a paçoca de carne seca e o cuscuz.[132]
+Esportes[editar | editar código-fonte]
+No futebol, Roraima abriga oito clubes profissionais, o Atlético Roraima, o Baré, o GAS, o São Raimundo, o River, o Rio Negro, o Náutico e o Progresso.[142] Dentre estes, Baré e Atlético Roraima, os dois maiores campeões estaduais, fazem o clássico mais tradicional do estado, popularmente conhecido como Bareima. Há também clubes amadores: Norte Sport, Caranã, Tancredo Neves, Cambará, Racing, Guarani, América, Grêmio, Barcelona, Jockey, ABC, União, Tiradentes, Anauá, Brasil, Boa Vista, Atlético Iracema e União de Iracema.[143]
+Há dois estádios relevantes em Roraima: o Estádio Flamarion Vasconcelos e o Estádio Raimundo Ribeiro de Souza, ambos em Boa Vista. O Estádio Flamarion Vasconcelos, popularmente conhecido como Canarinho, pertence ao Governo do Estado de Roraima. Foi inaugurado em 6 de setembro de 1975, e inicialmente designado Estádio 13 de Setembro. Anos depois teve seu nome modificado em homenagem póstuma ao jornalista roraimense Flamarion Vasconcelos. Contudo o estádio é conhecido popularmente como Canarinho, por estar localizado no bairro de mesmo nome.[144] O Estádio Raimundo Ribeiro de Souza, chamado popularmente de Ribeirão, também pertence ao governo estadual e possui capacidade para 3 mil pessoas.[145]
+Feriados[editar | editar código-fonte]
+Em Roraima, há apenas um feriado estadual: o dia 5 de outubro. Nessa data, comemora-se a elevação do Território Federal de Roraima à categoria de estado, que aconteceu com a promulgação da Constituição de 1988.[146][147]
+Ver também[editar | editar código-fonte]
+Naturais de Roraima
+Listas de municípios de Roraima
+Por ordem alfabética
+Por área territorial
+Por área urbanizada
+Por população
+Referências
+↑ a b «Pedidos de refúgio de venezuelanos em RR cresceram 22.000% em 3 anos». G1 Roraima. 13 de março de 2017. Consultado em 13 de março de 2017. Cópia arquivada em 13 de março de 2017
+↑ Instituto Brasileiro de Geografia e Estatística (IBGE). «Área Territorial Oficial - Consulta por Unidade da Federação». Consultado em 29 de agosto de 2021
+↑ IBGE, IBGE (27 de agosto de 2021). «Estimativa Populacional 2021» (PDF). ibge.gov.br. Consultado em 28 de agosto de 2021
+↑ «Contas Regionais 2017». IBGE. Consultado em 16 de novembro de 2019
+↑ «Tábua completa de mortalidade para o Brasil – 2015» (PDF). IBGE. Consultado em 2 de dezembro de 2016
+↑ «Sinopse do Censo Demográfico 2010». IBGE. Consultado em 2 de dezembro de 2016
+↑ IPEA -Instituto de Pesquisa Econômica Aplicada. «Evolução do IDHM e de Seus Índices Componentes no período de 2012 a 2017» (PDF). Consultado em 18 de abril de 2019
+↑ «História de Roraima». Roraima virtual. Consultado em 14 de fevereiro de 2016
+↑ a b «Estado de Roraima». Brasil República. 22 de novembro de 2010. Consultado em 14 de fevereiro de 2016. Arquivado do original em 28 de Outubro de 2007
+↑ «Roraima, localização geográfica e população». ARN - Agência Roraimense de Notícias. 22 de novembro de 2010. Consultado em 14 de fevereiro de 2016
+↑ «Qual é a origem dos nomes dos Estados brasileiros?». Revista Galileu, edição de março de 2003. 22 de novembro de 2010. Consultado em 14 de fevereiro de 2016
+↑ «Roraima: O paraíso do extremo norte». Wonder Amazon. Consultado em 8 de abril de 2011
+↑ «TERRITÓRIO, CULTURA E REGIONALISMO: ASPECTOS GEOGRÁFICOS EM SÍMBOLOS ESTADUAIS BRASILEIROS» (PDF). Universidade Estadual Paulista Júlio de Mesquita Filho (UNESP) + Instituto de Geociências e Ciências Exatas Campus de Rio Claro. 2009. Consultado em 14 de fevereiro de 2016
+↑ «Estados brasileiros da Região Norte - Origem dos nomes». Fernando Dannemann. 2011. Consultado em 14 de fevereiro de 2016
+↑ «Notícias e conteúdos». LFG. Consultado em 20 de abril de 2011
+↑ a b c d e f «A história de Roraima». Roraima Virtual. Consultado em 16 de fevereiro de 2016
+↑ FILHO, Gregório F.G. (2012). «O Forte São Joaquim e a construção da fronteira no extremo norte:
+a ocupação
+portuguesa no vale do rio Branco (1775-1800)» (PDF). Dissertação de Mestrado. Universidade Federal de Santa Maria. Consultado em 5 de abril de 2019
+↑ a b c d e «Roraima». Portal São Francisco. Consultado em 24 de novembro de 2010
+↑ a b c d e f g h «Criação do município de Boa Vista (1890)». BV News. 2002. Consultado em 24 de novembro de 2010. Arquivado do original em 28 de Outubro de 2007
+↑ «Romero Jucá Filho - Biografia». FGV. Consultado em 15 de maio de 2016
+↑ «Geografia de Roraima». Só Geografia. Consultado em 16 de março de 2011
+↑ a b c «Dados Gerais sobre o Estado de Roraima». Governo do Estado de Roraima. 10 de novembro de 2010. Consultado em 10 de novembro de 2010. Arquivado do original em 6 de julho de 2011
+↑ «Temperatura, fuso horário e localização». Portal do Governo de Roraima. Consultado em 16 de março de 2011
+↑ a b «Guia geográfico - Roraima». Brasil - Turismo. Consultado em 16 de março de 2011
+↑ «Relevo». Brasil Escola. Consultado em 16 de março de 2011
+↑ «Relevo». Portal do Governo de Roraima. Consultado em 16 de março de 2011
+↑ a b c «Clima». Brasil Escola. Consultado em 16 de março de 2011
+↑ a b c Alvares, Clayton Alcarde; Stape, José Luiz; Sentelhas, Paulo Cesar; de Moraes Gonçalves, José Leonardo; Sparovek, Gerd (1 de dezembro de 2013). «Köppens climate classification map for Brazil». Meteorologische Zeitschrift (6): 711–728. doi:10.1127/0941-2948/2013/0507. Consultado em 7 de setembro de 2020
+↑ a b «Geografia de Roraima - Clima». Info Escola. Consultado em 16 de março de 2011
+↑ «Canaima National Park - Venezuela» (PDF). Protected Areas and World Heritage (em inglês). United Nations Environment Programme - World Conservation Monitoring Centre. Consultado em 30 de julho de 2012 [ligação inativa]
+↑ Kennedy, Dana (1 de agosto de 2004). «An Unearthly Plateau in Venezuela». The New York Times (em inglês). Consultado em 31 de julho de 2012
+↑ «Santa Elena De Uairen, Venezuela: Climate, Global Warming, and Daylight Charts and Data». World Climate (em inglês). Consultado em 17 de agosto de 2012
+↑ a b «Geografia de Roraima - Hidrografia». Brasil Escola. Consultado em 16 de março de 2011
+↑ «Bacias hidrográficas». Portal do Governo do Estado de Roraima. Consultado em 16 de março de 2011
+↑ «Vegetação». Portal do Governo do Estado de Roraima. Consultado em 16 de março de 2011
+↑ «Vegetação». Brasil Escola. Consultado em 16 de março de 2011
+↑ «Parque Nacional de Monte Roraima». Terra Networks. Consultado em 16 de março de 2011
+↑ «Parque Nacional do Viruá». Ministério da Ciência e Tecnologia. Consultado em 16 de março de 2011
+↑ «Parque Nacional Serra da Mocidade - RR». Eco Viagem - UOL. Consultado em 16 de março de 2011
+↑ «ESEC Maracá». Ministério da Ciência e Tecnologia. Consultado em 16 de março de 2011
+↑ «Estação Ecológica de Caracaraí». Ambiente Brasil. Consultado em 16 de março de 2011
+↑ «Estação Ecológica Niquiá/RR». Amazônia. Consultado em 16 de março de 2011
+↑ «Projeto altera os limites da Floresta Nacional de Roraima». Ambiente Brasil. Consultado em 16 de março de 2011
+↑ «Floresta Nacional de Anauá». Via rural. Consultado em 16 de março de 2011
+↑ a b c d e f g h «Flora». Senador Mozarildo Cavalcanti. Consultado em 1 de abril de 2011. Arquivado do original em 20 de maio de 2011
+↑ a b c «Fauna». Senador Mozarildo Cavalcanti. Consultado em 1 de abril de 2011. Arquivado do original em 20 de maio de 2011
+↑ «População». Senador Mozarildo Cavalcanti. 1 de abril de 2011
+↑ «Censo 2010: Boa Vista concentra 65,3% da população de Roraima; São Luis é o menos populoso com 1,5%». Secretaria Estadual de Planejamento de Roraima (SEPLAN-RR). 2010. Consultado em 1 de abril de 2011. Arquivado do original em 6 de julho de 2011
+↑ a b c d «População cresce, mas sem infraestrutura». Jornal Folha de Boa Vista. Consultado em 16 de março de 2011
+↑ a b c d «Roraima». Portal Brasil. Consultado em 17 de março de 2011
+↑ «População recenseada por situação do domicílio, sexo, forma de declaração da idade, idade e relação com a pessoa responsável pelo domicílio». IBGE - Sidra. Consultado em 17 de março de 2011
+↑ Instituto Brasileiro de Geografia e Estatística. Censo Demográfico de 1991. Rio de Janeiro: IBGE, 1991.
+↑ a b c d e f g Sidra-IBGE (2010). «Amostra - Características gerais da população». Consultado em 25 de dezembro de 2012
+↑ «Ensaios sobre a riqueza do pensamento ameríndio» (PDF). Scielo. Consultado em 17 de março de 2011
+↑ a b «Imigração de nordestinos para Roraima». Scielo. Consultado em 17 de março de 2011
+↑ a b «Tabela 2094 — População residente por cor ou raça e religião». IBGE. 2000. Consultado em 28 de janeiro de 2010
+↑ a b «Tabela 2094 — População residente por cor ou raça e religião». IBGE. 2000. Consultado em 28 de janeiro de 2011
+↑  «Paraíba vence o racismo e reconhece identidade mestiça». Nação Mestiça. 3 de dezembro de 2008 [ligação inativa]
+↑ Sangari (2011). «Mapa da Violência no Brasil». Instituto Sangari. Consultado em 18 de março de 2011. Arquivado do original em 16 de Julho de 2011
+↑ a b @Estados - IBGE. «Características da vitimização e do acesso à justiça no Brasil 2009». Consultado em 11 de abril de 2011
+↑ «Estado de Roraima - Brasil». Brasil República. Consultado em 22 de março de 2011. Arquivado do original em 28 de Outubro de 2007
+↑ «Censo Populacional 2010 para 29 de novembro de 2010» (PDF). Censo Populacional 2010. Instituto Brasileiro de Geografia e Estatística (IBGE). 29 de novembro de 2010. Consultado em 29 de novembro de 2010
+↑ «História de Boa Vista». Brasil Escola. Consultado em 22 de março de 2011
+↑ «Panorama do estado de Roraima». Instituto Brasileiro de Geografia e Estatística (IBGE). Consultado em 13 de maio de 2020
+↑ Supremo Tribunal Federal (STF) (10 de novembro de 1999). «Lei nº 9.868 de 10 de novembro de 1999». Consultado em 22 de março de 2011
+↑ a b Roraima.[Constituição Estadual (1991)]. «Constituição do Estado de Roraima». Biblioteca digital do Senado Federal. Consultado em 22 de março de 2011
+↑ a b c d e f «Constituição do Estado de Roraima» (PDF). Senado Federal. Consultado em 22 de março de 2011
+↑ «Governo do Estado de Roraima». Buscalaw. Consultado em 22 de março de 2011
+↑ «Número de deputados pode aumentar nas próximas eleições». Vote Brasil. Consultado em 22 de março de 2011
+↑ a b c «Filiados - Tribunal Superior Eleitoral (TSE)». Tribunal Superior Eleitoral (TSE). Abril de 2016. Consultado em 29 de maio de 2016
+↑ Instituto Brasileiro de Geografia e Estatística (IBGE) (2017). «Divisão Regional do Brasil». Consultado em 25 de setembro de 2017. Cópia arquivada em 25 de setembro de 2017
+↑ Instituto Brasileiro de Geografia e Estatística (IBGE) (1990). «Divisão regional do Brasil em mesorregiões e microrregiões geográficas» (PDF). Biblioteca IBGE. 1. Consultado em 25 de setembro de 2017. Cópia arquivada (PDF) em 25 de setembro de 2017
+↑ Instituto Brasileiro de Geografia e Estatística (IBGE) (2017). «Base de dados por municípios das Regiões Geográficas Imediatas e Intermediárias do Brasil». Consultado em 25 de setembro de 2017
+↑ «Exportações de Roraima (2012)». Plataforma DataViva. 2012. Consultado em 13 de janeiro de 2014
+↑ «Produto Interno Bruto de Roraima cresceu 2,6% em 2007». Secretaria de Estado de Planejamento e Desenvolvimento de Roraima (SEPLAN). Consultado em 28 de março de 2011
+↑ «Roraima é o estado que mais cresce na Região Norte». Povos da Amazônia. Consultado em 28 de março de 2011
+↑ «PIB de Roraima teve o maior crescimento da Região Norte do Brasil». Agência Roraimense. Consultado em 28 de março de 2011
+↑ «Roraima». Secretaria de Planejamento do Estado de Roraima (SEPLAN). Consultado em 7 de abril de 2011
+↑ «Exportações de Roraima (2012)». Plataforma DataViva. Consultado em 13 de janeiro de 2014
+↑ @Estados - IBGE. «Censo Agropecuário de 2006». Consultado em 11 de abril de 2011
+↑ «Exportações em Roraima voltam a crescer em novembro». Portal Amazônia. 23 de dezembro de 2010. Consultado em 28 de março de 2011
+↑ a b c «Censo Agropecuário 2006». Instituto Brasileiro de Geografia e Estatística (IBGE). 2006. Consultado em 11 de abril de 2011
+↑ [1]
+↑ Roraima Adventures (2010). «Monte Roraima». Consultado em 7 de abril de 2011
+↑ «Sítio Arqueológico da Pedra Pintada». Overmundo. Consultado em 7 de abril de 2011
+↑ Departamento de Turismo de Roraima - DETUR. «Venha ao Místico Monte Roraima». Secretaria de Planejamento e Desenvolvimento de Roraima (SEPLAN). Consultado em 7 de abril de 2011
+↑ Portal São Francisco (2009). «Turismo». Portal São Francisco - RR. Consultado em 7 de abril de 2011
+↑ DETUR - Departamento de Turismo de Roraima. «Serra do Tepequém». Secretaria de Planejamento e Desenvolvimento de Roraima (SEPLAN). Consultado em 7 de abril de 2011
+↑ DETUR - Departamento de Turismo de Roraima (2009). «Monte Caburaí». Secretaria de Planejamento e Desenvolvimento de Roraima (SEPLAN). Consultado em 7 de abril de 2011
+↑ Emily Costa (10 de abril de 2014). «Em RR, lago Caracaranã ficará aberto à visitação neste fim de semana (Lago fica localizado dentro da terra indígena Raposa Serra do Sol)». G1 Roraima. Consultado em 16 de fevereiro de 2016
+↑ TOSCANO, Fernando. «Portal Brasil - Roraima». Portal Brasil. Consultado em 28 de março de 2011
+↑ a b c d e TOSCANO, Fernando. «Portal Brasil - Roraima». Portal Brasil. Consultado em 28 de março de 2011
+↑ a b «Serviços de saúde 2009». Instituto Brasileiro de Geografia e Estatística. 2009. Consultado em 28 de março de 2011
+↑ «Cadernos de Informações de Saúde - Roraima». DATASUS. 2010. Consultado em 11 de julho de 2010
+↑ a b «Acesso e Utilização dos Serviços, Condições de Saúde e Fatores de Risco e Proteção à Saúde 2008». Instituto Brasileiro de Geografia e Estatística. 2008. Consultado em 11 de abril de 2011
+↑ Faculdade Roraimense de Ensino Superior. Acesso em 4 fev 2014.
+↑ Faculdade Estácio Atual. Acesso em 4 fev 2014.
+↑ Faculdade Cathedral. Acesso em 4 fev 2014.
+↑ Mundo Vestibular. Faculdade de Ciências, Educação e Teologia do Norte do Brasil. Acesso em 4 fev 2014.
+↑ a b «Ensino - matrículas, docentes e rede escolar 2008». Instituto Brasileiro de Geografia e Estatística. Consultado em 28 de março de 2011
+↑ «Escolas». 6º BEC. Consultado em 28 de março de 2011
+↑ http://download.globo.com/vestibular/enem2006_desempenhoregiaouf.doc
+↑ http://download.uol.com.br/educacao/enem2007_mediasredacao.xls
+↑ http://www.inep.gov.br/download/enem/2008/Enem2008_tabelas_01a101.xls
+↑ «Síntese dos Inidicadores Sociais 2010» (PDF). Tabela 8.2 - Taxa de analfabetismo das pessoas de 15 anos ou mais de idade, por cor ou raça, segundo as Grandes Regiões, Unidades da Federação e Regiões Metropolitanas - 2009. Instituto Brasileiro de Geografia e Estatística (IBGE). Consultado em 18 de setembro de 2010. Arquivado do original (PDF) em 5 de Setembro de 2014
+↑ CAVALCANTE, Mozarildo. «Educação». Senado Federal. Consultado em 1 de abril de 2011. Arquivado do original em 20 de maio de 2011
+↑ MEC divulga notas do Índice de Desenvolvimento da Educação Básica (Ideb) por UF Acessado em 2 de abril de 2011
+↑ Portal do Governo do Estado de Roraima. «Enem: Roraima supera Norte e Nordeste». Portal do Governo do Estado de Roraima. Consultado em 20 de abril de 2011
+↑ [2]
+↑ «Infraero Aeroportos - Roraima». Consultado em 31 de março de 2011
+↑ «Movimento Operacional». Consultado em 31 de março de 2011
+↑ Aeroportos Públicos Nacionais - Estado de Roraima acessado em 31 de março de 2011.
+↑ a b c d «Estradas e transportes». Consultado em 1 de abril de 2011. Arquivado do original em 7 de julho de 2011
+↑ Roraima Adventures. Alto Alegre[ligação inativa]. Acesso em 4 fev 2012.
+↑ Roraima Adventures. Amajari. Acesso em 4 fev 2012.
+↑ CARVALHO, Carlos Augusto Matos. Análise estrutural do setor de transporte rodoviário de cargas do Município de Boa Vista. UFRGS: 2010. Acesso em 11 fev 2012.
+↑ «Roraima (RR) - Quadro natural». Consultado em 1 de abril de 2011
+↑ «Na terra de Macunaíma». Revista Planeta. Consultado em 1 de abril de 2011
+↑ «Caracaraí». Portal de Roraima. Consultado em 1 de abril de 2011. Arquivado do original em 6 de maio de 2011
+↑ «Roraima». BrazilSite. Consultado em 1 de abril de 2011
+↑ «ANEEL»
+↑ «Dependente de energia da Venezuela, Roraima já teve mais de 50 apagões em menos de 2 anos, diz Eletrobras». G1
+↑ «MERCADO DE ENERGIA ELÉTRICA - CERR SEDIA REUNIÃO DA COPAM». Agência Roraimense de Notícias. Consultado em 1 de abril de 2011
+↑ a b «Cresce consumo de energia elétrica em Roraima». Folha de Boa Vista. Consultado em 1 de abril de 2011
+↑ «Comunicação». senado.gov. Consultado em 1 de abril de 2011. Arquivado do original em 20 de maio de 2011
+↑ Exército Brasileiro. «Quartéis por estado». Site Oficial do Exército Brasileiro. Consultado em 5 de abril de 2011. Arquivado do original em 20 de novembro de 2012
+↑ «9º Distrito Naval». Site Oficial do 9º Distrito Naval. Consultado em 5 de abril de 2011
+↑ «1º/3º GAv - Esquadrão Escorpião». Spotter. Consultado em 5 de abril de 2011
+↑ PM RR (26 de novembro de 2010). «Polícia Militar de Roraima comemora 34 anos protegendo a população roraimense». Consultado em 5 de abril de 2011
+↑ Corpo de Bombeiros Militar do Estado de Roraima. «Instituição». Consultado em 5 de abril de 2011
+↑ Constituição Federal, artigo 144 - Da Segurança Pública. Acessado em 30 de setembro de 2021.
+↑ a b c Brasil Channel. «Culinária de Roraima». Brasil Channel. Consultado em 7 de abril de 2011
+↑ «Música Roraimeira é sancionada como hino cultural do Estado». Folha de Boa Vista. 11 de setembro de 2015. Consultado em 19 de julho de 2021
+↑ «BANQUETE TEATRAL - Federação de Teatro de Roraima reúne grupos teatrais». Roraima Hoje. Consultado em 7 de abril de 2011
+↑ a b «Monumentos». Brasil Channel. Consultado em 7 de abril de 2011
+↑ a b c d e PGRR. «Cultura roraimense». Portal do Governo do Estado de Roraima. Consultado em 7 de abril de 2011
+↑ «Teia Roraima discutirá políticas públicas para a Cultura do Estado». Roraima em Foco. Consultado em 7 de abril de 2011
+↑ «Resgate da cultura de Roraima». Revista Educarede. Consultado em 11 de janeiro de 2011. Arquivado do original em 29 de Dezembro de 2010
+↑ a b c Comissão de Patrimônio Cultural da USP, 2000, pp. 345-346.
+↑ a b c «Museu da Fundação Estadual do Meio Ambiente, Ciência e Tecnologia de Roraima (Femact) faz 22 anos e abre exposição». Jornal da Ciência. Consultado em 11 de janeiro de 2011. Arquivado do original em 26 de maio de 2011
+↑ Revista ACTA Geográfica. «Identidade e poesia musicada: Panorama do movimento Roraimeira a partir da cidade de Boa Vista como uma das fontes de inspiração». Universidade Federal de Roraima (UFRR). Consultado em 19 de junho de 2021
+↑ «Clubes de Futebol de Roraima». Federação Roraimense de Futebol. Consultado em 7 de abril de 2011
+↑ Arquivo de Clubes - Clubes amadores de Roraima. Arquivado em 30 de setembro de
+2007, no Wayback Machine. Acesso em 7 de abril de 2011.
+↑ «Estádio Flamarion Vasconcelos». Guia Roraima. Consultado em 7 de abril de 2011
+↑ «Estádio Raimundo Ribeiro de Souza». Guia Roraima. Consultado em 7 de abril de 2011
+↑ Vaneza Targino (3 de outubro de 2011). «Culto ecumênico abre hoje comemoração». Jornal Folha de Boa Vista. Consultado em 4 de outubro de 2011
+↑ «Feriados Estaduais 2011». Consultado em 4 de outubro de 2011
+Bibliografia[editar | editar código-fonte]
+VERÍSSIMO, Avery (2016). Índio na Rede: Ciberativismo e Amazônia. 1 1a ed. Saarbrücken: NEA. 160 páginas. ISBN 3841711049
+FARAGE, Nádia (1991). As muralhas dos sertões. os povos indígenas no Rio Branco e a colonização. 1 1 ed. Rio de Janeiro: Paz e Terra/ANPOCS. 197 páginas
+FREITAS, Aimberê (1998). Estudos Sociais - RORAIMA. Geografia e História 1 ed. São Paulo: Corprint Gráfica e Editora Ltda. 83 páginas
+SANTILLI, Paulo (2001). Pemongon Patá. território Macuxi, rotas de conflito 1 ed. São Paulo: UNESP
+SOUSA, Antônio Ferreira de (1959). Noções de Geografia e História de Roraima. Manaus: Gráfica Palácio Real
+Ligações externas[editar | editar código-fonte]
+«Página do governo de Roraima»
+«Assembleia Legislativa do estado de Roraima»
+«Tribunal de Justiça do estado de Roraima»
+vdeRoraima
+História
+Política
+Geografia
+Economia
+Rodovias
+Portal
+Imagens
+Roraimavde Roraima Portal — Geografia, Política, Cultura, EsportesCapitalBoa VistaDivisão regional vigente (desde 2017)Regiões geográficas intermediárias e imediatasDivisão regional extinta (vigente até 2017)Mesorregiões e microrregiõesRegiões Metropolitanas e RIDEsBoa Vista • Caracaraí • CaroebeMais de 100.000 habitantesBoa VistaMais de 20.000 habitantesRorainópolis • CaracaraíMais de 10.000 habitantesAlto Alegre • Bonfim • Mucajaí • Cantá • Pacaraima • Amajari • Iracema • NormandiaNorte, Brasil vde Regiões e unidades federativas do Brasil
+Subdivisões do Brasil
+Unidades da FederaçãoRegião Norte
+Acre
+Amapá
+Amazonas
+Pará
+Rondônia
+Roraima
+Tocantins
+Região Nordeste
+Alagoas
+Bahia
+Ceará
+Maranhão
+Paraíba
+Pernambuco
+Piauí
+Rio Grande do Norte
+Sergipe
+Região Centro-Oeste
+Distrito Federal
+Goiás
+Mato Grosso
+Mato Grosso do Sul
+Região Sudeste
+Espírito Santo
+Minas Gerais
+Rio de Janeiro
+São Paulo
+Região Sul
+Paraná
+Rio Grande do Sul
+Santa Catarina
+Arquipélagos
+Anavilhanas
+Fernando de Noronha
+Atol das Rocas
+Arquipélago de São Pedro e São Paulo
+Trindade e
+Martim Vaz
+Geoeconômicas
+Amazônica
+Centro-Sul
+Nordeste
+Propostas de criação de unidades federativas do Brasil
+vde Fronteiras do BrasilComissões demarcadoras de fronteira1 PCDL • 2 PCDLPaíses limítrofesArgentina • Bolívia • Colômbia • Guiana Francesa (França) • Guiana • Paraguai • Peru • Suriname • Uruguai • VenezuelaMacrorregiões fronteiriçasCentro-Oeste • Norte • SulEstados fronteiriçosAcre • Amapá • Amazonas • Mato Grosso • Mato Grosso do Sul • Pará • Paraná • Rio Grande do Sul • Rondônia • Roraima • Santa CatarinaMunicípios fronteiriçosSocioeconômicoÁrea • Área urbana • População • Densidade demográfica • PIB • PIB per capita • renda per capita • IDH • GiniBifronteiriços ou tríplices fronteirasAtalaia do Norte • Assis Brasil • Barra do Quaraí • Corumbá • Foz do Iguaçu • Laranjal do Jari • Oriximiná • São Gabriel da Cachoeira • Uiramutã • UruguaianaFronteira simplesAceguá • Acrelândia • Alecrim • Almeirim • Alta Floresta dOeste • Alto Alegre • Alto Alegre dos Parecis • Amajari • Antônio João • Aral Moreira • Arroio Grande • Bagé • Bandeirante • Barcelos • Barracão • Bela Vista • Belmonte • Benjamin Constant • Bom Jesus do Sul • Bonfim • Brasileia •
+Cabixi •
+Cáceres • Capanema • Capixaba • Caracaraí • Caracol • Caroebe • Chuí • Comodoro • Coronel Sapucaia • Costa Marques • Crissiumal • Cruzeiro do Sul • Derrubadas • Dionísio Cerqueira • Dom Pedrito • Doutor Maurício Cardoso • Entre Rios do Oeste • Epitaciolândia • Esperança do Sul • Feijó • Garruchos • Guaíra • Guajará • Guajará-Mirim • Guaraciaba • Herval • Iracema • Itaipulândia • Itapiranga • Itaqui • Jaguarão • Japorã • Japurá • Jordão • Mâncio Lima • Manoel Urbano • Marechal Cândido Rondon • Marechal Thaumaturgo • Mercedes • Mundo Novo • Normandia • Novo Machado • Nova Mamoré • Óbidos • Oiapoque • Pacaraima • Paraíso • Paranhos • Pato Bragado • Pedras Altas • Pérola dOeste • Pimenteiras do Oeste • Pirapó • Plácido de Castro • Planalto • Poconé • Ponta Porã • Porto Esperidião • Porto Lucena • Porto Mauá • Porto Murtinho • Porto Velho • Porto Vera Cruz • Porto Walter • Porto Xavier • Pranchita • Princesa • Quaraí • Rodrigues Alves • Roque Gonzales • Santa Helena (PR) • Santa Helena (SC) • Santa Isabel do Rio Negro • Santa Rosa do Purus • Santa Vitória do Palmar • Santa Terezinha de Itaipu • Santana do Livramento • Santo Antônio do Içá • Santo Antônio do Sudoeste • São Borja • São Francisco do Guaporé • São José do Cedro • São Miguel do Iguaçu • São Nicolau • Sena Madureira • Serranópolis do Iguaçu • Sete Quedas • Tabatinga • Tiradentes do Sul • Tunápolis • Vila Bela da Santíssima Trindade Brasil
+Controle de autoridade
+: Q42508
+WorldCat
+VIAF: 3150323821709972745
+BNF: 11942530g
+EBID: ID
+GEC: 0056778
+GND: 4104987-1
+OSM: 326287
+GeoNames: 3662560
+TGN: 1002001
+Portal do Brasil
+Portal da região Norte do Brasil
+Portal de Roraima
+Obtida de https://pt.wikipedia.org/w/index.php?title=Roraima&oldid=62148337
+Categorias: Roraima1943 no BrasilCategorias ocultas: !CS1 inglês-fontes em língua (en)!Artigos com ligações inativas!Predefinição Webarchive wayback links!Páginas que usam predefinições de coordenadas obsoletas!Páginas que utilizam Nobold com segundo parâmetro sem nome!Artigos bons
+Esta página foi editada pela última vez às 04h19min de 30 de setembro de 2021.
 Este texto é disponibilizado nos termos da licença Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons;
 pode estar sujeito a condições adicionais.
 Para mais detalhes, consulte as condições de utilização.
