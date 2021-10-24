@@ -2,7 +2,7 @@ from urllib.request import urlopen
 from bs4 import BeautifulSoup
 
 urls = [
-          # Links da Alícia
+          # Links da Alicia
           'https://coronavirus.jhu.edu/',
           'https://noticias.unb.br/',
           'http://coronavirus.df.gov.br/',
@@ -23,52 +23,18 @@ urls = [
           'https://pt.wikipedia.org/wiki/Harry_Potter',
           'https://pt.wikipedia.org/wiki/The_Shining',
           'https://pt.wikipedia.org/wiki/The_Dark_Knight',
-          'https://pt.wikipedia.org/wiki/It_(2017)',
-					# Links da Bebé
+          'https://pt.wikipedia.org/wiki/It_(2017)'
+					# Links da Bebe
 					'https://www.tencent.com/en-us',
-					'https://pt.wikipedia.org/wiki/Samsung',
+					'https://www.samsung.com/br/',
 					'https://www.cisco.com/c/pt_br/about.html',
-					'https://pt.wikipedia.org/wiki/Microsoft',
-					'https://pt.wikipedia.org/wiki/Dell',
+					'https://www.microsoft.com/pt-br/',
+					'https://corporate.delltechnologies.com/en-us/about-us/who-we-are.htm',
 					'https://www.apple.com/br/',
 					'https://www.intel.com/content/www/us/en/homepage.html',
 					'https://abc.xyz/',
 					'https://www.ibm.com/br-pt',
-					'https://www.oracle.com/br/index.html',
-          # Links da Alice
-          'https://pt.wikipedia.org/wiki/Bororos',
-          'https://pt.wikipedia.org/wiki/Tupiniquins',
-          'https://pt.wikipedia.org/wiki/Caingangues',
-          'https://pt.wikipedia.org/wiki/Ianom%C3%A2mis',
-          'https://pt.wikipedia.org/wiki/Guaranis',
-          'https://pt.wikipedia.org/wiki/Charruas',
-          'https://pt.wikipedia.org/wiki/Tupinamb%C3%A1s',
-          'https://pt.wikipedia.org/wiki/Caiap%C3%B3s',
-          'https://pt.wikipedia.org/wiki/Guat%C3%B3s',
-          'https://pt.wikipedia.org/wiki/Ticunas',
-          # Links do Bruno
-          'https://pt.wikipedia.org/wiki/Esporte_no_Brasil',
-          'https://pt.wikipedia.org/wiki/Voleibol',
-          'https://pt.wikipedia.org/wiki/Basquetebol',
-          'https://pt.wikipedia.org/wiki/Voleibol_de_praia',
-          'https://pt.wikipedia.org/wiki/Basquetebol_em_cadeira_de_rodas',
-          'https://pt.wikipedia.org/wiki/Voleibol_do_Brasil',
-          'https://pt.wikipedia.org/wiki/Futebol',
-          'https://pt.wikipedia.org/wiki/Futebol_feminino',
-          'https://pt.wikipedia.org/wiki/Futebol_nos_Jogos_Ol%C3%ADmpicos',
-          'https://pt.wikipedia.org/wiki/Federa%C3%A7%C3%A3o_Internacional_de_Futebol',
-          # Links do William
-          'https://pt.wikipedia.org/wiki/Acre',
-          'https://pt.wikipedia.org/wiki/Alagoas',
-          'https://pt.wikipedia.org/wiki/Sergipe',
-          'https://pt.wikipedia.org/wiki/Tocantins',
-          'https://pt.wikipedia.org/wiki/Distrito_Federal_(Brasil)',
-          'https://pt.wikipedia.org/wiki/Rio_de_Janeiro_(estado)',
-          'https://pt.wikipedia.org/wiki/Bahia',
-          'https://pt.wikipedia.org/wiki/Amazonas',
-          'https://pt.wikipedia.org/wiki/Para',
-          'https://pt.wikipedia.org/wiki/Mato_Grosso',
-          'https://pt.wikipedia.org/wiki/Roraima'
+					'https://www.oracle.com/br/index.html'
        ]
 
 # Abrir arquivo
@@ -84,14 +50,14 @@ for url in urls:
   for title in soup.find_all('title'):
     title = title.get_text()
 
-  # Retirar conteudo desnecessário
+  # Retirar conteudo desnecessario
   for script in soup(["script", "style"]):
     script.extract()
 
   # Recuperar conteudo da pagina
   text = soup.get_text()
 
-  # Quebrar conteúdo em linhas e tirar espaço desnecessário
+  # Quebrar conteudo em linhas e tirar espaco desnecessario
   lines = (line.strip() for line in text.splitlines())
 
   # Quebrar em blocos
