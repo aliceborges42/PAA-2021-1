@@ -2,7 +2,7 @@
 
 Projeto final da disciplina Projeto e Análise de Algoritmos
 
-###setup:
+### setup:
 
 ```
 $ bundle install
@@ -10,13 +10,13 @@ $ bundle install
 $ rails db:create db:migrate db:seed
 ```
 
-###run:
+### run:
 
 ```
 $ rails s
 ```
 
-###Arquivos:
+### Arquivos:
 
     - Arquivos de execução do rails
     - Arquivo db/parser.py que contem o script para povoar o arquivo seed.rb com os sites
