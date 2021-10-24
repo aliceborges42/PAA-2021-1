@@ -1,6 +1,5 @@
 class SearchesController < ApplicationController
   before_action :set_search, only: %i[ show edit update destroy ]
-	#ALOOOI
 
   # GET /searches or /searches.json
   def index
