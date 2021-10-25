@@ -2,17 +2,18 @@
 
 <h4>Fazer pesquisa:</h4>
 
-<%= search_form_for @q do |f| %>
-  <%= f.label :title_or_body_cont %>
-  <%= f.search_field :title_or_body_cont %>
-  <%= f.submit %>
+
+<%= form_tag("/documents", method: "get") do %>
+  <%= label_tag(:q, "Search for:") %>
+  <%= text_field_tag(:q) %>
+  <%= submit_tag("Search") %>
 <% end %>
 
-<ul>
-  <% @documents.each do |document| %>
-      <li><%= link_to document.title, document.url, target: :_blank %></li>
-      <% if params[:q] != nil && document.body.index(params[:q][:title_or_body_cont]) != nil %>
-        <p><%= document.body[document.body.index(params[:q][:title_or_body_cont]), 100] %></p>
-      <% end %>
-  <% end %>
-<ul>
+<%# <ul> %>
+  <%# <% @documents.each do |document| %> %>
+      <%# <li><%= link_to document.title, document.url, target: :_blank %></li>  %>
+      <%# <% if params[:q] != nil && document.body.index(params[:q]) != nil %> %>
+        <%# <p> <%= document.body[document.body.index(params[:q]), 100]%> </p> %>
+      <%# <% end %> %>
+  <%# <% end %> %>
+<%# <ul> %>

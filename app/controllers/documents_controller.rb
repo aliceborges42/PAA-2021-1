@@ -3,8 +3,40 @@ class DocumentsController < ApplicationController
 
   # GET /documents or /documents.json
   def index
-    @q = Document.ransack(params[:q])
-    @documents = @q.result(distinct: true)
+		user_input = params[:q]
+		puts "USER INPUT"
+		puts user_input
+		terms = user_input.split(/(.+?)((?: and | or ))/i).reject(&:empty?)
+
+		puts "TERMS"
+		puts terms
+
+		pairs = terms.each_slice(2).map { |text, op| ["body LIKE ? #{op} ", "%#{text}%"] }
+
+		puts "PAIRS"
+		puts pairs
+
+		query = pairs.reduce([""]) { |acc, terms| acc[0] += terms[0]; acc << terms[1] }
+
+		puts "QUERY"
+		puts query
+
+		@tables = Document.where(query[0], *query[1..-1]).to_sql
+		puts @tables
+		@documents = ActiveRecord::Base.connection.execute(@tables)
+
+		# if @documents.present?
+		# 	return @documents
+		# else
+		# 	return nil
+		# end
+		 
+		puts "Documents"
+		puts @documents
+		puts "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+		
+    # @q = Document.ransack(params[:q])
+    # @documents = @q.result(distinct: true)
   end
 
   # GET /documents/1 or /documents/1.json
